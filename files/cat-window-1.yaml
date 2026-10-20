@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit and the visitor
+description: Biscuit at the window end of the sofa, the neighbours' young cat at the other end. A truce, for now.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Orange_cat_sitting_at_a_window.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/4/4c/Orange_cat_sitting_at_a_window.jpg
+  retrieved: 2026-10-20
+author: GrinningIodize
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Orange cat sitting at a window.jpg” by GrinningIodize, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An orange long-haired cat seen from behind on a grey sofa by a window, a young grey-and-white cat with a blue collar lying beside it.

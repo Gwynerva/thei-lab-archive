@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Red bridge, grey day
+description: The bridge on a grey day, with the town stacked up the hill behind it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_Swing_Bridge.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Whitby_Swing_Bridge.jpg/1920px-Whitby_Swing_Bridge.jpg
+  retrieved: 2026-10-20
+author: Peter Broster
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Whitby Swing Bridge.jpg” by Peter Broster, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Whitby swing bridge across the River Esk, red girders and white railings above timber piers, brick houses and the town on the hill behind, overcast.

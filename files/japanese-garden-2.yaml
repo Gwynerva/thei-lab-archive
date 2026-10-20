@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A sampler of mosses
+description: Little trays of different mosses at Ginkaku-ji, each one labelled. I wanted to take one home.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Moss_types_at_the_Ginkakuji_garden,_Kyoto,_Japan_(Paul_Mannix).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Moss_types_at_the_Ginkakuji_garden%2C_Kyoto%2C_Japan_%28Paul_Mannix%29.jpg/1920px-Moss_types_at_the_Ginkakuji_garden%2C_Kyoto%2C_Japan_%28Paul_Mannix%29.jpg
+  retrieved: 2026-10-20
+author: Paul Mannix
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Moss types at the Ginkakuji garden, Kyoto, Japan (Paul Mannix).jpg” by Paul Mannix, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Wooden trays of different labelled moss kinds displayed in the garden of Ginkaku-ji, Kyoto, with a sign, a tree trunk and shrubs behind.

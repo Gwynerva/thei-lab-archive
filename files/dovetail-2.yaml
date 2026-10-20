@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Dovetailed log corner
+description: A new log building, the corners locked with dovetails and not a nail in sight.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kalasabatapp_palksaunal.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Kalasabatapp_palksaunal.jpg/1920px-Kalasabatapp_palksaunal.jpg
+  retrieved: 2026-10-20
+author: Sillerkiil
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Kalasabatapp palksaunal.jpg” by Sillerkiil, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, WebP q80, metadata removed"
+people: none
+truth: Corner of a new log building of pale freshly cut logs joined with dovetail notches, wood chips on the ground.

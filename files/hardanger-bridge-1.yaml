@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The bridge and the yellow flowers
+description: The Hardanger Bridge strung across the fjord, yellow flowers all along the shore in front.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:1310_Meter_Spannweite_hat_die_Hardanger_Br%C3%BCcke._04.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/1310_Meter_Spannweite_hat_die_Hardanger_Br%C3%BCcke._04.jpg/1920px-1310_Meter_Spannweite_hat_die_Hardanger_Br%C3%BCcke._04.jpg
+  retrieved: 2026-10-20
+author: Holger Uwe Schmitt
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “1310 Meter Spannweite hat die Hardanger Brücke. 04.jpg” by Holger Uwe Schmitt, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Hardanger Bridge suspension bridge spanning the Hardangerfjord between wooded slopes, yellow wildflowers in front, blue sky; summer.

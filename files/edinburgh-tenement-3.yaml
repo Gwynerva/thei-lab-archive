@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Looking up a tenement
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Victorian_tenement_at_Boroughmuirhead,_Edinburgh.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Victorian_tenement_at_Boroughmuirhead%2C_Edinburgh.jpg/1920px-Victorian_tenement_at_Boroughmuirhead%2C_Edinburgh.jpg
+  retrieved: 2026-10-20
+author: Kim Traynor
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Victorian tenement at Boroughmuirhead, Edinburgh.jpg” by Kim Traynor, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A Victorian sandstone tenement at Boroughmuirhead, Edinburgh, seen from below with bay windows, dormers and a corner turret, cloudy blue sky.

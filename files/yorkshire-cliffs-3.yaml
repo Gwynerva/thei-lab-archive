@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The church on the cliff edge
+description: The old town crammed in under the East Cliff, with the church and the abbey right on top.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:East_Cliff_(Whitby,_North_Yorkshire).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/East_Cliff_%28Whitby%2C_North_Yorkshire%29.jpg/1920px-East_Cliff_%28Whitby%2C_North_Yorkshire%29.jpg
+  retrieved: 2026-10-20
+author: J3Mrs (talk)
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “East Cliff (Whitby, North Yorkshire).jpg” by J3Mrs (talk), CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Whitby's East Cliff from across the harbour, the abbey ruins and St Mary's Church on top, red-roofed houses below, a small beach with a few people.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Birches by Svolværvatnet
+description: Snow, birches and a single ski track by the frozen lake above Svolvær.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:%C3%98vre_Svolv%C3%A6rvatnet_in_Winter,_Lofoten,_Norway.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%C3%98vre_Svolv%C3%A6rvatnet_in_Winter%2C_Lofoten%2C_Norway.jpg/1920px-%C3%98vre_Svolv%C3%A6rvatnet_in_Winter%2C_Lofoten%2C_Norway.jpg
+  retrieved: 2026-10-20
+author: Christoph Strässler from Oberdorf BL, Schweiz
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Øvre Svolværvatnet in Winter, Lofoten, Norway.jpg” by Christoph Strässler from Oberdorf BL, Schweiz, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Frozen, snow-covered Øvre Svolværvatnet near Svolvær in Lofoten in March, bare birches and ski tracks, a snowy mountain behind in sunshine.

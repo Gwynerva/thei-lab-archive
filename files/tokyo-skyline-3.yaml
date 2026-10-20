@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Light trails from Tokyo Tower
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tokyo_by_night_2011.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Tokyo_by_night_2011.jpg/1920px-Tokyo_by_night_2011.jpg
+  retrieved: 2026-10-20
+author: Nalilord
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Tokyo by night 2011.jpg” by Nalilord, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Tokyo at night seen from Tokyo Tower, a road junction streaked with car light trails, office towers and city lights around.

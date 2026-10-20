@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A square in Baiona
+description: A quiet square in the old town, the café chairs out and waiting.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Praza_de_Baiona_-_Galiza.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Praza_de_Baiona_-_Galiza.jpg/1920px-Praza_de_Baiona_-_Galiza.jpg
+  retrieved: 2026-10-20
+author: Luis Miguel Bugallo Sánchez (Lmbuga)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Praza de Baiona - Galiza.jpg” by Luis Miguel Bugallo Sánchez (Lmbuga), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A quiet paved square in the old town of Baiona, Galicia, with granite houses, balconies and empty outdoor café chairs; overcast.

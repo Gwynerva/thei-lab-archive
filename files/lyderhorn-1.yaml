@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: Lyderhorn over the water
+description: Lyderhorn from across Bjørndalspollen, all pointed and green in the late summer light.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lyderhorn.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lyderhorn.jpg/1920px-Lyderhorn.jpg
+  retrieved: 2026-10-20
+author: Aqwis
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Lyderhorn.jpg” by Aqwis, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: Lyderhorn mountain in Bergen seen across the calm water of Bjørndalspollen, houses on its lower slopes, warm August light.

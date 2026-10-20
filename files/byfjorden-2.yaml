@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Cloud below Ulriken
+description: From Ulriken with cloud lying below us over the fjord. There was a rainbow ring round my own shadow on it, which I'm told is called a glory.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ulriken_Bergen_19970815_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Ulriken_Bergen_19970815_01.jpg/1920px-Ulriken_Bergen_19970815_01.jpg
+  retrieved: 2026-10-20
+author: P. E. Dressel
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Ulriken Bergen 19970815 01.jpg” by P. E. Dressel, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: View from Ulriken over Bergen and Byfjorden, a bank of cloud lying low beneath the summit, green slopes and the city below.

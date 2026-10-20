@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Faded red frame
+description: A faded red frame and a rusty brake, close up. Mine looked like this the day I pulled it out of the skip.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vintage_Bicycle_in_Salem,_Massachusetts_(2452103374).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Vintage_Bicycle_in_Salem%2C_Massachusetts_%282452103374%29.jpg/1280px-Vintage_Bicycle_in_Salem%2C_Massachusetts_%282452103374%29.jpg
+  retrieved: 2026-10-20
+author: Pink Sherbet Photography from USA
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Vintage Bicycle in Salem, Massachusetts (2452103374).jpg” by Pink Sherbet Photography from USA, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of an old bicycle with a faded red-pink frame, mudguard, brake and saddle. Salem, Massachusetts.

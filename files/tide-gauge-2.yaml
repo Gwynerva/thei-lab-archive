@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A vacuum tide gauge
+description: An old drawing of a vacuum tide gauge, the tide balanced against a column of mercury.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vacuum_Tide_Gauge_hydrographicalsu00whar_0489.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Vacuum_Tide_Gauge_hydrographicalsu00whar_0489.jpg/1280px-Vacuum_Tide_Gauge_hydrographicalsu00whar_0489.jpg
+  retrieved: 2026-10-20
+author: H.E. Purey-Cust (1857-1938)
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Vacuum Tide Gauge hydrographicalsu00whar 0489.jpg” by H.E. Purey-Cust (1857-1938), public domain, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An old printed diagram of a vacuum tide gauge, a tube running from the sea up a post to a mercury column, with lettered parts, from a hydrography book.

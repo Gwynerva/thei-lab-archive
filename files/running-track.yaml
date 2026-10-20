@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: The clifftop path
+description: A grassy path running east along the top of the cliffs, the sea on the left the whole way.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Path_running_E_through_Reculver_Country_Park_-_geograph.org.uk_-_6336989.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Path_running_E_through_Reculver_Country_Park_-_geograph.org.uk_-_6336989.jpg/1920px-Path_running_E_through_Reculver_Country_Park_-_geograph.org.uk_-_6336989.jpg
+  retrieved: 2026-10-20
+author: Colin Park
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Path running E through Reculver Country Park - geograph.org.uk - 6336989.jpg” by Colin Park, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: A grassy path running east through Reculver Country Park, Kent, along the low cliff top, the sea at left under a blue sky with white clouds.

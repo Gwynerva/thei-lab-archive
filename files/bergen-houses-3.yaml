@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The green house at Nordnes
+description: An olive-green house with a red door in Skottegaten, the brightest thing on Nordnes that day.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Engen_,_Bergen_-_panoramio.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Engen_%2C_Bergen_-_panoramio.jpg/1920px-Engen_%2C_Bergen_-_panoramio.jpg
+  retrieved: 2026-10-20
+author: patano
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Engen , Bergen - panoramio.jpg” by patano, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A green wooden house with a red door and red tiled roof on Skottegaten at Nordnes, Bergen, white houses around, sun and clouds.

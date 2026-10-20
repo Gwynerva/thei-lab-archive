@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Old groyne at Portobello
+description: The broken groyne at Portobello, early, before anyone else was about.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Groyne_at_Portobello_Beach_-_geograph.org.uk_-_7352557.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Groyne_at_Portobello_Beach_-_geograph.org.uk_-_7352557.jpg/1920px-Groyne_at_Portobello_Beach_-_geograph.org.uk_-_7352557.jpg
+  retrieved: 2026-10-20
+author: Colin Kinnear
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Groyne at Portobello Beach - geograph.org.uk - 7352557.jpg” by Colin Kinnear, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A broken wooden groyne on Portobello beach in soft low light, sand in front and small waves on the sea behind, pale sky.

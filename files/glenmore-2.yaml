@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Loch Morlich under cloud
+description: Loch Morlich under a heavy sky, the field-trip weekend at Glenmore.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Loch_Morlich_in_the_clouds.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Loch_Morlich_in_the_clouds.jpg/1920px-Loch_Morlich_in_the_clouds.jpg
+  retrieved: 2026-10-20
+author: Stijndg
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Loch Morlich in the clouds.jpg” by Stijndg, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Loch Morlich at Glenmore beneath dramatic grey clouds, dark hills on the far shore and the water reflecting the sky.

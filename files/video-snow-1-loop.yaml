@@ -1,0 +1,15 @@
+kind: image
+ext: gif
+title: Snow blowing across the garden, looping
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Blowing_Snow_in_Milton,_Florida.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/f/f0/Blowing_Snow_in_Milton%2C_Florida.webm
+  retrieved: 2026-10-20
+author: Jesselikeswx
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Blowing Snow in Milton, Florida.webm” by Jesselikeswx, CC BY 4.0, via Wikimedia Commons
+transform: "from the original: three seconds from 1 s in, 480 px wide, 12 frames a second, a looping GIF of 128 colours"
+people: none
+truth: Blowing snow in a blizzard over a garden with a pond, shrubs and the corner of a house, Milton, Florida, January 2025 (a few seconds of it, looping)

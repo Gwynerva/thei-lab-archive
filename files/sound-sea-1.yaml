@@ -1,0 +1,15 @@
+kind: audio
+ext: flac
+title: Small waves on the rocks
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Small_sea_waves_at_rocky_beach.opus
+  download: https://upload.wikimedia.org/wikipedia/commons/b/b9/Small_sea_waves_at_rocky_beach.opus
+  retrieved: 2026-10-20
+author: mnalis
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Small sea waves at rocky beach.opus” by mnalis, CC BY 3.0, via Wikimedia Commons
+transform: from the original, FLAC 16-bit 44.1 kHz
+people: none
+truth: A short recording of small sea waves washing over a rocky beach.

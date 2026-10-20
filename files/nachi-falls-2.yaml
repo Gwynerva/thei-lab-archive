@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Nachi falls
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nachi_Falls_2025-10-13.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Nachi_Falls_2025-10-13.jpg/1280px-Nachi_Falls_2025-10-13.jpg
+  retrieved: 2026-10-20
+author: Alpsdake
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Nachi Falls 2025-10-13.jpg” by Alpsdake, CC0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Nachi Falls, a tall single drop of white water down a grey rock face between thick green forest, blue sky above.

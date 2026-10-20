@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: My paint box
+description: The paint box, the wells muddy in the right way, and the brush. Every map since 2024 has come out of this.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Watercolors_with_a_brush.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Watercolors_with_a_brush.jpg/1920px-Watercolors_with_a_brush.jpg
+  retrieved: 2026-10-20
+author: Michal Klajban
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Watercolors with a brush.jpg” by Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An open watercolour paint box with two rows of colour pans, mixing wells smeared with blue, yellow and green, and a brush across the middle, seen from above.

@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: A little pot off the hump
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pottery_at_the_Chokhi_Dhani_Resort_Panchkula_33.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Pottery_at_the_Chokhi_Dhani_Resort_Panchkula_33.jpg/1920px-Pottery_at_the_Chokhi_Dhani_Resort_Panchkula_33.jpg
+  retrieved: 2026-10-20
+author: Kritzolina
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Pottery at the Chokhi Dhani Resort Panchkula 33.jpg” by Kritzolina, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: A small finished clay pot on top of a stepped cone of wet clay on a potter's wheel, the potter's hands at the right. Haryana, India.

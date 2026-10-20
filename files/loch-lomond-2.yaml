@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Loch Lomond from the Ptarmigan path
+description: From the Ptarmigan path on the way up Ben Lomond, the loch in a haze far below.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:View_of_Loch_Lomond_and_The_Trossachs_National_Park_from_Ptarmigan_Ridge_Path_(DSCF9934).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/View_of_Loch_Lomond_and_The_Trossachs_National_Park_from_Ptarmigan_Ridge_Path_%28DSCF9934%29.jpg/1920px-View_of_Loch_Lomond_and_The_Trossachs_National_Park_from_Ptarmigan_Ridge_Path_%28DSCF9934%29.jpg
+  retrieved: 2026-10-20
+author: Trougnouf (Benoit Brummer)
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “View of Loch Lomond and The Trossachs National Park from Ptarmigan Ridge Path (DSCF9934).jpg” by Trougnouf (Benoit Brummer), CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Hazy view from the Ptarmigan Ridge path over rough grass and rock towards a long loch between hills in Loch Lomond and The Trossachs National Park.

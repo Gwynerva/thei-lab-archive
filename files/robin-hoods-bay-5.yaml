@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: From the slipway
+description: The cobbles at the bottom of the slipway, where Nana used to stop and get her breath back.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Robin_Hood%27s_Bay_-_geograph.org.uk_-_2006184.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Robin_Hood%27s_Bay_-_geograph.org.uk_-_2006184.jpg/1920px-Robin_Hood%27s_Bay_-_geograph.org.uk_-_2006184.jpg
+  retrieved: 2026-10-20
+author: wfmillar
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Robin Hood's Bay - geograph.org.uk - 2006184.jpg” by wfmillar, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The cobbled slipway at Robin Hood's Bay in front, the tide over the rocks with one person standing out on them, the bay and cliffs behind, bright cloud.

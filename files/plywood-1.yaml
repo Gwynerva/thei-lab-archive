@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The edge of a sheet
+description: Count the plies. That's how you know what you're paying for.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Plywood.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Plywood.jpg/1920px-Plywood.jpg
+  retrieved: 2026-10-20
+author: Rotor DB at English Wikipedia
+licence: CC-BY-SA-3.0
+licenceUrl: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: “Plywood.jpg” by Rotor DB at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of the edge of a piece of veneered plywood on a white background, its layers clearly visible.

@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: Samlafjorden from Krokavatn
+description: The wide blue outer fjord from up by Krokavatn, little islands scattered below like crumbs.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hardangerfjorden_from_krokavatn_2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hardangerfjorden_from_krokavatn_2.jpg/1920px-Hardangerfjorden_from_krokavatn_2.jpg
+  retrieved: 2026-10-20
+author: SinWin
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Hardangerfjorden from krokavatn 2.jpg” by SinWin, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: Elevated view over Samlafjorden, the outer Hardangerfjord near Norheimsund, from Krokavatn; small islands, farms along the shore, clear summer day.

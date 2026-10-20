@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The castle between the rocks
+description: The castle framed in a notch of the hill, under a sky full of weather.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_Arthur%27s_Seat-20110904-RM-121450.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Edinburgh_Arthur%27s_Seat-20110904-RM-121450.jpg/1920px-Edinburgh_Arthur%27s_Seat-20110904-RM-121450.jpg
+  retrieved: 2026-10-20
+author: Ermell
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Edinburgh Arthur's Seat-20110904-RM-121450.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Edinburgh Castle seen in the distance through a gap between rocky outcrops on Arthur's Seat, grass in front, heavy cloud.

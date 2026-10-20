@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The weir from above
+description: Looking straight down at a weir from the path, everything green. You hear it long before you see it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Water_of_Leith_-_geograph.org.uk_-_4588047.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Water_of_Leith_-_geograph.org.uk_-_4588047.jpg/1920px-Water_of_Leith_-_geograph.org.uk_-_4588047.jpg
+  retrieved: 2026-10-20
+author: PAUL FARMER
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Water of Leith - geograph.org.uk - 4588047.jpg” by PAUL FARMER, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A weir on the Water of Leith in Edinburgh seen from above, the river in a narrow wooded channel, a stone wall and path on the right, buildings beyond, summer.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A Tudor compass
+description: A gimballed compass from the Mary Rose, still in its little wooden box.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Gimballed_Compass,_Mary_Rose_-_55129422442.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Gimballed_Compass%2C_Mary_Rose_-_55129422442.jpg/1920px-Gimballed_Compass%2C_Mary_Rose_-_55129422442.jpg
+  retrieved: 2026-10-20
+author: Tim Sheerman-Chase
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Gimballed Compass, Mary Rose - 55129422442.jpg” by Tim Sheerman-Chase, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A wooden box holding an early gimballed steering compass recovered from the Mary Rose, on display in the museum in Portsmouth.

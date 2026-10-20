@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Where the waves meet
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Incoming_and_Outgoing_Waves_Crash_together_in_the_North_Sea_at_Seaburn_-_geograph.org.uk_-_6013605.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Incoming_and_Outgoing_Waves_Crash_together_in_the_North_Sea_at_Seaburn_-_geograph.org.uk_-_6013605.jpg/1920px-Incoming_and_Outgoing_Waves_Crash_together_in_the_North_Sea_at_Seaburn_-_geograph.org.uk_-_6013605.jpg
+  retrieved: 2026-10-20
+author: Les Hull
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Incoming and Outgoing Waves Crash together in the North Sea at Seaburn - geograph.org.uk - 6013605.jpg” by Les Hull, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: North Sea waves crashing together in a burst of white spray at Seaburn, Sunderland, deep blue sea, pale blue sky, a green rail at the bottom edge.

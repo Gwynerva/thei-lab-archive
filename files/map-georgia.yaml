@@ -1,0 +1,16 @@
+kind: image
+ext: svg
+title: Georgia, blank
+description: A clean outline of Georgia between the Black Sea and the Caucasus, rivers in blue.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Georgia_location_map.svg
+  download: https://upload.wikimedia.org/wikipedia/commons/5/59/Georgia_location_map.svg
+  retrieved: 2026-10-20
+author: NordNordWest
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Georgia location map.svg” by NordNordWest, CC BY-SA 3.0, via Wikimedia Commons
+transform: the original SVG, unchanged
+people: none
+truth: A blank location map of the country of Georgia with its rivers and regional borders, the Black Sea at left, neighbouring countries in grey.

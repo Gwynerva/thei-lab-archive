@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Stone well and flower pots
+description: An old stone well halfway up a lane, pots of flowers on the rim.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Old_stone_well_Forza_d%27Agro_2017.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Old_stone_well_Forza_d%27Agro_2017.jpg/1920px-Old_stone_well_Forza_d%27Agro_2017.jpg
+  retrieved: 2026-10-20
+author: Jeanne Griffin
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Old stone well Forza d'Agro 2017.jpg” by Jeanne Griffin, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An old stone-built well with plants and flower pots on it in a lane of Forza d'Agrò, Sicily, a red-plastered wall beside.

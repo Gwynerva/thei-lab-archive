@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Fallen cliff in Normandy
+description: A cliff fall near Cap Manvieux, kept for comparison with Saltwick.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Falaise_%C3%A9boul%C3%A9e_pr%C3%A8s_du_Cap_Manvieux_(juillet_2025).JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Falaise_%C3%A9boul%C3%A9e_pr%C3%A8s_du_Cap_Manvieux_%28juillet_2025%29.JPG/1920px-Falaise_%C3%A9boul%C3%A9e_pr%C3%A8s_du_Cap_Manvieux_%28juillet_2025%29.JPG
+  retrieved: 2026-10-20
+author: Florian Pépellin
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Falaise éboulée près du Cap Manvieux (juillet 2025).JPG” by Florian Pépellin, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Partly collapsed sea cliffs near Cap Manvieux in Calvados, Normandy, fallen rock at the foot, a shingle beach, blue sea and a town in the distance.

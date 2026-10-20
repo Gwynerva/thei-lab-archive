@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Utne Hotel in the sun
+description: The white hotel on Museumsvegen with its picket fence and a tree in flower. Where we take visitors for waffles.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Utne_Hotel_facade_tunliweb.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Utne_Hotel_facade_tunliweb.jpg/1920px-Utne_Hotel_facade_tunliweb.jpg
+  retrieved: 2026-10-20
+author: Svein-Magne Tunli / tunliweb.no
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Utne Hotel facade tunliweb.jpg” by Svein-Magne Tunli / tunliweb.no, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The white wooden facade and entrance of Utne Hotel in Utne with its painted sign, a picket fence, a flowering tree and a Museumsvegen street sign; blue sky.

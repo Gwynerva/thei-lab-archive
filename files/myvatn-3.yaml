@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Grjótagjá cave
+description: The cave with the warm blue water inside. No bathing allowed, so we just looked.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Grj%C3%B3tagj%C3%A1_caves_in_summer_2009_(2).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Grj%C3%B3tagj%C3%A1_caves_in_summer_2009_%282%29.jpg/1920px-Grj%C3%B3tagj%C3%A1_caves_in_summer_2009_%282%29.jpg
+  retrieved: 2026-10-20
+author: Chmee2
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Grjótagjá caves in summer 2009 (2).jpg” by Chmee2, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Inside the Grjótagjá lava cave near Mývatn, a pool of clear blue water reflecting the rough grey and brown rock roof.

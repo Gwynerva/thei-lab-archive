@@ -1,0 +1,15 @@
+kind: image
+ext: webp
+title: A still tarn on Vidden
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vidden,bergen_3.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Vidden%2Cbergen_3.jpg/1920px-Vidden%2Cbergen_3.jpg
+  retrieved: 2026-10-20
+author: UnderSkyen
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Vidden,bergen 3.jpg” by UnderSkyen, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, WebP q80, metadata removed"
+people: none
+truth: A small mountain lake on Vidden in Bergen reflecting dark rocky hills under a clear blue sky, the water mirror-calm.

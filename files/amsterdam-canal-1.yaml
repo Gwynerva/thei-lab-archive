@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Damrak at blue hour
+description: The canal houses on Damrak with every window lit, standing right in the water and doubled in it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Water_reflection_of_canal_houses_at_blue_hour_in_Damrak_Amsterdam_the_Netherlands.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Water_reflection_of_canal_houses_at_blue_hour_in_Damrak_Amsterdam_the_Netherlands.jpg/1920px-Water_reflection_of_canal_houses_at_blue_hour_in_Damrak_Amsterdam_the_Netherlands.jpg
+  retrieved: 2026-10-20
+author: Basile Morin
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Water reflection of canal houses at blue hour in Damrak Amsterdam the Netherlands.jpg” by Basile Morin, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Canal houses on Damrak in Amsterdam at blue hour, rows of lit windows reflected in the water directly in front of them.

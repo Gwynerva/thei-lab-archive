@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Red roofs over the bay
+description: Coming in from the north on the Cleveland Way, with the long grass in the way.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Robin_Hood%27s_Bay_-_geograph.org.uk_-_3726877.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Robin_Hood%27s_Bay_-_geograph.org.uk_-_3726877.jpg/1920px-Robin_Hood%27s_Bay_-_geograph.org.uk_-_3726877.jpg
+  retrieved: 2026-10-20
+author: Anthony Foster
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Robin Hood's Bay - geograph.org.uk - 3726877.jpg” by Anthony Foster, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Robin Hood's Bay from the Cleveland Way to the north, long grass in front, the village's red roofs along the cliff edge, a calm blue sea.

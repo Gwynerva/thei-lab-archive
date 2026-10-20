@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: The big plotter at the college
+description: A wide colour plotter in a college workroom in Rapperswil, its paper basket out like a tray.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Colour_plotter_OST.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Colour_plotter_OST.jpg/1920px-Colour_plotter_OST.jpg
+  retrieved: 2026-10-20
+author: UnderwhelmingToaster
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Colour plotter OST.jpg” by UnderwhelmingToaster, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: A large-format colour plotter on its stand with a wire paper basket, in a university workroom in Rapperswil, Switzerland, drawings pinned on the wall.

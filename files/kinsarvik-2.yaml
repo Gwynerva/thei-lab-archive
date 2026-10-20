@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The ferries at Kinsarvik, years ago
+description: An old colour photograph of two ferries at the Kinsarvik quay, the colours gone pink with age.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:MF_Hardingen_and_MF_Kinsarvik_in_Kinsarvik.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/MF_Hardingen_and_MF_Kinsarvik_in_Kinsarvik.jpg/1920px-MF_Hardingen_and_MF_Kinsarvik_in_Kinsarvik.jpg
+  retrieved: 2026-10-20
+author: Normanns kunstforlag
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “MF Hardingen and MF Kinsarvik in Kinsarvik.jpg” by Normanns kunstforlag, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Old faded colour photograph of two car ferries at the Kinsarvik ferry quay, a car on the quay and mountains across the fjord, a few tiny figures.

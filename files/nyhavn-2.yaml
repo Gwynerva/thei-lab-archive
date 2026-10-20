@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Nyhavn, the busy side
+description: Cafés all along the quay and an old wooden boat tied up in front of the red and yellow houses.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nyhavn,_Copenhagen,_20220618_1728_7354.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Nyhavn%2C_Copenhagen%2C_20220618_1728_7354.jpg/1920px-Nyhavn%2C_Copenhagen%2C_20220618_1728_7354.jpg
+  retrieved: 2026-10-20
+author: Jakub Hałun
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Nyhavn, Copenhagen, 20220618 1728 7354.jpg” by Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Colourful townhouses on the north side of Nyhavn in Copenhagen with café umbrellas, crowds along the quay and an old wooden boat moored in the canal, sunny.

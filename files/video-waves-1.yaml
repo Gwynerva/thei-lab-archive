@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: Grey waves, black stones
+description: Waves breaking on a beach of dark round stones, sea stacks out in the haze. Forty seconds of the sound I grew up with.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rialto_Beach_Waves_2022.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/Rialto_Beach_Waves_2022.webm/Rialto_Beach_Waves_2022.webm.1080p.vp9.webm
+  retrieved: 2026-10-20
+author: Sea Cow
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Rialto Beach Waves 2022.webm” by Sea Cow, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1080p.vp9.webm transcode: long side at most 1280, H.264 with AAC sound, MP4"
+people: none
+truth: Waves breaking on the dark pebble shore of Rialto Beach, Olympic National Park, Washington, sea stacks on the horizon, overcast sky.

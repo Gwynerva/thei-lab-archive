@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: The houses of Reine
+description: Houses on the water at Reine, gold light on the mountains and snow still lying in the gullies.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Houses_of_Reine_by_Gravdalsbukta,_Moskenes,_Nordland,_Norway,_2022_June.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Houses_of_Reine_by_Gravdalsbukta%2C_Moskenes%2C_Nordland%2C_Norway%2C_2022_June.jpg/1920px-Houses_of_Reine_by_Gravdalsbukta%2C_Moskenes%2C_Nordland%2C_Norway%2C_2022_June.jpg
+  retrieved: 2026-10-20
+author: Ximonic (Simo Räsänen)
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Houses of Reine by Gravdalsbukta, Moskenes, Nordland, Norway, 2022 June.jpg” by Ximonic (Simo Räsänen), CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: Houses of Reine by Gravdalsbukta in Lofoten on a June night under the midnight sun, snow streaks on the peaks behind, boats in the bay.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A puffin on the edge
+description: One puffin on the very edge of the turf, quite unbothered by me. I took about forty pictures and this is the one.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Papageitaucher_Fratercula_arctica.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Papageitaucher_Fratercula_arctica.jpg/1920px-Papageitaucher_Fratercula_arctica.jpg
+  retrieved: 2026-10-20
+author: Richard Bartz
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Papageitaucher Fratercula arctica.jpg” by Richard Bartz, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An Atlantic puffin standing on a grassy cliff edge, orange feet and striped bill, blurred turquoise sea and rocks behind. Látrabjarg, Iceland, summer.

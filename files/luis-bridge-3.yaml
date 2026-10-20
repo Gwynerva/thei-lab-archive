@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The bridge from the quay
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vila_Nova_de_Gaia-Ponte_Luis_1%C2%B0-20140910.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Vila_Nova_de_Gaia-Ponte_Luis_1%C2%B0-20140910.jpg/1920px-Vila_Nova_de_Gaia-Ponte_Luis_1%C2%B0-20140910.jpg
+  retrieved: 2026-10-20
+author: Daniel VILLAFRUELA
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Vila Nova de Gaia-Ponte Luis 1°-20140910.jpg” by Daniel VILLAFRUELA, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Dom Luís I bridge seen from the quay at Vila Nova de Gaia, rabelo boats with wine barrels moored in front, Porto behind; cloudy.

@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: A gull overhead
+description: A gull hanging over me on the wind, waiting to see if I had chips. Whitby manners.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:SeagullsCloseMaster_h264.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/4/41/SeagullsCloseMaster_h264.webm
+  retrieved: 2026-10-20
+author: Jeffrey Beach (Beachfront Productions)
+licence: CC-BY-1.0
+licenceUrl: https://creativecommons.org/licenses/by/1.0
+attribution: “SeagullsCloseMaster h264.webm” by Jeffrey Beach (Beachfront Productions), CC BY 1.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, H.264, no sound, MP4"
+people: none
+truth: A large white gull gliding overhead against a flat grey sky, seen from below, wings spread.

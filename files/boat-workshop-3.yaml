@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The ship's carpenter's workshop
+description: A ship's carpenter's workshop kept as it was, tools on every wall and a boat on the trestles.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg/1920px-Werkstatt_eines_Schiffszimmerers_im_Altonaer_Museum_IMG_5128_edit.jpg
+  retrieved: 2026-10-20
+author: Christoph Braun
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Werkstatt eines Schiffszimmerers im Altonaer Museum IMG 5128 edit.jpg” by Christoph Braun, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A reconstructed ship's carpenter's workshop at the Altonaer Museum in Hamburg, dark timber walls hung with tools, a small boat on trestles, dim light.

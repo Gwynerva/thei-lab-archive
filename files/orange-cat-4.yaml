@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit and the neighbour's tabby
+description: Biscuit and the grey tabby from down the road, walking off together like an old married couple.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tabby_cats_of_%C5%8Cizumi_Ryokuchi_Park,_January_2019_-_8816.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Tabby_cats_of_%C5%8Cizumi_Ryokuchi_Park%2C_January_2019_-_8816.jpg/1920px-Tabby_cats_of_%C5%8Cizumi_Ryokuchi_Park%2C_January_2019_-_8816.jpg
+  retrieved: 2026-10-20
+author: Laitche
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Tabby cats of Ōizumi Ryokuchi Park, January 2019 - 8816.jpg” by Laitche, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A ginger tabby cat and a brown tabby cat walking side by side across a paved square, tails up, in Ōizumi Ryokuchi Park, Osaka Prefecture, winter.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The red kayak in the reflections
+description: A red kayak very small on a river full of green reflections. You have to look for it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Saarburg,_Saar_--_2023_--_174144.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Saarburg%2C_Saar_--_2023_--_174144.jpg/1920px-Saarburg%2C_Saar_--_2023_--_174144.jpg
+  retrieved: 2026-10-20
+author: Dietmar Rabich
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Saarburg, Saar -- 2023 -- 174144.jpg” by Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: incidental
+truth: A small red kayak on the still, tree-lined Saar near Saarburg, Germany, green summer foliage reflected in the water.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Sandsend village and beach
+description: Sandsend from the sand, the village tucked in under the woods. Ice cream territory.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sandsend_beach_-_geograph.org.uk_-_4213224.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Sandsend_beach_-_geograph.org.uk_-_4213224.jpg/1920px-Sandsend_beach_-_geograph.org.uk_-_4213224.jpg
+  retrieved: 2026-10-20
+author: Gordon Hatton
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Sandsend beach - geograph.org.uk - 4213224.jpg” by Gordon Hatton, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The village of Sandsend under wooded hills seen from the beach, white houses and a sea wall, a few people walking on the sand, blue sky.

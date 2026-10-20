@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Umbrellas at Fløibanen
+description: The bottom station of the funicular on a properly wet day. We went up anyway and saw cloud.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen,_Entrance_to_FloiBanen_-_panoramio_(1).jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/7/7e/Bergen%2C_Entrance_to_FloiBanen_-_panoramio_%281%29.jpg
+  retrieved: 2026-10-20
+author: Banja-Frans Mulder
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Bergen, Entrance to FloiBanen - panoramio (1).jpg” by Banja-Frans Mulder, CC BY 3.0, via Wikimedia Commons
+transform: "from the original: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The white lower station of the Fløibanen funicular in central Bergen on a rainy day, wet cobbles and a few people with umbrellas.

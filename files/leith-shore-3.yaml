@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Along the Water of Leith
+description: Sunday walk along the Shore, with the swing bridge at the far end.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Water_of_Leith_-_geograph.org.uk_-_6880980.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Water_of_Leith_-_geograph.org.uk_-_6880980.jpg/1920px-Water_of_Leith_-_geograph.org.uk_-_6880980.jpg
+  retrieved: 2026-10-20
+author: Graeme Yuill
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Water of Leith - geograph.org.uk - 6880980.jpg” by Graeme Yuill, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: incidental
+truth: Stone houses along the Water of Leith at the Shore, trees and people at outdoor tables, an iron bridge and a crane beyond, blue sky.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit rolling on the path
+description: A full roll in the dust on the path. Undignified, and he knows it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ginger_Cat_by_Nick.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Ginger_Cat_by_Nick.JPG/1920px-Ginger_Cat_by_Nick.JPG
+  retrieved: 2026-10-20
+author: Nick
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Ginger Cat by Nick.JPG” by Nick, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An orange tabby cat lying on its back, rolling in the dust of a dirt path between grass verges, sunny.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Waves over the pier
+description: Big wind on the Danish side, the waves coming over the end of the pier in sheets. This is the sea we sailed across.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hanstholm_-_Danmark.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Hanstholm_-_Danmark.jpg/1920px-Hanstholm_-_Danmark.jpg
+  retrieved: 2026-10-20
+author: LG Nyqvist
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Hanstholm - Danmark.jpg” by LG Nyqvist, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Rough grey-green sea under a dark sky, waves breaking white over a pier at Hanstholm, northern Denmark, in a strong wind.

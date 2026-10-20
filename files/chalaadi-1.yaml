@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Chalaadi glacier
+description: The snout of the glacier at the end of a stony valley, Chatyn-tau above it. Mud, rocks and a lot of noise from the meltwater.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Chalaadi_Glacier_and_Mt_Chatintau.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Chalaadi_Glacier_and_Mt_Chatintau.jpg/1920px-Chalaadi_Glacier_and_Mt_Chatintau.jpg
+  retrieved: 2026-10-20
+author: Jelger Groeneveld
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Chalaadi Glacier and Mt Chatintau.jpg” by Jelger Groeneveld, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Chalaadi glacier and Mt Chatyn-tau at the head of a boulder-strewn valley near Mestia, Svaneti, blue sky.

@@ -1,0 +1,16 @@
+kind: video
+ext: webm
+title: The Milky Way over the mast
+description: Somewhere up there is my star, in the Whale. I never manage to find it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:ESO_-_Night-time_time-lapse_at_Cerro_Armazones_(by).ogv
+  download: https://upload.wikimedia.org/wikipedia/commons/c/c5/ESO_-_Night-time_time-lapse_at_Cerro_Armazones_%28by%29.ogv
+  retrieved: 2026-10-20
+author: ESO/S. Brunier
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “ESO - Night-time time-lapse at Cerro Armazones (by).ogv” by ESO/S. Brunier, CC BY 4.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, VP9, no sound, WEBM"
+people: none
+truth: Night time-lapse of the Milky Way and stars over site-testing masts on Cerro Armazones in the Atacama Desert, Chile.

@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The yellow house at Nyhavn
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nyhavn_55_Copenhagen.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Nyhavn_55_Copenhagen.jpg/1280px-Nyhavn_55_Copenhagen.jpg
+  retrieved: 2026-10-20
+author: Jebulon
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Nyhavn 55 Copenhagen.jpg” by Jebulon, CC0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Facade of the tall yellow townhouse at Nyhavn 55, Copenhagen, between red and pink neighbours under a deep blue sky, bicycles by the door.

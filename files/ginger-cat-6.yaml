@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit on the CD player
+description: Anything warm with a flat top is his. Especially if it's switched on.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ginger_cat_on_CD-i.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Ginger_cat_on_CD-i.JPG/1920px-Ginger_cat_on_CD-i.JPG
+  retrieved: 2026-10-20
+author: Matthew Paul Argall
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Ginger cat on CD-i.JPG” by Matthew Paul Argall, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A ginger-and-white cat crouching on top of an old black games console in front of a bookcase, looking down.

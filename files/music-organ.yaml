@@ -1,0 +1,16 @@
+kind: audio
+ext: flac
+title: The old village organ
+description: A tiny village church organ, three hundred years old, playing a dance tune with a wobble in it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pipe-organ-cisnadioara.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/c/c3/Pipe-organ-cisnadioara.ogg
+  retrieved: 2026-10-20
+author: Impy4ever
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Pipe-organ-cisnadioara.ogg” by Impy4ever, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the original: first 75 s with a 2 s fade-out, FLAC 16-bit 44.1 kHz"
+people: none
+truth: The early 18th-century pipe organ of the village church at Cisnădioara, Romania, playing a dance tune in G major with the tremulant on.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Glaze tests on the wall
+description: The studio's wall of glaze tests, each tile with its number. I chose mine by staring at it for twenty minutes.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vzorkovn%C3%ADk_glazur.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Vzorkovn%C3%ADk_glazur.JPG/1920px-Vzorkovn%C3%ADk_glazur.JPG
+  retrieved: 2026-10-20
+author: Juan de Vojníkov
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Vzorkovník glazur.JPG” by Juan de Vojníkov, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Rows of small ceramic test tiles in many glaze colours pinned to a white wall, each with a number. A pottery studio in Prague.

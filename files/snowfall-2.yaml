@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: A birch in white
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kolomenskoe_in_white_-_Dec12_-_03_snow.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Kolomenskoe_in_white_-_Dec12_-_03_snow.jpg/1920px-Kolomenskoe_in_white_-_Dec12_-_03_snow.jpg
+  retrieved: 2026-10-20
+author: A.Savin
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Kolomenskoe in white - Dec12 - 03 snow.jpg” by A.Savin, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A birch tree covered in snow and frost beside a snowy riverside path, misty grey air behind, Kolomenskoe, Moscow, in December.

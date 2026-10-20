@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Fish soup in a wooden bowl
+description: Creamy fish soup with salmon in a carved wooden bowl. Not Bergen's, but not far off.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:02025_0353_Fish_soup.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/02025_0353_Fish_soup.jpg/1920px-02025_0353_Fish_soup.jpg
+  retrieved: 2026-10-20
+author: Marsilar
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “02025 0353 Fish soup.jpg” by Marsilar, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Creamy fish soup with pieces of salmon and herbs in a carved wooden bowl with a wooden spoon, other dishes around, Poland.

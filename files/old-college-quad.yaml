@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Old College in the snow
+description: The Old College quad under snow, the dome going grey in the flurries. Someone had walked straight across the middle, of course.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Old_College_Quad,_University_of_Edinburgh,_Feb_2018_(40629592652).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Old_College_Quad%2C_University_of_Edinburgh%2C_Feb_2018_%2840629592652%29.jpg/1920px-Old_College_Quad%2C_University_of_Edinburgh%2C_Feb_2018_%2840629592652%29.jpg
+  retrieved: 2026-10-20
+author: alljengi
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Old College Quad, University of Edinburgh, Feb 2018 (40629592652).jpg” by alljengi, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The Old College quadrangle of the University of Edinburgh under snow, snow falling, the domed entrance ahead, scaffolding on the left, one person in the middle, February.

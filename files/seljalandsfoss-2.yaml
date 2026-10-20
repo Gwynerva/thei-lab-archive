@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Seljalandsfoss from the field
+description: The falls from the front, with the thin one on the left that nobody photographs.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Seljalandsfoss_Waterfall,_Iceland,_20240720_1457_3084.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Seljalandsfoss_Waterfall%2C_Iceland%2C_20240720_1457_3084.jpg/1280px-Seljalandsfoss_Waterfall%2C_Iceland%2C_20240720_1457_3084.jpg
+  retrieved: 2026-10-20
+author: Jakub Hałun
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Seljalandsfoss Waterfall, Iceland, 20240720 1457 3084.jpg” by Jakub Hałun, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Seljalandsfoss from the front, a tall waterfall over a mossy cliff with a thinner fall to its left, green grass with small white flowers, blue sky.

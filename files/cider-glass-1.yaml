@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Cider in a good glass
+description: Golden cider in a tulip glass, because Sigrid says cider deserves a proper glass as much as any wine.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hoila-Cider_from_Zingerle,_Bolzano,_South_Tyrol_0633.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Hoila-Cider_from_Zingerle%2C_Bolzano%2C_South_Tyrol_0633.jpg/1280px-Hoila-Cider_from_Zingerle%2C_Bolzano%2C_South_Tyrol_0633.jpg
+  retrieved: 2026-10-20
+author: Hubertl
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Hoila-Cider from Zingerle, Bolzano, South Tyrol 0633.jpg” by Hubertl, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A tulip-shaped stemmed glass of golden apple cider against a dark studio background.

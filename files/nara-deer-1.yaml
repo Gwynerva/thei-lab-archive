@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A deer in Nara Park
+description: A sika deer in Nara Park, very polite and very expectant.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sika_deer_in_Nara_Park,_November_2016.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Sika_deer_in_Nara_Park%2C_November_2016.jpg/1920px-Sika_deer_in_Nara_Park%2C_November_2016.jpg
+  retrieved: 2026-10-20
+author: Martin Falbisoner
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Sika deer in Nara Park, November 2016.jpg” by Martin Falbisoner, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Close view of a sika deer in Nara Park, Japan, standing by a stone post carved with a character and a wooden rail, autumn.

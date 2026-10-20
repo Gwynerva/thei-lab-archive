@@ -11,7 +11,9 @@ You are writing part of a fictional life archive: Mira Testwell's ten years,
    `E:/code/thei/tests/lab/archive/conformance/archive/` (its words are
    placeholders; ours are a real-feeling life).
 4. `drafts/catalogue.md` — every media file you may place, by id, with what
-   it shows. **Never invent a file id.**
+   it shows, under one `##` heading per subject. It is long: list its
+   headings (`grep -n "^## " drafts/catalogue.md`) and read the subjects you
+   need, or Grep it for a word. **Never invent a file id.**
 5. Your assignment (in the message that started you).
 
 ## How to write files: bundles
@@ -89,6 +91,25 @@ your assignment, and do not edit FORMAT.md, BIBLE.md or the scripts.
   `https://www.met.no`, `https://commons.wikimedia.org`). Never a real
   person's page.
 - **No real people.** Only the bible's people, and nameless strangers.
+
+## Headings you can link to
+
+These headings are promised: their writers put them in, word for word, as
+`##` or `###` in the body. Anyone may link to them with `#h:`:
+
+| Entity | Headings |
+| --- | --- |
+| `section:tideline/harmonics` | Constituents · The equilibrium tide |
+| `section:farmhouse/the-house` | Fourteen windows · The barn |
+| `project:kayak` | Plans · The launch |
+| `project:camino` | Stages |
+| `project:biscuit` | Things he eats |
+| `project:cello` | Why the cello |
+| `page:how-tides-work` | The moon · Harmonics |
+| `page:about` | How to read this site |
+| `page:norwegian-words` | Food · Weather |
+
+`[the windows](<ref:section:farmhouse/the-house#h:Fourteen windows> "all of them")`
 
 ## Who declares a relation
 

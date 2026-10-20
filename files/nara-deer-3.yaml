@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Deer under the maples
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:003_Nara_deer_in_Japan_-_deer_of_Nara_Park_under_autumn_leaves.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/003_Nara_deer_in_Japan_-_deer_of_Nara_Park_under_autumn_leaves.jpg/1920px-003_Nara_deer_in_Japan_-_deer_of_Nara_Park_under_autumn_leaves.jpg
+  retrieved: 2026-10-20
+author: Marek Ślusarczyk (Tupungato) Photo portfolio
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “003 Nara deer in Japan - deer of Nara Park under autumn leaves.jpg” by Marek Ślusarczyk (Tupungato) Photo portfolio, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Sika deer drinking from a pond beneath red and orange autumn maples in Nara Park, mossy rocks and reflections in the water.

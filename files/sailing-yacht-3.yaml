@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The marina in the evening
+description: Rows of boats and masts doubled in flat water at the end of a long day.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:K%C3%BChlungsborn,_Marina_--_2024_--_4933.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/K%C3%BChlungsborn%2C_Marina_--_2024_--_4933.jpg/1920px-K%C3%BChlungsborn%2C_Marina_--_2024_--_4933.jpg
+  retrieved: 2026-10-20
+author: Dietmar Rabich
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Kühlungsborn, Marina -- 2024 -- 4933.jpg” by Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A marina in the evening, rows of moored sailing yachts and motor boats, masts reflected in still water, blue sky with thin cloud. Kühlungsborn, Baltic coast of Germany.

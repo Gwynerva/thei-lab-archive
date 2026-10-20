@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Down the glen
+description: Looking down Glen Coe on a grey day, the road a thread at the bottom.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Glen_Coe_-_geograph.org.uk_-_3992051.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Glen_Coe_-_geograph.org.uk_-_3992051.jpg/1920px-Glen_Coe_-_geograph.org.uk_-_3992051.jpg
+  retrieved: 2026-10-20
+author: Jonathan Taylor
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Glen Coe - geograph.org.uk - 3992051.jpg” by Jonathan Taylor, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Glen Coe under grey cloud, steep green and rocky slopes of Aonach Dubh on the left, the valley floor and road winding away into the distance.

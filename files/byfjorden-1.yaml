@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Byfjorden at Hellen
+description: The fjord dead still at Hellen, just past Sandviken, the islands low on the far side.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Byfjorden,_Hellen,_Bergen,_Hordaland,_Norway_-_panoramio.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Byfjorden%2C_Hellen%2C_Bergen%2C_Hordaland%2C_Norway_-_panoramio.jpg/1920px-Byfjorden%2C_Hellen%2C_Bergen%2C_Hordaland%2C_Norway_-_panoramio.jpg
+  retrieved: 2026-10-20
+author: trolvag
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Byfjorden, Hellen, Bergen, Hordaland, Norway - panoramio.jpg” by trolvag, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Calm water of Byfjorden at Hellen in Bergen, low hills and islands on the far shore under a clear sky, rocks in the foreground.

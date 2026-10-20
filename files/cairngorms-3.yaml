@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: The funicular going up
+description: Inside the funicular on Cairn Gorm, the track climbing into the hill ahead of us.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cairngorms_08.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Cairngorms_08.jpg/1920px-Cairngorms_08.jpg
+  retrieved: 2026-10-20
+author: Postdlf
+licence: CC-BY-SA-3.0
+licenceUrl: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: “Cairngorms 08.jpg” by Postdlf, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: incidental
+truth: Interior of a Cairngorm Mountain Railway car, passengers seen from behind, an LED sign overhead, the track climbing a hillside through the front window.

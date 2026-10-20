@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Narrow houses and houseboats
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Narrow_houses_%27s-Gravenhekje_2016-09-12.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Narrow_houses_%27s-Gravenhekje_2016-09-12.jpg/1920px-Narrow_houses_%27s-Gravenhekje_2016-09-12.jpg
+  retrieved: 2026-10-20
+author: Slaunger
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Narrow houses 's-Gravenhekje 2016-09-12.jpg” by Slaunger, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Tall narrow houses on 's-Gravenhekje in Amsterdam seen across the Oudeschans canal, a tree and moored houseboats in front.

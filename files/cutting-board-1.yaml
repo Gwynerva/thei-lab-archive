@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A plain board
+description: One board oiled and done, the handle shaped by hand. Four to go before Christmas.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Wooden_cutting_board_2017.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Wooden_cutting_board_2017.jpg/1920px-Wooden_cutting_board_2017.jpg
+  retrieved: 2026-10-20
+author: Fructibus
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Wooden cutting board 2017.jpg” by Fructibus, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A plain pale wooden cutting board with a rounded handle lying on a darker wooden table, seen from above.

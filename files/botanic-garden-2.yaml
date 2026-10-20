@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Orange globeflower
+description: A globeflower at the Botanics, the brightest thing in the garden that day.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Trollius_ledebourii,_RBGE_2010,_3.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Trollius_ledebourii%2C_RBGE_2010%2C_3.jpg/1920px-Trollius_ledebourii%2C_RBGE_2010%2C_3.jpg
+  retrieved: 2026-10-20
+author: Lokal_Profil
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Trollius ledebourii, RBGE 2010, 3.jpg” by Lokal_Profil, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, WebP q80, metadata removed"
+people: none
+truth: A bright orange globeflower, Trollius ledebourii, in close-up at the Royal Botanic Garden Edinburgh, buds and leaves behind.

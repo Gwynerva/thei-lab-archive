@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: Biscuit lapping, slowly
+description: Biscuit drinking from a puddle on the patio, filmed in slow motion so you can see his tongue curl. Science.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cat_lapping_water_off_ground_in_slow_motion.gk.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/a/ac/Cat_lapping_water_off_ground_in_slow_motion.gk.webm
+  retrieved: 2026-10-20
+author: Grendelkhan
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Cat lapping water off ground in slow motion.gk.webm” by Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, H.264, no sound, MP4"
+people: none
+truth: An orange-and-white tabby cat lapping water off a pale paved floor, filmed in slow motion, daylight.

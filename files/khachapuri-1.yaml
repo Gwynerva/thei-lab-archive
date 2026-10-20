@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Khachapuri and lemon tea
+description: Cheese bread and lemon tea in Old Tbilisi. We ordered a second before we'd finished the first.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Old_Tbilisi,_Georgian_khachapuri,_Georgia.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Old_Tbilisi%2C_Georgian_khachapuri%2C_Georgia.jpg/1920px-Old_Tbilisi%2C_Georgian_khachapuri%2C_Georgia.jpg
+  retrieved: 2026-10-20
+author: Vyacheslav Argenberg
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Old Tbilisi, Georgian khachapuri, Georgia.jpg” by Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A round cheese-filled khachapuri cut in quarters on a white plate beside a cup of lemon tea, on a wooden table, Old Tbilisi, Georgia.

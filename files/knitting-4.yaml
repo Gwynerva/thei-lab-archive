@@ -1,0 +1,15 @@
+kind: image
+ext: webp
+title: A red ball of wool
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:20260816_needles.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/20260816_needles.jpg/1920px-20260816_needles.jpg
+  retrieved: 2026-10-20
+author: Tn.kuvat
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “20260816 needles.jpg” by Tn.kuvat, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: A ball of red yarn pierced by knitting needles, standing on a reflective surface against a blue-grey background.

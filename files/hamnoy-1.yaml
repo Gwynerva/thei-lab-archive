@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Hamnøy in snow
+description: The red cabins of Hamnøy under a mountain dusted with snow, the sea churning round the rocks. Cold enough to hurt.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hamnoy_-_Lofoten,_Norway_-_Seascape_photography_(49568951078).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Hamnoy_-_Lofoten%2C_Norway_-_Seascape_photography_%2849568951078%29.jpg/1920px-Hamnoy_-_Lofoten%2C_Norway_-_Seascape_photography_%2849568951078%29.jpg
+  retrieved: 2026-10-20
+author: Giuseppe Milo from Dublin, Ireland
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Hamnoy - Lofoten, Norway - Seascape photography (49568951078).jpg” by Giuseppe Milo from Dublin, Ireland, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Red fishermen's cabins on rocks at Hamnøy in Lofoten in winter, a snow-covered peak behind, long-exposure sea swirling around the rocks.

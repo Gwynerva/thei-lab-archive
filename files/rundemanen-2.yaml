@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The hut on Rundemanen
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rundemanen_Bergen_Norway_2009_14.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Rundemanen_Bergen_Norway_2009_14.JPG/1920px-Rundemanen_Bergen_Norway_2009_14.JPG
+  retrieved: 2026-10-20
+author: Sveter
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Rundemanen Bergen Norway 2009 14.JPG” by Sveter, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small green wooden building with an antenna on the snowy top of Rundemanen in Bergen, January, bright sky.

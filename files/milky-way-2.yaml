@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: Camping under the Milky Way
+description: A glowing tent under the Milky Way. Torch on, nobody sleeping.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Copper_Breaks_State_Park_with_the_Milky_Way_Galaxy.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Copper_Breaks_State_Park_with_the_Milky_Way_Galaxy.jpg/1920px-Copper_Breaks_State_Park_with_the_Milky_Way_Galaxy.jpg
+  retrieved: 2026-10-20
+author: Matthew T Rader
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Copper Breaks State Park with the Milky Way Galaxy.jpg” by Matthew T Rader, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, PNG, metadata removed"
+people: none
+truth: The Milky Way over a campsite at Copper Breaks State Park, Texas, a lit blue tent and a triangular shelter in silhouette under a starry sky.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The bridge, close
+description: The bridge and the f-holes, the fine tuners catching the light.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cello_bridge2.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Cello_bridge2.JPG/1920px-Cello_bridge2.JPG
+  retrieved: 2026-10-20
+author: Turidoth
+licence: CC-BY-SA-2.5
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.5
+attribution: “Cello bridge2.JPG” by Turidoth, CC BY-SA 2.5, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of the bridge area of a cello, both f-holes, the strings and the tailpiece with fine tuners, orange varnish, plain light background.

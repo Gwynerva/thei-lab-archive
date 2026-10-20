@@ -1,0 +1,15 @@
+kind: image
+ext: svg
+title: Tired face
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Font_Awesome_5_regular_tired.svg
+  download: https://upload.wikimedia.org/wikipedia/commons/2/2c/Font_Awesome_5_regular_tired.svg
+  retrieved: 2026-10-20
+author: Font Awesome
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Font Awesome 5 regular tired.svg” by Font Awesome, CC BY 4.0, via Wikimedia Commons
+transform: the original SVG, unchanged
+people: none
+truth: A black outline icon of a round face with squeezed-shut eyes and a downturned open mouth.

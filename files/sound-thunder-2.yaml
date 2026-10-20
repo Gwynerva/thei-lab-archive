@@ -1,0 +1,16 @@
+kind: audio
+ext: ogg
+title: A thunderstorm rolling in
+description: Counted the seconds between the flash and the bang the way Dad taught us. Four, then two, then none.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Thunder.wav
+  download: https://upload.wikimedia.org/wikipedia/commons/1/1b/Thunder.wav
+  retrieved: 2026-10-20
+author: Subhashish Panigrahi
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Thunder.wav” by Subhashish Panigrahi, CC BY-SA 4.0, via Wikimedia Commons
+transform: from the original, Ogg Vorbis q5
+people: none
+truth: Rolling thunder recorded in Bengaluru, Karnataka, India.

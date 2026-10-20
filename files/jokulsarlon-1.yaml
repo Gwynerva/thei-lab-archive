@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Jökulsárlón at dusk
+description: Pink clouds, icebergs and the glacier, all of it upside down in the lagoon. Neither of us said anything for a while.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Jokulsarlon_lake,_Iceland.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Jokulsarlon_lake%2C_Iceland.jpg/1920px-Jokulsarlon_lake%2C_Iceland.jpg
+  retrieved: 2026-10-20
+author: Kenny Muir
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Jokulsarlon lake, Iceland.jpg” by Kenny Muir, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Jökulsárlón glacier lagoon at dusk, floating ice and pink clouds reflected in still water, snowy mountains and the glacier tongue behind, rocks in front.

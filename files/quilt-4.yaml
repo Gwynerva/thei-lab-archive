@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Scraps for patchwork
+description: Little triangles of old printed cotton laid out like a sample card. Nana kept hers in a biscuit tin.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:A._Zimet,_Patchwork_Quilt,_c._1938,_NGA_14860.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/A._Zimet%2C_Patchwork_Quilt%2C_c._1938%2C_NGA_14860.jpg/1920px-A._Zimet%2C_Patchwork_Quilt%2C_c._1938%2C_NGA_14860.jpg
+  retrieved: 2026-10-20
+author: A. Zimet
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “A. Zimet, Patchwork Quilt, c. 1938, NGA 14860.jpg” by A. Zimet, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A watercolour rendering, about 1938, of patchwork pieces, six triangles of printed cotton and a strip of red and black floral fabric.

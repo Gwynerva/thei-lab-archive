@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Pans, close up
+description: The pans close up, with a dab of each colour on paper to see how it really looks.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Farbkasten.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Farbkasten.jpg/1920px-Farbkasten.jpg
+  retrieved: 2026-10-20
+author: Lars Kilian
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Farbkasten.jpg” by Lars Kilian, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of a watercolour box with rows of colour pans and dabs of paint on white paper in front, shallow focus.

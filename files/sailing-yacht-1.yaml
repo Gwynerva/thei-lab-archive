@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: From the top of the mast
+description: Looking straight down from the masthead, the spinnaker full and the deck tiny below. My knees still remember the climb.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sailboat_with_spinnaker_17RM0454.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Sailboat_with_spinnaker_17RM0454.jpg/1920px-Sailboat_with_spinnaker_17RM0454.jpg
+  retrieved: 2026-10-20
+author: Ermell
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Sailboat with spinnaker 17RM0454.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: View straight down from a yacht's masthead, a big spinnaker striped yellow, green, red and blue, the white deck and one small figure, dark blue sea. Stockholm archipelago, old slide.

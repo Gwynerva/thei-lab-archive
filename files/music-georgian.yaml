@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: Thou art a vineyard
+description: The old Georgian hymn, three voices weaving round each other. We heard it sung in a church in Tbilisi and I had to sit down.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Shen_khar_venakhi1.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/5/56/Shen_khar_venakhi1.ogg
+  retrieved: 2026-10-20
+author: Sosomk at Wikipedia
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Shen khar venakhi1.ogg” by Sosomk at Wikipedia, public domain, via Wikimedia Commons
+transform: "from the original: first 180 s with a 2 s fade-out, MP3 VBR q2"
+people: incidental
+truth: Shen Khar Venakhi (Thou Art a Vineyard), a medieval Georgian polyphonic hymn, sung by a group of voices.

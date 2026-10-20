@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Cutting the block
+description: The gouge going round the lines of the design. Always cut away from the hand that holds the block, which I learned the hard way.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Preparing_a_Linocut_Design.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Preparing_a_Linocut_Design.jpg/1920px-Preparing_a_Linocut_Design.jpg
+  retrieved: 2026-10-20
+author: Zephyris
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Preparing a Linocut Design.jpg” by Zephyris, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Hands cutting a design into a grey linoleum block with a wooden-handled gouge, pencilled lines visible, on a wooden table.

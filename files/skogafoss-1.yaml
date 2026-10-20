@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Skógafoss
+description: Skógafoss from the front, a wall of white water. You can hear it from the car park.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sk%C3%B3gafoss_July_2014.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Sk%C3%B3gafoss_July_2014.JPG/1920px-Sk%C3%B3gafoss_July_2014.JPG
+  retrieved: 2026-10-20
+author: Martin Falbisoner
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Skógafoss July 2014.JPG” by Martin Falbisoner, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Long-exposure front view of Skógafoss, a wide waterfall dropping over a green cliff with mist rising, grassy slopes either side, summer.

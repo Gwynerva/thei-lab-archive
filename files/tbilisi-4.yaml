@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The Kura from the fortress
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kura_River_in_the_central_part_of_Tbilisi,_2007-09-28.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg/1920px-Kura_River_in_the_central_part_of_Tbilisi%2C_2007-09-28.jpg
+  retrieved: 2026-10-20
+author: EvgenyGenkin
+licence: CC-BY-2.5
+licenceUrl: https://creativecommons.org/licenses/by/2.5
+attribution: “Kura River in the central part of Tbilisi, 2007-09-28.jpg” by EvgenyGenkin, CC BY 2.5, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Kura (Mtkvari) river through central Tbilisi seen from Narikala hill, looking upstream past Metekhi cliff and churches to the Holy Trinity Cathedral.

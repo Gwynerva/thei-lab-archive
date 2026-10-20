@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: The library towers in lidar
+description: The four towers of the national library in Paris, built out of lidar points.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:BNF_Lidar_HD.png
+  download: https://upload.wikimedia.org/wikipedia/commons/8/8d/BNF_Lidar_HD.png
+  retrieved: 2026-10-20
+author: FuzzyGeo
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “BNF Lidar HD.png” by FuzzyGeo, CC BY 4.0, via Wikimedia Commons
+transform: "from the original: long side 1920, PNG, metadata removed"
+people: none
+truth: A 3D view of the François-Mitterrand site of the French national library in Paris from lidar data, four L-shaped towers and the sunken garden in coloured points.

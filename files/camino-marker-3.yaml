@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: A wooden Camino post
+description: A wooden waymark with a blue tile scallop, standing in the gravel.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Poste_Camino_de_Santiago.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/0/0e/Poste_Camino_de_Santiago.jpg
+  retrieved: 2026-10-20
+author: Willtron
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Poste Camino de Santiago.jpg” by Willtron, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the original: long side 1920, WebP q80, metadata removed"
+people: none
+truth: A wooden Way of St James waymark with a blue tile showing a yellow scallop and a walker symbol, in gravel by bushes; Huesca, Spain.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Slices with holes
+description: The open crumb I'd been chasing for months.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Slices_of_sourdough_bread.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Slices_of_sourdough_bread.jpg/1920px-Slices_of_sourdough_bread.jpg
+  retrieved: 2026-10-20
+author: Angel Ganev
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Slices of sourdough bread.jpg” by Angel Ganev, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Slices of sourdough bread on a white plate showing an open crumb and a dark crust.

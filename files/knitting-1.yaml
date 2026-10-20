@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Fair Isle on the needles
+description: Fair Isle in progress, two colours to a row, the pattern growing a diamond at a time.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Fairisle_work.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Fairisle_work.jpg/1280px-Fairisle_work.jpg
+  retrieved: 2026-10-20
+author: Sudzie
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Fairisle work.jpg” by Sudzie, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Fair Isle knitting in pink, grey-green and cream patterns with balls of wool and needles on top, a wicker basket behind, a date stamp of 30/03/2021 in the corner.

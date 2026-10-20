@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A tray of pastéis
+description: A whole tray of pastéis de nata, the tops scorched just right.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pastel_de_nata_septembre_2015.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Pastel_de_nata_septembre_2015.jpg/1920px-Pastel_de_nata_septembre_2015.jpg
+  retrieved: 2026-10-20
+author: Photo Claude TRUONG-NGOC
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Pastel de nata septembre 2015.jpg” by Photo Claude TRUONG-NGOC, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of a tray of pastéis de nata, custard tarts with dark caramelised spots on top.

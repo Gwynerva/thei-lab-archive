@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Løvstakken with snow on top
+description: Løvstakken from Rundemanen in January, white on top and dark forest below.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lovstakken_Bergen_Norway_1.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Lovstakken_Bergen_Norway_1.JPG/1920px-Lovstakken_Bergen_Norway_1.JPG
+  retrieved: 2026-10-20
+author: Sveter
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Lovstakken Bergen Norway 1.JPG” by Sveter, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Løvstakken in Bergen seen from Rundemanen in January, its summit dusted with snow above dark forest, islands and fjord to the left.

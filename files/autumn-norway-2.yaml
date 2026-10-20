@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Autumn near Gullesfjordbotn
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Autumn_landscape_near_Gullesfjordbotn,_Hinn%C3%B8ya,_2010_September.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Autumn_landscape_near_Gullesfjordbotn%2C_Hinn%C3%B8ya%2C_2010_September.jpg/1920px-Autumn_landscape_near_Gullesfjordbotn%2C_Hinn%C3%B8ya%2C_2010_September.jpg
+  retrieved: 2026-10-20
+author: Ximonic (Simo Räsänen)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Autumn landscape near Gullesfjordbotn, Hinnøya, 2010 September.jpg” by Ximonic (Simo Räsänen), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An autumn valley near Gullesfjordbotn on Hinnøya, Norway, orange and red birch scrub in front, mountains with low sun and clouds behind, September.

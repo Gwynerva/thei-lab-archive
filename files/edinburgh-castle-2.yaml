@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Half Moon Battery
+description: The big round battery on a clear December day.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_dec.23_(2).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Edinburgh_Castle_dec.23_%282%29.jpg/1920px-Edinburgh_Castle_dec.23_%282%29.jpg
+  retrieved: 2026-10-20
+author: Peulle
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Edinburgh Castle dec.23 (2).jpg” by Peulle, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The round Half Moon Battery and tall palace walls of Edinburgh Castle against a pale blue sky, December.

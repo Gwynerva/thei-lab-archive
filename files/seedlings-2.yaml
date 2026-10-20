@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Seedlings in a pot
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Unidentified_seedlings_in_a_pot,_April_2020_(1).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Unidentified_seedlings_in_a_pot%2C_April_2020_%281%29.jpg/1920px-Unidentified_seedlings_in_a_pot%2C_April_2020_%281%29.jpg
+  retrieved: 2026-10-20
+author: Eiku en exil
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Unidentified seedlings in a pot, April 2020 (1).jpg” by Eiku en exil, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A few weeks-old seedlings with small leaves in dark soil in a terracotta-coloured plastic pot, seen from above.

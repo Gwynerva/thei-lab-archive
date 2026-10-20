@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Reine and its mountains
+description: Reine under its jagged mountains, the whole thing upside down in the water.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Reine_i_Lofoten_LC0148.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Reine_i_Lofoten_LC0148.jpg/1920px-Reine_i_Lofoten_LC0148.jpg
+  retrieved: 2026-10-20
+author: Jörg Hempel
+licence: CC-BY-SA-2.0-DE
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0/de/deed.en
+attribution: “Reine i Lofoten LC0148.jpg” by Jörg Hempel, CC BY-SA 2.0 de, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The village of Reine on Moskenesøya in Lofoten, red and white houses at the water's edge below steep jagged peaks, mirrored in calm water.

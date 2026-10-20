@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Nib test
+description: A page of the quick brown fox in black ink, testing nibs. Every pen gets this before it goes anywhere near the plotter.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Noodler%27s_Black_fountain_pen_ink_writing_samples.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Noodler%27s_Black_fountain_pen_ink_writing_samples.jpg/1920px-Noodler%27s_Black_fountain_pen_ink_writing_samples.jpg
+  retrieved: 2026-10-20
+author: Francis Flinch
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Noodler's Black fountain pen ink writing samples.jpg” by Francis Flinch, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Handwritten pangram samples in black fountain pen ink on white paper, each followed by notes naming the pen, nib and ink used.

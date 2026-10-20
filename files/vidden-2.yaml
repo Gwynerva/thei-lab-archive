@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Down into Hardbakkadalen
+description: The steep way down from Vidden into Hardbakkadalen, a small lake at the bottom and the fjord beyond.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hardbakkadalen,_Bergen.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Hardbakkadalen%2C_Bergen.jpg/1920px-Hardbakkadalen%2C_Bergen.jpg
+  retrieved: 2026-10-20
+author: Svein Harkestad
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Hardbakkadalen, Bergen.jpg” by Svein Harkestad, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: The steep valley of Hardbakkadalen in Bergen seen on the descent from Langelivatnet, a small lake below and fjord in the distance.

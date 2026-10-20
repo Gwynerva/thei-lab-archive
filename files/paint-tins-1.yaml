@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: White paint and a brush
+description: The fourth tin of white. Window frames take more than you'd think.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Paint_bucket_and_brush.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Paint_bucket_and_brush.jpg/1920px-Paint_bucket_and_brush.jpg
+  retrieved: 2026-10-20
+author: Ionenlaser
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Paint bucket and brush.jpg” by Ionenlaser, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An open tin of white paint with a flat brush resting across it, on a dusty floor, seen from above.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit at the door
+description: Biscuit waiting at the front door with that face. Dinner was, in his view, late.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Orange_Tabby_Cat_2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Orange_Tabby_Cat_2.jpg/1280px-Orange_Tabby_Cat_2.jpg
+  retrieved: 2026-10-20
+author: Kalel Tonatiuh
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Orange Tabby Cat 2.jpg” by Kalel Tonatiuh, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A fluffy orange tabby cat with a white chest sitting on a concrete step in front of a dark wooden door, looking up at the camera.

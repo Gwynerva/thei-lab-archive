@@ -1,0 +1,16 @@
+kind: video
+ext: mov
+title: Snow in front of the fir
+description: Big soft flakes falling past a dark fir tree, filmed in slow motion.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Snowfall-240fps.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/3/36/Snowfall-240fps.webm
+  retrieved: 2026-10-20
+author: Cody Logan
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Snowfall-240fps.webm” by Cody Logan, CC BY 3.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, H.264, no sound, MOV"
+people: none
+truth: Snowflakes falling in front of a large conifer and a lawn turning white, filmed at high frame rate, Washington state, February.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Mares' tails
+description: Mares' tails combed across the morning sky. Wind tomorrow, probably.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cirrus_uncinus_clouds_in_the_morning_sky.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Cirrus_uncinus_clouds_in_the_morning_sky.jpg/1920px-Cirrus_uncinus_clouds_in_the_morning_sky.jpg
+  retrieved: 2026-10-20
+author: ADARSHluck
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Cirrus uncinus clouds in the morning sky.jpg” by ADARSHluck, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Cirrus uncinus clouds in wispy hooked streaks across a deep blue morning sky above a wooded hill, near Mandi, Himachal Pradesh, India.

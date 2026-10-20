@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Seyðisfjörður from the pass
+description: Coming down into Seyðisfjörður, the fjord and the town laid out like a map.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sey%C3%B0isfj%C3%B6r%C3%B0ur_Sept_2019_1.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Sey%C3%B0isfj%C3%B6r%C3%B0ur_Sept_2019_1.jpg/1920px-Sey%C3%B0isfj%C3%B6r%C3%B0ur_Sept_2019_1.jpg
+  retrieved: 2026-10-20
+author: Kasa Fue
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Seyðisfjörður Sept 2019 1.jpg” by Kasa Fue, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: View over Seyðisfjörður from high on the slope, the town and harbour with a cruise ship, the long fjord between steep green and brown mountains.

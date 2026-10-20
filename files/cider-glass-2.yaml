@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Pink cider at the shop
+description: A glass of pink cider held up in front of shelves of bottles. Research, I told Jonas.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pomme_Cider_Shop_-_July_29_2022_-_Sarah_Stierch.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Pomme_Cider_Shop_-_July_29_2022_-_Sarah_Stierch.jpg/1920px-Pomme_Cider_Shop_-_July_29_2022_-_Sarah_Stierch.jpg
+  retrieved: 2026-10-20
+author: Missvain
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Pomme Cider Shop - July 29 2022 - Sarah Stierch.jpg” by Missvain, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: incidental
+truth: A hand holding a stemmed glass of rosy-red cider in front of shelves of cider bottles and cans in a cider shop in Sonoma, California.

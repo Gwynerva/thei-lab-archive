@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Oak leaves against the sky
+description: Red oak leaves on a twig against a clear blue sky, Toulouse in November.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Toulouse_-_Quercus_leaves_-_02.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Toulouse_-_Quercus_leaves_-_02.jpg/1920px-Toulouse_-_Quercus_leaves_-_02.jpg
+  retrieved: 2026-10-20
+author: PierreSelim
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Toulouse - Quercus leaves - 02.jpg” by PierreSelim, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A twig of red oak with orange-brown autumn leaves against a clear blue sky, in a garden in Toulouse, France, in November.

@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: The Shore from the top of the bus
+description: Down to the Shore on the top deck, sped up. Home for five years in twenty-five seconds.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hyperlapse_from_double_decker_bus_top_en_route_Royal_Yacht_Britannia_Edinburgh,_Scotland_UK.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/a/a8/Hyperlapse_from_double_decker_bus_top_en_route_Royal_Yacht_Britannia_Edinburgh%2C_Scotland_UK.webm
+  retrieved: 2026-10-20
+author: Subhashish Panigrahi
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Hyperlapse from double decker bus top en route Royal Yacht Britannia Edinburgh, Scotland UK.webm” by Subhashish Panigrahi, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, H.264, no sound, MP4"
+people: incidental
+truth: Hyperlapse from the top deck of a bus passing The Shore in Leith, Edinburgh, the Water of Leith bridge, stone buildings, people on the pavement, sunny.

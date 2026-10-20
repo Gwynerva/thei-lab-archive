@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Prints drying
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Celtic_Knot_2024_Prints_by_Attendees_of_Aoife_Cawley_Linocut_Workshop_2.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/c/c2/Celtic_Knot_2024_Prints_by_Attendees_of_Aoife_Cawley_Linocut_Workshop_2.jpg
+  retrieved: 2026-10-20
+author: RealityBites
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Celtic Knot 2024 Prints by Attendees of Aoife Cawley Linocut Workshop 2.jpg” by RealityBites, CC0, via Wikimedia Commons
+transform: "from the original: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Linocut prints of a knot design in red, blue and green on a workshop table, tubes of printing ink and crumpled paper beside them.

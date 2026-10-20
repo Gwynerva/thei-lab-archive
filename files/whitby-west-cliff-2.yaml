@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Whalebones in the evening
+description: The whalebone arch on the West Cliff in early evening light, the abbey across the water.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_West_Cliff_Whalebones.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Whitby_West_Cliff_Whalebones.jpg/1920px-Whitby_West_Cliff_Whalebones.jpg
+  retrieved: 2026-10-20
+author: Illuminatusds
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Whitby West Cliff Whalebones.jpg” by Illuminatusds, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The whalebone arch on Whitby's West Cliff in early evening light, the East Cliff with the abbey and the harbour behind, people sitting on benches.

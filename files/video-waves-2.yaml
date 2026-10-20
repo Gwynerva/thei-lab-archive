@@ -1,0 +1,16 @@
+kind: video
+ext: webm
+title: The black beach in the east
+description: A black sand beach under a steep scree slope, the surf coming in white. Priya made me stop the car.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ocean_waves_at_L%C3%A6kjavik_beach,_Iceland.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/9/9b/Ocean_waves_at_L%C3%A6kjavik_beach%2C_Iceland.webm
+  retrieved: 2026-10-20
+author: Alexander Grebenkov
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Ocean waves at Lækjavik beach, Iceland.webm” by Alexander Grebenkov, CC BY 3.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, VP9 with Opus sound, WEBM"
+people: none
+truth: Waves washing onto a black sand beach below a steep scree slope at Lækjavík on the Ring Road in East Iceland, grey sea, overcast.

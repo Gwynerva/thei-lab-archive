@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The abbey on a dull day
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_Abbey_(ruins)_2013-09-04_11-25-09.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Whitby_Abbey_%28ruins%29_2013-09-04_11-25-09.jpg/1920px-Whitby_Abbey_%28ruins%29_2013-09-04_11-25-09.jpg
+  retrieved: 2026-10-20
+author: aude
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Whitby Abbey (ruins) 2013-09-04 11-25-09.jpg” by aude, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Whitby Abbey ruins seen side-on across open grass under a flat grey sky, the long nave wall and the east end, one small figure walking.

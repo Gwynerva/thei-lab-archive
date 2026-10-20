@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The snowy forest road
+description: A forest road deep in fresh snow, two tyre tracks and nobody else.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Forest_road_Slavne_2017_G8.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Forest_road_Slavne_2017_G8.jpg/1920px-Forest_road_Slavne_2017_G8.jpg
+  retrieved: 2026-10-20
+author: George Chernilevsky
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Forest road Slavne 2017 G8.jpg” by George Chernilevsky, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A forest road covered in fresh snow with two wheel ruts, snow-laden trees on both sides, near Slavne, Vinnytsia region, Ukraine.

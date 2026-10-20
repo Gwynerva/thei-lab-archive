@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A steamer coming up the fjord, 1914
+description: An old steamship coming straight at the camera through the fjord mist.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hardanger-fjord,_DS_Voringen_g%C5%91zhaj%C3%B3_47260.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Hardanger-fjord%2C_DS_Voringen_g%C5%91zhaj%C3%B3_47260.jpg/1920px-Hardanger-fjord%2C_DS_Voringen_g%C5%91zhaj%C3%B3_47260.jpg
+  retrieved: 2026-10-20
+author: Zsuzsa Vargha
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Hardanger-fjord, DS Voringen gőzhajó 47260.jpg” by Zsuzsa Vargha, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Black-and-white photograph of the steamship Vøringen on the Hardangerfjord between steep misty mountainsides; 1914.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Adishi glacier
+description: The glacier above Adishi, and the cold grey river we had to wade the next morning.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Adishi_Glacier.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Adishi_Glacier.jpg/1920px-Adishi_Glacier.jpg
+  retrieved: 2026-10-20
+author: Martin Lopatka
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Adishi Glacier.jpg” by Martin Lopatka, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Adishi glacier, a hanging icefall between dark peaks, with moraine and a stony valley floor below, deep blue sky; Svaneti, Georgia.

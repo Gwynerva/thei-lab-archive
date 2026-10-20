@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Brisbane, lights going down
+description: The concert hall in Brisbane just before the start, the stage blue and the audience settling.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Interior_of_Brisbane_Concert_Hall_at_QPAC_in_2025,_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Interior_of_Brisbane_Concert_Hall_at_QPAC_in_2025%2C_01.jpg/1920px-Interior_of_Brisbane_Concert_Hall_at_QPAC_in_2025%2C_01.jpg
+  retrieved: 2026-10-20
+author: Chris Olszewski
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Interior of Brisbane Concert Hall at QPAC in 2025, 01.jpg” by Chris Olszewski, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Interior of the Brisbane Concert Hall at QPAC, Australia, 2025, an audience in red seats facing a blue-lit stage with organ pipes, a white sculpted ceiling.

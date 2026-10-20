@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Fishing boats in Vågen
+description: Boats along the quay on a dead-calm morning, the whole harbour like glass.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen_Harbour_-_Matthias_Ripp.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Bergen_Harbour_-_Matthias_Ripp.jpg/1920px-Bergen_Harbour_-_Matthias_Ripp.jpg
+  retrieved: 2026-10-20
+author: Matthias Ripp from Bamberg, Germany
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Bergen Harbour - Matthias Ripp.jpg” by Matthias Ripp from Bamberg, Germany, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Fishing boats moored along the quay in Vågen, Bergen's harbour, mirrored in calm blue water, hotels and offices along the waterfront.

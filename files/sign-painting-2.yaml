@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: STATE in tiles
+description: A street name hand-lettered on tiles and set into the pavement.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:State_Street_at_Patton,_Uptown_New_Orleans_-_Gutter_and_custom_tiles.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/State_Street_at_Patton%2C_Uptown_New_Orleans_-_Gutter_and_custom_tiles.jpg/1920px-State_Street_at_Patton%2C_Uptown_New_Orleans_-_Gutter_and_custom_tiles.jpg
+  retrieved: 2026-10-20
+author: Infrogmation
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “State Street at Patton, Uptown New Orleans - Gutter and custom tiles.jpg” by Infrogmation, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Hand-painted blue lettering spelling STATE on white tiles set into a pavement at a street corner in New Orleans, a brick gutter and leaf shadows.

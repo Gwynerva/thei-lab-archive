@@ -467,3 +467,57 @@
 - { id: doc-whitby, q: "Whitby", n: 1, type: pdf }
 - { id: doc-map-symbols, q: "map symbols", n: 1, type: pdf }
 - { id: doc-camino, q: "Camino de Santiago", n: 1, type: pdf }
+
+# ---------------------------------------------------------------- Top-up: subjects the first round came short of
+- { id: leith-river, q: "Water of Leith river Edinburgh", n: 4, qi: false }
+- { id: staithes-harbour, q: "Staithes harbour", n: 1, qi: false }
+- { id: maruyama-sakura, q: "Maruyama park sakura", n: 1, qi: false }
+- { id: hardanger-fruit, q: "Lofthus blossom", n: 2, qi: false }
+- { id: hardanger-winter, q: "Ullensvang winter", n: 2, qi: false }
+- { id: porto-riverside, q: "Porto Douro riverside Ribeira houses", n: 2, qi: false }
+- { id: bookbinding, q: "bookbinding", n: 3, qi: false }
+- { id: jack-plane, q: "jack plane", n: 2, qi: false }
+- { id: oak-planks, q: "oak planks", n: 2, qi: false }
+- { id: mora-knife, q: "Mora knife", n: 1, qi: false }
+- { id: skeins, q: "skeins wool", n: 2, qi: false }
+- { id: glass-fibre, q: "glass fibre fabric", n: 2, qi: false }
+- { id: copper-wire-reel, q: "copper wire", n: 1, qi: false }
+- { id: wooden-kayak, q: "wooden kayak", n: 2, qi: false }
+- { id: woodworking-tools, q: "woodworking tools", n: 2, qi: false }
+- { id: floorboards, q: "floorboards", n: 1, qi: false }
+- { id: ramen-bowl, q: "ramen noodle soup", n: 1, qi: false }
+- { id: orange-cat, q: "orange tabby cat", n: 4, qi: false, for: "Biscuit" }
+- { id: letterpress, q: "letterpress type", n: 1, qi: false }
+- { id: coptic-stitch, q: "coptic stitch", n: 1, qi: false }
+- { id: fountain-pen, q: "fountain pen ink", n: 1, qi: false }
+- { id: chisel, q: "chisel woodworking", n: 1, qi: false }
+- { id: cider-glass, q: "glass of cider", n: 2, qi: false }
+- { id: notebook-paper, q: "notebook paper", n: 1, qi: false }
+- { id: old-college-quad, q: "Old College quad Edinburgh", n: 1, qi: false }
+- { id: cairngorm-plateau, q: "Cairngorm plateau", n: 1, qi: false }
+- { id: surveying-instrument, q: "surveying instrument tripod", n: 2, qi: false }
+- { id: empty-chairs, q: "empty chairs concert hall", n: 2, qi: false }
+- { id: bergen-old-map, q: "map of Bergen 18th century", n: 2, qi: false }
+- { id: camino-route-map, q: "Camino Portugues", n: 1, type: png }
+- { id: icon-extra, q: "Font Awesome 5 regular", n: 5, type: svg, for: "icons of tags, pages and projects" }
+- { id: video-harbour, q: "harbour boats", n: 2, type: video, as: [mp4, webm] }
+- { id: video-orchard, q: "apple orchard", n: 1, type: video, as: mov }
+- { id: video-atlantic, q: "Atlantic coast waves", n: 1, type: video, as: mp4 }
+- { id: video-caucasus, q: "Caucasus mountains", n: 1, type: video, as: webm }
+- { id: sound-sea, q: "sea waves", n: 3, type: audio, as: [flac, wav, ogg] }
+- { id: sound-seabirds, q: "seabird colony", n: 1, type: audio, as: m4a }
+- { id: sound-port, q: "port ship sounds", n: 1, type: audio, as: mp3 }
+- { id: music-folk-fiddle, q: "Norwegian folk music fiddle", n: 2, type: audio, as: [ogg, flac] }
+- { id: music-quartet, q: "string quartet", n: 2, type: audio, as: [mp3, m4a] }
+- { id: sound-fireplace, q: "fireplace crackling", n: 1, type: audio, as: wav }
+- { id: doc-geology-survey, q: "geological survey report", n: 1, type: pdf }
+- { id: bergen-street, q: "Bergen street", n: 3, qi: false }
+- { id: hardanger-orchard, q: "Hardanger orchard", n: 3, qi: false }
+- { id: edinburgh-skyline, q: "Edinburgh skyline", n: 2 }
+- { id: whitby-beach, q: "Whitby beach", n: 2, qi: false }
+- { id: fjord-reflection, q: "fjord reflection Norway", n: 2 }
+- { id: norwegian-cabin, q: "Norwegian cabin", n: 2, qi: false }
+- { id: autumn-norway, q: "autumn Norway", n: 2 }
+- { id: moss-forest, q: "moss forest Norway", n: 2, qi: false }
+- { id: meadow-flowers, q: "wild flowers meadow Norway", n: 2, qi: false }
+- { id: lighthouse-norway, q: "lighthouse Norway", n: 2 }

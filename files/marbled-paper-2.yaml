@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Blue stone pattern
+description: A sheet in the stone pattern, mostly blues. My best one from the first day, more or less.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Marbled_Paper_(2646571984).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Marbled_Paper_%282646571984%29.jpg/1920px-Marbled_Paper_%282646571984%29.jpg
+  retrieved: 2026-10-20
+author: justgrimes
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Marbled Paper (2646571984).jpg” by justgrimes, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A sheet of marbled paper in a stone pattern of blue, black, red and yellow spots, lying on a dark surface.

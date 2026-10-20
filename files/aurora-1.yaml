@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Northern lights over the water
+description: The aurora over the fjord, green and violet, and the rocks on the shore catching it in the water.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Aurora_Borealis_Norway_2013.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Aurora_Borealis_Norway_2013.jpg/1920px-Aurora_Borealis_Norway_2013.jpg
+  retrieved: 2026-10-20
+author: Carsten
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Aurora Borealis Norway 2013.jpg” by Carsten, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Green and violet aurora borealis over snowy mountains and a fjord at Djupvik in Troms, Norway, the lights reflected in water among rocks.

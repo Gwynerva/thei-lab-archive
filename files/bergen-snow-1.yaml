@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Four trees on Blåmanen
+description: Fresh snow on Blåmanen and four little trees standing in it, the whole city and fjord below. The best kind of February day.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:View_Bergen_Blamanen_2009_2.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/View_Bergen_Blamanen_2009_2.JPG/1920px-View_Bergen_Blamanen_2009_2.JPG
+  retrieved: 2026-10-20
+author: Sveter
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “View Bergen Blamanen 2009 2.JPG” by Sveter, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Four small pine trees in deep fresh snow on top of Blåmanen above Bergen, the fjord and islands beyond under a blue sky, February.

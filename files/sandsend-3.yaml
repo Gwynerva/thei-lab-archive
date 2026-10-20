@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Horses on the beach
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sandsend_beach_-_geograph.org.uk_-_3216970.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Sandsend_beach_-_geograph.org.uk_-_3216970.jpg/1920px-Sandsend_beach_-_geograph.org.uk_-_3216970.jpg
+  retrieved: 2026-10-20
+author: Gordon Hatton
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Sandsend beach - geograph.org.uk - 3216970.jpg” by Gordon Hatton, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Sandsend beach at low tide, horse riders and walkers on the wet sand, groyne posts and rocks, the abbey and Whitby on the horizon, hazy.

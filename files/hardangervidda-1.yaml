@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The red hut at Nybu
+description: A red house alone on the plateau, the only colour for miles.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nybu_in_Hardangervidda_mountain_area_in_Norway.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nybu_in_Hardangervidda_mountain_area_in_Norway.jpg/1920px-Nybu_in_Hardangervidda_mountain_area_in_Norway.jpg
+  retrieved: 2026-10-20
+author: Havardtl
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Nybu in Hardangervidda mountain area in Norway.jpg” by Havardtl, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small red wooden house at Nybu on the open Hardangervidda, heather and grass around, a grey cabin behind, blue sky; summer.

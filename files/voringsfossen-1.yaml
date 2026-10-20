@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Vøringsfossen from the top
+description: The fall dropping into Måbødalen and the whole gorge opening out below. Worth every hairpin on the way up.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:V%C3%B8ringfossen.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/V%C3%B8ringfossen.jpg/1920px-V%C3%B8ringfossen.jpg
+  retrieved: 2026-10-20
+author: Kenny Louie
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Vøringfossen.jpg” by Kenny Louie, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Vøringsfossen waterfall plunging into the deep Måbødalen gorge in Eidfjord, green slopes and a river far below; summer.

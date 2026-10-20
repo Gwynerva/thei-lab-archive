@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A repair stand in the street
+description: A public repair stand with the tools on wires and a pump beside it. It has saved me twice.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lynden,_Washington_-_public_bicycle_repair_kit_and_pump_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Lynden%2C_Washington_-_public_bicycle_repair_kit_and_pump_01.jpg/1280px-Lynden%2C_Washington_-_public_bicycle_repair_kit_and_pump_01.jpg
+  retrieved: 2026-10-20
+author: Joe Mabel
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Lynden, Washington - public bicycle repair kit and pump 01.jpg” by Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A public bicycle repair station in Lynden, Washington, a grey post with tools hanging on cables and a bike-holding arm, by a glass wall.

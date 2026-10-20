@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Rundemanen and its mast
+description: The rounded top of Rundemanen in November, the mast poking up into the cloud.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rundemanen,_Bergen.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Rundemanen%2C_Bergen.jpg/1920px-Rundemanen%2C_Bergen.jpg
+  retrieved: 2026-10-20
+author: MAKY.OREL
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Rundemanen, Bergen.jpg” by MAKY.OREL, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The heathery top of Rundemanen above Bergen with its lattice mast, clouds drifting over, November.

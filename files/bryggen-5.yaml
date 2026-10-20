@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The orange house
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Wooden_house_in_Bryggen.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/9/97/Wooden_house_in_Bryggen.jpg
+  retrieved: 2026-10-20
+author: Pudelek
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Wooden house in Bryggen.jpg” by Pudelek, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side 1920, JPEG q85, metadata removed"
+people: incidental
+truth: A single orange wooden house with arched ground-floor windows in Bryggen, Bergen, between red neighbours, a few people walking past.

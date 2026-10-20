@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Woodpile in the snow
+description: Logs split and stacked against the fence, snow all round. Sigrid says a woodpile should look like this by October.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Firewood_in_Russia.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Firewood_in_Russia.jpg/1920px-Firewood_in_Russia.jpg
+  retrieved: 2026-10-20
+author: Dmitry Makeev
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Firewood in Russia.jpg” by Dmitry Makeev, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Split firewood stacked in large piles against a wooden fence in snow, Russia, winter.

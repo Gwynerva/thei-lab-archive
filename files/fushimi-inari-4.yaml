@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A fox at Fushimi Inari
+description: One of the stone foxes that keep the shrine, in a red bib.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:20181110_Fushimi_Inari_shrine_3.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/20181110_Fushimi_Inari_shrine_3.jpg/1280px-20181110_Fushimi_Inari_shrine_3.jpg
+  retrieved: 2026-10-20
+author: Balon Greyjoy
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “20181110 Fushimi Inari shrine 3.jpg” by Balon Greyjoy, CC0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A stone Inari fox statue wearing a red bib on a carved pedestal beside an orange torii at Fushimi Inari Taisha, shrine buildings behind.

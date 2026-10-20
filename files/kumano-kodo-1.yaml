@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A cedar in a coat of moss
+description: On the trail from Koguchi to Nachi, a tree trunk wearing a whole coat of moss.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kumano_Kodo_Pilgrimage_Trail,_Koguchi_to_Nachisan,_Japan_(48912307128).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Kumano_Kodo_Pilgrimage_Trail%2C_Koguchi_to_Nachisan%2C_Japan_%2848912307128%29.jpg/1280px-Kumano_Kodo_Pilgrimage_Trail%2C_Koguchi_to_Nachisan%2C_Japan_%2848912307128%29.jpg
+  retrieved: 2026-10-20
+author: Steve Shattuck from Canberra, Australia
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Kumano Kodo Pilgrimage Trail, Koguchi to Nachisan, Japan (48912307128).jpg” by Steve Shattuck from Canberra, Australia, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A tall tree trunk completely covered in green moss on the Kumano Kodo trail between Koguchi and Nachisan, other trees and undergrowth around.

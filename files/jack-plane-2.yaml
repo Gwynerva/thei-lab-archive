@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: An old jack plane
+description: A battered old jack plane on a pine table, rust down the sides and still cutting. Dad's has the same knob, worn the same way.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Charade_-42_answer_(149252551).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Charade_-42_answer_%28149252551%29.jpg/1920px-Charade_-42_answer_%28149252551%29.jpg
+  retrieved: 2026-10-20
+author: Andy / Andrew Fogg from near Cambridge, UK
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Charade -42 answer (149252551).jpg” by Andy / Andrew Fogg from near Cambridge, UK, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A well-used, rusty metal jack plane with a wooden knob and handle lying on a pine table.

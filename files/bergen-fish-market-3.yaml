@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Fish at six in the morning
+description: The market still setting up in the dark and the rain, redfish and fillets laid out on ice.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen_Fish-market_at_6AM.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Bergen_Fish-market_at_6AM.jpg/1920px-Bergen_Fish-market_at_6AM.jpg
+  retrieved: 2026-10-20
+author: Cory Doctorow from London, UK
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Bergen Fish-market at 6AM.jpg” by Cory Doctorow from London, UK, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Fish laid out at Bergen fish market early in the morning, orange redfish and pale fillets heaped in a display, lit by flash.

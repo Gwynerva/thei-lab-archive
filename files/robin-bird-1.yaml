@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The robin with its head on one side
+description: A robin on a twig with its head cocked, the one I drew for the linocut.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_with_cocked_head.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Erithacus_rubecula_with_cocked_head.jpg/1920px-Erithacus_rubecula_with_cocked_head.jpg
+  retrieved: 2026-10-20
+author: Francis C. Franklin
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Erithacus rubecula with cocked head.jpg” by Francis C. Franklin, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A European robin perched on a bare twig with its head cocked, orange breast and grey-brown back, soft blurred background, England.

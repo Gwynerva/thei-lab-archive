@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Nabucco on the stand
+description: An open score of Nabucco on a stand in the dark, waiting for the lights.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nabucco,_score,_2014.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nabucco%2C_score%2C_2014.jpg/1920px-Nabucco%2C_score%2C_2014.jpg
+  retrieved: 2026-10-20
+author: Gerarus
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Nabucco, score, 2014.jpg” by Gerarus, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An open orchestral score of the opera Nabucco, part two, on a music stand in dim light at the Bolshoi Theatre, Moscow.

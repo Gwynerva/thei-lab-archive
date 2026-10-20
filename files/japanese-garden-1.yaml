@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Moss under the trees at Kinkaku-ji
+description: The moss garden at Kinkaku-ji, which I liked more than the golden pavilion. Don't tell anyone.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Moss_Garden_in_Rokuonji_Temple_2.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Moss_Garden_in_Rokuonji_Temple_2.JPG/1920px-Moss_Garden_in_Rokuonji_Temple_2.JPG
+  retrieved: 2026-10-20
+author: そらみみ
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Moss Garden in Rokuonji Temple 2.JPG” by そらみみ, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Moss covering the ground under old twisting trees in the garden of Kinkaku-ji (Rokuon-ji), Kyoto, soft light, early spring.

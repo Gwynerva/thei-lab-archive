@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Ben Lomond at sunset
+description: Ben Lomond on the left as the light went, mist lying in the fields below. My first Munro, seen from the bottom.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sunset_in_The_Trossachs,_Scotland.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Sunset_in_The_Trossachs%2C_Scotland.jpg/1920px-Sunset_in_The_Trossachs%2C_Scotland.jpg
+  retrieved: 2026-10-20
+author: Michal Klajban
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Sunset in The Trossachs, Scotland.jpg” by Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Sunset over Loch Lomond and the Trossachs, Ben Lomond the high peak on the left, mist over fields and scattered trees in the foreground.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A row of redcurrant jam
+description: Jars of redcurrant jam in a row, the pulp on one side and the picked stalks on the other. A whole afternoon, that.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Home-made_redcurrant_jam_-_jars_between_pulp_residue_and_stalks.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Home-made_redcurrant_jam_-_jars_between_pulp_residue_and_stalks.jpg/1920px-Home-made_redcurrant_jam_-_jars_between_pulp_residue_and_stalks.jpg
+  retrieved: 2026-10-20
+author: Franz van Duns
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Home-made redcurrant jam - jars between pulp residue and stalks.jpg” by Franz van Duns, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A row of filled jars of homemade redcurrant jam on a kitchen counter, a heap of pulp on one side and removed stalks on the other.

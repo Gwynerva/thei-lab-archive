@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Edinburgh and Leith, 1935
+description: A pictorial plan of Edinburgh and Leith from 1935, every monument drawn standing up. I can find our street on it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:1935_Reid_Pictorial_Map_of_Edinburgh_and_Leith,_Scotland_-_Geographicus_-_Edinburgh-reid-1935.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/1935_Reid_Pictorial_Map_of_Edinburgh_and_Leith%2C_Scotland_-_Geographicus_-_Edinburgh-reid-1935.jpg/1920px-1935_Reid_Pictorial_Map_of_Edinburgh_and_Leith%2C_Scotland_-_Geographicus_-_Edinburgh-reid-1935.jpg
+  retrieved: 2026-10-20
+author: http://www.geographicus.com/mm5/cartographers/reid.txt
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “1935 Reid Pictorial Map of Edinburgh and Leith, Scotland - Geographicus - Edinburgh-reid-1935.jpg” by http://www.geographicus.com/mm5/cartographers/reid.txt, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A 1935 pictorial map of Edinburgh and Leith in art deco style, streets, parks, railways and landmark buildings drawn in profile, the Firth of Forth at the top.

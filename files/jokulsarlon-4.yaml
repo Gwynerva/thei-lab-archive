@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Icebergs, Jökulsárlón
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:J%C3%B6kuls%C3%A1rl%C3%B3n,_Iceland,_20240719_1143_2545.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/J%C3%B6kuls%C3%A1rl%C3%B3n%2C_Iceland%2C_20240719_1143_2545.jpg/1920px-J%C3%B6kuls%C3%A1rl%C3%B3n%2C_Iceland%2C_20240719_1143_2545.jpg
+  retrieved: 2026-10-20
+author: Jakub Hałun
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Jökulsárlón, Iceland, 20240719 1143 2545.jpg” by Jakub Hałun, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Blue and white floating ice on the grey-green water of Jökulsárlón, dark hills and heavy grey clouds behind.

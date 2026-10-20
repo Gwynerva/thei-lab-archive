@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: The whole name, in one breath
+description: The long name again, stretched right across a brick building by the station.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Llanfairpwllgwyngyll_railway_station_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Llanfairpwllgwyngyll_railway_station_01.jpg/1920px-Llanfairpwllgwyngyll_railway_station_01.jpg
+  retrieved: 2026-10-20
+author: Rémih
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Llanfairpwllgwyngyll railway station 01.jpg” by Rémih, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Grey brick building at Llanfairpwllgwyngyll station with the village's full long name on a sign running across its front, grey sky.

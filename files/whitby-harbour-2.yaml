@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Rowing boats at the quay
+description: Little boats tied up in a row along from Dad's end of the harbour, the kind he spends the winter patching.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Boats_in_Whitby_Harbour_-_geograph.org.uk_-_1972370.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Boats_in_Whitby_Harbour_-_geograph.org.uk_-_1972370.jpg/1920px-Boats_in_Whitby_Harbour_-_geograph.org.uk_-_1972370.jpg
+  retrieved: 2026-10-20
+author: Roger Pagram
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Boats in Whitby Harbour - geograph.org.uk - 1972370.jpg” by Roger Pagram, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: incidental
+truth: Five small blue and white rowing boats moored side by side below a harbour quay in Whitby, a red-brick shed, cars and a few people on the quay, cloudy.

@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: Elgar, Serenade for Strings
+description: The first movement of the Elgar serenade. We played it in the Scratch Orchestra and I have loved it ever since.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Serenade_for_Strings_-mvt-1-_Elgar.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/e/e5/Serenade_for_Strings_-mvt-1-_Elgar.ogg
+  retrieved: 2026-10-20
+author: Edward Elgar, performed by the United States Army Strings
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Serenade for Strings -mvt-1- Elgar.ogg” by Edward Elgar, performed by the United States Army Strings, public domain, via Wikimedia Commons
+transform: "from the original: first 180 s with a 2 s fade-out, MP3 VBR q2"
+people: none
+truth: The first movement of Elgar's Serenade for Strings in E minor, Op. 20, played by a string ensemble.

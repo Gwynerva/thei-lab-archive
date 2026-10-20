@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Djupfjorden, mirror-still
+description: Djupfjorden in Lofoten, the peaks standing on their own reflections. I'd go back just for this.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Djupfjorden,_2010_09.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Djupfjorden%2C_2010_09.jpg/1920px-Djupfjorden%2C_2010_09.jpg
+  retrieved: 2026-10-20
+author: Ximonic, Simo Räsänen
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Djupfjorden, 2010 09.jpg” by Ximonic, Simo Räsänen, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Djupfjorden on Moskenesøya, Lofoten, Norway, steep peaks reflected in calm water, autumn-coloured slopes in front, blue sky and white clouds, September.

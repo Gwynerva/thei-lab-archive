@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The abbey and its reflection
+description: The abbey on a bright, blowy day, doubled in the pond. The first picture of home I put up on the wall in Leith.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_Abbey_1.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Whitby_Abbey_1.jpg/1920px-Whitby_Abbey_1.jpg
+  retrieved: 2026-10-20
+author: Photograph by Mike Peel (www.mikepeel.net).
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Whitby Abbey 1.jpg” by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Whitby Abbey ruins seen across a reedy pond that reflects them, rough grass in front, white clouds and blue sky, the sea and town at left, tiny figures far off.

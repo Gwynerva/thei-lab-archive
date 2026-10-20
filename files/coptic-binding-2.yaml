@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: An old Ethiopian binding
+description: Boards and tooled leather on an old Ethiopian book, sewn the same way as mine, with three hundred years' head start.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Yeha,_chiesa_di_abuna_aftse,_museo,_manoscritto_del_xviii_secolo_00_copertina.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Yeha%2C_chiesa_di_abuna_aftse%2C_museo%2C_manoscritto_del_xviii_secolo_00_copertina.jpg/1920px-Yeha%2C_chiesa_di_abuna_aftse%2C_museo%2C_manoscritto_del_xviii_secolo_00_copertina.jpg
+  retrieved: 2026-10-20
+author: Sailko
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Yeha, chiesa di abuna aftse, museo, manoscritto del xviii secolo 00 copertina.jpg” by Sailko, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: incidental
+truth: Tooled red-brown leather cover of an 18th-century Ethiopian manuscript with a cross design, held up in someone's hands. A church museum at Yeha, Ethiopia.

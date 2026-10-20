@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Akureyri across the fjord
+description: Akureyri from the other side of the fjord, the town in the water and the hills still white on top.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Akureyri-08-Panorama-2018-gje.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Akureyri-08-Panorama-2018-gje.jpg/1920px-Akureyri-08-Panorama-2018-gje.jpg
+  retrieved: 2026-10-20
+author: Gerd Eichmann
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Akureyri-08-Panorama-2018-gje.jpg” by Gerd Eichmann, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Akureyri seen across the still water of Eyjafjörður, houses along the shore, mountains with snow patches behind, blue sky.

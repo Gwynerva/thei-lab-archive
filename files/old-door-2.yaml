@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: An arched door in a stone wall
+description: A small arched wooden door in a stone wall, plants growing out of every crack.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Old_door_Chania.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Old_door_Chania.jpg/1280px-Old_door_Chania.jpg
+  retrieved: 2026-10-20
+author: Jebulon
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Old door Chania.jpg” by Jebulon, CC0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An old arched wooden door in a rough stone wall with plants growing in the cracks, a stone step in front, Chania, Crete.

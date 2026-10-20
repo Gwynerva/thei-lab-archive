@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The full moon
+description: The full moon, as close as I can get it. Spring tides tonight.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Harvest_Moon_in_Kolkata_September_2026_by_Paramanu_Sarkar.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Harvest_Moon_in_Kolkata_September_2026_by_Paramanu_Sarkar.jpg/1920px-Harvest_Moon_in_Kolkata_September_2026_by_Paramanu_Sarkar.jpg
+  retrieved: 2026-10-20
+author: Paramanu Sarkar
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Harvest Moon in Kolkata September 2026 by Paramanu Sarkar.jpg” by Paramanu Sarkar, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A full moon in the middle of a black frame, its dark seas and bright craters clear, photographed from Kolkata, India, September 2026.

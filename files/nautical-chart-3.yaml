@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Culebra, the modern chart
+description: A modern chart of Culebra in Puerto Rico, all soundings and pale blue shallows.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Culebra_Nautical_chart.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Culebra_Nautical_chart.jpg/1920px-Culebra_Nautical_chart.jpg
+  retrieved: 2026-10-20
+author: Marine Chart Division, National Ocean Service, NOAA
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Culebra Nautical chart.jpg” by Marine Chart Division, National Ocean Service, NOAA, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A NOAA nautical chart of Culebra Island, Puerto Rico, at 1:20,000, the island in buff with blue shallows, soundings, compass roses and notes.

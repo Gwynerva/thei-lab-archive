@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Akureyri church and a rainbow
+description: The church on its hill with a rainbow behind it, which felt like showing off.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Church_and_rainbow_in_Akureyri.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Church_and_rainbow_in_Akureyri.jpg/1920px-Church_and_rainbow_in_Akureyri.jpg
+  retrieved: 2026-10-20
+author: Villy Fink Isaksen
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Church and rainbow in Akureyri.jpg” by Villy Fink Isaksen, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Akureyrarkirkja, a church with twin towers in Akureyri, with a rainbow behind it, trees and a road in front.

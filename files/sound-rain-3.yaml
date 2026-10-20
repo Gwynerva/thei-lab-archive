@@ -1,0 +1,16 @@
+kind: audio
+ext: flac
+title: A proper downpour
+description: Raining cats and dogs, as Nana would say, and no sign of stopping.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rain_(1).ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/0/0e/Rain_%281%29.ogg
+  retrieved: 2026-10-20
+author: ezwa
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Rain (1).ogg” by ezwa, public domain, via Wikimedia Commons
+transform: from the original, FLAC 16-bit 44.1 kHz
+people: none
+truth: A short recording of a heavy rain shower falling steadily.

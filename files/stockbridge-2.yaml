@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Old stone house, Stockbridge
+description: An old rubble-stone house round the corner from the bindery. I liked to imagine Fergus living in it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Duncan%27s_Land,_Stockbridge,_Edinburgh.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Duncan%27s_Land%2C_Stockbridge%2C_Edinburgh.jpg/1280px-Duncan%27s_Land%2C_Stockbridge%2C_Edinburgh.jpg
+  retrieved: 2026-10-20
+author: Stephencdickson
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Duncan's Land, Stockbridge, Edinburgh.jpg” by Stephencdickson, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Duncan's Land, an old rubble-stone house with dormer windows in Stockbridge, Edinburgh, two parked cars in front, blue sky with a big cloud.

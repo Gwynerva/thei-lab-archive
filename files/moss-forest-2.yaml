@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The green spruce
+description: A spruce wearing a coat of moss in the woods above Bergen. This is what all that rain is for.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Moss_covered_spruce_-_panoramio.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Moss_covered_spruce_-_panoramio.jpg/1280px-Moss_covered_spruce_-_panoramio.jpg
+  retrieved: 2026-10-20
+author: trolvag
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Moss covered spruce - panoramio.jpg” by trolvag, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A spruce trunk thickly covered in green moss in a damp forest near Bergen, Norway, mossy ground and more trees behind, August.

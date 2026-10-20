@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: Flood-prone areas of Ethiopia
+description: A plain map of where Ethiopia's rivers flood, hatched over the basins.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Basin_map_of_Ethiopia_with_flood-prone_extents.png
+  download: https://upload.wikimedia.org/wikipedia/commons/3/3a/Basin_map_of_Ethiopia_with_flood-prone_extents.png
+  retrieved: 2026-10-20
+author: Surafel Mamo，Belete Berhanu，Assefa M.Melesse
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Basin map of Ethiopia with flood-prone extents.png” by Surafel Mamo，Belete Berhanu，Assefa M.Melesse, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side 1912 as published, PNG, metadata removed"
+people: none
+truth: A black and white map of Ethiopia's river basins with hatched flood-prone areas and blue water bodies, a north arrow and a scale bar.

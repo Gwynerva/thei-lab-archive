@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The map at the gate
+description: Of course I photographed the map board. A good one too, with the walks marked in colours.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:St_Abb%27s_Head_National_Nature_Reserve_-_geograph.org.uk_-_2550826.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/St_Abb%27s_Head_National_Nature_Reserve_-_geograph.org.uk_-_2550826.jpg/1920px-St_Abb%27s_Head_National_Nature_Reserve_-_geograph.org.uk_-_2550826.jpg
+  retrieved: 2026-10-20
+author: M J Richardson
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “St Abb's Head National Nature Reserve - geograph.org.uk - 2550826.jpg” by M J Richardson, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Welcome board at St Abb's Head National Nature Reserve with an illustrated map of the headland, walking routes and safety notes, grass behind.

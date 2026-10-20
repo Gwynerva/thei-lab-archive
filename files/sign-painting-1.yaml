@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: An old painted sign
+description: Hand-painted letters on a weathered board, the paint gone thin. Dad's sign looked a lot like this before I started.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Clarence_H._White%27s_Se)guinland_School_of_Ph(otography)_Five_Islan(d),_Maine_LCCN2010651506.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Clarence_H._White%27s_Se%29guinland_School_of_Ph%28otography%29_Five_Islan%28d%29%2C_Maine_LCCN2010651506.jpg/1920px-Clarence_H._White%27s_Se%29guinland_School_of_Ph%28otography%29_Five_Islan%28d%29%2C_Maine_LCCN2010651506.jpg
+  retrieved: 2026-10-20
+author: Miscellaneous Items in High Demand, PPOC, Library of Congress
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Clarence H. White's Se)guinland School of Ph(otography) Five Islan(d), Maine LCCN2010651506.jpg” by Miscellaneous Items in High Demand, PPOC, Library of Congress, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A weathered wooden board with hand-painted black lettering on orange, a fragment of an old sign for a photography school at Five Islands, Maine.

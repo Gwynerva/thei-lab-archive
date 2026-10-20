@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The hand-crank machine
+description: A black hand-crank sewing machine with gold patterns, the sort Nana learned on.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Succes_vintage_sewing_machine.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Succes_vintage_sewing_machine.jpg/1920px-Succes_vintage_sewing_machine.jpg
+  retrieved: 2026-10-20
+author: Uberprutser
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Succes vintage sewing machine.jpg” by Uberprutser, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A vintage black hand-cranked sewing machine with gold decoration and a white handle on a wooden base.

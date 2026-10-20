@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Nevis range from the Commando Memorial
+description: The whole range from Spean Bridge, the Ben the one on the far right, keeping its head in the cloud.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Landscape_with_Ben_Nevis_in_Scotland.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Landscape_with_Ben_Nevis_in_Scotland.jpg/1920px-Landscape_with_Ben_Nevis_in_Scotland.jpg
+  retrieved: 2026-10-20
+author: Radomír Šalda
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Landscape with Ben Nevis in Scotland.jpg” by Radomír Šalda, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Moorland near the Commando Memorial at Spean Bridge with the Nevis range behind, wisps of cloud on the tops; Ben Nevis is the rightmost mountain.

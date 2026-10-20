@@ -1,0 +1,16 @@
+kind: video
+ext: webm
+title: A tabby washing
+description: A friend's tabby giving herself a long, thorough wash and ignoring us entirely.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Housecat_Grooming_Itself.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/6/6d/Housecat_Grooming_Itself.webm
+  retrieved: 2026-10-20
+author: Thebombzen
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Housecat Grooming Itself.webm” by Thebombzen, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, VP9, no sound, WEBM"
+people: none
+truth: A tabby house cat curled in a round cat bed, licking and grooming its fur, indoors.

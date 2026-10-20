@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: An old folding kayak
+description: An old folding kayak in a museum collection, canvas over a wooden frame, the ribs showing in the cockpit. Not what I'm building, but a cousin.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:GRCA_7604Grand_Canyon_Historical_Boat_Collection_Escalante_Kayak_(7420802506).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/GRCA_7604Grand_Canyon_Historical_Boat_Collection_Escalante_Kayak_%287420802506%29.jpg/1920px-GRCA_7604Grand_Canyon_Historical_Boat_Collection_Escalante_Kayak_%287420802506%29.jpg
+  retrieved: 2026-10-20
+author: Grand Canyon National Park
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “GRCA 7604Grand Canyon Historical Boat Collection Escalante Kayak (7420802506).jpg” by Grand Canyon National Park, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Black-and-white photo of the cockpit of an old folding kayak, rubberised fabric skin over a wooden frame with ribs and coaming, a historic boat in the Grand Canyon collection.

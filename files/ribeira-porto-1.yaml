@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Rabelos and the Ribeira
+description: The old port boats moored across from the Ribeira on our first evening in Porto, before a single kilometre walked.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rabelo_boats_and_Ribeira_seen_from_Cais_de_Gaia,_20250605_1623_9879.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Rabelo_boats_and_Ribeira_seen_from_Cais_de_Gaia%2C_20250605_1623_9879.jpg/1920px-Rabelo_boats_and_Ribeira_seen_from_Cais_de_Gaia%2C_20250605_1623_9879.jpg
+  retrieved: 2026-10-20
+author: Jakub Hałun
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Rabelo boats and Ribeira seen from Cais de Gaia, 20250605 1623 9879.jpg” by Jakub Hałun, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: incidental
+truth: Traditional rabelo boats on the Douro seen from Cais de Gaia, the colourful Ribeira houses and Porto Cathedral on the hill behind; sunny, June.

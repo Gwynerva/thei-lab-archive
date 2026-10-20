@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Trees along the Singel
+description: A quiet green stretch of the Singel, big trees over the water and small boats along the edge. A good place to hide from the conference.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Amsterdam_(NL),_Singel_--_2015_--_7171.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Amsterdam_%28NL%29%2C_Singel_--_2015_--_7171.jpg/1920px-Amsterdam_%28NL%29%2C_Singel_--_2015_--_7171.jpg
+  retrieved: 2026-10-20
+author: Dietmar Rabich
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Amsterdam (NL), Singel -- 2015 -- 7171.jpg” by Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Canal houses along the Singel in Amsterdam behind a row of leafy trees, small boats moored on the canal, daylight with clouds.

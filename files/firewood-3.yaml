@@ -1,0 +1,15 @@
+kind: image
+ext: avif
+title: A wall of firewood
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Firewood_supply_in_Zell_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Firewood_supply_in_Zell_01.jpg/1920px-Firewood_supply_in_Zell_01.jpg
+  retrieved: 2026-10-20
+author: Kritzolina
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Firewood supply in Zell 01.jpg” by Kritzolina, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: A long, tightly stacked wall of split firewood with a metal rail across it, Bavaria, Germany.

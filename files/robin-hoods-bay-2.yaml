@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The village from the north cliff
+description: The Bay from the cliff path, the sea wall and the beach at low tide. Nana's lane is in there somewhere.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Robin_Hoods_Bay_from_the_Cleveland_Way.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Robin_Hoods_Bay_from_the_Cleveland_Way.jpg/1920px-Robin_Hoods_Bay_from_the_Cleveland_Way.jpg
+  retrieved: 2026-10-20
+author: James F. Carter
+licence: CC-BY-SA-2.5
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.5
+attribution: “Robin Hoods Bay from the Cleveland Way.jpg” by James F. Carter, CC BY-SA 2.5, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Robin Hood's Bay village above its sea wall, seen from the cliff to the north, a wide shining beach at low tide, fields above.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A draught of the Yorkshire coast
+description: An old chart of part of the Yorkshire coast with the cliffs drawn in profile across the top.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Draught_of_part_of_the_coast_of_Yorkshire_-_btv1b530103604.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Draught_of_part_of_the_coast_of_Yorkshire_-_btv1b530103604.jpg/1920px-Draught_of_part_of_the_coast_of_Yorkshire_-_btv1b530103604.jpg
+  retrieved: 2026-10-20
+author: unknown
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Draught of part of the coast of Yorkshire - btv1b530103604.jpg” by unknown, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An old engraved chart of part of the Yorkshire coast, a long strip of coastline with soundings and views of the coast in profile above, on pale paper.

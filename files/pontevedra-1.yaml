@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Arcades at Lérez
+description: The long arcade of the monastery at Lérez, just outside Pontevedra, cool in the afternoon heat.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Soportais_do_Mosteiro_de_L%C3%A9rez._Pontevedra._Galicia_(Spain).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Soportais_do_Mosteiro_de_L%C3%A9rez._Pontevedra._Galicia_%28Spain%29.jpg/1920px-Soportais_do_Mosteiro_de_L%C3%A9rez._Pontevedra._Galicia_%28Spain%29.jpg
+  retrieved: 2026-10-20
+author: Luis Miguel Bugallo Sánchez (Lmbuga)
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Soportais do Mosteiro de Lérez. Pontevedra. Galicia (Spain).jpg” by Luis Miguel Bugallo Sánchez (Lmbuga), CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The stone arcades along the monastery of San Salvador de Lérez in Pontevedra, Galicia, sunlit, a dirt path in front; summer.

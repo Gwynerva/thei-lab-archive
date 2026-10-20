@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: The harbour lifebuoy
+description: A lifebuoy in its red box on the harbour wall. Dad would have checked the rope.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lerwick_Harbour_-_geograph.org.uk_-_2020960.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Lerwick_Harbour_-_geograph.org.uk_-_2020960.jpg/1920px-Lerwick_Harbour_-_geograph.org.uk_-_2020960.jpg
+  retrieved: 2026-10-20
+author: Colin Smith
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Lerwick Harbour - geograph.org.uk - 2020960.jpg” by Colin Smith, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: incidental
+truth: A red and white lifebuoy marked Lerwick Harbour in a red box on a concrete harbour wall, a pier, stone houses and green hills behind, one person far off at the right.

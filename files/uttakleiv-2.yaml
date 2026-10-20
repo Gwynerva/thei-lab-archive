@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: Rocks at Uttakleiv at dusk
+description: The stones on the shore at Uttakleiv under a pink and purple sky.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rocky_shore_at_Uttakleiv_Beach_(Unsplash).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Rocky_shore_at_Uttakleiv_Beach_%28Unsplash%29.jpg/1920px-Rocky_shore_at_Uttakleiv_Beach_%28Unsplash%29.jpg
+  retrieved: 2026-10-20
+author: Cem Sagisman cems77
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Rocky shore at Uttakleiv Beach (Unsplash).jpg” by Cem Sagisman cems77, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: Rocky shoreline at Uttakleiv beach in Lofoten under a pink and purple dusk sky, smooth stones in shallow water, a mountain to the right.

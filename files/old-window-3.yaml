@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The green window
+description: Peeling paint, a pale green wall, bare branches in the glass.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Old_Green_Wooden_Window_(33404287658).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Old_Green_Wooden_Window_%2833404287658%29.jpg/1920px-Old_Green_Wooden_Window_%2833404287658%29.jpg
+  retrieved: 2026-10-20
+author: Dejan Krsmanovic
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Old Green Wooden Window (33404287658).jpg” by Dejan Krsmanovic, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An old double wooden window with peeling grey paint set in a pale green wall, bare tree branches reflected in the panes, Serbia.

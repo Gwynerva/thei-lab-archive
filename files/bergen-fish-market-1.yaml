@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Red awnings at the fish market
+description: The fish market under its red awnings on a grey morning, Fløyen dark behind it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen_Fish_Market_-_2013.08_-_panoramio.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Bergen_Fish_Market_-_2013.08_-_panoramio.jpg/1920px-Bergen_Fish_Market_-_2013.08_-_panoramio.jpg
+  retrieved: 2026-10-20
+author: rheins
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Bergen Fish Market - 2013.08 - panoramio.jpg” by rheins, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Bergen fish market stalls under red awnings, a few people about, town houses and the wooded slope of Fløyen behind, overcast.

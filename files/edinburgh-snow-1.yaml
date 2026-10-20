@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Victoria Street in the snow
+description: Victoria Street the morning after the snow, everyone walking down the middle of the road.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:The_West_Bow,_Edinburgh_in_the_snow.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/The_West_Bow%2C_Edinburgh_in_the_snow.jpg/1920px-The_West_Bow%2C_Edinburgh_in_the_snow.jpg
+  retrieved: 2026-10-20
+author: Mike Shaw
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “The West Bow, Edinburgh in the snow.jpg” by Mike Shaw, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Victoria Street and the West Bow in Edinburgh after snow, tall old tenements and colourful shopfronts, people walking on the white street, blue sky.

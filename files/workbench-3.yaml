@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A carpenter's bench, nineteenth century
+description: A heavy old bench in a museum, worn hollow along the front from a century of use.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Joinery_workbench_1_-_19c_-_Technical_museum,_Nizhny_Novgorod.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Joinery_workbench_1_-_19c_-_Technical_museum%2C_Nizhny_Novgorod.jpg/1920px-Joinery_workbench_1_-_19c_-_Technical_museum%2C_Nizhny_Novgorod.jpg
+  retrieved: 2026-10-20
+author: Лапоть
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Joinery workbench 1 - 19c - Technical museum, Nizhny Novgorod.jpg” by Лапоть, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A 19th-century wooden carpenter's workbench with wooden screw vices, on display by a window in a technical museum in Nizhny Novgorod, Russia.

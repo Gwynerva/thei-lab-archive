@@ -54,6 +54,13 @@ export function knownRefs(): Set<string> {
 
 export function knownFiles(): Map<string, string> {
   const files = new Map<string, string>();
+  // Files picked in review, before their files/<id>.yaml is written.
+  const picks = join(ROOT, 'media-work', 'picks.json');
+  if (existsSync(picks))
+    for (const pick of JSON.parse(readFileSync(picks, 'utf8')) as { id: string; as: string }[]) {
+      const ext = pick.as;
+      files.set(pick.id, ['jpg', 'png', 'gif', 'webp', 'avif', 'svg'].includes(ext) ? 'image' : ['mp4', 'webm', 'mov'].includes(ext) ? 'video' : ['mp3', 'ogg', 'wav', 'flac', 'm4a'].includes(ext) ? 'audio' : ext === 'pdf' ? 'document' : 'other');
+    }
   const dir = join(ROOT, 'files');
   if (!existsSync(dir)) return files;
   for (const name of readdirSync(dir)) {
@@ -150,7 +157,7 @@ export function lint(path: string, text: string, refs: Set<string>, files: Map<s
     // Who declares a pair: a diary entry anything; an event projects and earlier events; a project projects.
     if (kind === 'event' && to.startsWith('diary:')) problems.push(`an event never declares a relation to a diary entry (${to}); the entry does`);
     if (kind === 'project' && !to.startsWith('project:')) problems.push(`a project declares relations to projects only (${to}); the event or entry does`);
-    if (kind === 'project' && to.startsWith('project:') && to >= self) problems.push(`of two projects, the one whose id sorts first declares the relation (${to})`);
+    if (kind === 'project' && to.startsWith('project:') && to <= self) problems.push(`of two projects, the one whose id sorts first declares the relation (${to})`);
   }
   const texts: [string, string][] = [['body', body]];
   if (typeof fields.notes === 'string') texts.push(['notes', fields.notes]);

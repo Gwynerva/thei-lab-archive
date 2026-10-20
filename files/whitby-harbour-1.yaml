@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A tall ship coming in
+description: An old three-master sailing up the harbour under the church and the abbey. Dad came out of the shop to watch it go by.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_Harbour,_ship.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Whitby_Harbour%2C_ship.jpg/1920px-Whitby_Harbour%2C_ship.jpg
+  retrieved: 2026-10-20
+author: Alistair Young
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Whitby Harbour, ship.jpg” by Alistair Young, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: A three-masted sailing ship in Whitby harbour in sunshine, the houses of the east side, St Mary's Church and the abbey ruins on the cliff top behind.

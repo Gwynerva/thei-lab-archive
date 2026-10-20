@@ -1,0 +1,15 @@
+kind: audio
+ext: flac
+title: Minuets, first suite
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:JOHN_MICHEL_CELLO-J_S_BACH_CELLO_SUITE_1_in_G_Minuets.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/6/67/JOHN_MICHEL_CELLO-J_S_BACH_CELLO_SUITE_1_in_G_Minuets.ogg
+  retrieved: 2026-10-20
+author: John Michel
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “JOHN MICHEL CELLO-J S BACH CELLO SUITE 1 in G Minuets.ogg” by John Michel, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the original: first 75 s with a 2 s fade-out, FLAC 16-bit 44.1 kHz"
+people: none
+truth: The two minuets of Bach's Cello Suite No. 1 in G major, BWV 1007, played on solo cello.

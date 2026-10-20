@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Kumano Kodo marker
+description: A stone set into the road with the trail's name on it. My favourite kind of sign.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kumano_pilgrimage_routes_mark.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Kumano_pilgrimage_routes_mark.jpg/1920px-Kumano_pilgrimage_routes_mark.jpg
+  retrieved: 2026-10-20
+author: Indiana jo
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Kumano pilgrimage routes mark.jpg” by Indiana jo, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A square stone marker set into asphalt, carved with the characters for Kumano Kodo, marking the route of the old pilgrimage road.

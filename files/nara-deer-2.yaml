@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Doe and fawn on the path
+description: A doe and her spotted fawn crossing the path as if they owned it. They do, really.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sika_deer_doe_and_fawn_Nara_2026_dllu.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sika_deer_doe_and_fawn_Nara_2026_dllu.jpg/1920px-Sika_deer_doe_and_fawn_Nara_2026_dllu.jpg
+  retrieved: 2026-10-20
+author: Daniel Lu (User:dllu)
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Sika deer doe and fawn Nara 2026 dllu.jpg” by Daniel Lu (User:dllu), CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: A sika deer doe and a spotted fawn on a sandy park path in Nara, Japan, with blurred people and trees behind.

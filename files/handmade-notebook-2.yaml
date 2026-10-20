@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The bingo journal
+description: A little journal with old bingo cards for covers. Nana would have approved of the thrift.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Handmade_bingo_journal.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/b/b9/Handmade_bingo_journal.jpg
+  retrieved: 2026-10-20
+author: Lisa Yarost
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Handmade bingo journal.jpg” by Lisa Yarost, CC BY 2.0, via Wikimedia Commons
+transform: "from the original: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A small handmade journal with an old red and white bingo card as its cover, standing on edge against a dark background.

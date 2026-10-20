@@ -1,0 +1,16 @@
+kind: image
+ext: svg
+title: Norway and the islands
+description: A blank outline of Norway with the Arctic islands up in the corner, good for pinning places on.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Norway_(%2Bislands)_location_map.svg
+  download: https://upload.wikimedia.org/wikipedia/commons/a/aa/Norway_%28%2Bislands%29_location_map.svg
+  retrieved: 2026-10-20
+author: Ellicrum + source files authors
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Norway (+islands) location map.svg” by Ellicrum + source files authors, CC BY-SA 4.0, via Wikimedia Commons
+transform: the original SVG, unchanged
+people: none
+truth: A blank location map of Norway including its Arctic islands, the land in pale yellow, neighbouring countries in grey and the sea in light blue.

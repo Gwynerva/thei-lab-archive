@@ -1,0 +1,16 @@
+kind: video
+ext: mov
+title: Flying over the cherry trees
+description: Drone footage low and fast over a cherry orchard. Jonas wants one of these for our trees. No.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cherry_trees_in_an_orchard_as_viewed_from_FPV_drone.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/3/38/Cherry_trees_in_an_orchard_as_viewed_from_FPV_drone.webm/Cherry_trees_in_an_orchard_as_viewed_from_FPV_drone.webm.1080p.vp9.webm
+  retrieved: 2026-10-20
+author: anotherview
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Cherry trees in an orchard as viewed from FPV drone.webm” by anotherview, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1080p.vp9.webm transcode: first 40 s, long side at most 1280, H.264, no sound, MOV"
+people: none
+truth: FPV drone video flying low over a cherry orchard, rows of trees, fields and low hills in sunshine.

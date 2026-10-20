@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A narrow old door
+description: Narrow, weathered, and not opened for years by the look of it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Old_wooden_door%E2%80%93IMG_7216_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Old_wooden_door%E2%80%93IMG_7216_01.jpg/1280px-Old_wooden_door%E2%80%93IMG_7216_01.jpg
+  retrieved: 2026-10-20
+author: Kızıl
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Old wooden door–IMG 7216 01.jpg” by Kızıl, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A narrow, weathered old wooden door with rusty fittings in a plain grey plastered doorway, Balıkesir, Turkey.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Inside Tromsø Cathedral
+description: The wooden cathedral in Tromsø, all pale timber, chandeliers and painted trusses.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Troms%C3%B8_Cathedral_(domkirke)_Norway_interior._Nave_(skipet),_gallery,_choir,_altar,_pews_(kirkebenker),_chandeliers,_timber_roof_truss_(takstoler),_etc_Wooden_Gothic_Revival_style_church_1861_2019-04-04_DSC02278.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Troms%C3%B8_Cathedral_%28domkirke%29_Norway_interior._Nave_%28skipet%29%2C_gallery%2C_choir%2C_altar%2C_pews_%28kirkebenker%29%2C_chandeliers%2C_timber_roof_truss_%28takstoler%29%2C_etc_Wooden_Gothic_Revival_style_church_1861_2019-04-04_DSC02278.jpg/1920px-thumbnail.jpg
+  retrieved: 2026-10-20
+author: Wolfmann
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Tromsø Cathedral (domkirke) Norway interior. Nave (skipet), gallery, choir, altar, pews (kirkebenker), chandeliers, timber roof truss (takstoler), etc Wooden Gothic Revival style church 1861 2019-04-04 DSC02278.jpg” by Wolfmann, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The nave of Tromsø Cathedral, Norway, a wooden Gothic Revival church of 1861, with pews, galleries, chandeliers, timber roof trusses and the altar at the end.

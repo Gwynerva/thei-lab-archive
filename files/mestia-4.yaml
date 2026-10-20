@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Svan piglets
+description: Pigs wander everywhere in Svaneti. These three followed us half the way down the lane.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mestia_district_(14520337310).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Mestia_district_%2814520337310%29.jpg/1920px-Mestia_district_%2814520337310%29.jpg
+  retrieved: 2026-10-20
+author: Sarah Murray from South Bend, IN, USA
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Mestia district (14520337310).jpg” by Sarah Murray from South Bend, IN, USA, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Three piglets, one pink and two striped, rooting on bare ground by green bushes in the Mestia district of Svaneti, Georgia.

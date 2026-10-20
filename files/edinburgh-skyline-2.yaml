@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Lights in the Old Town
+description: The Old Town at dusk with one building lit up red and green for Christmas. December in Edinburgh, my favourite.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Dusky_Edinburgh_skyline_-_geograph.org.uk_-_7674988.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Dusky_Edinburgh_skyline_-_geograph.org.uk_-_7674988.jpg/1920px-Dusky_Edinburgh_skyline_-_geograph.org.uk_-_7674988.jpg
+  retrieved: 2026-10-20
+author: Chris Morgan
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Dusky Edinburgh skyline - geograph.org.uk - 7674988.jpg” by Chris Morgan, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Edinburgh's Old Town skyline at dusk under a pink sky, a large domed building floodlit red and green, dark rooftops and spires beside it, people along a railing in front.

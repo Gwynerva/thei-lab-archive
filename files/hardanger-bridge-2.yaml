@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Under the bridge from the ferry
+description: Looking straight up as the boat passed underneath. It seems to go on for ever.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hardanger_Bridge_seen_from_aboard_the_Fjorddrott_ferry,_Hardangerfjorden,_Norway_julesvernex2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Hardanger_Bridge_seen_from_aboard_the_Fjorddrott_ferry%2C_Hardangerfjorden%2C_Norway_julesvernex2.jpg/1920px-Hardanger_Bridge_seen_from_aboard_the_Fjorddrott_ferry%2C_Hardangerfjorden%2C_Norway_julesvernex2.jpg
+  retrieved: 2026-10-20
+author: Jules Verne Times Two
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Hardanger Bridge seen from aboard the Fjorddrott ferry, Hardangerfjorden, Norway julesvernex2.jpg” by Jules Verne Times Two, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: The deck of the Hardanger Bridge seen from below and end-on from a passing ferry, dark wooded mountains on both sides, grey sky.

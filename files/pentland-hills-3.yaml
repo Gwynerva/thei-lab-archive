@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Looking off the Pentlands
+description: Coming down off the hills in autumn, the moor gone brown and the lowlands spread out below.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:View_off_the_Pentland_Hills_-_geograph.org.uk_-_7655075.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/View_off_the_Pentland_Hills_-_geograph.org.uk_-_7655075.jpg/1920px-View_off_the_Pentland_Hills_-_geograph.org.uk_-_7655075.jpg
+  retrieved: 2026-10-20
+author: Richard Webb
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “View off the Pentland Hills - geograph.org.uk - 7655075.jpg” by Richard Webb, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: View from the Pentland Hills over brown autumn moorland and green fields to the lowlands, a line of pylons crossing the middle distance.

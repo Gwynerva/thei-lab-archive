@@ -1,0 +1,15 @@
+kind: video
+ext: mov
+title: Kayak on the regatta course
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Video_of_man_kayaking_at_Regattastrecke_Oberschlei%C3%9Fheim_in_Germany.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/7/79/Video_of_man_kayaking_at_Regattastrecke_Oberschlei%C3%9Fheim_in_Germany.webm
+  retrieved: 2026-10-20
+author: Pittigrilli
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Video of man kayaking at Regattastrecke Oberschleißheim in Germany.webm” by Pittigrilli, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, H.264, no sound, MOV"
+people: incidental
+truth: A kayaker paddling far down a buoyed regatta course of clear turquoise water at Oberschleißheim, Germany, flagpoles and trees behind, summer.

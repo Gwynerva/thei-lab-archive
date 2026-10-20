@@ -1,0 +1,15 @@
+kind: video
+ext: mov
+title: Boats on the ramp
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sail_boats_preparing_to_Launch_at_East_Fremantle.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/0/04/Sail_boats_preparing_to_Launch_at_East_Fremantle.webm/Sail_boats_preparing_to_Launch_at_East_Fremantle.webm.1080p.vp9.webm
+  retrieved: 2026-10-20
+author: JamesBromberger
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Sail boats preparing to Launch at East Fremantle.webm” by JamesBromberger, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1080p.vp9.webm transcode: long side at most 1280, H.264, no sound, MOV"
+people: incidental
+truth: Small sailing dinghies being rigged on a sandy beach and boat ramp at East Fremantle Yacht Club on the Swan River, Western Australia, people around, sunny.

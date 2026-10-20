@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The harbour from the castle
+description: The harbour from the castle walls, with the bay and the hills behind.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Scarborough_MMB_33.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Scarborough_MMB_33.jpg/1920px-Scarborough_MMB_33.jpg
+  retrieved: 2026-10-20
+author: mattbuck (category)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Scarborough MMB 33.jpg” by mattbuck (category), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Scarborough harbour seen from the castle, boats in the inner harbour, the piers, a big wheel on the front and South Bay curving away, overcast.

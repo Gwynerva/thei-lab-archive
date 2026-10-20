@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Young Highland cow
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:2011-05-30_008_Young_Highland_cow,_Denmark.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/2011-05-30_008_Young_Highland_cow%2C_Denmark.jpg/1920px-2011-05-30_008_Young_Highland_cow%2C_Denmark.jpg
+  retrieved: 2026-10-20
+author: Gordon Leggett
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “2011-05-30 008 Young Highland cow, Denmark.jpg” by Gordon Leggett, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A young shaggy Highland cow with ear tags standing on green grass dotted with yellow flowers, chewing, in a field in northern Denmark.

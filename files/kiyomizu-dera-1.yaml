@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Kiyomizu-dera pagoda in cherry time
+description: The three-storey pagoda at Kiyomizu-dera with the cherry blossom out below. Mid-April, and for once I had timed it right.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Three-storied_Pagoda,_Kiyomizu-dera,_Kyoto,_Southeast_view_20190416_1.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Three-storied_Pagoda%2C_Kiyomizu-dera%2C_Kyoto%2C_Southeast_view_20190416_1.jpg/1920px-Three-storied_Pagoda%2C_Kiyomizu-dera%2C_Kyoto%2C_Southeast_view_20190416_1.jpg
+  retrieved: 2026-10-20
+author: DXR
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Three-storied Pagoda, Kiyomizu-dera, Kyoto, Southeast view 20190416 1.jpg” by DXR, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: The red three-storied pagoda of Kiyomizu-dera, Kyoto, with temple roofs below and cherry trees in blossom, hazy spring sky and hills beyond.

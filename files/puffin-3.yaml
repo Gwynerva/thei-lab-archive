@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Puffin with a beakful
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Fratercula_arctica,_Borgarfj%C3%B6r%C3%B0ur_eystri,_Iceland,_20240717_1152_1838.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Fratercula_arctica%2C_Borgarfj%C3%B6r%C3%B0ur_eystri%2C_Iceland%2C_20240717_1152_1838.jpg/1920px-Fratercula_arctica%2C_Borgarfj%C3%B6r%C3%B0ur_eystri%2C_Iceland%2C_20240717_1152_1838.jpg
+  retrieved: 2026-10-20
+author: Jakub Hałun
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Fratercula arctica, Borgarfjörður eystri, Iceland, 20240717 1152 1838.jpg” by Jakub Hałun, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An Atlantic puffin standing on green grass with a beakful of grass and plant material for its nest, looking at the camera. Bakkagerði, Iceland, July.

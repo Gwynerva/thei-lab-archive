@@ -1,0 +1,16 @@
+kind: audio
+ext: m4a
+title: Ravel's quartet, second movement
+description: The plucked second movement of the Ravel quartet. The cello part looks easy and isn't.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ravel_-_String_Quartet,_mvt_2_-_US_Army_Band.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/2/24/Ravel_-_String_Quartet%2C_mvt_2_-_US_Army_Band.ogg
+  retrieved: 2026-10-20
+author: unknown
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Ravel - String Quartet, mvt 2 - US Army Band.ogg” by unknown, public domain, via Wikimedia Commons
+transform: "from the original: first 180 s with a 2 s fade-out, AAC 160 kbit/s in M4A"
+people: none
+truth: Recording of the second movement of Ravel's String Quartet in F major, played by string players of a US Army band.

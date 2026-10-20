@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The harbour at Baiona
+description: A fishing boat chugging in past the yachts at Baiona. Dad would have had opinions about the hull.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Port_of_Baiona.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Port_of_Baiona.jpg/1920px-Port_of_Baiona.jpg
+  retrieved: 2026-10-20
+author: Harpagornis
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Port of Baiona.jpg” by Harpagornis, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: A small fishing boat with two or three people aboard crossing Baiona harbour in Galicia, a marina full of sailing yachts behind, white clouds.

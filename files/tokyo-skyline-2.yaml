@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Tokyo Tower at night
+description: Tokyo Tower glowing orange in a field of office lights. The last night of the trip.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan_(Night)-denoised.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Minato_City%2C_Tokyo%2C_Japan_%28Night%29-denoised.jpg/1920px-Minato_City%2C_Tokyo%2C_Japan_%28Night%29-denoised.jpg
+  retrieved: 2026-10-20
+author: David Kernan
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Minato City, Tokyo, Japan (Night)-denoised.jpg” by David Kernan, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Night skyline of Minato, Tokyo, seen from Shibuya, dark towers with lit windows and the orange-lit Tokyo Tower at right.

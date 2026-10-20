@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A pony on the hill road
+description: Chestnut and flaxen, about the height of my hip, and entirely convinced I had a carrot.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Shetland_pony_-_Postbridge.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Shetland_pony_-_Postbridge.jpg/1920px-Shetland_pony_-_Postbridge.jpg
+  retrieved: 2026-10-20
+author: Herbythyme
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Shetland pony - Postbridge.jpg” by Herbythyme, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A chestnut Shetland pony with a pale flaxen mane and a white blaze grazing on dry grass in sunshine. Postbridge, Dartmoor, England.

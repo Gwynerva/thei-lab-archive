@@ -1,0 +1,15 @@
+kind: image
+ext: gif
+title: Northern lights over the jetty, looping
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Time-lapse_of_Aurora_Borealis_in_Norway.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/3/3e/Time-lapse_of_Aurora_Borealis_in_Norway.webm
+  retrieved: 2026-10-20
+author: Christer Olsen
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Time-lapse of Aurora Borealis in Norway.webm” by Christer Olsen, CC0, via Wikimedia Commons
+transform: "from the original: three seconds from 1 s in, 480 px wide, 12 frames a second, a looping GIF of 128 colours"
+people: none
+truth: Time-lapse of a green aurora borealis arching over dark water and a wooden jetty in Norway, stars, a boathouse at the side (a few seconds of it, looping)

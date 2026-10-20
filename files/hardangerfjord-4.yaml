@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The round green hill
+description: A wooded knoll sitting in the fjord on a bright day, big green leaves all along the shore.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:190_Kilometer_lang_und_bis_zu_893_tief_ist_der_Hardangerfjord._03.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/190_Kilometer_lang_und_bis_zu_893_tief_ist_der_Hardangerfjord._03.jpg/1920px-190_Kilometer_lang_und_bis_zu_893_tief_ist_der_Hardangerfjord._03.jpg
+  retrieved: 2026-10-20
+author: Holger Uwe Schmitt
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “190 Kilometer lang und bis zu 893 tief ist der Hardangerfjord. 03.jpg” by Holger Uwe Schmitt, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A rounded forested hill rising from the calm Hardangerfjord, steep green mountains behind, large-leaved plants in front; summer, strongly processed colours.

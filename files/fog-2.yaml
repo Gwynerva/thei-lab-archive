@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Fog over the water
+description: A bank of fog sitting on the sea just off the shore, the sun glittering on the water in front of it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Advection_fog_in_Helsinki_2014.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Advection_fog_in_Helsinki_2014.jpg/1920px-Advection_fog_in_Helsinki_2014.jpg
+  retrieved: 2026-10-20
+author: Joonas Suominen
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Advection fog in Helsinki 2014.jpg” by Joonas Suominen, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: A bank of advection fog over the sea off Aurinkolahti, Helsinki, Finland, a low wooded island fading into it, sunlight sparkling on the water.

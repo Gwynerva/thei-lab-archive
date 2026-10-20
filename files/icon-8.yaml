@@ -1,0 +1,15 @@
+kind: image
+ext: svg
+title: Open padlock
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Font_Awesome_5_solid_unlock_indigo.svg
+  download: https://upload.wikimedia.org/wikipedia/commons/3/31/Font_Awesome_5_solid_unlock_indigo.svg
+  retrieved: 2026-10-20
+author: Font Awesome
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Font Awesome 5 solid unlock indigo.svg” by Font Awesome, CC BY 4.0, via Wikimedia Commons
+transform: the original SVG, unchanged
+people: none
+truth: A solid indigo icon of an open padlock, the shackle unhooked on one side.

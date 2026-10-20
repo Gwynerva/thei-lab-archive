@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Raised bands in the press
+description: A book clamped in a wooden press while the cords for the raised bands are tied down.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Fine_bookbinding.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/7/77/Fine_bookbinding.jpg
+  retrieved: 2026-10-20
+author: Michal Maňas
+licence: CC-BY-2.5
+licenceUrl: https://creativecommons.org/licenses/by/2.5
+attribution: “Fine bookbinding.jpg” by Michal Maňas, CC BY 2.5, via Wikimedia Commons
+transform: "from the original: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An old wooden lying press on a table holding a book block, strings tied round it to form raised bands on the spine, papers and tools around.

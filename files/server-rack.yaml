@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The shelf that runs the house
+description: The modem, the router and the backup disk lined up on the shelf, plus a slinky for reasons nobody remembers.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Home_server_equipment.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Home_server_equipment.jpg/1920px-Home_server_equipment.jpg
+  retrieved: 2026-10-20
+author: Alan Levine
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Home server equipment.jpg” by Alan Levine, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A home network shelf with a cable modem topped by a metal slinky, a router, a white wireless base station and an external hard drive, on a wooden shelf.

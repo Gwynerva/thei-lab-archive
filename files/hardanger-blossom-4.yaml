@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Blossom against the sky
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:PermaLiv_seftaholm-greiner_02-06-20.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/PermaLiv_seftaholm-greiner_02-06-20.jpg/1920px-PermaLiv_seftaholm-greiner_02-06-20.jpg
+  retrieved: 2026-10-20
+author: Øyvind Holmstad
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “PermaLiv seftaholm-greiner 02-06-20.jpg” by Øyvind Holmstad, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Branches of a blossoming apple tree seen from below against a white cloudy sky, mostly in silhouette; spring, Norway.

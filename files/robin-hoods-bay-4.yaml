@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: White flowers on the cliff
+description: Early summer on the cliff above the Bay, white flowers everywhere and the scars showing below.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Robin_Hood%27s_Bay_-_geograph.org.uk_-_2422870.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Robin_Hood%27s_Bay_-_geograph.org.uk_-_2422870.jpg/1920px-Robin_Hood%27s_Bay_-_geograph.org.uk_-_2422870.jpg
+  retrieved: 2026-10-20
+author: Pauline E
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Robin Hood's Bay - geograph.org.uk - 2422870.jpg” by Pauline E, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: White flowering plants on the cliff slope above Robin Hood's Bay, rocky scars and sand at the cliff foot, a headland across the bay, blue sea.

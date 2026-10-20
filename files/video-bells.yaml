@@ -1,0 +1,16 @@
+kind: video
+ext: webm
+title: Sunday bells in the rain
+description: A wet Sunday morning, the bells going and the whole street smelling of rain.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:St_Nicholas_Church,_Liverpool_with_bells_ringing.ogv
+  download: https://upload.wikimedia.org/wikipedia/commons/0/0c/St_Nicholas_Church%2C_Liverpool_with_bells_ringing.ogv
+  retrieved: 2026-10-20
+author: Rept0n1x
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “St Nicholas Church, Liverpool with bells ringing.ogv” by Rept0n1x, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, VP9 with Opus sound, WEBM"
+people: none
+truth: St Nicholas Church, Liverpool, its spire among office buildings on a rainy Sunday morning, grey sky, bells ringing.

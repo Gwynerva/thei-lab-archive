@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: Storm surf
+description: White water to the horizon and the wind trying to take the phone out of my hands.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:%D0%A8%D1%82%D0%BE%D1%80%D0%BC_%D0%BD%D0%B0_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC_%D0%BC%D0%BE%D1%80%D0%B5_Storm_on_the_Black_Sea..webm
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/%D0%A8%D1%82%D0%BE%D1%80%D0%BC_%D0%BD%D0%B0_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC_%D0%BC%D0%BE%D1%80%D0%B5_Storm_on_the_Black_Sea..webm/%D0%A8%D1%82%D0%BE%D1%80%D0%BC_%D0%BD%D0%B0_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BC_%D0%BC%D0%BE%D1%80%D0%B5_Storm_on_the_Black_Sea..webm.1080p.vp9.webm
+  retrieved: 2026-10-20
+author: Евгений
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Шторм на Черном море Storm on the Black Sea..webm” by Евгений, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1080p.vp9.webm transcode: first 40 s, long side at most 1280, H.264 with AAC sound, MP4"
+people: none
+truth: Stormy Black Sea surf, wide foam-covered waves rolling onto a beach, a wooden shelter post in the foreground, low sun through cloud.

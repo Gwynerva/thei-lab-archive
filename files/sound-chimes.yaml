@@ -1,0 +1,15 @@
+kind: audio
+ext: flac
+title: Wind chime
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Windglockenspiel.Koshi.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/a/a6/Windglockenspiel.Koshi.ogg
+  retrieved: 2026-10-20
+author: Membeth.
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Windglockenspiel.Koshi.ogg” by Membeth., CC0, via Wikimedia Commons
+transform: from the original, FLAC 16-bit 44.1 kHz
+people: none
+truth: A wind chime of metal rods ringing, eight tones from A to A.

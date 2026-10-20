@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: Contours round Ponkapoag Pond
+description: Contour lines tinted by height around a pond in the Blue Hills. Clean enough to hang up.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hypsocontours.png
+  download: https://upload.wikimedia.org/wikipedia/commons/2/29/Hypsocontours.png
+  retrieved: 2026-10-20
+author: Belg4mit
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Hypsocontours.png” by Belg4mit, CC0, via Wikimedia Commons
+transform: "from the original: long side 1224 as published, PNG, metadata removed"
+people: none
+truth: A topographic map of the Ponkapoag Pond area, Blue Hills Reservation, Massachusetts, contour lines coloured by height, blue water and red roads.

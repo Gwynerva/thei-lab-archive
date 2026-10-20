@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The bridge over the rooftops
+description: The approach spans striding over the houses, with a big white cloud parked on top.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Forth_Bridge_20140319.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Forth_Bridge_20140319.jpg/1920px-Forth_Bridge_20140319.jpg
+  retrieved: 2026-10-20
+author: Suicasmo
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Forth Bridge 20140319.jpg” by Suicasmo, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Forth Bridge's red approach viaduct and cantilevers above houses and roofs by the shore, blue sky with a large white cloud.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: An old etching of the Cairngorms
+description: A print I found second-hand, the Cairngorms in a few scratched lines. A field trip souvenir, of sorts.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:David_Young_Cameron_-_Cairngorms_-_B1994.4.854_-_Yale_Center_for_British_Art.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/9/9e/David_Young_Cameron_-_Cairngorms_-_B1994.4.854_-_Yale_Center_for_British_Art.jpg
+  retrieved: 2026-10-20
+author: David Young Cameron
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “David Young Cameron - Cairngorms - B1994.4.854 - Yale Center for British Art.jpg” by David Young Cameron, CC0, via Wikimedia Commons
+transform: "from the original: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An early twentieth-century etching titled Cairngorms, a broad plain with a farmstead, a dark hill and pale distant mountains in fine black lines on cream paper.

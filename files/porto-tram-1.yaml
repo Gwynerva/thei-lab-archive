@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Two trams at Parada Leitão
+description: Two old trams nose to nose by the Carmo church, the 18 and the 22.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tranv%C3%ADas_no_Porto.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Tranv%C3%ADas_no_Porto.jpg/1920px-Tranv%C3%ADas_no_Porto.jpg
+  retrieved: 2026-10-20
+author: Bene Riobó
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Tranvías no Porto.jpg” by Bene Riobó, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Two vintage orange Porto trams side by side on Praça de Parada Leitão beside the Carmo church, a few small passers-by; winter sun.

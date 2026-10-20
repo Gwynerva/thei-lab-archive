@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: West Mill
+description: West Mill in the sun, round windows and all.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:West_Mill,_Dean_Village,_Edinburgh_-_geograph.org.uk_-_5618173.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/West_Mill%2C_Dean_Village%2C_Edinburgh_-_geograph.org.uk_-_5618173.jpg/1920px-West_Mill%2C_Dean_Village%2C_Edinburgh_-_geograph.org.uk_-_5618173.jpg
+  retrieved: 2026-10-20
+author: Graeme Yuill
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “West Mill, Dean Village, Edinburgh - geograph.org.uk - 5618173.jpg” by Graeme Yuill, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: West Mill in Dean Village, a tall stone former mill with round windows, sunny, two parked cars, a red phone box and one person by the door.

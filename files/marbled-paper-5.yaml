@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Marbled margins
+description: A Persian manuscript page with the text framed in marbled paper and gold. Centuries old and still the best use of it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:The_margins_of_folios_in_this_manuscript_of_Mantiq_al-tayr_with_finely_penned_nasta%E2%80%99liq_script_of_the_Timurid_period_were_lavishly_decorated_are_embellished_with_marbled_paper_and_sprinkled_gold_leaf_by_Safavid_artists.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/The_margins_of_folios_in_this_manuscript_of_Mantiq_al-tayr_with_finely_penned_nasta%E2%80%99liq_script_of_the_Timurid_period_were_lavishly_decorated_are_embellished_with_marbled_paper_and_sprinkled_gold_leaf_by_Safavid_artists.jpg/1920px-thumbnail.jpg
+  retrieved: 2026-10-20
+author: Author Farid al-Din `Attar and Calligrapher Sultan 'Ali al-Mashhadi
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “The margins of folios in this manuscript of Mantiq al-tayr with finely penned nasta’liq script of the Timurid period were lavishly decorated are embellished with marbled paper and sprinkled gold leaf by Safavid artists.jpg” by Author Farid al-Din `Attar and Calligrapher Sultan 'Ali al-Mashhadi, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A Persian manuscript page with a block of nasta'liq script framed by margins of marbled paper and sprinkled gold, a colour scale at the edge. Museum photograph.

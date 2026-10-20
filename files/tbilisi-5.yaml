@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: Tbilisi rooftops
+description: Old town roofs and churches under a stormy sky, Sameba glinting at the back.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:20110421_Tbilisi_Georgia_Panoramic.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg/1920px-20110421_Tbilisi_Georgia_Panoramic.jpg
+  retrieved: 2026-10-20
+author: User:Ggia
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “20110421 Tbilisi Georgia Panoramic.jpg” by User:Ggia, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: Panoramic view over the old town roofs and churches of Tbilisi to the Holy Trinity Cathedral on its hill, dark clouds overhead; spring.

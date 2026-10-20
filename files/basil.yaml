@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Basil
+description: Big glossy basil leaves in the sun. It never grew like this on my windowsill.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_CG_NBG_LR.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Ocimum_basilicum_CG_NBG_LR.jpg/1920px-Ocimum_basilicum_CG_NBG_LR.jpg
+  retrieved: 2026-10-20
+author: PumpkinSky
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Ocimum basilicum CG NBG LR.jpg” by PumpkinSky, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of a sweet basil plant with large glossy green leaves in sunshine, in a garden in Norfolk, Virginia.

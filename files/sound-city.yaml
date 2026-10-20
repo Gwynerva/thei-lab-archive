@@ -1,0 +1,16 @@
+kind: audio
+ext: m4a
+title: The station tunnel
+description: The tunnel under the railway station at rush hour, footsteps echoing and everyone in a hurry except me.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:WWS_TheStationTunnelOfTheTampereStation.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/e/e6/WWS_TheStationTunnelOfTheTampereStation.ogg
+  retrieved: 2026-10-20
+author: Work With Sounds / Werstas
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “WWS TheStationTunnelOfTheTampereStation.ogg” by Work With Sounds / Werstas, CC BY 4.0, via Wikimedia Commons
+transform: from the original, AAC 160 kbit/s in M4A
+people: incidental
+truth: The echoing pedestrian tunnel under Tampere railway station, Finland, with shops along it and passengers hurrying to their trains.

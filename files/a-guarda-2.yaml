@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Santa Trega from the Portuguese side
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Monte_de_Santa_Trega_dende_Portugal.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Monte_de_Santa_Trega_dende_Portugal.jpg/1920px-Monte_de_Santa_Trega_dende_Portugal.jpg
+  retrieved: 2026-10-20
+author: Marcos Boente
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Monte de Santa Trega dende Portugal.jpg” by Marcos Boente, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Monte Santa Trega seen across the Minho estuary from Camarido beach in Portugal, waves breaking on the sand; late afternoon.

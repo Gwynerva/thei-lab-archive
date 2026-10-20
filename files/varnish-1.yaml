@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Varnish in the sun
+description: Two old wooden motorboats tied up together, varnished until they shone. Seven coats, I reckon. At least.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Shiny_varnished_surfaces_(14193317294).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Shiny_varnished_surfaces_%2814193317294%29.jpg/1920px-Shiny_varnished_surfaces_%2814193317294%29.jpg
+  retrieved: 2026-10-20
+author: Jukka from HELSINKI, Finland
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Shiny varnished surfaces (14193317294).jpg” by Jukka from HELSINKI, Finland, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Varnished wooden motorboats moored side by side in a Finnish harbour, glossy wooden hulls and white cabin tops, spring.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Arthur's Seat in the evening
+description: Arthur's Seat going gold in the last of the sun. I have lost count of how many times I have been up it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_Arthur_Seat_dsc06165.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Edinburgh_Arthur_Seat_dsc06165.jpg/1920px-Edinburgh_Arthur_Seat_dsc06165.jpg
+  retrieved: 2026-10-20
+author: David Monniaux
+licence: CC-BY-SA-3.0
+licenceUrl: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: “Edinburgh Arthur Seat dsc06165.jpg” by David Monniaux, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Arthur's Seat lit gold by low evening sun, seen from below with dark trees in the foreground and a pale sky.

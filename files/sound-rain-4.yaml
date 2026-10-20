@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: Wind and rain in the street
+description: A grey afternoon in town, the wind throwing the rain about. Another one for the rain count.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rain_and_wind_in_London_2026_08_28.wav
+  download: https://upload.wikimedia.org/wikipedia/commons/7/73/Rain_and_wind_in_London_2026_08_28.wav
+  retrieved: 2026-10-20
+author: Acabashi
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Rain and wind in London 2026 08 28.wav” by Acabashi, CC BY-SA 4.0, via Wikimedia Commons
+transform: from the original, MP3 VBR q2
+people: none
+truth: Rain and gusting wind recorded outdoors in London, England, at the end of August 2026.

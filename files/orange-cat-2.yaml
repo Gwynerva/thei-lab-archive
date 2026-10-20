@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit on his toy
+description: Biscuit lying on his toy instead of in the tent I bought him. Of course.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Orange_tabby_cat_looking.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Orange_tabby_cat_looking.jpg/1920px-Orange_tabby_cat_looking.jpg
+  retrieved: 2026-10-20
+author: Alessiothecat
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Orange tabby cat looking.jpg” by Alessiothecat, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An orange tabby cat lying on a grey fabric cat toy on a tiled floor, a felt cat tent, potted plants and a cardboard box behind.

@@ -1,0 +1,16 @@
+kind: audio
+ext: ogg
+title: Allemande, first suite
+description: The allemande, slower and kinder than the prelude. Mrs Ogilvie says it is where you learn to breathe.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:JOHN_MICHEL_CELLO-J_S_BACH_CELLO_SUITE_1_in_G_Allemande.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/6/6c/JOHN_MICHEL_CELLO-J_S_BACH_CELLO_SUITE_1_in_G_Allemande.ogg
+  retrieved: 2026-10-20
+author: John Michel
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “JOHN MICHEL CELLO-J S BACH CELLO SUITE 1 in G Allemande.ogg” by John Michel, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the original: first 180 s with a 2 s fade-out, Ogg Vorbis q5"
+people: none
+truth: The allemande, second movement of Bach's Cello Suite No. 1 in G major, BWV 1007, played on solo cello.

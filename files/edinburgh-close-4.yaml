@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: A door in Lady Stair's Close
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Two_Lady_Stairs_Close,_Old_Town,_Edinburgh,_Scotland_(16262521363).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Two_Lady_Stairs_Close%2C_Old_Town%2C_Edinburgh%2C_Scotland_%2816262521363%29.jpg/1920px-Two_Lady_Stairs_Close%2C_Old_Town%2C_Edinburgh%2C_Scotland_%2816262521363%29.jpg
+  retrieved: 2026-10-20
+author: Spencer Means from New York City, USA
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Two Lady Stairs Close, Old Town, Edinburgh, Scotland (16262521363).jpg” by Spencer Means from New York City, USA, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An old wooden door in a red stone frame with a name plate for Lady Stair's Close, Edinburgh, a drainpipe and graffiti on the pale wall.

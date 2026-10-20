@@ -1,0 +1,15 @@
+kind: image
+ext: svg
+title: Cog
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Font_Awesome_5_solid_cog_white.svg
+  download: https://upload.wikimedia.org/wikipedia/commons/3/33/Font_Awesome_5_solid_cog_white.svg
+  retrieved: 2026-10-20
+author: Font Awesome
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Font Awesome 5 solid cog white.svg” by Font Awesome, CC BY 4.0, via Wikimedia Commons
+transform: the original SVG with its white fill recoloured slate grey (#3d4a52)
+people: none
+truth: A solid white icon of a gear wheel with a round hole in the middle, on a transparent background.

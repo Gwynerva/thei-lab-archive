@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A stack of red mugs
+description: Four red mugs with white stars, stacked. Mine was lopsided and brown, but the idea was the same.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Handmade_Ceramic_Mugs_(made_and_photographed_by_Liina_Potter).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Handmade_Ceramic_Mugs_%28made_and_photographed_by_Liina_Potter%29.jpg/1280px-Handmade_Ceramic_Mugs_%28made_and_photographed_by_Liina_Potter%29.jpg
+  retrieved: 2026-10-20
+author: Liinbean
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Handmade Ceramic Mugs (made and photographed by Liina Potter).jpg” by Liinbean, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Four small red ceramic mugs with white star decorations stacked up, a hand lifting the top one, against a purple and pink checked backdrop.

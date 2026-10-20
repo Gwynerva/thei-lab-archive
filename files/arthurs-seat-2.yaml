@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: North-east from the top
+description: From the top looking out over the Forth, the sea opening out towards the east.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_Arthur%27s_Seat-20110904-RM-124927.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Edinburgh_Arthur%27s_Seat-20110904-RM-124927.jpg/1920px-Edinburgh_Arthur%27s_Seat-20110904-RM-124927.jpg
+  retrieved: 2026-10-20
+author: Ermell
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Edinburgh Arthur's Seat-20110904-RM-124927.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: View north-east from Arthur's Seat over green slopes and a rocky ridge to the edge of Edinburgh and the Firth of Forth, a rocky island on the horizon.

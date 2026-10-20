@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Reinefjorden
+description: A long view up Reinefjorden with the village tucked in under the peaks.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Reine_at_Reinefjorden,_2010_September.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Reine_at_Reinefjorden%2C_2010_September.jpg/1920px-Reine_at_Reinefjorden%2C_2010_September.jpg
+  retrieved: 2026-10-20
+author: Ximonic (Simo Räsänen)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Reine at Reinefjorden, 2010 September.jpg” by Ximonic (Simo Räsänen), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Wide autumn view of the village of Reine at Reinefjorden in Lofoten, steep peaks around the fjord and heather in the foreground.

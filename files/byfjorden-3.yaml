@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The fjord from Fløyen
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Byfjorden_Bergen.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Byfjorden_Bergen.jpg/1920px-Byfjorden_Bergen.jpg
+  retrieved: 2026-10-20
+author: trolvag
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Byfjorden Bergen.jpg” by trolvag, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Byfjorden and Puddefjorden from Fløyen, the Nordnes peninsula and Vågen harbour below, hills and islands beyond in soft light.

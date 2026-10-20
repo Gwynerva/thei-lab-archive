@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The huts under the West Cliff
+description: The beach huts along the prom under the West Cliff, blue sky for once. I've never been inside one, not once.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Beach_huts,_Whitby_-_geograph.org.uk_-_6794156.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Beach_huts%2C_Whitby_-_geograph.org.uk_-_6794156.jpg/1920px-Beach_huts%2C_Whitby_-_geograph.org.uk_-_6794156.jpg
+  retrieved: 2026-10-20
+author: habiloid
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Beach huts, Whitby - geograph.org.uk - 6794156.jpg” by habiloid, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: A row of colourful beach huts on the promenade below the grassy West Cliff at Whitby, a large hotel on the clifftop, the beach with a few people at left, summer.

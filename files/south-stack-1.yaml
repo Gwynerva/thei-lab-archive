@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: South Stack and the sea pinks
+description: The lighthouse on its island off the end of Anglesey, with thrift in flower all along the clifftop in front.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:South_Stack_Lighthouse_-_geograph.org.uk_-_4980316.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/South_Stack_Lighthouse_-_geograph.org.uk_-_4980316.jpg/1920px-South_Stack_Lighthouse_-_geograph.org.uk_-_4980316.jpg
+  retrieved: 2026-10-20
+author: John H Darch
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “South Stack Lighthouse - geograph.org.uk - 4980316.jpg” by John H Darch, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: South Stack lighthouse on its rocky islet off Anglesey, seen from the clifftop with pink thrift flowering in the foreground, blue sea and sky.

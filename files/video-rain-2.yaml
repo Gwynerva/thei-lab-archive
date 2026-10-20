@@ -1,0 +1,16 @@
+kind: video
+ext: webm
+title: A wet afternoon in town
+description: Rain so heavy the car park turned into a pond. We waited it out in the car.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rain_in_Sonoma_-_December_2025_-_Sarah_Stierch.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/Rain_in_Sonoma_-_December_2025_-_Sarah_Stierch.webm/Rain_in_Sonoma_-_December_2025_-_Sarah_Stierch.webm.1080p.vp9.webm
+  retrieved: 2026-10-20
+author: Missvain
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Rain in Sonoma - December 2025 - Sarah Stierch.webm” by Missvain, CC0, via Wikimedia Commons
+transform: "from the 1080p.vp9.webm transcode: long side at most 1280, VP9 with Opus sound, WEBM"
+people: none
+truth: Heavy rain falling on a flooded street and car park in downtown Sonoma, California, trees and a house beside it, December.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The wheel barometer
+description: A tall old wheel barometer in mahogany, the brass dial like a clock face.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Wheel_barometer_MET_DP318015.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Wheel_barometer_MET_DP318015.jpg/1280px-Wheel_barometer_MET_DP318015.jpg
+  retrieved: 2026-10-20
+author: Creator:Louis A. Smith
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Wheel barometer MET DP318015.jpg” by Creator:Louis A. Smith, CC0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An American wheel barometer of the 1840s, a tall mahogany case with a thermometer above a round brass-rimmed dial, photographed on white.

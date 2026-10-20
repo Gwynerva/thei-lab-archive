@@ -1,0 +1,15 @@
+kind: image
+ext: svg
+title: Gem
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Font_Awesome_5_regular_gem_gray.svg
+  download: https://upload.wikimedia.org/wikipedia/commons/b/bc/Font_Awesome_5_regular_gem_gray.svg
+  retrieved: 2026-10-20
+author: Font Awesome modified by Elias Ziade
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Font Awesome 5 regular gem gray.svg” by Font Awesome modified by Elias Ziade, CC BY-SA 4.0, via Wikimedia Commons
+transform: the original SVG, unchanged
+people: none
+truth: A grey outline icon of a cut gemstone.

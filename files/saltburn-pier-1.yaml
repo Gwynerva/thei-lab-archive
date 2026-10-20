@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Down the cliff lift
+description: Looking down the cliff lift tracks to the pier, the morning Dad and I set off.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Saltburn_Cliff_Lift_and_Pier.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Saltburn_Cliff_Lift_and_Pier.jpg/1280px-Saltburn_Cliff_Lift_and_Pier.jpg
+  retrieved: 2026-10-20
+author: Tom Ackroyd
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Saltburn Cliff Lift and Pier.jpg” by Tom Ackroyd, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, WebP q80, metadata removed"
+people: incidental
+truth: Looking down the steep tracks of the Saltburn cliff lift to its lower station, a car waiting and the pier running out to sea, a few people below.

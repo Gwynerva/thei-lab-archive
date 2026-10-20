@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A robin singing
+description: A robin singing on a branch against a pale sky, every feather lit.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:European_robin_Cr%C3%A9teil_2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/European_robin_Cr%C3%A9teil_2.jpg/1920px-European_robin_Cr%C3%A9teil_2.jpg
+  retrieved: 2026-10-20
+author: Alexis Lours
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “European robin Créteil 2.jpg” by Alexis Lours, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A European robin singing on a bare branch against a pale blue sky, its orange breast in sunlight, by a lake in Créteil, France.

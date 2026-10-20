@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: Grieghallen
+description: The concert hall on a bright day, a big concrete block with a long glass front and the flags out.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Grieghallen,_Bergen,_Noruega,_2019-09-08,_DD_66-67_PAN.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Grieghallen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_66-67_PAN.jpg/1920px-Grieghallen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_66-67_PAN.jpg
+  retrieved: 2026-10-20
+author: Diego Delso
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Grieghallen, Bergen, Noruega, 2019-09-08, DD 66-67 PAN.jpg” by Diego Delso, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: Wide view of the Grieghallen concert hall in Bergen, its glass front and concrete stage tower, flagpoles and an open square in front, blue sky.

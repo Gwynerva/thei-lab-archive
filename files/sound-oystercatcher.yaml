@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: Oystercatcher
+description: An oystercatcher piping on the shore, the first proper sign of spring.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Haematopus_ostralegus_-_Eurasian_Oystercatcher_XC561038.mp3
+  download: https://upload.wikimedia.org/wikipedia/commons/5/54/Haematopus_ostralegus_-_Eurasian_Oystercatcher_XC561038.mp3
+  retrieved: 2026-10-20
+author: Olivier Grimm
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Haematopus ostralegus - Eurasian Oystercatcher XC561038.mp3” by Olivier Grimm, CC BY-SA 4.0, via Wikimedia Commons
+transform: the original, re-encoded as MP3 VBR q2
+people: none
+truth: A Eurasian oystercatcher calling and singing in Helsinki, Finland.

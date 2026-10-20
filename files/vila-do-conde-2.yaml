@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The fort and the bell
+description: The sea fort at the mouth of the river, with a bell on a stand at the top of the beach.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vila_do_Conde_9.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Vila_do_Conde_9.jpg/1920px-Vila_do_Conde_9.jpg
+  retrieved: 2026-10-20
+author: Feranza
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Vila do Conde 9.jpg” by Feranza, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The sea fort of Nossa Senhora da Assunção at Vila do Conde with a bell monument in front, small figures on the beach and rocks below; sunny.

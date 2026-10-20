@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Barn window, grey boards
+description: Boards gone silver with the weather, and a window that hasn't opened in years.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Window_on_old_wooden_barn_in_Rix%C3%B6_6.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Window_on_old_wooden_barn_in_Rix%C3%B6_6.jpg/1920px-Window_on_old_wooden_barn_in_Rix%C3%B6_6.jpg
+  retrieved: 2026-10-20
+author: W.carter
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Window on old wooden barn in Rixö 6.jpg” by W.carter, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small window in the grey, weathered vertical board wall of an old wooden barn in Rixö, Sweden, patched boards below it.

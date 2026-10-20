@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: A binding from 1906
+description: A brown leather binding with green leaves up the spine, from 1906. I'd like to make something half as good one day.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Margaret_Chapman_1906_bookbinding_and_design;_An_anthology_of_Australian_verse.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Margaret_Chapman_1906_bookbinding_and_design%3B_An_anthology_of_Australian_verse.jpg/1920px-Margaret_Chapman_1906_bookbinding_and_design%3B_An_anthology_of_Australian_verse.jpg
+  retrieved: 2026-10-20
+author: Margaret Chapman
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Margaret Chapman 1906 bookbinding and design; An anthology of Australian verse.jpg” by Margaret Chapman, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, PNG, metadata removed"
+people: none
+truth: An upright book bound in brown leather in 1906, an anthology of Australian verse, its spine decorated with green leaf shapes and gilt lettering, plain background.

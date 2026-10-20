@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Jeffy Jan II
+description: The varnished transom of an old motor yacht with her name and port painted on. You could see the grain through the shine.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Transom_of_the_yacht_Jeffy_Jan_II,_Quebec_City.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Transom_of_the_yacht_Jeffy_Jan_II%2C_Quebec_City.jpg/1920px-Transom_of_the_yacht_Jeffy_Jan_II%2C_Quebec_City.jpg
+  retrieved: 2026-10-20
+author: Wilfredor
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Transom of the yacht Jeffy Jan II, Quebec City.jpg” by Wilfredor, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The varnished mahogany transom of the wooden motor yacht Jeffy Jan II, her name and home port Iroquois painted in pale letters, Quebec City, June.

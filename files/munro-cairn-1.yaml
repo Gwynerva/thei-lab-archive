@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Ben More summit cairn
+description: The top of Ben More on Mull, the A' Chioch ridge dropping away below the cairn.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ben_More_Summit_Cairn_and_A%27_Chioch_Ridge_-_geograph.org.uk_-_4973490.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Ben_More_Summit_Cairn_and_A%27_Chioch_Ridge_-_geograph.org.uk_-_4973490.jpg/1920px-Ben_More_Summit_Cairn_and_A%27_Chioch_Ridge_-_geograph.org.uk_-_4973490.jpg
+  retrieved: 2026-10-20
+author: Robert Skipworth
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Ben More Summit Cairn and A' Chioch Ridge - geograph.org.uk - 4973490.jpg” by Robert Skipworth, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The stony summit of Ben More on Mull with its cairn and a tiny figure on top, the A' Chioch ridge falling steeply at left, brown hills and haze.

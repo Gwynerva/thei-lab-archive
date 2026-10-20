@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Rainbow over the moor
+description: A faint rainbow over the moor at Washfold, between the showers.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:2013_Rainbow_over_Washfold.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2013_Rainbow_over_Washfold.jpg/1920px-2013_Rainbow_over_Washfold.jpg
+  retrieved: 2026-10-20
+author: Kreuzschnabel
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “2013 Rainbow over Washfold.jpg” by Kreuzschnabel, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A faint rainbow over open moorland and fields at Washfold, North Yorkshire, under a wide grey and blue sky, a stone wall in front.

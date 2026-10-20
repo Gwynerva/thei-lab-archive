@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The GNSS receiver
+description: A GNSS receiver on its yellow pole against a clean blue sky. Field days are the best days.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Geodetic_survey_instruments_02.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Geodetic_survey_instruments_02.jpg/1920px-Geodetic_survey_instruments_02.jpg
+  retrieved: 2026-10-20
+author: LubGua987
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Geodetic survey instruments 02.jpg” by LubGua987, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A white GNSS survey receiver mounted on a yellow pole, seen from below against blue sky with a few clouds.

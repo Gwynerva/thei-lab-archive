@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Runswick sands from above
+description: The whole sweep of Runswick sands from the cliff path, the tide right out.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Runswick_Bay_from_Runswick_Village.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Runswick_Bay_from_Runswick_Village.jpg/1920px-Runswick_Bay_from_Runswick_Village.jpg
+  retrieved: 2026-10-20
+author: SGDWN
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Runswick Bay from Runswick Village.jpg” by SGDWN, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Runswick Bay from above, a wide curve of sand at low tide below green wooded cliffs, a few people and a car on the beach.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A cat in a shuttered window
+description: A black cat on the sill between green shutters and peeling paint. It watched us all the way down the street.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Maple_St_Window_Sill_Cat_New_Orleans.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Maple_St_Window_Sill_Cat_New_Orleans.jpg/1920px-Maple_St_Window_Sill_Cat_New_Orleans.jpg
+  retrieved: 2026-10-20
+author: Infrogmation of New Orleans
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Maple St Window Sill Cat New Orleans.jpg” by Infrogmation of New Orleans, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A black cat sitting on the sill of a tall window with open green shutters in a white wooden house, an iron fence in front, New Orleans.

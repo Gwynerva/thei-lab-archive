@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: West Port in the Beast from the East
+description: The Beast from the East, day two. The whole city just stopped.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_Snow_(40517612672).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Edinburgh_Snow_%2840517612672%29.jpg/1920px-Edinburgh_Snow_%2840517612672%29.jpg
+  retrieved: 2026-10-20
+author: Magnus Hagdorn from UK
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Edinburgh Snow (40517612672).jpg” by Magnus Hagdorn from UK, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Black-and-white view of a snowy junction at West Port, Edinburgh, a domed corner building, a cyclist and walkers, snow falling, March 2018.

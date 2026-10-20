@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: The cathedral at night
+description: Floodlit gold with the moon beside the north tower. I went back after dinner just to look.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Santiago.de.Compostela.Catedral.Noche.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Santiago.de.Compostela.Catedral.Noche.jpg/1280px-Santiago.de.Compostela.Catedral.Noche.jpg
+  retrieved: 2026-10-20
+author: Yearofthedragon
+licence: CC-BY-2.5
+licenceUrl: https://creativecommons.org/licenses/by/2.5
+attribution: “Santiago.de.Compostela.Catedral.Noche.jpg” by Yearofthedragon, CC BY 2.5, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: The Obradoiro facade of Santiago de Compostela cathedral floodlit at night, the moon to one side, the square in front.

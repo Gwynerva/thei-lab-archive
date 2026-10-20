@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Calton Hill from the Crags
+description: Calton Hill from across the way, the half-built Parthenon and the telescope tower, Fife behind.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_Calton_Hill.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Edinburgh_Calton_Hill.jpg/1920px-Edinburgh_Calton_Hill.jpg
+  retrieved: 2026-10-20
+author: Saffron Blaze
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Edinburgh Calton Hill.jpg” by Saffron Blaze, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Calton Hill seen from Salisbury Crags, the Nelson Monument, the unfinished National Monument and the observatory dome, the Firth of Forth and Fife hills behind.

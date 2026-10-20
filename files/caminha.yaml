@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Caminha church at dusk
+description: The fortress of a church at Caminha in the last light, the night before the boat across the Minho.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Our_Lady_of_the_Assumption_church_in_Caminha_10.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Our_Lady_of_the_Assumption_church_in_Caminha_10.jpg/1920px-Our_Lady_of_the_Assumption_church_in_Caminha_10.jpg
+  retrieved: 2026-10-20
+author: Krzysztof Golik
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Our Lady of the Assumption church in Caminha 10.jpg” by Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The granite church of Nossa Senhora da Assunção in Caminha, Portugal, with its crenellated tower, at dusk under a pink sky.

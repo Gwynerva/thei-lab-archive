@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Clasps at the bindery
+description: Someone fitting brass clasps to a stack of leather covers, one by one. Proper bindery work, nothing like my kitchen table.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:St-Albans-Psalter-Faksimile-Bucheinband-Schliessen-Handarbeit.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/St-Albans-Psalter-Faksimile-Bucheinband-Schliessen-Handarbeit.jpg/1920px-St-Albans-Psalter-Faksimile-Bucheinband-Schliessen-Handarbeit.jpg
+  retrieved: 2026-10-20
+author: Charlotte Kramer
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “St-Albans-Psalter-Faksimile-Bucheinband-Schliessen-Handarbeit.jpg” by Charlotte Kramer, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: incidental
+truth: A hand with a small tool fixing gilt metal clasps to a dark red leather book cover in a bindery, loose clasps on pink paper, a stack of finished covers behind.

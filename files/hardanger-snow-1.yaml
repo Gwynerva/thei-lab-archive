@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Kiellandbu in the snow
+description: The little cabin on the ridge above Fyksesund in February, the sun blazing and the snow up to our knees.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kiellandbu_and_Fyksesund_in_Hardanger.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Kiellandbu_and_Fyksesund_in_Hardanger.jpg/1920px-Kiellandbu_and_Fyksesund_in_Hardanger.jpg
+  retrieved: 2026-10-20
+author: Sindre Skrede
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Kiellandbu and Fyksesund in Hardanger.jpg” by Sindre Skrede, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small wooden mountain cabin (Kiellandbu) in deep snow on Sveindalseggi in Kvam, the Fyksesund fjord and snowy mountains below, bright sun; February.

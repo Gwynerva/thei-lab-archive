@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Loch Morlich from Meall a' Bhuachaille
+description: Loch Morlich and the forest from the top of Meall a' Bhuachaille, first snow on the high tops.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Meall_a%27Bhuachaille_(Caingorms_National_Park).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Meall_a%27Bhuachaille_%28Caingorms_National_Park%29.jpg/1920px-Meall_a%27Bhuachaille_%28Caingorms_National_Park%29.jpg
+  retrieved: 2026-10-20
+author: Bex-Lemon
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Meall a'Bhuachaille (Caingorms National Park).jpg” by Bex-Lemon, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: View from Meall a' Bhuachaille over heather and a path towards Loch Morlich and Glenmore Forest, snow on the Cairngorm tops, November.

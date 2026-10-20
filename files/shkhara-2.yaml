@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The valley up to Shkhara
+description: Horses grazing on the valley floor beyond Ushguli, the mountain hiding in its own cloud.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ushguli_Village,_Svaneti,_view_of_Shkhara_mountain.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ushguli_Village%2C_Svaneti%2C_view_of_Shkhara_mountain.jpg/1920px-Ushguli_Village%2C_Svaneti%2C_view_of_Shkhara_mountain.jpg
+  retrieved: 2026-10-20
+author: D.Rovchak
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Ushguli Village, Svaneti, view of Shkhara mountain.jpg” by D.Rovchak, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A green valley near Ushguli with horses and sheep grazing, the snowy slopes of Shkhara half hidden in cloud at the far end.

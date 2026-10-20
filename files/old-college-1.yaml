@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Old College quad
+description: Old College on graduation day, before the gown that didn't fit.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Old_College,_Edinburgh_University.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Old_College%2C_Edinburgh_University.jpg/1920px-Old_College%2C_Edinburgh_University.jpg
+  retrieved: 2026-10-20
+author: Chrysi Chrysochou
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Old College, Edinburgh University.jpg” by Chrysi Chrysochou, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The quadrangle of Old College, University of Edinburgh, a lawn in front and the domed entrance range beyond, dramatic cloud, a few people.

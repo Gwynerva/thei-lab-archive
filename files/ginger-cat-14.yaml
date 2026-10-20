@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Rooftops and a ginger cat
+description: Slate roofs going down the hill and a ginger cat on the wall in the corner. Look closely.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Settle_rooftops_and_a_ginger_cat_-_geograph.org.uk_-_3060509.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Settle_rooftops_and_a_ginger_cat_-_geograph.org.uk_-_3060509.jpg/1920px-Settle_rooftops_and_a_ginger_cat_-_geograph.org.uk_-_3060509.jpg
+  retrieved: 2026-10-20
+author: Bill Boaden
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Settle rooftops and a ginger cat - geograph.org.uk - 3060509.jpg” by Bill Boaden, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Stone houses and slate rooftops of Settle, North Yorkshire, seen over a stone wall, a small ginger cat sitting on the wall at lower right.

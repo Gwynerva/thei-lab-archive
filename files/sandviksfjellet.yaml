@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Sandviken from above
+description: My neighbourhood from Sandviksfjellet, the streets running down to the harbour. You can almost see my roof.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sandviken_from_Sandviksfjellet.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Sandviken_from_Sandviksfjellet.jpg/1920px-Sandviken_from_Sandviksfjellet.jpg
+  retrieved: 2026-10-20
+author: Alasdair McLellan
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Sandviken from Sandviksfjellet.jpg” by Alasdair McLellan, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Sandviken in Bergen seen from Sandviksfjellet in May, dense houses and streets running down the slope to the harbour and fjord.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The crooked clock tower
+description: The leaning clock tower by the puppet theatre. At noon an angel comes out and rings the bell.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:2014_Tbilisi,_Wie%C5%BCa_zegarowa_(01).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/2014_Tbilisi%2C_Wie%C5%BCa_zegarowa_%2801%29.jpg/1280px-2014_Tbilisi%2C_Wie%C5%BCa_zegarowa_%2801%29.jpg
+  retrieved: 2026-10-20
+author: Marcin Konsek
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “2014 Tbilisi, Wieża zegarowa (01).jpg” by Marcin Konsek, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: The whimsical leaning clock tower beside the marionette theatre in the old town of Tbilisi, cypress trees beside it, blue sky.

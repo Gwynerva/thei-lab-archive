@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Marbled endpaper, 1869
+description: The endpaper from an old natural history book, combed into peacock feathers in maroon and gold.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Marbled-paper-1869.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Marbled-paper-1869.jpg/1920px-Marbled-paper-1869.jpg
+  retrieved: 2026-10-20
+author: Thomas Richards, Government Printmaster
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Marbled-paper-1869.jpg” by Thomas Richards, Government Printmaster, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Combed marbled paper in a feathered pattern of maroon, gold, white and dark blue, the inside cover of a book published in 1869.

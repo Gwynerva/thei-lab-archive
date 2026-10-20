@@ -1,0 +1,15 @@
+kind: audio
+ext: ogg
+title: Autumn robin in the park
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_-_European_Robin_XC507779.mp3
+  download: https://upload.wikimedia.org/wikipedia/commons/5/53/Erithacus_rubecula_-_European_Robin_XC507779.mp3
+  retrieved: 2026-10-20
+author: Marie-Lan Taÿ Pamart
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Erithacus rubecula - European Robin XC507779.mp3” by Marie-Lan Taÿ Pamart, CC BY-SA 4.0, via Wikimedia Commons
+transform: from the original, Ogg Vorbis q5
+people: none
+truth: A European robin's autumn song from the top of a tree in a public park, a crow cawing loudly near the start.

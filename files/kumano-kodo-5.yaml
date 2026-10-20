@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Down to the sea on the Iseji
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kumano_Kodo_view.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Kumano_Kodo_view.jpg/1920px-Kumano_Kodo_view.jpg
+  retrieved: 2026-10-20
+author: VKaeru
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Kumano Kodo view.jpg” by VKaeru, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Panorama from the Iseji route of the Kumano Kodo before Mikisato, wooded hills and a bay of the sea, tall trees at either side.

@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: Thunder over the town
+description: Heavy rain and then the thunder right overhead. Biscuit spent the whole thing under the bed.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mansoura_city_weather,_Heavy_rains_and_thunder.flac
+  download: https://upload.wikimedia.org/wikipedia/commons/a/af/Mansoura_city_weather%2C_Heavy_rains_and_thunder.flac
+  retrieved: 2026-10-20
+author: Aimty17
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Mansoura city weather, Heavy rains and thunder.flac” by Aimty17, CC BY-SA 4.0, via Wikimedia Commons
+transform: from the original, MP3 VBR q2
+people: none
+truth: Heavy rain and thunder in the city of Mansoura, Egypt.

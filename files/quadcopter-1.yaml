@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The drone hovering
+description: A white quadcopter hovering with its camera pointing down, just before it climbed.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:2015_Dron_DJI_Phantom_3_Advanced.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/2015_Dron_DJI_Phantom_3_Advanced.JPG/1920px-2015_Dron_DJI_Phantom_3_Advanced.JPG
+  retrieved: 2026-10-20
+author: Jacek Halicki
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “2015 Dron DJI Phantom 3 Advanced.JPG” by Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A white DJI Phantom 3 quadcopter drone hovering in front of trees and a white van, its camera on a gimbal underneath.

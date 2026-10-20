@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: A twist of copper wire
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Enamelled_litz_copper_wire.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Enamelled_litz_copper_wire.JPG/1920px-Enamelled_litz_copper_wire.JPG
+  retrieved: 2026-10-20
+author: Alisdojo
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Enamelled litz copper wire.JPG” by Alisdojo, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of a twisted bundle of fine enamelled copper litz wire lying across a pale background.

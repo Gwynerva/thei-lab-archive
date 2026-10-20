@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Geitost on the board
+description: A slab of geitost on the breakfast board, knife ready. Jonas eats it on waffles.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Slab_of_geitost.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Slab_of_geitost.jpg/1920px-Slab_of_geitost.jpg
+  retrieved: 2026-10-20
+author: zabdiel
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Slab of geitost.jpg” by zabdiel, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: A slab of brown geitost cheese on a white board with a knife, breakfast things around it on a table.

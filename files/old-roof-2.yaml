@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The barn roof
+description: Old tiles on an old timber barn, all slightly out of line.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:L%C3%A5vedetaljer_Hveem_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/L%C3%A5vedetaljer_Hveem_01.jpg/1280px-L%C3%A5vedetaljer_Hveem_01.jpg
+  retrieved: 2026-10-20
+author: Øyvind Holmstad
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Låvedetaljer Hveem 01.jpg” by Øyvind Holmstad, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Upper part of an old dark timber barn with a pitched roof of clay tiles, Innlandet, Norway, pale sky.

@@ -1,0 +1,16 @@
+kind: audio
+ext: wav
+title: Blackbird by the lake
+description: A blackbird singing in the trees by the water on a mild evening, hopping from branch to branch and keeping an eye on me.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Turdus_merula_-_Common_Blackbird_XC125792.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/3/32/Turdus_merula_-_Common_Blackbird_XC125792.ogg
+  retrieved: 2026-10-20
+author: Dan Stowell
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Turdus merula - Common Blackbird XC125792.ogg” by Dan Stowell, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the original: first 40 s with a 2 s fade-out, WAV 16-bit 44.1 kHz"
+people: incidental
+truth: A common blackbird singing in trees by a lake in Rennes, France, on a mild evening, some wind noise and a bicycle passing.

@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: Mozart, the slow movement
+description: The Andante from Mozart's D minor quartet. Marta played it to me once and it's been on repeat since.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mozart_-_String_Quartet_No._15_in_D_minor,_K421_-_II._Andante_(Musopen_String_Quartet).flac
+  download: https://upload.wikimedia.org/wikipedia/commons/2/21/Mozart_-_String_Quartet_No._15_in_D_minor%2C_K421_-_II._Andante_%28Musopen_String_Quartet%29.flac
+  retrieved: 2026-10-20
+author: Wolfgang Amadeus Mozart
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Mozart - String Quartet No. 15 in D minor, K421 - II. Andante (Musopen String Quartet).flac” by Wolfgang Amadeus Mozart, public domain, via Wikimedia Commons
+transform: "from the original: first 180 s with a 2 s fade-out, MP3 VBR q2"
+people: none
+truth: Recording of the second movement, Andante, of Mozart's String Quartet No. 15 in D minor, K. 421, played by a string quartet.

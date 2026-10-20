@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Nyhavn in still water
+description: The painted houses of Nyhavn doubled in the canal, the boats lined up along the quay. Copenhagen showing off.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nyhavn_Copenhagen_2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Nyhavn_Copenhagen_2.jpg/1920px-Nyhavn_Copenhagen_2.jpg
+  retrieved: 2026-10-20
+author: kallerna
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Nyhavn Copenhagen 2.jpg” by kallerna, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Nyhavn canal in Copenhagen on a clear day, colourful gabled townhouses and moored wooden boats reflected in calm water, small crowds along the quay.

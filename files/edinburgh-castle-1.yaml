@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The castle from the Esplanade
+description: The castle first thing, before the coaches arrive.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_Esplanade_20211019.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Edinburgh_Castle_from_Esplanade_20211019.jpg/1920px-Edinburgh_Castle_from_Esplanade_20211019.jpg
+  retrieved: 2026-10-20
+author: Daniel Kraft
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Edinburgh Castle from Esplanade 20211019.jpg” by Daniel Kraft, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Edinburgh Castle and its gatehouse seen from the empty Esplanade on an overcast morning, the castle rock at left.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The wheel at the studio
+description: An electric wheel, the splash pan and a tub of water. Two hours a week of mine, that first autumn.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Electric_potter%27s_wheel.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/4/4e/Electric_potter%27s_wheel.jpg
+  retrieved: 2026-10-20
+author: Lomrjyo
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Electric potter's wheel.jpg” by Lomrjyo, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side 1920, JPEG q85, metadata removed"
+people: incidental
+truth: An electric potter's wheel with a green wheel head and a white splash pan, a plastic tub on its tray, part of a seated person's leg at the top left.

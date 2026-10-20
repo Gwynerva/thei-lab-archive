@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Stars on cream
+description: A cream quilt with small pieced stars and all that quilting in between, done by hand.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Elbert_S._Mowery,_Patchwork_Quilt,_c._1937,_NGA_12573.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Elbert_S._Mowery%2C_Patchwork_Quilt%2C_c._1937%2C_NGA_12573.jpg/1920px-Elbert_S._Mowery%2C_Patchwork_Quilt%2C_c._1937%2C_NGA_12573.jpg
+  retrieved: 2026-10-20
+author: Elbert S. Mowery
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Elbert S. Mowery, Patchwork Quilt, c. 1937, NGA 12573.jpg” by Elbert S. Mowery, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: A watercolour rendering, about 1937, of a cream quilt with small pieced star blocks in red, blue and yellow and fine quilting lines.

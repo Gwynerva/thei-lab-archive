@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Lofthus in the cloud
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lofthus,_Norway_(14675427477).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Lofthus%2C_Norway_%2814675427477%29.jpg/1920px-Lofthus%2C_Norway_%2814675427477%29.jpg
+  retrieved: 2026-10-20
+author: Nick from Bristol, UK
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Lofthus, Norway (14675427477).jpg” by Nick from Bristol, UK, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A row of fruit trees on a grassy slope at Lofthus, Hardanger, Sørfjorden beyond with low cloud on the mountains and snow on the far peaks, summer.

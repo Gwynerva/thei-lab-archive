@@ -1,0 +1,15 @@
+kind: image
+ext: gif
+title: Biscuit lapping, slowly, looping
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cat_lapping_water_off_ground_in_slow_motion.gk.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/a/ac/Cat_lapping_water_off_ground_in_slow_motion.gk.webm
+  retrieved: 2026-10-20
+author: Grendelkhan
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Cat lapping water off ground in slow motion.gk.webm” by Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: three seconds from 1 s in, 480 px wide, 12 frames a second, a looping GIF of 128 colours"
+people: none
+truth: An orange-and-white tabby cat lapping water off a pale paved floor, filmed in slow motion, daylight (a few seconds of it, looping)

@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: A ship's siren
+description: The siren of an old steamship, the one they used for fog. It goes right through you.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:WWS_ShipSodekshipssiren.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/9/9c/WWS_ShipSodekshipssiren.ogg
+  retrieved: 2026-10-20
+author: Work With Sounds / Museum of Municipal Engineering
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “WWS ShipSodekshipssiren.ogg” by Work With Sounds / Museum of Municipal Engineering, CC BY 4.0, via Wikimedia Commons
+transform: from the original, MP3 VBR q2
+people: none
+truth: Recording of the siren of the museum steamship Sołdek in Gdańsk, Poland, once used as a fog signal.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Edinburgh from Salisbury Crags
+description: The whole city laid out from the Crags, with people toiling up the path below.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_Salisbury_Crags-20110904-RM-122306.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Edinburgh_Salisbury_Crags-20110904-RM-122306.jpg/1920px-Edinburgh_Salisbury_Crags-20110904-RM-122306.jpg
+  retrieved: 2026-10-20
+author: Ermell
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Edinburgh Salisbury Crags-20110904-RM-122306.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Edinburgh from Salisbury Crags, the red cliff face at right, a path with walkers below, the city spreading out to the hills, cloudy blue sky.

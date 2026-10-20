@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The old schoolhouse at Dale
+description: A white wooden house with a slate roof and folding chairs out on the flagstones. Built about 1860, so a bit older than ours.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:DALE_Fjaler_kommune_Vestland_fylke_Sunnfjord_NORWAY._Gamle_skulehuset._Skifer_uteplass_klappstoler._August_2021_IMG_2997.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/DALE_Fjaler_kommune_Vestland_fylke_Sunnfjord_NORWAY._Gamle_skulehuset._Skifer_uteplass_klappstoler._August_2021_IMG_2997.jpg/1920px-DALE_Fjaler_kommune_Vestland_fylke_Sunnfjord_NORWAY._Gamle_skulehuset._Skifer_uteplass_klappstoler._August_2021_IMG_2997.jpg
+  retrieved: 2026-10-20
+author: Wolfmann
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “DALE Fjaler kommune Vestland fylke Sunnfjord NORWAY. Gamle skulehuset. Skifer uteplass klappstoler. August 2021 IMG 2997.jpg” by Wolfmann, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The white wooden old schoolhouse in Dale, Fjaler, Norway, with a grey slate roof, folding chairs and tables on a slate-paved patio, August.

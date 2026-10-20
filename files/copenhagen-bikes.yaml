@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A street full of bikes
+description: Copenhagen parks its bicycles the way other cities park cars, in rows down the middle of the pavement. One had a child seat on the back.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bicycles_in_Copenhagen_(December_2017).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Bicycles_in_Copenhagen_%28December_2017%29.jpg/1920px-Bicycles_in_Copenhagen_%28December_2017%29.jpg
+  retrieved: 2026-10-20
+author: Visem
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Bicycles in Copenhagen (December 2017).jpg” by Visem, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Rows of parked bicycles on a paved shopping street in Copenhagen, one with a child seat, shop windows behind and a few distant pedestrians.

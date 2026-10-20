@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A box of Gravensteins
+description: The first box of the year. My feet, for scale.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hale%27s_Apple_Farm_-_August_2022_-_Sarah_Stierch_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Hale%27s_Apple_Farm_-_August_2022_-_Sarah_Stierch_01.jpg/1920px-Hale%27s_Apple_Farm_-_August_2022_-_Sarah_Stierch_01.jpg
+  retrieved: 2026-10-20
+author: Missvain
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Hale's Apple Farm - August 2022 - Sarah Stierch 01.jpg” by Missvain, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: incidental
+truth: A cardboard box full of red-and-yellow Gravenstein apples held over a paved floor, the photographer's shoes just visible below.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A brass shell in the pavement
+description: A brass scallop set in the paving, the kind you follow through every Portuguese town.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Amarante_trail_marker.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Amarante_trail_marker.jpg/1920px-Amarante_trail_marker.jpg
+  retrieved: 2026-10-20
+author: PLBechly
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Amarante trail marker.jpg” by PLBechly, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A brass scallop-shell Camino marker set into granite paving in Amarante, Portugal.

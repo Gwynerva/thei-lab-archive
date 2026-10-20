@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Mestia and its towers
+description: The town on its green slope, towers poking up between the roofs wherever you look.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mestia,_June,_2018-2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Mestia%2C_June%2C_2018-2.jpg/1920px-Mestia%2C_June%2C_2018-2.jpg
+  retrieved: 2026-10-20
+author: Alexey Komarov
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Mestia, June, 2018-2.jpg” by Alexey Komarov, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Mestia in Svaneti, Georgia, many stone Svan towers among houses on a green hillside; June.

@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Saltburn pier
+description: The pier on its iron legs, with everyone out at the far end looking at the sea.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Saltburn_pier_-_geograph.org.uk_-_2128667.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saltburn_pier_-_geograph.org.uk_-_2128667.jpg/1920px-Saltburn_pier_-_geograph.org.uk_-_2128667.jpg
+  retrieved: 2026-10-20
+author: Carol Walker
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Saltburn pier - geograph.org.uk - 2128667.jpg” by Carol Walker, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: incidental
+truth: Saltburn pier on its iron legs over the sand, waves breaking along the beach, a few people at the far end, grey sea.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Split logs
+description: A neat face of split logs, every one a different shape.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Brennholzstapel,_160730,_ako.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Brennholzstapel%2C_160730%2C_ako.jpg/1920px-Brennholzstapel%2C_160730%2C_ako.jpg
+  retrieved: 2026-10-20
+author: Ansgar Koreng
+licence: CC-BY-3.0-DE
+licenceUrl: https://creativecommons.org/licenses/by/3.0/de/deed.en
+attribution: “Brennholzstapel, 160730, ako.jpg” by Ansgar Koreng, CC BY 3.0 de, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close view of the end face of a stack of freshly split, pale firewood logs in Thuringia, Germany, summer.

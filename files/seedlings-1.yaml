@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Celery in old tins
+description: Celery seedlings potted up into old tins and cartons. Make do and mend, in soil.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Celery_seedlings_planted_in_recycled_pots.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Celery_seedlings_planted_in_recycled_pots.jpg/1920px-Celery_seedlings_planted_in_recycled_pots.jpg
+  retrieved: 2026-10-20
+author: Badak Ironman
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Celery seedlings planted in recycled pots.jpg” by Badak Ironman, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Hands potting celery seedlings into recycled tins and containers on gravel, other seedlings around, blurred pink clothing at the edges, no faces.

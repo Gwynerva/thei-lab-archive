@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The old smoke house
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:R%C3%B8ynevarden,_Rogaland_-_Riksantikvaren-T247_01_0043.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/R%C3%B8ynevarden%2C_Rogaland_-_Riksantikvaren-T247_01_0043.jpg/1920px-R%C3%B8ynevarden%2C_Rogaland_-_Riksantikvaren-T247_01_0043.jpg
+  retrieved: 2026-10-20
+author: Halvor Vreim
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Røynevarden, Rogaland - Riksantikvaren-T247 01 0043.jpg” by Halvor Vreim, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Old black-and-white photograph of a low log smoke house (røykstove) at Røynevarden in Suldal, Rogaland, with a turf roof and stone footing.

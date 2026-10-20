@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Hand-dyed skeins
+description: Skeins hanging in a little yarn shop, every colour of the sea and a few that aren't. I came out with two. I meant to come out with none.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Skeins_of_wool_-_geograph.org.uk_-_8160692.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/3/3b/Skeins_of_wool_-_geograph.org.uk_-_8160692.jpg
+  retrieved: 2026-10-20
+author: Jonathan Billinger
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Skeins of wool - geograph.org.uk - 8160692.jpg” by Jonathan Billinger, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the original: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Hand-dyed skeins and braids of wool in blues, greens, yellows and creams hanging on a rack in a yarn shop in Bristol.

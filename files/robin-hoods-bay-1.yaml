@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Down into the Bay
+description: The top of the Bay looking south, the way we always walked down to Nana's.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Robin_Hood%27s_Bay_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Robin_Hood%27s_Bay_01.jpg/1920px-Robin_Hood%27s_Bay_01.jpg
+  retrieved: 2026-10-20
+author: Simon Burchell
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Robin Hood's Bay 01.jpg” by Simon Burchell, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Looking south from the top of Robin Hood's Bay, a path on the grassy slope, red-roofed houses, the bay and its far headland in sun, people walking.

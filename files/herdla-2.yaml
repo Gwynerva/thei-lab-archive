@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Herdla from the plane
+description: Herdla from the air, flat and green among the skerries. It looked exactly like the map.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Herdla-2019.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Herdla-2019.jpg/1920px-Herdla-2019.jpg
+  retrieved: 2026-10-20
+author: Bjørn Christian Tørrissen
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Herdla-2019.jpg” by Bjørn Christian Tørrissen, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Aerial view of Herdla island, flat green farmland and the old airfield surrounded by small islands and skerries in a blue sea.

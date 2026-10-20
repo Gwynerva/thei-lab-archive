@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Leather, tools and offcuts
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Leathertools.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/5/5c/Leathertools.jpg
+  retrieved: 2026-10-20
+author: Scott Bauer
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Leathertools.jpg” by Scott Bauer, public domain, via Wikimedia Commons
+transform: "from the original: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Leather hides, coloured leather samples, a revolving hole punch, a thickness gauge, a sheepskin roller and a leather shoe laid out together, a small logo on some pieces.

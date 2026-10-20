@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: An old screw press
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Apple_cider_press_-_Hadley_Farm_Museum_-_DSC07621.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Apple_cider_press_-_Hadley_Farm_Museum_-_DSC07621.JPG/1280px-Apple_cider_press_-_Hadley_Farm_Museum_-_DSC07621.JPG
+  retrieved: 2026-10-20
+author: Daderot
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Apple cider press - Hadley Farm Museum - DSC07621.JPG” by Daderot, CC0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An old wooden cider press with a slatted barrel basket and iron screw, a museum exhibit in a farm museum in Hadley, Massachusetts.

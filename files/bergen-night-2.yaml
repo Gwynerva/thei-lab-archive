@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Bryggen lit up
+description: Bryggen at blue hour after rain, the gables outlined in lights and doubled in the wet stones.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen_Bryggen_night_tunliweb.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Bergen_Bryggen_night_tunliweb.jpg/1920px-Bergen_Bryggen_night_tunliweb.jpg
+  retrieved: 2026-10-20
+author: Svein Magne Tunli
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Bergen Bryggen night tunliweb.jpg” by Svein Magne Tunli, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Bryggen's wooden facades in Bergen at blue hour, gables outlined with lights and reflected in the wet paving of the quay.

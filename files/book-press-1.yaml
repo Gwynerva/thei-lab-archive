@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The cast-iron press
+description: A cast-iron screw press like the one at the bindery, heavy enough to flatten anything.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cast-iron_bookbinding_screw_press.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Cast-iron_bookbinding_screw_press.jpg/1920px-Cast-iron_bookbinding_screw_press.jpg
+  retrieved: 2026-10-20
+author: "I, the copyright holder of this work, hereby publish it under the following license:"
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Cast-iron bookbinding screw press.jpg” by I, the copyright holder of this work, hereby publish it under the following license:, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small cast-iron bookbinding screw press with a T-shaped handle, standing on green grass in sunshine.

@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: White water after rain
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:The_Water_of_Leith_-_geograph.org.uk_-_2287211.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/The_Water_of_Leith_-_geograph.org.uk_-_2287211.jpg/1920px-The_Water_of_Leith_-_geograph.org.uk_-_2287211.jpg
+  retrieved: 2026-10-20
+author: M J Richardson
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “The Water of Leith - geograph.org.uk - 2287211.jpg” by M J Richardson, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Water of Leith running fast over rocks between steep wooded banks in Edinburgh, bare trees, a stone bridge pier at the right edge, winter.

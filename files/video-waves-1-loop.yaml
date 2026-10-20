@@ -1,0 +1,15 @@
+kind: image
+ext: gif
+title: Grey waves, black stones, looping
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rialto_Beach_Waves_2022.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f3/Rialto_Beach_Waves_2022.webm/Rialto_Beach_Waves_2022.webm.1080p.vp9.webm
+  retrieved: 2026-10-20
+author: Sea Cow
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Rialto Beach Waves 2022.webm” by Sea Cow, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1080p.vp9.webm transcode: three seconds from 1 s in, 480 px wide, 12 frames a second, a looping GIF of 128 colours"
+people: none
+truth: Waves breaking on the dark pebble shore of Rialto Beach, Olympic National Park, Washington, sea stacks on the horizon, overcast sky (a few seconds of it, looping)

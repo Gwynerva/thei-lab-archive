@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: Togetsukyo bridge
+description: The long bridge at Arashiyama under a heavy sky. I walked across it twice for no reason.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Togetsukyo_-_kyoto_-_March_16_2020.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/0/01/Togetsukyo_-_kyoto_-_March_16_2020.webm
+  retrieved: 2026-10-20
+author: Nesnad
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Togetsukyo - kyoto - March 16 2020.webm” by Nesnad, CC BY 4.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, H.264, no sound, MP4"
+people: incidental
+truth: Togetsukyō bridge over the Katsura river at Arashiyama, Kyoto, wooded hills behind, cloudy sky, bare branches, March.

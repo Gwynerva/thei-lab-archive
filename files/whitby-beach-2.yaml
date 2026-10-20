@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Waves and huts from the cliff
+description: Looking down from the West Cliff, grey sea and white lines of waves, and the huts like a row of sweets along the bottom.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_beach_huts_-_geograph.org.uk_-_2409841.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Whitby_beach_huts_-_geograph.org.uk_-_2409841.jpg/1920px-Whitby_beach_huts_-_geograph.org.uk_-_2409841.jpg
+  retrieved: 2026-10-20
+author: Steve Fareham
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Whitby beach huts - geograph.org.uk - 2409841.jpg” by Steve Fareham, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The North Sea with lines of breaking waves seen from the cliff at Whitby, a row of brightly painted beach huts along the bottom edge, cloudy sky.

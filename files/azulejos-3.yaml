@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: The fair in tiles at São Bento
+description: One of the tile pictures in the hall of São Bento station, a whole country fair, dancers and all, in blue.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Porto_April_2019-5.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Porto_April_2019-5.jpg/1920px-Porto_April_2019-5.jpg
+  retrieved: 2026-10-20
+author: Alvesgaspar
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Porto April 2019-5.jpg” by Alvesgaspar, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: A blue and white azulejo panel in São Bento railway station, Porto, showing a traditional popular fair with painted figures, above an arched window.

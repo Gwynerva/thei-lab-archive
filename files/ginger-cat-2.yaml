@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: Biscuit on the rug
+description: Stretched out on the woven rug, pretending not to watch me.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ginger_cat_(5768998850).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Ginger_cat_%285768998850%29.jpg/1920px-Ginger_cat_%285768998850%29.jpg
+  retrieved: 2026-10-20
+author: krebsmaus07
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Ginger cat (5768998850).jpg” by krebsmaus07, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: An orange tabby cat lying stretched out on a patterned rug against striped cushions, looking at the camera.

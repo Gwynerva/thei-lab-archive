@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Down the alley to the harbour
+description: A gap between two houses in Staithes with the harbour at the bottom. Every lane in Staithes ends in the sea.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Staithes_MMB_04.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Staithes_MMB_04.jpg/1280px-Staithes_MMB_04.jpg
+  retrieved: 2026-10-20
+author: mattbuck (category)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Staithes MMB 04.jpg” by mattbuck (category), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A narrow passage between houses in Staithes looking down to the harbour, small boats, a breakwater and the open sea beyond, blue sky and cloud.

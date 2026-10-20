@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The forest path
+description: Hours of this. Cedars, roots, steps, and nobody else.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kumano_Kodo_forest.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Kumano_Kodo_forest.jpg/1920px-Kumano_Kodo_forest.jpg
+  retrieved: 2026-10-20
+author: VKaeru
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Kumano Kodo forest.jpg” by VKaeru, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A forest path through tall thin cedars and undergrowth on the Kohechi section of the Kumano Kodo, light coming through from behind.

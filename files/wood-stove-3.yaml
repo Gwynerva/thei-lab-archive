@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Kitchen stove with pans
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Local_museum_Eltmann,_wood_stove_in_the_kitchen.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Local_museum_Eltmann%2C_wood_stove_in_the_kitchen.jpg/1920px-Local_museum_Eltmann%2C_wood_stove_in_the_kitchen.jpg
+  retrieved: 2026-10-20
+author: Nemracc
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Local museum Eltmann, wood stove in the kitchen.jpg” by Nemracc, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A wood-fired kitchen range in a local museum in Eltmann, Germany, pots and pans on top and hanging above, a log basket below, red floor.

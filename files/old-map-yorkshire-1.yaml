@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A geological map of the coast
+description: An old geological survey of the Yorkshire coast, the rocks coloured in between the Humber and the Tees.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:A_geological_survey_of_the_Yorkshire_coast_BHL31184044.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/A_geological_survey_of_the_Yorkshire_coast_BHL31184044.jpg/1920px-A_geological_survey_of_the_Yorkshire_coast_BHL31184044.jpg
+  retrieved: 2026-10-20
+author: Bird, John; Young, George
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “A geological survey of the Yorkshire coast BHL31184044.jpg” by Bird, John; Young, George, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A hand-coloured early 19th-century geological map of the Yorkshire coast between the Humber and the Tees, strata in pale colours with a legend, from a book.

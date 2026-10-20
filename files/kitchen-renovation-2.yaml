@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: A kitchen, nearly
+description: White cupboards in, the floor down, tools still on the counter. Nearly a kitchen.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kitchen_renovation_project_mostly_finished_tools_still_on_counter.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Kitchen_renovation_project_mostly_finished_tools_still_on_counter.JPG/1920px-Kitchen_renovation_project_mostly_finished_tools_still_on_counter.JPG
+  retrieved: 2026-10-20
+author: Tomwsulcer
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Kitchen renovation project mostly finished tools still on counter.JPG” by Tomwsulcer, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: A newly renovated kitchen with white cabinets, dark counters, white fridge and stove and a dark wood floor, a few tools still on the counter.

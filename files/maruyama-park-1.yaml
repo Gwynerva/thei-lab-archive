@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The weeping cherry in Maruyama Park
+description: The big weeping cherry in Maruyama Park in full blossom. Half of Kyoto was underneath it, and fair enough.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Maruyama_Park_(3515276427).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Maruyama_Park_%283515276427%29.jpg/1920px-Maruyama_Park_%283515276427%29.jpg
+  retrieved: 2026-10-20
+author: KimonBerlin
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Maruyama Park (3515276427).jpg” by KimonBerlin, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The large weeping cherry tree of Maruyama Park in Kyoto in full pale pink blossom, its branches propped up, against a blue sky.

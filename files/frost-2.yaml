@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: One frosted leaf
+description: A single dead hornbeam leaf, every vein lined with frost crystals.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Carpinus_betulus_leaf_with_frost_RF.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Carpinus_betulus_leaf_with_frost_RF.jpg/1920px-Carpinus_betulus_leaf_with_frost_RF.jpg
+  retrieved: 2026-10-20
+author: Robert Flogaus-Faust
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Carpinus betulus leaf with frost RF.jpg” by Robert Flogaus-Faust, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Close-up of a dead European hornbeam leaf with hoar frost crystals along its ribs, a dark blurred background, Hesse, Germany.

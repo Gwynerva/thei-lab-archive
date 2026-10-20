@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: North over the Quiraing
+description: The cliffs and pinnacles looking north. The greenest place I have ever stood.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:North_over_the_Quiraing,_Isle_of_Skye.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/North_over_the_Quiraing%2C_Isle_of_Skye.jpg/1920px-North_over_the_Quiraing%2C_Isle_of_Skye.jpg
+  retrieved: 2026-10-20
+author: Colin
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “North over the Quiraing, Isle of Skye.jpg” by Colin, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: Looking north over the Quiraing on Skye, tall cliffs on the right, green slopes and rock pinnacles, the sea on the horizon, blue sky with clouds.

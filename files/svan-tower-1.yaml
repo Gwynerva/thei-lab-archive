@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Towers and snow near Mestia
+description: A line of towers in the trees with the snow peaks behind. Nine hundred years old and still standing.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Near_Mestia,_Svan_towers_(35252565354).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Near_Mestia%2C_Svan_towers_%2835252565354%29.jpg/1920px-Near_Mestia%2C_Svan_towers_%2835252565354%29.jpg
+  retrieved: 2026-10-20
+author: Arian Zwegers from Brussels, Belgium
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Near Mestia, Svan towers (35252565354).jpg” by Arian Zwegers from Brussels, Belgium, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Several stone Svan towers among trees near Mestia, Georgia, snow-covered Caucasus peaks behind, blue sky.

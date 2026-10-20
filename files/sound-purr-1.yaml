@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: Purring
+description: Purring at full volume after a good stroke. Biscuit has two settings, and this is the loud one.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bachgasse_Wiki_Lina_Gebhardt_and_Anna_Muck_Cats_Purring_-_Katzenschnurren.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/4/46/Bachgasse_Wiki_Lina_Gebhardt_and_Anna_Muck_Cats_Purring_-_Katzenschnurren.ogg
+  retrieved: 2026-10-20
+author: Mrs.Better
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Bachgasse Wiki Lina Gebhardt and Anna Muck Cats Purring - Katzenschnurren.ogg” by Mrs.Better, CC BY-SA 4.0, via Wikimedia Commons
+transform: from the original, MP3 VBR q2
+people: none
+truth: A five-year-old British Shorthair tomcat purring while being stroked.

@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The museum among the roofs
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vista_de_la_Universidad_de_Bergen_desde_la_monta%C3%B1a_Fl%C3%B8yen,_Bergen,_Noruega,_2019-09-08,_DD_44.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Vista_de_la_Universidad_de_Bergen_desde_la_monta%C3%B1a_Fl%C3%B8yen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_44.jpg/1920px-Vista_de_la_Universidad_de_Bergen_desde_la_monta%C3%B1a_Fl%C3%B8yen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_44.jpg
+  retrieved: 2026-10-20
+author: Diego Delso
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Vista de la Universidad de Bergen desde la montaña Fløyen, Bergen, Noruega, 2019-09-08, DD 44.jpg” by Diego Delso, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The white University Museum buildings of Bergen among trees and rooftops, seen from Mount Fløyen on a sunny day.

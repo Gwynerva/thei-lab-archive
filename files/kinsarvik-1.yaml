@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Summer night in Kinsarvik
+description: Gone eleven and still light enough to read, the lamps on along the road to the quay.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Summer_night_in_Kinsarvik_(64943).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Summer_night_in_Kinsarvik_%2864943%29.jpg/1920px-Summer_night_in_Kinsarvik_%2864943%29.jpg
+  retrieved: 2026-10-20
+author: Daniel Mietchen
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Summer night in Kinsarvik (64943).jpg” by Daniel Mietchen, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Kinsarvik on a summer night at dusk, houses, a lit road and parked cars, the fjord with a docked ferry beyond, low cloud on the hills.

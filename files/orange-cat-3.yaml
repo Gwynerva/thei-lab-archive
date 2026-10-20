@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit holding court
+description: Biscuit on a box in the sun like he owns the place, which he thinks he does.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Orange_tabby_cat_seated.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Orange_tabby_cat_seated.jpg/1920px-Orange_tabby_cat_seated.jpg
+  retrieved: 2026-10-20
+author: Angge (longcakeHigad)
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Orange tabby cat seated.jpg” by Angge (longcakeHigad), CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An orange mackerel tabby cat lying on a board on a white box beside a plastic crate, a metal shutter behind, at a market in Manila.

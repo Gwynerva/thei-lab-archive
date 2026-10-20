@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: A sea stack on the black sand
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Reynisfjara,_Su%C3%B0urland,_Islandia,_2014-08-17,_DD_164.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Reynisfjara%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_164.JPG/1920px-Reynisfjara%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-17%2C_DD_164.JPG
+  retrieved: 2026-10-20
+author: Diego Delso
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Reynisfjara, Suðurland, Islandia, 2014-08-17, DD 164.JPG” by Diego Delso, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A basalt rock stack standing in shallow water on a black sand beach in south Iceland, waves and a distant headland with sea stacks behind, blue sky.

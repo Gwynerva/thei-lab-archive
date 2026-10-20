@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Ulriken after sunset
+description: The lights coming on far below and the red tower glowing beside me.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ulriken_Bergen_Norway_02.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/8/8b/Ulriken_Bergen_Norway_02.jpg
+  retrieved: 2026-10-20
+author: Svein-Magne Tunli - tunliweb.no
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Ulriken Bergen Norway 02.jpg” by Svein-Magne Tunli - tunliweb.no, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Dusk from the top of Ulriken in October, Bergen's lights spread far below, an orange band on the horizon and a red-lit tower structure at the edge.

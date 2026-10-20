@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: The cliffs at Sumburgh Head
+description: The bottom end of Shetland, the lighthouse on top and the sea doing all the work below.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sumburgh_Head_IMG_2594_(19144473621).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Sumburgh_Head_IMG_2594_%2819144473621%29.jpg/1920px-Sumburgh_Head_IMG_2594_%2819144473621%29.jpg
+  retrieved: 2026-10-20
+author: Ronnie Robertson
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Sumburgh Head IMG 2594 (19144473621).jpg” by Ronnie Robertson, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Green cliffs of Sumburgh Head, Shetland, running out to sea, the white lighthouse on the top at the left, calm grey-blue sea and a ship on the horizon.

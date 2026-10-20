@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Boats at Styrkesvik
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Styrkesvik_village_at_the_fjord_crossing_S%C3%B8rfolda_and_Leirfjorden.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Styrkesvik_village_at_the_fjord_crossing_S%C3%B8rfolda_and_Leirfjorden.jpg/1920px-Styrkesvik_village_at_the_fjord_crossing_S%C3%B8rfolda_and_Leirfjorden.jpg
+  retrieved: 2026-10-20
+author: Frankemann
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Styrkesvik village at the fjord crossing Sørfolda and Leirfjorden.jpg” by Frankemann, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Small fishing boats and red waterfront buildings at Styrkesvik, Sørfold, Nordland, reflected in a still fjord, green hills behind, sunny.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A plotted T-shirt
+description: A white T-shirt with a zine-making diagram drawn on it by a pen plotter. I want one.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:White_T-shirt_plotted_used_by_T-shirt_pen_plotter_-_simple_graphic_%22How_to_make_a_zine%22_-_event_GRADE_Paris_2026.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/White_T-shirt_plotted_used_by_T-shirt_pen_plotter_-_simple_graphic_%22How_to_make_a_zine%22_-_event_GRADE_Paris_2026.jpg/1280px-White_T-shirt_plotted_used_by_T-shirt_pen_plotter_-_simple_graphic_%22How_to_make_a_zine%22_-_event_GRADE_Paris_2026.jpg
+  retrieved: 2026-10-20
+author: Valerio Bozzolan
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “White T-shirt plotted used by T-shirt pen plotter - simple graphic "How to make a zine" - event GRADE Paris 2026.jpg” by Valerio Bozzolan, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A white T-shirt with a black line drawing explaining how to make a zine, drawn by a T-shirt pen plotter at an event in Paris, 2026.

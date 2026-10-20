@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Myrland beach in winter
+description: Big round rocks on the beach at Myrland after a cold icy drive, the waves running in grey and white.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Myrland_Lofoten_(25560717045).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Myrland_Lofoten_%2825560717045%29.jpg/1920px-Myrland_Lofoten_%2825560717045%29.jpg
+  retrieved: 2026-10-20
+author: Peter Edwards from Outskirts of camborne, United Kingdom
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Myrland Lofoten (25560717045).jpg” by Peter Edwards from Outskirts of camborne, United Kingdom, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Large dark boulders on the shore at Myrland in Lofoten in winter, long-exposure waves blurring around them, a snowy peak and heavy grey clouds.

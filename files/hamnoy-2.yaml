@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Hamnøy in the fog
+description: Hamnøy with the big mountain half lost in fog, red cabins all along the rocks.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hamn%C3%B8y,_Moskenes%C3%B8ya_-_Lofoten_Islands,_Norway.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Hamn%C3%B8y%2C_Moskenes%C3%B8ya_-_Lofoten_Islands%2C_Norway.jpg/1920px-Hamn%C3%B8y%2C_Moskenes%C3%B8ya_-_Lofoten_Islands%2C_Norway.jpg
+  retrieved: 2026-10-20
+author: Stch2022
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Hamnøy, Moskenesøya - Lofoten Islands, Norway.jpg” by Stch2022, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The fishing village of Hamnøy in Lofoten, red cabins on the rocky shore, the steep peak of Festhæltinden rising into fog behind, grey day.

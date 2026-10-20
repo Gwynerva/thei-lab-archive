@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The East Cliff coming down
+description: The East Cliff slumping onto the beach. This is the bit people in Whitby argue about in the pub.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:East_Cliff,_Whitby_-_geograph.org.uk_-_2345677.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/East_Cliff%2C_Whitby_-_geograph.org.uk_-_2345677.jpg/1920px-East_Cliff%2C_Whitby_-_geograph.org.uk_-_2345677.jpg
+  retrieved: 2026-10-20
+author: JThomas
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “East Cliff, Whitby - geograph.org.uk - 2345677.jpg” by JThomas, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The East Cliff at Whitby, a slumped and eroding face of clay and rock above a narrow sandy beach, the harbour pier in the distance, fields on top.

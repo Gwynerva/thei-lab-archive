@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: Northern lights over the jetty
+description: Green light pouring across the sky above the water and a wooden jetty. I forgot to breathe.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Time-lapse_of_Aurora_Borealis_in_Norway.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/3/3e/Time-lapse_of_Aurora_Borealis_in_Norway.webm
+  retrieved: 2026-10-20
+author: Christer Olsen
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Time-lapse of Aurora Borealis in Norway.webm” by Christer Olsen, CC0, via Wikimedia Commons
+transform: "from the original: first 40 s, long side at most 1280, H.264, no sound, MP4"
+people: none
+truth: Time-lapse of a green aurora borealis arching over dark water and a wooden jetty in Norway, stars, a boathouse at the side.

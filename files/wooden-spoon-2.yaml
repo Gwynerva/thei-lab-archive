@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A long-handled spoon
+description: A long carved spoon with a scale bar under it, plain and lovely.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Carved_Wooden_Spoon_from_South_Africa.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Carved_Wooden_Spoon_from_South_Africa.jpg/1920px-Carved_Wooden_Spoon_from_South_Africa.jpg
+  retrieved: 2026-10-20
+author: Unknown authorUnknown author
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Carved Wooden Spoon from South Africa.jpg” by Unknown authorUnknown author, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A hand-carved long-handled wooden spoon from South Africa, light brown, on white with a black and white scale bar. A museum object.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Svörtuloft lighthouse
+description: The orange lighthouse at the very western tip of Snæfellsnes, black lava all round it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sv%C3%B6rtuloft_lighthouse.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Sv%C3%B6rtuloft_lighthouse.jpg/1920px-Sv%C3%B6rtuloft_lighthouse.jpg
+  retrieved: 2026-10-20
+author: Bjorn.thorvaldsson.is
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Svörtuloft lighthouse.jpg” by Bjorn.thorvaldsson.is, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The orange Svörtuloft lighthouse tower on black lava cliffs at the west end of Snæfellsnes, the sea on the left, blue sky with clouds.

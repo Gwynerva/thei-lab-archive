@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: Boats at Wied iż-Żurrieq
+description: Looking down into a little Maltese harbour, boats going in and out of the inlet. The water really is that blue.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Malta_-_Qrendi_-_Wied_iz-Zurrieq_-_bay%2Bharbour_(Triq_ta%27_Hagar_Qim)_02_(0)_ies.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/6/68/Malta_-_Qrendi_-_Wied_iz-Zurrieq_-_bay%2Bharbour_%28Triq_ta%27_Hagar_Qim%29_02_%280%29_ies.webm
+  retrieved: 2026-10-20
+author: Frank Vincentz
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Malta - Qrendi - Wied iz-Zurrieq - bay+harbour (Triq ta' Hagar Qim) 02 (0) ies.webm” by Frank Vincentz, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the original: first 40 s, long side at most 1280, H.264, no sound, MP4"
+people: incidental
+truth: Video looking down from a road into the narrow rocky inlet of Wied iż-Żurrieq harbour in Malta, small tour boats on deep blue water, sunny.

@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: The corner block on Castle Terrace
+description: The big fancy tenement on Castle Terrace, all turrets and chimneys.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Corner_tenement_block,_Castle_Terrace,_Edinburgh_-_geograph.org.uk_-_8380563.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Corner_tenement_block%2C_Castle_Terrace%2C_Edinburgh_-_geograph.org.uk_-_8380563.jpg/1920px-Corner_tenement_block%2C_Castle_Terrace%2C_Edinburgh_-_geograph.org.uk_-_8380563.jpg
+  retrieved: 2026-10-20
+author: Bill Harrison
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Corner tenement block, Castle Terrace, Edinburgh - geograph.org.uk - 8380563.jpg” by Bill Harrison, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: incidental
+truth: A large ornate corner tenement block on Castle Terrace, Edinburgh, with turrets, dormers and tall chimneys, people and cars on the street, grey sky.

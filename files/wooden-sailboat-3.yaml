@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A gaff sloop out for the afternoon
+description: A gaff-rigged sloop with a full boat and a flag flying, going nowhere in particular.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Friendship_Sloop_Bay_Lady_2008.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Friendship_Sloop_Bay_Lady_2008.jpg/1920px-Friendship_Sloop_Bay_Lady_2008.jpg
+  retrieved: 2026-10-20
+author: flickr user "abkfenris"
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Friendship Sloop Bay Lady 2008.jpg” by flickr user "abkfenris", CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: A gaff-rigged sloop of traditional design (fibreglass hull) sailing with cream sails and a US flag, a few passengers aboard, wooded shore behind. Maine, USA.

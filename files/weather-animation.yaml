@@ -1,0 +1,15 @@
+kind: image
+ext: gif
+title: Radar over America
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:National_Weather_Service_radar_mosaic_loop.gif
+  download: https://upload.wikimedia.org/wikipedia/commons/7/7a/National_Weather_Service_radar_mosaic_loop.gif
+  retrieved: 2026-10-20
+author: National Weather Service
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “National Weather Service radar mosaic loop.gif” by National Weather Service, public domain, via Wikimedia Commons
+transform: the original animated GIF, unchanged
+people: none
+truth: An animated loop of a US National Weather Service radar mosaic of the contiguous United States on 3 September 2012, showers in blue and green on a white map.

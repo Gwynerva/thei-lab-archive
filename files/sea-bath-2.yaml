@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: Morning swim at the sea baths
+description: The sea baths at Kiama at sunrise, a few early swimmers already in.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_11449_Sea_baths_at_Kiama_NSW.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/CSIRO_ScienceImage_11449_Sea_baths_at_Kiama_NSW.jpg/1920px-CSIRO_ScienceImage_11449_Sea_baths_at_Kiama_NSW.jpg
+  retrieved: 2026-10-20
+author: Liese Coulter, CSIRO
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “CSIRO ScienceImage 11449 Sea baths at Kiama NSW.jpg” by Liese Coulter, CSIRO, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: incidental
+truth: Rock sea baths at Kiama, New South Wales, at sunrise, a few small figures swimming in the pool, waves breaking on dark rocks beyond.

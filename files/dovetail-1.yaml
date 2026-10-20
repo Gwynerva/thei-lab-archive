@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: First dovetails
+description: Two little pieces of oak with dovetails, cut by hand as practice before the bookshelf. Not perfect. Not bad.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:My_first_handcut_dovetails!.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/My_first_handcut_dovetails%21.jpg/1280px-My_first_handcut_dovetails%21.jpg
+  retrieved: 2026-10-20
+author: Damien Pollet
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “My first handcut dovetails!.jpg” by Damien Pollet, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A small practice corner of two oak boards joined with hand-cut dovetails on a pale workbench, a drill and a marking gauge blurred behind.

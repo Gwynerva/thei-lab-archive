@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Log cabin quilt
+description: A log cabin quilt, faded and soft-looking, the squares spiralling out from the middle.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Alois_E._Ulrich,_Patchwork_Quilt,_1935-1942,_NGA_15110.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Alois_E._Ulrich%2C_Patchwork_Quilt%2C_1935-1942%2C_NGA_15110.jpg/1920px-Alois_E._Ulrich%2C_Patchwork_Quilt%2C_1935-1942%2C_NGA_15110.jpg
+  retrieved: 2026-10-20
+author: Alois E. Ulrich
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Alois E. Ulrich, Patchwork Quilt, 1935-1942, NGA 15110.jpg” by Alois E. Ulrich, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A watercolour rendering, about 1935 to 1942, of a faded log cabin patchwork quilt in pink, blue and cream.

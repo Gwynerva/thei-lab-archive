@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Red cabins at Nusfjord
+description: Red cabins round the harbour at Nusfjord, the sky grey and everything very still.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lofoten_Nusfjord_06.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Lofoten_Nusfjord_06.JPG/1920px-Lofoten_Nusfjord_06.JPG
+  retrieved: 2026-10-20
+author: Zairon
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Lofoten Nusfjord 06.JPG” by Zairon, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Red fishermen's cabins on stilts around the small harbour of Nusfjord in Lofoten around midnight in summer, low clouds and calm water.

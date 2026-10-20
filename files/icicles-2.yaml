@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Icicles on the eaves
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hausd%C3%BClmen,_Eiszapfen_an_einem_Haus_am_Burgplatz_--_2021_--_4856_(bw).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Eiszapfen_an_einem_Haus_am_Burgplatz_--_2021_--_4856_%28bw%29.jpg/1920px-D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Eiszapfen_an_einem_Haus_am_Burgplatz_--_2021_--_4856_%28bw%29.jpg
+  retrieved: 2026-10-20
+author: Dietmar Rabich
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Dülmen, Hausdülmen, Eiszapfen an einem Haus am Burgplatz -- 2021 -- 4856 (bw).jpg” by Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A black and white photograph of a row of long icicles hanging from snowy eaves in front of a timber-framed house wall, Hausdülmen, Germany.

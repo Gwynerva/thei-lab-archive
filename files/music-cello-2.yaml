@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: Chopin sonata, the scherzo
+description: The second movement of the Chopin cello sonata, all nerves and sparks. Far beyond me, which is the point.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Chopin,_Frederic_-_Cello_Sonata_Gmin,_op._65,_2nd_movement_(John_Michel,_cello).ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/c/cd/Chopin%2C_Frederic_-_Cello_Sonata_Gmin%2C_op._65%2C_2nd_movement_%28John_Michel%2C_cello%29.ogg
+  retrieved: 2026-10-20
+author: Frédéric Chopin
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Chopin, Frederic - Cello Sonata Gmin, op. 65, 2nd movement (John Michel, cello).ogg” by Frédéric Chopin, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the original: first 180 s with a 2 s fade-out, MP3 VBR q2"
+people: none
+truth: The second movement (scherzo) of Chopin's Cello Sonata in G minor, Op. 65, for cello and piano.

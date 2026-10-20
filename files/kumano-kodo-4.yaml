@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Nonaka spring
+description: Nonaka no Shimizu, the old spring by the trail. Cold enough to hurt your teeth.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nonaka_no_shimizu.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Nonaka_no_shimizu.jpg/1920px-Nonaka_no_shimizu.jpg
+  retrieved: 2026-10-20
+author: ブルーノ・プラス
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Nonaka no shimizu.jpg” by ブルーノ・プラス, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Nonaka no Shimizu spring on the Kumano Kodo, a stone-walled pool of clear water with a spout, stone steps and mossy rocks.

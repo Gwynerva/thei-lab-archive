@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The Adishi tower by the stream
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Adishi_Tower.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Adishi_Tower.jpg/1920px-Adishi_Tower.jpg
+  retrieved: 2026-10-20
+author: Damianenika
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Adishi Tower.jpg” by Damianenika, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A lone stone Svan tower on a green slope above a rushing mountain stream full of boulders at Adishi, Svaneti; cloudy.

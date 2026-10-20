@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Window with shutters
+description: A little window in a stone wall, the shutters the colour of honey.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Old_wooden_window.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Old_wooden_window.jpg/1920px-Old_wooden_window.jpg
+  retrieved: 2026-10-20
+author: Titus Tscharntke
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Old wooden window.jpg” by Titus Tscharntke, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small wooden window with orange-brown board shutters in a rough stone wall, the edge of a slate roof above.

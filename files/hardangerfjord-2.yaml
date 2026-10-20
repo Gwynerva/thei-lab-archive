@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: The fjord from the shore at Utne
+description: Looking across from the rocks below Utne, snow still on the tops in May. Very nearly the view from the orchard, only lower down.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hardangerfjorden,_Ullensvang_herad,_Hordaland,_Norway_-_panoramio.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Hardangerfjorden%2C_Ullensvang_herad%2C_Hordaland%2C_Norway_-_panoramio.jpg/1920px-Hardangerfjorden%2C_Ullensvang_herad%2C_Hordaland%2C_Norway_-_panoramio.jpg
+  retrieved: 2026-10-20
+author: trolvag
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Hardangerfjorden, Ullensvang herad, Hordaland, Norway - panoramio.jpg” by trolvag, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: The Hardangerfjord seen from a rocky shore at Utne, snow-capped mountains across the water, a small boathouse, blue sky; late spring.

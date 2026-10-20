@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: A Highland cow on the moor
+description: Fringe, horns and total indifference. We stared at each other for a good while.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cow_on_Pupers.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Cow_on_Pupers.jpg/1920px-Cow_on_Pupers.jpg
+  retrieved: 2026-10-20
+author: Nilfanion
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Cow on Pupers.jpg” by Nilfanion, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: A ginger long-haired Highland cow with wide horns standing in pale moorland grass on Pupers Hill, Dartmoor, England.

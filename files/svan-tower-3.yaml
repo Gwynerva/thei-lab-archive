@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: A tower in a Svan village
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Svan_Tower_in_Georgia_(2017).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Svan_Tower_in_Georgia_%282017%29.jpg/1920px-Svan_Tower_in_Georgia_%282017%29.jpg
+  retrieved: 2026-10-20
+author: Peyman Zehtab Fard
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Svan Tower in Georgia (2017).jpg” by Peyman Zehtab Fard, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A single weathered stone Svan tower among stone houses and green hills in a Svaneti village, Georgia; cloudy.

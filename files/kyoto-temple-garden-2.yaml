@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: The open gate at Isshin-in
+description: A heavy wooden gate standing open onto a quiet garden, round the back of Chion-in.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Wooden_gate_with_open_double_door_leading_to_the_garden_of_Isshinin_Buddhist_temple_in_the_compounds_of_Chion-in_Kyoto_Japan.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Wooden_gate_with_open_double_door_leading_to_the_garden_of_Isshinin_Buddhist_temple_in_the_compounds_of_Chion-in_Kyoto_Japan.jpg/1920px-Wooden_gate_with_open_double_door_leading_to_the_garden_of_Isshinin_Buddhist_temple_in_the_compounds_of_Chion-in_Kyoto_Japan.jpg
+  retrieved: 2026-10-20
+author: Basile Morin
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Wooden gate with open double door leading to the garden of Isshinin Buddhist temple in the compounds of Chion-in Kyoto Japan.jpg” by Basile Morin, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: An open double wooden gate looking onto a paved path, a small garden and a tiled-roof building at Isshin-in temple within Chion-in, Kyoto.

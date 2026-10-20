@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: Porto and the Dom Luís bridge
+description: Porto from the garden above the bridge, the evening before the Camino. Ines pointed out every roof she knew.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Porto,_with_a_view_on_the_Dom_Lu%C3%ADs_I_Bridge.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/Porto%2C_with_a_view_on_the_Dom_Lu%C3%ADs_I_Bridge.webm/Porto%2C_with_a_view_on_the_Dom_Lu%C3%ADs_I_Bridge.webm.1080p.vp9.webm
+  retrieved: 2026-10-20
+author: Mophidox
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Porto, with a view on the Dom Luís I Bridge.webm” by Mophidox, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1080p.vp9.webm transcode: long side at most 1280, H.264 with AAC sound, MP4"
+people: none
+truth: View over Porto from Jardim do Morro, the Dom Luís I bridge with a metro tram crossing, the Douro and the Ribeira roofs below, sunny, April.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Cloud coming down over Odda
+description: Weather rolling down the mountain over Odda. We drove home with the wipers on.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Odda_at_the_Hardangerfjord.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Odda_at_the_Hardangerfjord.jpg/1920px-Odda_at_the_Hardangerfjord.jpg
+  retrieved: 2026-10-20
+author: kalev kevad
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Odda at the Hardangerfjord.jpg” by kalev kevad, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Low cloud pouring over the dark mountains above Odda and the Sørfjord, houses along the shore and still water; overcast summer day.

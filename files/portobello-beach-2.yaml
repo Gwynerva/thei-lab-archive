@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Along the prom
+description: Portobello in its off-season grey, the prom nearly empty. My favourite version of it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Along_Portobello_beach_-_geograph.org.uk_-_3289547.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Along_Portobello_beach_-_geograph.org.uk_-_3289547.jpg/1920px-Along_Portobello_beach_-_geograph.org.uk_-_3289547.jpg
+  retrieved: 2026-10-20
+author: Alan Slater
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Along Portobello beach - geograph.org.uk - 3289547.jpg” by Alan Slater, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Portobello beach and promenade looking along the shore, a terrace of houses, a groyne across the sand, a few people walking, grey sky.

@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: Ice-jam flood depths
+description: Three panels of flood depth behind an ice jam, for the hundred, two hundred and five hundred year floods.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ice_jam_flood_hazard_maps.png
+  download: https://upload.wikimedia.org/wikipedia/commons/6/6d/Ice_jam_flood_hazard_maps.png
+  retrieved: 2026-10-20
+author: RiverIceGuy
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Ice jam flood hazard maps.png” by RiverIceGuy, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side 825 as published, PNG, metadata removed"
+people: none
+truth: Three map panels of flood water depth from ice-jam floods along a river for 100, 200 and 500 year return periods, shaded green to red on black.

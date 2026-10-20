@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Plywood that wasn't marine
+description: An old table left out in the weather, the plies peeling apart like pastry. A good argument for paying for okoume.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Weatherworn_plywood_table_3.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Weatherworn_plywood_table_3.jpg/1920px-Weatherworn_plywood_table_3.jpg
+  retrieved: 2026-10-20
+author: W.carter
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Weatherworn plywood table 3.jpg” by W.carter, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Edge of a weathered plywood table that stood outdoors for years in Lysekil, Sweden, the plies split and peeling, a rusty metal band along the top.

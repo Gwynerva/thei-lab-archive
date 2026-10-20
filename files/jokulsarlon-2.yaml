@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A turned-over iceberg
+description: An iceberg that had just rolled over, its underside bright blue. Priya explained the lines on it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:033_Freshly_rotated_iceberg_at_J%C3%B6kuls%C3%A1rl%C3%B3n_(Iceland)_Photo_by_Giles_Laurent.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/033_Freshly_rotated_iceberg_at_J%C3%B6kuls%C3%A1rl%C3%B3n_%28Iceland%29_Photo_by_Giles_Laurent.jpg/1920px-033_Freshly_rotated_iceberg_at_J%C3%B6kuls%C3%A1rl%C3%B3n_%28Iceland%29_Photo_by_Giles_Laurent.jpg
+  retrieved: 2026-10-20
+author: Giles Laurent
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “033 Freshly rotated iceberg at Jökulsárlón (Iceland) Photo by Giles Laurent.jpg” by Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A large iceberg in Jökulsárlón showing bright blue, recently submerged ice and lines of its earlier water levels after rotating.

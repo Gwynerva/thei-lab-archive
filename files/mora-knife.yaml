@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The red-handled knife
+description: A Mora knife with the red wooden handle, the kind every Scandinavian seems to own. Mine is for spoons, mostly.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Morakniv_utan_skida_(KJ_Mora_Sweden)_2669.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Morakniv_utan_skida_%28KJ_Mora_Sweden%29_2669.jpg/1920px-Morakniv_utan_skida_%28KJ_Mora_Sweden%29_2669.jpg
+  retrieved: 2026-10-20
+author: Gunnar Creutz
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Morakniv utan skida (KJ Mora Sweden) 2669.jpg” by Gunnar Creutz, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A Mora knife with a worn red wooden handle and a steel blade lying on a grey stone surface.

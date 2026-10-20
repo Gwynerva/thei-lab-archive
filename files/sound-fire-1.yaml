@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: The forge fire
+description: The fire in the blacksmith's forge at the open day, crackling and roaring. I want a stove that sounds like this.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:WWS_Fireoftheforge.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/0/01/WWS_Fireoftheforge.ogg
+  retrieved: 2026-10-20
+author: Work With Sounds / La Fonderie
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “WWS Fireoftheforge.ogg” by Work With Sounds / La Fonderie, CC BY 4.0, via Wikimedia Commons
+transform: from the original, MP3 VBR q2
+people: none
+truth: The coke fire of a blacksmith's forge burning and crackling; a recording of historic working machinery.

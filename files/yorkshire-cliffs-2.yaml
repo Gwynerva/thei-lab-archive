@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: West Cliff path
+description: The path along the top of the West Cliff, the slope below doing its slow slide.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:West_Cliff,_Whitby_-_geograph.org.uk_-_2009337.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/West_Cliff%2C_Whitby_-_geograph.org.uk_-_2009337.jpg/1920px-West_Cliff%2C_Whitby_-_geograph.org.uk_-_2009337.jpg
+  retrieved: 2026-10-20
+author: wfmillar
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “West Cliff, Whitby - geograph.org.uk - 2009337.jpg” by wfmillar, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A path along the grassy top of Whitby's West Cliff, the steep slope down to the sands and the sea, a large house at the end, blue sky.

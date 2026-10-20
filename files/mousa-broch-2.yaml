@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The broch from the rocks
+description: Mousa broch from the south, over the flat rocks, on a day of small white clouds.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Broch_of_Mousa_(1).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Broch_of_Mousa_%281%29.jpg/1920px-Broch_of_Mousa_%281%29.jpg
+  retrieved: 2026-10-20
+author: swifant
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Broch of Mousa (1).jpg” by swifant, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Mousa Broch seen from the south across flat shore rocks and calm water, green hills of Shetland behind, blue sky with many small white clouds.

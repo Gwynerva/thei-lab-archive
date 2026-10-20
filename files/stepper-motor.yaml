@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A little stepper motor
+description: A small stepper motor and its driver board on the cutting mat, ready to move a pen.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:28BYJ-48_unipolar_stepper_motor_with_ULN2003_driver.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/28BYJ-48_unipolar_stepper_motor_with_ULN2003_driver.jpg/1920px-28BYJ-48_unipolar_stepper_motor_with_ULN2003_driver.jpg
+  retrieved: 2026-10-20
+author: Kushagra Keshari
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “28BYJ-48 unipolar stepper motor with ULN2003 driver.jpg” by Kushagra Keshari, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small 5-volt unipolar stepper motor with a gearbox, wired to a ULN2003 driver board with red LEDs, on a green cutting mat.

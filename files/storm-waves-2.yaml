@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Eastbourne pier after the storm
+description: Big grey waves under Eastbourne pier the morning after Storm Bert.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Destructive_Waves_at_Eastbourne_Pier_after_Storm_Bert_-_geograph.org.uk_-_8000964.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Destructive_Waves_at_Eastbourne_Pier_after_Storm_Bert_-_geograph.org.uk_-_8000964.jpg/1920px-Destructive_Waves_at_Eastbourne_Pier_after_Storm_Bert_-_geograph.org.uk_-_8000964.jpg
+  retrieved: 2026-10-20
+author: Andrew Diack
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Destructive Waves at Eastbourne Pier after Storm Bert - geograph.org.uk - 8000964.jpg” by Andrew Diack, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Large waves breaking along the shingle beach and under Eastbourne Pier, East Sussex, after Storm Bert, under a grey sky.

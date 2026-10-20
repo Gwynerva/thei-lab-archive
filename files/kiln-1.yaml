@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A kiln full of pots
+description: A model of an old wood-fired kiln, stacked with pots and lit from above. Ours at the course was electric and much less romantic.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pottery_oven_in_Nov%C3%A1_budova_N%C3%A1rodn%C3%ADho_muzea_Prague.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Pottery_oven_in_Nov%C3%A1_budova_N%C3%A1rodn%C3%ADho_muzea_Prague.jpg/1280px-Pottery_oven_in_Nov%C3%A1_budova_N%C3%A1rodn%C3%ADho_muzea_Prague.jpg
+  retrieved: 2026-10-20
+author: Geertivp
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Pottery oven in Nová budova Národního muzea Prague.jpg” by Geertivp, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A model of a domed clay pottery kiln stacked with pale unfired pots, fire holes with charcoal at the bottom, in a dark museum display in Prague.

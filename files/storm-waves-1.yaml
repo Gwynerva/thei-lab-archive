@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: Waves over the quay
+description: A storm hitting the quay at Lysekil, spray everywhere and the wind at 26 metres a second.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Waves_at_pier_by_Havets_hus_Lysekil.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Waves_at_pier_by_Havets_hus_Lysekil.jpg/1920px-Waves_at_pier_by_Havets_hus_Lysekil.jpg
+  retrieved: 2026-10-20
+author: W.carter
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Waves at pier by Havets hus Lysekil.jpg” by W.carter, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, PNG, metadata removed"
+people: none
+truth: Breaking storm waves surging against rocks and a quay at Lysekil, Sweden, white water and salt mist in a strong wind.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The flatbed plotter
+description: An old A3 flatbed pen plotter with a building plan half drawn on it. The great-grandparent of my map plotter.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:20101024230DR_Stiftplotter.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/20101024230DR_Stiftplotter.jpg/1920px-20101024230DR_Stiftplotter.jpg
+  retrieved: 2026-10-20
+author: Jörg Blobelt
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “20101024230DR Stiftplotter.jpg” by Jörg Blobelt, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A Roland A3 flatbed pen plotter with a sheet of technical line drawings on its bed and the pen carriage on its arm, on a white table.

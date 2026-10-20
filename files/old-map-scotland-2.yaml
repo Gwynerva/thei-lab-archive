@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The siege of Leith, 1560
+description: The map of the siege of Leith in 1560, the town walls and the camps around them in ink.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Siege_of_Leith_map,_1560.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Siege_of_Leith_map%2C_1560.jpg/1920px-Siege_of_Leith_map%2C_1560.jpg
+  retrieved: 2026-10-20
+author: Unknown (1560)
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Siege of Leith map, 1560.jpg” by Unknown (1560), public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A black and white copy of a 1560 bird's-eye map of the siege of Leith, the walled town, the shore, ships and the besieging camps on the hills around.

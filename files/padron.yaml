@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The stone poet in Padrón
+description: A mossy statue in the park at Padrón, set against a tree trunk as wide as a door. One day left to Santiago.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mac%C3%ADas_o_namorado_-_Padr%C3%B3n_-_Galicia-2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Mac%C3%ADas_o_namorado_-_Padr%C3%B3n_-_Galicia-2.jpg/1280px-Mac%C3%ADas_o_namorado_-_Padr%C3%B3n_-_Galicia-2.jpg
+  retrieved: 2026-10-20
+author: Luis Miguel Bugallo Sánchez (Lmbuga)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Macías o namorado - Padrón - Galicia-2.jpg” by Luis Miguel Bugallo Sánchez (Lmbuga), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A moss-stained stone statue of the medieval poet Macías in Padrón, Galicia, standing against the trunk of a huge tree.

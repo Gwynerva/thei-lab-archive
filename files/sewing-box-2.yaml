@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A sewing box from 1904
+description: A sewing box from 1904, with every needle and reel in its own place.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sewing_Box_from_the_Louisiana_Purchase_Exposition_-_DPLA_-_1711bb5ae937b7897183f799f30538a0_(page_3).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sewing_Box_from_the_Louisiana_Purchase_Exposition_-_DPLA_-_1711bb5ae937b7897183f799f30538a0_%28page_3%29.jpg/1280px-Sewing_Box_from_the_Louisiana_Purchase_Exposition_-_DPLA_-_1711bb5ae937b7897183f799f30538a0_%28page_3%29.jpg
+  retrieved: 2026-10-20
+author: unknown
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Sewing Box from the Louisiana Purchase Exposition - DPLA - 1711bb5ae937b7897183f799f30538a0 (page 3).jpg” by unknown, public domain, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An open early-1900s sewing box with a green lining, scissors, small packets, coloured thread and a drawer, photographed against white.

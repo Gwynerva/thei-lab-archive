@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The yellow arrow by the sea
+description: An old concrete marker on a cliff top with a yellow arrow painted on it. Follow the arrows, and the sea keeps you company.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Camino_de_Santiago_route_marker_on_the_Cantabrian_coast.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Camino_de_Santiago_route_marker_on_the_Cantabrian_coast.JPG/1920px-Camino_de_Santiago_route_marker_on_the_Cantabrian_coast.JPG
+  retrieved: 2026-10-20
+author: Sandstein
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Camino de Santiago route marker on the Cantabrian coast.JPG” by Sandstein, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A white concrete measured-mile marker on a grassy cliff top on the Cantabrian coast, a painted yellow Camino arrow on it, the sea behind.

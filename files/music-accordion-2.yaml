@@ -1,0 +1,16 @@
+kind: audio
+ext: ogg
+title: Ave Maria, accordion orchestra
+description: Schubert's Ave Maria on accordions, slow and swelling, like a church organ breathing in and out.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Schubert%27s_Ave_Maria,_D.839_(accordion_orchestra)_-_Paul_De_Bra.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/e/e1/Schubert%27s_Ave_Maria%2C_D.839_%28accordion_orchestra%29_-_Paul_De_Bra.ogg
+  retrieved: 2026-10-20
+author: Paul De Bra
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Schubert's Ave Maria, D.839 (accordion orchestra) - Paul De Bra.ogg” by Paul De Bra, CC BY 4.0, via Wikimedia Commons
+transform: "from the original: first 180 s with a 2 s fade-out, Ogg Vorbis q5"
+people: none
+truth: Schubert's Ave Maria, D. 839, arranged for and played by an accordion orchestra.

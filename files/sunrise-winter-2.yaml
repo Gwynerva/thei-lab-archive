@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Winter sunrise, bare tree
+description: A bare tree against an orange winter sunrise, snow on the field.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hausd%C3%BClmen,_Sonnenaufgang_--_2015_--_4952.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Sonnenaufgang_--_2015_--_4952.jpg/1920px-D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Sonnenaufgang_--_2015_--_4952.jpg
+  retrieved: 2026-10-20
+author: Dietmar Rabich
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Dülmen, Hausdülmen, Sonnenaufgang -- 2015 -- 4952.jpg” by Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A bare tree silhouetted against an orange sunrise sky over a snowy field near Hausdülmen, Germany.

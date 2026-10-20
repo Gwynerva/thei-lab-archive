@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Uttakleiv beach
+description: White sand and stones at Uttakleiv, the mountains standing in the sea at the far end.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lofoten,_Uttakleiv_2.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Lofoten%2C_Uttakleiv_2.JPG/1920px-Lofoten%2C_Uttakleiv_2.JPG
+  retrieved: 2026-10-20
+author: Paal Svendsen
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Lofoten, Uttakleiv 2.JPG” by Paal Svendsen, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The sandy beach at Uttakleiv on Vestvågøy in Lofoten, pale sand and stones, mountains across the bay under a blue sky with clouds, summer.

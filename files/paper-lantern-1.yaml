@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A courtyard of lanterns
+description: A courtyard roofed with paper lanterns in every colour, their shadows patterning the ground. I had this pinned up while I made my twelve.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Courtyard_of_colorful_paper_lanterns_and_shadow_patterns_at_Bulguksa_temple_Gyeongju_South_Korea.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Courtyard_of_colorful_paper_lanterns_and_shadow_patterns_at_Bulguksa_temple_Gyeongju_South_Korea.jpg/1920px-Courtyard_of_colorful_paper_lanterns_and_shadow_patterns_at_Bulguksa_temple_Gyeongju_South_Korea.jpg
+  retrieved: 2026-10-20
+author: Basile Morin
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Courtyard of colorful paper lanterns and shadow patterns at Bulguksa temple Gyeongju South Korea.jpg” by Basile Morin, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A temple courtyard covered by rows of colourful paper lanterns, their shadows forming a pattern on the paving. Bulguksa temple, Gyeongju, South Korea.

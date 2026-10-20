@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Viana cathedral door
+description: The cathedral porch at Viana do Castelo, a pink door under a carved stone arch.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cathedral_of_Viana_do_Castelo_02.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Cathedral_of_Viana_do_Castelo_02.jpg/1920px-Cathedral_of_Viana_do_Castelo_02.jpg
+  retrieved: 2026-10-20
+author: Krzysztof Golik
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Cathedral of Viana do Castelo 02.jpg” by Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: The Gothic portal of the cathedral of Viana do Castelo, Portugal, with a carved granite arch and a pink door between the towers.

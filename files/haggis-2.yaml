@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Two haggis in the pot
+description: Two haggis in foil, simmering. Callum's rule is never let it boil hard.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Boiling_haggis_for_Burns_night.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Boiling_haggis_for_Burns_night.jpg/1280px-Boiling_haggis_for_Burns_night.jpg
+  retrieved: 2026-10-20
+author: Lirazelf
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Boiling haggis for Burns night.jpg” by Lirazelf, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, WebP q80, metadata removed"
+people: incidental
+truth: Two foil-wrapped haggis simmering in a steel pan on an induction hob, a hand lifting the lid.

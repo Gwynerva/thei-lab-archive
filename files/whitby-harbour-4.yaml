@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Harbour mouth from the steps
+description: The West Pier light and a boat coming home, seen from halfway up the 199 steps.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_MMB_31_Harbour.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Whitby_MMB_31_Harbour.jpg/1920px-Whitby_MMB_31_Harbour.jpg
+  retrieved: 2026-10-20
+author: mattbuck (category)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Whitby MMB 31 Harbour.jpg” by mattbuck (category), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The West Pier lighthouse and pier extension at the mouth of Whitby harbour, seen from above on the east side, a motor boat heading in, calm grey sea.

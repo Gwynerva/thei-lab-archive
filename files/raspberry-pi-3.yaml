@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The Pi wired to the old monitor
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Raspberry_PI_hdmi-vga_connector.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Raspberry_PI_hdmi-vga_connector.jpg/1920px-Raspberry_PI_hdmi-vga_connector.jpg
+  retrieved: 2026-10-20
+author: Антон Пищулин
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Raspberry PI hdmi-vga connector.jpg” by Антон Пищулин, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small boxed Raspberry Pi connected by cables to an HDMI-to-VGA adapter, lying on a pale grey surface.

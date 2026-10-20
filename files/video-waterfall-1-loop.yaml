@@ -1,0 +1,15 @@
+kind: image
+ext: gif
+title: Dettifoss, roaring, looping
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Dettifoss_waterfall_in_Vatnajokull_National_Park,_Iceland.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/d/da/Dettifoss_waterfall_in_Vatnajokull_National_Park%2C_Iceland.webm
+  retrieved: 2026-10-20
+author: Jason Eppink
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Dettifoss waterfall in Vatnajokull National Park, Iceland.webm” by Jason Eppink, CC BY 2.0, via Wikimedia Commons
+transform: "from the original: three seconds from 1 s in, 480 px wide, 12 frames a second, a looping GIF of 128 colours"
+people: none
+truth: Dettifoss in Vatnajökull National Park, north Iceland, grey glacial water pouring into a canyon, spray rising, snow on the rocks, October (a few seconds of it, looping)

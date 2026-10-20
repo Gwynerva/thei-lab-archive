@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The cairn on Løvstakken
+description: The big stone cairn at the summit, with the sun coming through behind it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:L%C3%B8vstakken_varde.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/L%C3%B8vstakken_varde.jpg/1920px-L%C3%B8vstakken_varde.jpg
+  retrieved: 2026-10-20
+author: Løken
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Løvstakken varde.jpg” by Løken, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A tall stone cairn topped with a weather vane on the summit of Løvstakken in Bergen, backlit by the sun in a hazy sky.

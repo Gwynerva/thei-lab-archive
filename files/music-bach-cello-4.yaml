@@ -1,0 +1,16 @@
+kind: audio
+ext: m4a
+title: Gigue, second suite
+description: The gigue from the D minor suite. Next year's project, if my fingers agree.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bach_Cello_Suite_BWV_1008_Gigue.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/2/22/Bach_Cello_Suite_BWV_1008_Gigue.ogg
+  retrieved: 2026-10-20
+author: Pierre-Etienne Mélet (Pemelet)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Bach Cello Suite BWV 1008 Gigue.ogg” by Pierre-Etienne Mélet (Pemelet), CC BY-SA 3.0, via Wikimedia Commons
+transform: from the original, AAC 160 kbit/s in M4A
+people: none
+truth: The gigue that ends Bach's Cello Suite No. 2 in D minor, BWV 1008, played on solo cello.

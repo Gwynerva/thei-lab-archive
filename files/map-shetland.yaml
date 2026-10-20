@@ -1,0 +1,15 @@
+kind: image
+ext: svg
+title: Shetland, blank
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Shetland_UK_ward_map_(blank).svg
+  download: https://upload.wikimedia.org/wikipedia/commons/5/56/Shetland_UK_ward_map_%28blank%29.svg
+  retrieved: 2026-10-20
+author: Nilfanion, created using Ordnance Survey data
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Shetland UK ward map (blank).svg” by Nilfanion, created using Ordnance Survey data, CC BY-SA 3.0, via Wikimedia Commons
+transform: the original SVG, unchanged
+people: none
+truth: A blank map of the Shetland Islands, Scotland, with electoral ward borders, the sea in light blue and an inset showing Shetland's place north of Scotland.

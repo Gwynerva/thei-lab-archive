@@ -1,0 +1,16 @@
+kind: audio
+ext: wav
+title: Rain on the leaves
+description: Rain in the trees at the bottom of the garden, soft and close. The best sound in the world to work to.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rain_on_leaves_(Gravity_Sound).wav
+  download: https://upload.wikimedia.org/wikipedia/commons/9/92/Rain_on_leaves_%28Gravity_Sound%29.wav
+  retrieved: 2026-10-20
+author: Gravity Sound
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Rain on leaves (Gravity Sound).wav” by Gravity Sound, CC BY 4.0, via Wikimedia Commons
+transform: "from the original: first 40 s with a 2 s fade-out, WAV 16-bit 44.1 kHz"
+people: none
+truth: Rain falling on leaves, an even, close pattering with no other sounds.

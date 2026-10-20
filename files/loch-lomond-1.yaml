@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A rock in Loch Lomond
+description: A little rock in the water and the loch going on north between the hills.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Loch_Lomond_rock_20211022.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Loch_Lomond_rock_20211022.jpg/1920px-Loch_Lomond_rock_20211022.jpg
+  retrieved: 2026-10-20
+author: Daniel Kraft
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Loch Lomond rock 20211022.jpg” by Daniel Kraft, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small rock in calm water at Loch Lomond looking north, branches at the left, wooded hills on either side, blue sky with cloud, autumn.

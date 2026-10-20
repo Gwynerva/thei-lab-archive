@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: One paddler, flat calm
+description: A single kayak on water so still it looked solid. This is the kind of day Jonas means when he says 'go now'.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:2016-08_Kayak_Grandes_Bergeronnes_Saint_Lawrence_River_03.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2016-08_Kayak_Grandes_Bergeronnes_Saint_Lawrence_River_03.jpg/1920px-2016-08_Kayak_Grandes_Bergeronnes_Saint_Lawrence_River_03.jpg
+  retrieved: 2026-10-20
+author: "0x010C"
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “2016-08 Kayak Grandes Bergeronnes Saint Lawrence River 03.jpg” by 0x010C, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: A lone paddler in a red and cream sea kayak on calm blue water of the Saint Lawrence River near Les Bergeronnes, Quebec, seen from the side and behind, summer.

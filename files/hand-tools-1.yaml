@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Hammer and chisels
+description: A heavy hammer and three chisels, laid out like a family photograph.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Memorial_Wall_Star_Carving_Tools_-_Flickr_-_The_Central_Intelligence_Agency.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Memorial_Wall_Star_Carving_Tools_-_Flickr_-_The_Central_Intelligence_Agency.jpg/1920px-Memorial_Wall_Star_Carving_Tools_-_Flickr_-_The_Central_Intelligence_Agency.jpg
+  retrieved: 2026-10-20
+author: The Central Intelligence Agency
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Memorial Wall Star Carving Tools - Flickr - The Central Intelligence Agency.jpg” by The Central Intelligence Agency, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A heavy hammer and three steel stone chisels laid on a pale backdrop, a star-shaped stencil behind them.

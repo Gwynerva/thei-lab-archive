@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: East Pier light and the abbey
+description: The East Pier light with the abbey on the cliff behind, on a grey evening. I nearly cut this one instead.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_East_Pier_Lighthouse.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Whitby_East_Pier_Lighthouse.jpg/1920px-Whitby_East_Pier_Lighthouse.jpg
+  retrieved: 2026-10-20
+author: Stevekraken
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Whitby East Pier Lighthouse.jpg” by Stevekraken, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The East Pier lighthouse at Whitby harbour under a grey evening sky, the abbey ruins and St Mary's Church on the East Cliff behind, dark water in front.

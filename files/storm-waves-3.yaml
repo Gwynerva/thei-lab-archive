@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Storm Ophelia at Torquay
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Waves_during_Storm_Ophelia,_Torquay_-_geograph.org.uk_-_5574905.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Waves_during_Storm_Ophelia%2C_Torquay_-_geograph.org.uk_-_5574905.jpg/1920px-Waves_during_Storm_Ophelia%2C_Torquay_-_geograph.org.uk_-_5574905.jpg
+  retrieved: 2026-10-20
+author: Derek Harper
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Waves during Storm Ophelia, Torquay - geograph.org.uk - 5574905.jpg” by Derek Harper, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Rough green sea with breaking waves against a harbour wall at Torquay, Devon, during Storm Ophelia, white seafront buildings behind.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The first aid kit
+description: The red first aid kit for the rucksack, plasters and bandages laid out beside it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Erste_Hilfe_003_2026_02_17.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Erste_Hilfe_003_2026_02_17.jpg/1920px-Erste_Hilfe_003_2026_02_17.jpg
+  retrieved: 2026-10-20
+author: Friedrich Haag
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Erste Hilfe 003 2026 02 17.jpg” by Friedrich Haag, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A red first aid pouch marked Erste Hilfe with icons for walking and cycling, beside packaged bandages and a German first aid set, on white.

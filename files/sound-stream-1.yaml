@@ -1,0 +1,16 @@
+kind: audio
+ext: ogg
+title: The stream up close
+description: The little stream below the house, with the recorder right down by the water.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:433589_jackthemurray_stream-river-water-up-close.wav
+  download: https://upload.wikimedia.org/wikipedia/commons/5/54/433589_jackthemurray_stream-river-water-up-close.wav
+  retrieved: 2026-10-20
+author: jackthemurray
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “433589 jackthemurray stream-river-water-up-close.wav” by jackthemurray, CC0, via Wikimedia Commons
+transform: from the original, Ogg Vorbis q5
+people: none
+truth: A soft stream of flowing water recorded close up.

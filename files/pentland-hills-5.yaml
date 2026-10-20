@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The gate at Threipmuir
+description: The gate at Threipmuir on a warm day, the start of a long loop.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:%27Youth_Vision%27_at_Threipmuir_-_geograph.org.uk_-_6866443.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%27Youth_Vision%27_at_Threipmuir_-_geograph.org.uk_-_6866443.jpg/1920px-%27Youth_Vision%27_at_Threipmuir_-_geograph.org.uk_-_6866443.jpg
+  retrieved: 2026-10-20
+author: M J Richardson
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “'Youth Vision' at Threipmuir - geograph.org.uk - 6866443.jpg” by M J Richardson, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A metal farm gate, a stone wall and an information board at Threipmuir in the Pentland Hills, a green hill behind, cloud and blue sky.

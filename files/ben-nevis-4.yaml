@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Ben Nevis in snow from Aonach Mòr
+description: The Ben under snow from Aonach Mòr, a cap of cloud sitting on the summit.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ben_Nevis_in_winter.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Ben_Nevis_in_winter.jpg/1920px-Ben_Nevis_in_winter.jpg
+  retrieved: 2026-10-20
+author: Craigmacl
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Ben Nevis in winter.jpg” by Craigmacl, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Snow-covered Ben Nevis seen from Aonach Mòr in winter, a band of cloud over the summit and wind-shaped snow in the foreground.

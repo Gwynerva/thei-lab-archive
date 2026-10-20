@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Spoons for sale
+description: A heap of carved spoons and boards, every one a little different. My eleven would fit in one corner of this.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:((_street_sales_in_Quito,_hand_carved_wooden_products,_wooden_spoons_cutting_boards_made_of_solid_wood_hand_made)).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/%28%28_street_sales_in_Quito%2C_hand_carved_wooden_products%2C_wooden_spoons_cutting_boards_made_of_solid_wood_hand_made%29%29.jpg/1920px-%28%28_street_sales_in_Quito%2C_hand_carved_wooden_products%2C_wooden_spoons_cutting_boards_made_of_solid_wood_hand_made%29%29.jpg
+  retrieved: 2026-10-20
+author: David Adam Kess
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “(( street sales in Quito, hand carved wooden products, wooden spoons cutting boards made of solid wood hand made)).jpg” by David Adam Kess, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A heap of hand-carved wooden spoons, ladles, cups and cutting boards in pale wood on a street stall in Quito, Ecuador.

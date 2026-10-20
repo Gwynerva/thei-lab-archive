@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Rain on the window at night
+description: Rain on the glass after dark, lit by the lamp outside. I had stopped counting the days.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Raindrops_on_a_window_in_Brastad_3.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Raindrops_on_a_window_in_Brastad_3.jpg/1920px-Raindrops_on_a_window_in_Brastad_3.jpg
+  retrieved: 2026-10-20
+author: W.carter
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Raindrops on a window in Brastad 3.jpg” by W.carter, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Raindrops on a window pane at night, lit from outside, nearly black and white, Brastad, Sweden.

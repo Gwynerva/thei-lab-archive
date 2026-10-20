@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Flowers at the fish market
+description: The flower stalls at the end of the market, which nobody had warned me about. Came home with flowers instead of fish.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen_Fish_market_-_FlowerSection.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bergen_Fish_market_-_FlowerSection.JPG/1920px-Bergen_Fish_market_-_FlowerSection.JPG
+  retrieved: 2026-10-20
+author: unknown
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Bergen Fish market - FlowerSection.JPG” by unknown, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Rows of potted flowering plants in white, orange, pink and purple at the flower stalls of Bergen fish market, a hand-written price sign.

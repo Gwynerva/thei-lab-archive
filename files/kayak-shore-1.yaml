@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Yellow kayaks on the island
+description: A row of yellow kayaks pulled up above the tide line, mist in the trees behind.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:DSC9365_Kayaks_on_island_off_shore_of_British_Columbia,_Canada.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/DSC9365_Kayaks_on_island_off_shore_of_British_Columbia%2C_Canada.jpg/1920px-DSC9365_Kayaks_on_island_off_shore_of_British_Columbia%2C_Canada.jpg
+  retrieved: 2026-10-20
+author: Robert Berdan
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “DSC9365 Kayaks on island off shore of British Columbia, Canada.jpg” by Robert Berdan, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Several yellow sea kayaks pulled up on a rocky, weedy beach of an island off the coast of British Columbia, misty conifers behind.

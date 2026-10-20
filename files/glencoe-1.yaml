@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Rainbow up Glen Coe
+description: Rain, sun, rain, and then a rainbow right across the glen. The Aonach Eagach stayed in the cloud all weekend.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Glen_Coe_Rainbow.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Glen_Coe_Rainbow.jpg/1920px-Glen_Coe_Rainbow.jpg
+  retrieved: 2026-10-20
+author: Colin
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Glen Coe Rainbow.jpg” by Colin, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Looking up Glen Coe with a rainbow across the valley, green slopes and a stony river below, the Aonach Eagach ridge hidden in cloud.

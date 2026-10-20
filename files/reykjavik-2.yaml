@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The old harbour
+description: The old harbour on a still blue day, fishing boats and a coastguard ship lined up along the quay.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Reykjav%C3%ADk_Old_Harbor.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Reykjav%C3%ADk_Old_Harbor.jpg/1920px-Reykjav%C3%ADk_Old_Harbor.jpg
+  retrieved: 2026-10-20
+author: Richard Bartz
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Reykjavík Old Harbor.jpg” by Richard Bartz, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Wide panorama of Reykjavík's Old Harbour, calm water, moored fishing boats and a coastguard ship, harbour buildings, blue sky.

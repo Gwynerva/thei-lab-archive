@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Old postcard of Maruyama Park
+description: A hand-coloured postcard from an antique shop, the same cherry tree a hundred-odd years ago.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cherry_blossom_Maruyama_Park_at_Kyoto_(NYPL_Hades-2360252-4044051).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Cherry_blossom_Maruyama_Park_at_Kyoto_%28NYPL_Hades-2360252-4044051%29.jpg/1920px-Cherry_blossom_Maruyama_Park_at_Kyoto_%28NYPL_Hades-2360252-4044051%29.jpg
+  retrieved: 2026-10-20
+author: Scan by NYPL
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Cherry blossom Maruyama Park at Kyoto (NYPL Hades-2360252-4044051).jpg” by Scan by NYPL, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Early twentieth-century hand-coloured postcard of the weeping cherry in Maruyama Park, Kyoto, small figures in kimono and Western dress below.

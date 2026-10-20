@@ -1,0 +1,16 @@
+kind: document
+ext: pdf
+title: First aid
+description: A plain first aid manual, printed before the kayak course. The part on hypothermia is underlined twice.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:First_Aid.pdf
+  download: https://upload.wikimedia.org/wikipedia/commons/9/98/First_Aid.pdf
+  retrieved: 2026-10-20
+author: Wikibooks contributors.
+licence: CC-BY-SA-3.0
+licenceUrl: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: “First Aid.pdf” by Wikibooks contributors., CC BY-SA 3.0, via Wikimedia Commons
+transform: the original PDF, unchanged
+people: none
+truth: A printable Wikibooks manual on first aid, emergency care for the injured; the first page is a plain title page.

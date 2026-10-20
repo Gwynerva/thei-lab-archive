@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The marina on a blue day
+description: Yachts in the upper harbour with the east side climbing the hill behind. Half of these have bought rope from Dad at some point.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_Harbour_-_geograph.org.uk_-_3908906.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Whitby_Harbour_-_geograph.org.uk_-_3908906.jpg/1920px-Whitby_Harbour_-_geograph.org.uk_-_3908906.jpg
+  retrieved: 2026-10-20
+author: Paul Buckingham
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Whitby Harbour - geograph.org.uk - 3908906.jpg” by Paul Buckingham, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Yachts and motor boats moored at pontoons in the Whitby marina, a grassy bank and rock edge in front, red-roofed houses on the hill behind, blue sky with cloud.

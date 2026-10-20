@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Torii tunnel with a lantern
+description: Thousands of orange gates, one lantern, and the path going on up the hill.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/1920px-Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg
+  retrieved: 2026-10-20
+author: Basile Morin
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Torii path with lantern at Fushimi Inari Taisha Shrine, Kyoto, Japan.jpg” by Basile Morin, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A path through densely packed orange torii with black inscriptions at Fushimi Inari Taisha, Kyoto, a lantern hanging from above.

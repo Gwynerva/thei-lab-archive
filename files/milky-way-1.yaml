@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Milky Way in the lake
+description: The Milky Way standing straight up over a mountain lake, doubled in the water.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:036_Milky_Way_during_Perseids_seen_from_Oeschinensee_with_water_reflections_Photo_by_Giles_Laurent.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/036_Milky_Way_during_Perseids_seen_from_Oeschinensee_with_water_reflections_Photo_by_Giles_Laurent.jpg/1280px-036_Milky_Way_during_Perseids_seen_from_Oeschinensee_with_water_reflections_Photo_by_Giles_Laurent.jpg
+  retrieved: 2026-10-20
+author: Giles Laurent
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “036 Milky Way during Perseids seen from Oeschinensee with water reflections Photo by Giles Laurent.jpg” by Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A vertical panorama of the Milky Way above Oeschinensee, Switzerland, mountains and a small lit hut on the shore, the stars reflected in the lake.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The narrow lane at Skuteviken
+description: One of the little lanes between the white houses, just wide enough for one person and a row of flowerpots. Five minutes from the flat.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sandviken_Street_Bergen_2009.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sandviken_Street_Bergen_2009.JPG/1280px-Sandviken_Street_Bergen_2009.JPG
+  retrieved: 2026-10-20
+author: User:Sveter (Please credit as "Petr Šmerkl, Wikipedia" in case you use this outside WMF projects.)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Sandviken Street Bergen 2009.JPG” by User:Sveter (Please credit as "Petr Šmerkl, Wikipedia" in case you use this outside WMF projects.), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A narrow cobbled lane between white wooden houses in Skuteviken, Sandviken, Bergen, flowerpots along the walls and blue sky above.

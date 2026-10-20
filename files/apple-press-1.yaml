@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The press, full
+description: Apple pulp up to the brim and the screw wound halfway down. The smell gets into everything.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Old_Fashioned_Apple_Cider_Press,_Colorado,_USA.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/3/3c/Old_Fashioned_Apple_Cider_Press%2C_Colorado%2C_USA.jpg
+  retrieved: 2026-10-20
+author: Anne Dirkse
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Old Fashioned Apple Cider Press, Colorado, USA.jpg” by Anne Dirkse, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An old-fashioned wooden cider press with a slatted basket full of crushed apple pulp and a black iron screw, outdoors, Colorado.

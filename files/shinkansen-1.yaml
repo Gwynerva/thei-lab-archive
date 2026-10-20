@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Shinkansen and Mount Fuji
+description: The bullet train going past Fuji, which came out of the cloud just for this.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Series-N700a-Mt.Fuji.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Series-N700a-Mt.Fuji.jpg/1920px-Series-N700a-Mt.Fuji.jpg
+  retrieved: 2026-10-20
+author: MaedaAkihiko
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Series-N700a-Mt.Fuji.jpg” by MaedaAkihiko, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A white N700 series Shinkansen on the Tōkaidō line passing below snow-capped Mount Fuji under a clear blue sky, dry fields in front.

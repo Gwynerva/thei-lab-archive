@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Old Town from Calton Hill
+description: Rooftops and spires of the Old Town from Calton Hill, the old burial ground in front. I tried to name every steeple and got about half.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_skyline_-_geograph.org.uk_-_1985698.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Edinburgh_skyline_-_geograph.org.uk_-_1985698.jpg/1920px-Edinburgh_skyline_-_geograph.org.uk_-_1985698.jpg
+  retrieved: 2026-10-20
+author: Calum McRoberts
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Edinburgh skyline - geograph.org.uk - 1985698.jpg” by Calum McRoberts, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Edinburgh's Old Town rooftops and spires seen from Calton Hill, the Old Calton Burial Ground with a tall obelisk and trees in front, partly cloudy summer day.

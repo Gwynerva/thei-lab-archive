@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Balconies over the gorge
+description: Carved wooden balconies hanging off the cliff in the old town, every one a different shape.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Abanotubani,_Tbilisi_3.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Abanotubani%2C_Tbilisi_3.jpg/1920px-Abanotubani%2C_Tbilisi_3.jpg
+  retrieved: 2026-10-20
+author: Reda Kerbush
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Abanotubani, Tbilisi 3.jpg” by Reda Kerbush, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Old houses with carved wooden balconies and galleries perched on a rock cliff in Abanotubani, Tbilisi, against a pale sky.

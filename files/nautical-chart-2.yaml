@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A Portuguese chart, 1571
+description: A chart from a Portuguese atlas of 1571, flags and compass roses all along the coast of Africa.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Fern%C3%A3o_Vaz_Dourado_1571-1.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Fern%C3%A3o_Vaz_Dourado_1571-1.jpg/1920px-Fern%C3%A3o_Vaz_Dourado_1571-1.jpg
+  retrieved: 2026-10-20
+author: Alvesgaspar
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Fernão Vaz Dourado 1571-1.jpg” by Alvesgaspar, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A 1571 Portuguese portolan-style chart of the West African coast with rhumb lines, compass roses, coats of arms and flags, kept in the national archives in Lisbon.

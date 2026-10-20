@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Camp on Loch Buie
+description: A kayak pulled up on the south shore of Loch Buie, the last light pink on the hills. Long paddle, short day.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sea_kayak_camp,_south_shore_of_Loch_Buie_-_geograph.org.uk_-_1750948.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Sea_kayak_camp%2C_south_shore_of_Loch_Buie_-_geograph.org.uk_-_1750948.jpg/1920px-Sea_kayak_camp%2C_south_shore_of_Loch_Buie_-_geograph.org.uk_-_1750948.jpg
+  retrieved: 2026-10-20
+author: Andy Waddington
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Sea kayak camp, south shore of Loch Buie - geograph.org.uk - 1750948.jpg” by Andy Waddington, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A sea kayak pulled up on a grassy, rocky shore of Loch Buie on Mull at dusk in March, calm water and pink-lit hills across the loch.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Bergen from Fløyen
+description: The whole city from the top of Fløyen, the harbour, the islands and the fjord out to the west. My first proper look at where I'd landed.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vista_de_Bergen_desde_la_monta%C3%B1a_Fl%C3%B8yen,_Noruega,_2019-09-08,_DD_27-31_PAN.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Vista_de_Bergen_desde_la_monta%C3%B1a_Fl%C3%B8yen%2C_Noruega%2C_2019-09-08%2C_DD_27-31_PAN.jpg/1920px-Vista_de_Bergen_desde_la_monta%C3%B1a_Fl%C3%B8yen%2C_Noruega%2C_2019-09-08%2C_DD_27-31_PAN.jpg
+  retrieved: 2026-10-20
+author: Diego Delso
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Vista de Bergen desde la montaña Fløyen, Noruega, 2019-09-08, DD 27-31 PAN.jpg” by Diego Delso, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Very wide panorama of Bergen from Mount Fløyen, the city centre, harbour and peninsulas spread below with islands and fjord to the horizon.

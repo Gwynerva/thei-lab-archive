@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The plateau at dusk
+description: Late light on the vidda, the hills going rust-coloured and the lake turning pale.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hardangervidda_53000.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Hardangervidda_53000.jpg/1920px-Hardangervidda_53000.jpg
+  retrieved: 2026-10-20
+author: Karl Brodowsky
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Hardangervidda 53000.jpg” by Karl Brodowsky, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The open Hardangervidda plateau with low vegetation, a lake and rust-coloured hills under heavy grey cloud in evening light; square format.

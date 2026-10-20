@@ -1,0 +1,15 @@
+kind: image
+ext: svg
+title: Pointer
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Font_Awesome_5_solid_brown_mouse-pointer.svg
+  download: https://upload.wikimedia.org/wikipedia/commons/c/c5/Font_Awesome_5_solid_brown_mouse-pointer.svg
+  retrieved: 2026-10-20
+author: ACorrêa (WMB)
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Font Awesome 5 solid brown mouse-pointer.svg” by ACorrêa (WMB), CC BY-SA 4.0, via Wikimedia Commons
+transform: the original SVG, unchanged
+people: none
+truth: A solid brown icon of a mouse pointer arrow tilted to the left.

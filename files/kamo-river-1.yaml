@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Kamo river from the bridge
+description: The Kamo from a bridge, restaurant terraces on stilts on one side and people sitting along the bank.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kamo_River_in_Kyoto,_20240820_1748_5192.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Kamo_River_in_Kyoto%2C_20240820_1748_5192.jpg/1920px-Kamo_River_in_Kyoto%2C_20240820_1748_5192.jpg
+  retrieved: 2026-10-20
+author: Jakub Hałun
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Kamo River in Kyoto, 20240820 1748 5192.jpg” by Jakub Hałun, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The Kamo River in Kyoto from a bridge, wide shallow water and grassy banks with paths, wooden riverside restaurant platforms at left, cloudy sky.

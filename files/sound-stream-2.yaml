@@ -1,0 +1,15 @@
+kind: audio
+ext: m4a
+title: Stream by the hemlock
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hemlock_stream.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/3/32/Hemlock_stream.ogg
+  retrieved: 2026-10-20
+author: Dirtslayer
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Hemlock stream.ogg” by Dirtslayer, public domain, via Wikimedia Commons
+transform: from the original, AAC 160 kbit/s in M4A
+people: none
+truth: A small stream trickling past a hemlock tree near Terrace, British Columbia, Canada.

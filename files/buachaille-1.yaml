@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Lagangarbh and the Buachaille
+description: The white cottage under Buachaille Etive Mòr, surely the most photographed house in Scotland. Now one of the photographs is mine.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lagangarbh_cottage_with_Buachaille_Etive_M%C3%B2r.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Lagangarbh_cottage_with_Buachaille_Etive_M%C3%B2r.jpg/1920px-Lagangarbh_cottage_with_Buachaille_Etive_M%C3%B2r.jpg
+  retrieved: 2026-10-20
+author: Colin
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Lagangarbh cottage with Buachaille Etive Mòr.jpg” by Colin, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Buachaille Etive Mòr seen from the A82, the small white Lagangarbh cottage by the River Coupall at its foot, moorland and a partly cloudy sky.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit stretching on the lawn
+description: Half on the grass and half on the path, one paw reaching for me.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ginger._Amir_Temur_Street.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Ginger._Amir_Temur_Street.jpg/1920px-Ginger._Amir_Temur_Street.jpg
+  retrieved: 2026-10-20
+author: Panpanchik
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Ginger. Amir Temur Street.jpg” by Panpanchik, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A slim orange tabby cat lying stretched along the edge of a lawn, a front paw reaching onto the paving, looking up at the camera.

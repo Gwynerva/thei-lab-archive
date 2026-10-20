@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Saints on the cathedral portal
+description: The carved apostles either side of the door, worn soft by the sea air.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cathedral_of_Viana_do_Castelo_03.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Cathedral_of_Viana_do_Castelo_03.jpg/1920px-Cathedral_of_Viana_do_Castelo_03.jpg
+  retrieved: 2026-10-20
+author: Krzysztof Golik
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Cathedral of Viana do Castelo 03.jpg” by Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Detail of carved stone apostle figures on the columns of the cathedral portal in Viana do Castelo, Portugal.

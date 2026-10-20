@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Two of the fourteen windows
+description: Old windows in a white wall with daffodils and tulips coming up beneath. These were what sold me on the house.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Old_windows_on_the_farmhouse_at_Grue,_Hurdal,_Norway.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Old_windows_on_the_farmhouse_at_Grue%2C_Hurdal%2C_Norway.JPG/1920px-Old_windows_on_the_farmhouse_at_Grue%2C_Hurdal%2C_Norway.JPG
+  retrieved: 2026-10-20
+author: Øyvind Holmstad
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Old windows on the farmhouse at Grue, Hurdal, Norway.JPG” by Øyvind Holmstad, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Two old white-framed windows with lace curtains in the white wooden wall of an 1870 farmhouse at Grue, Hurdal, spring flowers below.

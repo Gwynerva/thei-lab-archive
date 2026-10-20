@@ -1,0 +1,16 @@
+kind: video
+ext: webm
+title: Waves over the harbour wall
+description: "Waves coming over the harbour wall and onto the road, cars driving straight through the spray. Nana would say: never trust a calm sea."
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Huge_waves-VarnaPort-Bulgaria.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/8/85/Huge_waves-VarnaPort-Bulgaria.webm
+  retrieved: 2026-10-20
+author: Chiro J
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Huge waves-VarnaPort-Bulgaria.webm” by Chiro J, CC BY 3.0, via Wikimedia Commons
+transform: "from the original: first 40 s, long side at most 1280, VP9 with Opus sound, WEBM"
+people: incidental
+truth: Big storm waves breaking over the sea wall at the port of Varna, Bulgaria, spray across a coastal road with parked and moving cars, February.

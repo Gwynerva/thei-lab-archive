@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The gingerbread town
+description: Pepperkakebyen, a whole Bergen made of gingerbread, harbour and all. Someone had even made the boats.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pepperkakebyen_Bergen_2011.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Pepperkakebyen_Bergen_2011.jpg/1920px-Pepperkakebyen_Bergen_2011.jpg
+  retrieved: 2026-10-20
+author: Marius Vassnes
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Pepperkakebyen Bergen 2011.jpg” by Marius Vassnes, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Pepperkakebyen in Bergen, a model town of gingerbread houses around a blue water channel with gingerbread boats, a lit snowy backdrop.

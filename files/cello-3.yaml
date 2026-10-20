@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Gut strings
+description: A cello strung with gut, close to the bridge. Warmer and grumpier than steel.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cello_strung_gut.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Cello_strung_gut.JPG/1920px-Cello_strung_gut.JPG
+  retrieved: 2026-10-20
+author: Dogmonster at English Wikipedia
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Cello strung gut.JPG” by Dogmonster at English Wikipedia, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of a cello's bridge, both f-holes and gut strings on a glossy orange-brown varnished top.

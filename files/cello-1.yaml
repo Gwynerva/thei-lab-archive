@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The cello, bow resting
+description: The cello with its bow laid across the strings in warm light. The kind of picture I take when I should be practising.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cello_study.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Cello_study.jpg/1280px-Cello_study.jpg
+  retrieved: 2026-10-20
+author: MichaelMaggs
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Cello study.jpg” by MichaelMaggs, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close study of a three-quarter size cello with its bow lying across the strings, f-hole and bridge in warm light against a pale grey background.

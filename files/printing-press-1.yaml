@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The old letterpress
+description: A hundred-year-old letterpress, still standing in the corner of a print shop.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Letterpress_at_Samaja_Press,_Cuttack,_Odisha.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Letterpress_at_Samaja_Press%2C_Cuttack%2C_Odisha.JPG/1920px-Letterpress_at_Samaja_Press%2C_Cuttack%2C_Odisha.JPG
+  retrieved: 2026-10-20
+author: Subhashish Panigrahi
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Letterpress at Samaja Press, Cuttack, Odisha.JPG” by Subhashish Panigrahi, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A 1919 cast-iron letterpress printing machine in a print shop in Cuttack, Odisha, India, in dim light with reflections in glass.

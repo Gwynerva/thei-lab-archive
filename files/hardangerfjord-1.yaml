@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Morning mist on the fjord
+description: The fog lifting off the inner fjord near Ulvik, the water so still the hills sit on their own reflections.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Die_Nebel_lichten_sich,_Morgenstimmung_am_Hardangerfjord._04.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Die_Nebel_lichten_sich%2C_Morgenstimmung_am_Hardangerfjord._04.jpg/1920px-Die_Nebel_lichten_sich%2C_Morgenstimmung_am_Hardangerfjord._04.jpg
+  retrieved: 2026-10-20
+author: Holger Uwe Schmitt
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Die Nebel lichten sich, Morgenstimmung am Hardangerfjord. 04.jpg” by Holger Uwe Schmitt, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Morning fog lifting over the inner Hardangerfjord (Osafjorden near Ulvik), calm water mirroring the hills and cloud, clear blue sky above.

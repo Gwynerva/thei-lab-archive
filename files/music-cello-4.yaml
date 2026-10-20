@@ -1,0 +1,16 @@
+kind: audio
+ext: flac
+title: Rachmaninoff, a fragment
+description: Thirty seconds of the Rachmaninoff sonata, the last movement. Someone was practising it in the next room and I couldn't help myself.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cello_Sonata,_Mvt._4_-_Rachmaninoff.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/2/29/Cello_Sonata%2C_Mvt._4_-_Rachmaninoff.ogg
+  retrieved: 2026-10-20
+author: Sergei Rachmaninoff
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Cello Sonata, Mvt. 4 - Rachmaninoff.ogg” by Sergei Rachmaninoff, public domain, via Wikimedia Commons
+transform: from the original, FLAC 16-bit 44.1 kHz
+people: none
+truth: A short excerpt from the fourth movement of Rachmaninoff's Cello Sonata in G minor, Op. 19.

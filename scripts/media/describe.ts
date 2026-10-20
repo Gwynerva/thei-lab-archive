@@ -10,6 +10,13 @@ import { readWords } from './pick';
 
 export const FILES = join(import.meta.dir, '..', '..', 'files');
 
+/** Words of a file set on purpose after review (plants.yaml names why). */
+const OVERRIDES: Record<string, { title?: string; description?: string }> = {
+  'doc-bookbinding-2': {
+    description: 'A history of gold-tooled bindings, more about looking than doing. The pages have foxing all through, which only makes it better.',
+  },
+};
+
 export function kindOf(ext: string): string {
   if (['jpg', 'png', 'gif', 'webp', 'avif', 'svg'].includes(ext)) return 'image';
   if (['mp4', 'webm', 'mov'].includes(ext)) return 'video';
@@ -37,7 +44,7 @@ if (import.meta.main) {
       continue;
     }
     const built: Built = JSON.parse(readFileSync(builtPath, 'utf8'));
-    const w = words[pick.id]!;
+    const w = { ...words[pick.id]!, ...OVERRIDES[pick.id] };
     const c = pick.candidate;
     const name = c.title.replace(/^File:/, '');
     const author = c.author || 'unknown';

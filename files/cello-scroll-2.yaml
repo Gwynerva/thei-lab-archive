@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The scroll from the side
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cello_-_3214.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Cello_-_3214.jpg/1920px-Cello_-_3214.jpg
+  retrieved: 2026-10-20
+author: Jorge Royan
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Cello - 3214.jpg” by Jorge Royan, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A cello's scroll, pegbox and black pegs seen at an angle, with the end of the fingerboard and strings, golden-brown wood on black.

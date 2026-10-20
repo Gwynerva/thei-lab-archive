@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The scroll, face on
+description: The scroll and the pegbox from straight in front, pegs sticking out like ears.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cello_-_3224.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cello_-_3224.jpg/1920px-Cello_-_3224.jpg
+  retrieved: 2026-10-20
+author: Jorge Royan
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Cello - 3224.jpg” by Jorge Royan, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of a cello's scroll and pegbox from the front, four black pegs and the strings wound in, golden varnish on a black background.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Snow at Bonaly
+description: Snow at the Bonaly entrance. We got as far as the sign and turned back.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pentland_Hills_Regional_Park_-_geograph.org.uk_-_3320871.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Pentland_Hills_Regional_Park_-_geograph.org.uk_-_3320871.jpg/1920px-Pentland_Hills_Regional_Park_-_geograph.org.uk_-_3320871.jpg
+  retrieved: 2026-10-20
+author: M J Richardson
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Pentland Hills Regional Park - geograph.org.uk - 3320871.jpg” by M J Richardson, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Snow falling at the edge of the Pentland Hills at Bonaly, road signs for the regional park, a fence and trees, a white hillside behind.

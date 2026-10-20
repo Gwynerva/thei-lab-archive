@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Classic yachts racing
+description: Three big classic yachts racing in a light wind. All that white sail.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sailing-yachts.Tuiga.Lulworth.Cambria.Cannes.2006-09-26.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Sailing-yachts.Tuiga.Lulworth.Cambria.Cannes.2006-09-26.jpg/1920px-Sailing-yachts.Tuiga.Lulworth.Cambria.Cannes.2006-09-26.jpg
+  retrieved: 2026-10-20
+author: Donan Raven
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Sailing-yachts.Tuiga.Lulworth.Cambria.Cannes.2006-09-26.jpg” by Donan Raven, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Three classic sailing yachts with tall white sails racing on a calm blue sea off Cannes, France, during a regatta, other boats far off.

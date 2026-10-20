@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Reykjavík from the church tower
+description: From the top of Hallgrímskirkja, coloured roofs, the bay and Esja behind. Day one of the ring road.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:View_of_Reykjav%C3%ADk_from_Hallgr%C3%ADmskirkja,_20230507_1227_5715.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/View_of_Reykjav%C3%ADk_from_Hallgr%C3%ADmskirkja%2C_20230507_1227_5715.jpg/1920px-View_of_Reykjav%C3%ADk_from_Hallgr%C3%ADmskirkja%2C_20230507_1227_5715.jpg
+  retrieved: 2026-10-20
+author: Jakub Hałun
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “View of Reykjavík from Hallgrímskirkja, 20230507 1227 5715.jpg” by Jakub Hałun, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: View over Reykjavík from the Hallgrímskirkja tower, colourful roofs and houses, the bay and the Esja mountains behind, cloudy spring day.

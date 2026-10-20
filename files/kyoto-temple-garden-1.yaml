@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Ryōan-ji rock garden
+description: The raked gravel and the stones at Ryōan-ji, cherry blossom over the wall. You can never see all fifteen stones at once, they say. I tried.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kare-sansui_zen_garden,_Ry%C5%8Dan-ji,_Kyoto_20190416_1.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Kare-sansui_zen_garden%2C_Ry%C5%8Dan-ji%2C_Kyoto_20190416_1.jpg/1920px-Kare-sansui_zen_garden%2C_Ry%C5%8Dan-ji%2C_Kyoto_20190416_1.jpg
+  retrieved: 2026-10-20
+author: DXR
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Kare-sansui zen garden, Ryōan-ji, Kyoto 20190416 1.jpg” by DXR, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: The dry rock garden of Ryōan-ji, Kyoto, raked white gravel with moss-ringed stones, an earthen wall and trees with cherry blossom behind, spring.

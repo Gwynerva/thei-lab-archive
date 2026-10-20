@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Schiehallion across the fields
+description: The perfect cone, exactly like the drawing in the geology book. Munro ten.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Schiehallion_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Schiehallion_01.jpg/1920px-Schiehallion_01.jpg
+  retrieved: 2026-10-20
+author: The original uploader was Andrew2606 at English Wikipedia.
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Schiehallion 01.jpg” by The original uploader was Andrew2606 at English Wikipedia., CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The symmetrical cone of Schiehallion, brown with heather, seen across green fields and a line of autumn-tinted trees, from near the River Tay.

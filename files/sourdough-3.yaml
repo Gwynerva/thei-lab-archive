@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Eight rolls
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Home_made_sour_dough_bread.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Home_made_sour_dough_bread.jpg/1920px-Home_made_sour_dough_bread.jpg
+  retrieved: 2026-10-20
+author: Tomascastelazo
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Home made sour dough bread.jpg” by Tomascastelazo, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Eight homemade sourdough bread rolls with scored floury crusts nestled in a striped linen cloth.

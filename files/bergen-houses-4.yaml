@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Skuteviken roofs
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen_skutevikens_tverrgate_RK_Skuteviken_IMG_5212.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Bergen_skutevikens_tverrgate_RK_Skuteviken_IMG_5212.jpg/1280px-Bergen_skutevikens_tverrgate_RK_Skuteviken_IMG_5212.jpg
+  retrieved: 2026-10-20
+author: Bjoertvedt
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Bergen skutevikens tverrgate RK Skuteviken IMG 5212.jpg” by Bjoertvedt, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: White wooden houses with red roofs on a sloping street in Skuteviken, Bergen, the green hillside behind, summer.

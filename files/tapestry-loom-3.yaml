@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The high loom in Paris
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Loom_haute_lisse_DSC08774.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Loom_haute_lisse_DSC08774.jpg/1920px-Loom_haute_lisse_DSC08774.jpg
+  retrieved: 2026-10-20
+author: No machine-readable author provided. David.Monniaux assumed (based on copyright claims).
+licence: CC-BY-SA-3.0
+licenceUrl: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: “Loom haute lisse DSC08774.jpg” by No machine-readable author provided. David.Monniaux assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: incidental
+truth: A tall upright tapestry loom at the Gobelins manufactory in Paris, a large warp with a leafy design being woven at the bottom, a visitor's head at the right edge.

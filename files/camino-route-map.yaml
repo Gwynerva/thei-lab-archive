@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: The Portuguese Way
+description: The whole Camino Portugués, Lisbon to Santiago. We started at Porto, about halfway up, and went by the coast.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Caminho_Portugues_Etappen.png
+  download: https://upload.wikimedia.org/wikipedia/commons/8/8c/Caminho_Portugues_Etappen.png
+  retrieved: 2026-10-20
+author: Jacobeo
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Caminho Portugues Etappen.png” by Jacobeo, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side 1920, PNG, metadata removed"
+people: none
+truth: Map of the Portuguese Way of St James from Lisbon to Santiago de Compostela, stages marked as dots along a red line through Coimbra, Porto, Tui and Pontevedra.

@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: The frosty path
+description: A forest track with every tree white with rime, the kind of walk that makes your nose run.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Snowy_trees_on_the_GR-16_between_Membre_and_Vresse-sur-Semois_(DSCF4800).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Snowy_trees_on_the_GR-16_between_Membre_and_Vresse-sur-Semois_%28DSCF4800%29.jpg/1920px-Snowy_trees_on_the_GR-16_between_Membre_and_Vresse-sur-Semois_%28DSCF4800%29.jpg
+  retrieved: 2026-10-20
+author: Trougnouf (Benoit Brummer)
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Snowy trees on the GR-16 between Membre and Vresse-sur-Semois (DSCF4800).jpg” by Trougnouf (Benoit Brummer), CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: A dirt track through woodland in winter, the trees white with rime and low mist between the trunks, between Membre and Vresse-sur-Semois, Belgium.

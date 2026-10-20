@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Cliffs at St Abb's Head
+description: Green grass right up to the edge, and then the drop. The sea was a very good blue that day.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cliffs_at_St_Abb%27s_Head_-_geograph.org.uk_-_2550832.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Cliffs_at_St_Abb%27s_Head_-_geograph.org.uk_-_2550832.jpg/1920px-Cliffs_at_St_Abb%27s_Head_-_geograph.org.uk_-_2550832.jpg
+  retrieved: 2026-10-20
+author: M J Richardson
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Cliffs at St Abb's Head - geograph.org.uk - 2550832.jpg” by M J Richardson, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Steep rocky cliffs and green grassy slopes at St Abb's Head on the Berwickshire coast, the sea and a distant coastline beyond.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Sea fog coming in
+description: Fog rolling in off the sea onto a quiet beach, the waves going grey.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Marine_Fog_Pattern_1.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Marine_Fog_Pattern_1.jpg/1920px-Marine_Fog_Pattern_1.jpg
+  retrieved: 2026-10-20
+author: Jacek Walicki
+licence: CC-BY-SA-2.5
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.5
+attribution: “Marine Fog Pattern 1.jpg” by Jacek Walicki, CC BY-SA 2.5, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Marine fog rolling in over the sea and a wide sandy beach at Half Moon Bay, California, in pale pink and grey light.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A weather mast
+description: An automatic weather station on a tall mast, wind vane and cups on top and a white box of electronics below.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:AWS(Automatic_Weather_station).JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/AWS%28Automatic_Weather_station%29.JPG/1920px-AWS%28Automatic_Weather_station%29.JPG
+  retrieved: 2026-10-20
+author: Delince
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “AWS(Automatic Weather station).JPG” by Delince, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An automatic weather station mast with wind sensors on top, guy wires and an instrument box, in a fenced field under a grey sky, Kovilpatti, Tamil Nadu, India.

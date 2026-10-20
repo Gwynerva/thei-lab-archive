@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Icicles on the cliff
+description: Icicles down a granite cliff, banded where they thawed by day and froze again at night.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ice_formations_2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Ice_formations_2.jpg/1920px-Ice_formations_2.jpg
+  retrieved: 2026-10-20
+author: W.carter
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Ice formations 2.jpg” by W.carter, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Icicles and ice formations hanging down a granite cliff, banded by daily thaw and freeze, Gåseberg, Lysekil Municipality, Sweden.

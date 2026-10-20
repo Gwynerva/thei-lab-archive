@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: A black kitchen range
+description: A black cast-iron cookstove with its kettle, a dresser behind. The kind of thing that once heated a whole house.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lincoln_stove.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Lincoln_stove.jpg/1280px-Lincoln_stove.jpg
+  retrieved: 2026-10-20
+author: Daniel Schwen
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Lincoln stove.jpg” by Daniel Schwen, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: A black cast-iron wood-burning cookstove with kettle and pots in a historic house kitchen in Springfield, Illinois, a wooden china cabinet behind.

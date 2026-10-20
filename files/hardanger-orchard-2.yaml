@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Opedal in September
+description: The orchards at Opedal in the September sun, rows and rows of them running down to the water.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Opedal.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Opedal.JPG/1920px-Opedal.JPG
+  retrieved: 2026-10-20
+author: Hallvard Lid
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Opedal.JPG” by Hallvard Lid, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Rows of orchard trees on a sunlit slope at Opedal, Ullensvang, houses scattered down to Sørfjorden, mountains across the water, September.

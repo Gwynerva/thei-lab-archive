@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: A deer in the bare trees
+description: A sika deer grazing quietly under bare trees, not in the least interested in me.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Yezo_sika_deer_-_kushiro_hokkaido_-_2021_Dec_9.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/6/66/Yezo_sika_deer_-_kushiro_hokkaido_-_2021_Dec_9.webm
+  retrieved: 2026-10-20
+author: Nesnad
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Yezo sika deer - kushiro hokkaido - 2021 Dec 9.webm” by Nesnad, CC BY 4.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, H.264, no sound, MP4"
+people: none
+truth: A Yezo sika deer grazing among bare trees and dry grass near a stream, Kushiro, Hokkaido, December, no snow on the ground.

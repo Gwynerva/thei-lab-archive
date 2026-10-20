@@ -79,7 +79,8 @@ export async function download(url: string, path: string, options: { minBytes?: 
     if (!response.ok)
       throw new Error(`HTTP ${response.status}${response.headers.get('retry-after') ? ` retry-after ${response.headers.get('retry-after')}` : ''}`);
     const bytes = new Uint8Array(await response.arrayBuffer());
-    const expected = Number(response.headers.get('content-length') ?? 0);
+    // A compressed answer states the compressed length; fetch hands over the bytes unpacked.
+    const expected = response.headers.get('content-encoding') ? 0 : Number(response.headers.get('content-length') ?? 0);
     if (expected && bytes.length !== expected) throw new Error(`got ${bytes.length} of ${expected} bytes`);
     if (bytes.length < (options.minBytes ?? 1)) throw new Error(`only ${bytes.length} bytes`);
     const temporary = `${path}.part`;

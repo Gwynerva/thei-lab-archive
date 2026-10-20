@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Víkurkirkja in storm light
+description: The church on its hill in a strange purple light, the mountain behind gone dark.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:V%C3%ADkurkirkja_in_Iceland.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/V%C3%ADkurkirkja_in_Iceland.jpg/1920px-V%C3%ADkurkirkja_in_Iceland.jpg
+  retrieved: 2026-10-20
+author: _大面
+licence: CC-BY-2.5
+licenceUrl: https://creativecommons.org/licenses/by/2.5
+attribution: “Víkurkirkja in Iceland.jpg” by _大面, CC BY 2.5, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Víkurkirkja, white with a red roof, lit by low sun on a hill under a dark purple-grey sky, a dark mountain slope behind and a few parked cars.

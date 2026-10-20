@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: Glencoe Lochan, still water
+description: Up early for this one, the lochan like glass and the Pap of Glencoe over the trees.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Glencoe_Lochan_reflections_3_20211022.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Glencoe_Lochan_reflections_3_20211022.jpg/1920px-Glencoe_Lochan_reflections_3_20211022.jpg
+  retrieved: 2026-10-20
+author: Daniel Kraft
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Glencoe Lochan reflections 3 20211022.jpg” by Daniel Kraft, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: Wide panorama of Glencoe Lochan in autumn, its wooded shore and the pointed Pap of Glencoe reflected in perfectly calm water.

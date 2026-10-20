@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: A lake on the vidda
+description: Long lake, low hills, birch scrub. The vidda goes on like this for days.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:%22Der_gr%C3%B6%C3%9Fte_Nationalpark_Norwegens%22_03.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%22Der_gr%C3%B6%C3%9Fte_Nationalpark_Norwegens%22_03.jpg/1920px-%22Der_gr%C3%B6%C3%9Fte_Nationalpark_Norwegens%22_03.jpg
+  retrieved: 2026-10-20
+author: Holger Uwe Schmitt
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “"Der größte Nationalpark Norwegens" 03.jpg” by Holger Uwe Schmitt, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: A long lake on the Hardangervidda plateau among green birch scrub and low hills under light cloud; summer.

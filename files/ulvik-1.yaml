@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Ulvik in the water
+description: Ulvik doubled in the fjord on a windless day.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Am_Nordende_des_Ulvikfjords_liegt_der_Hauptort_der_Gemeinde_Ulvik._04.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Am_Nordende_des_Ulvikfjords_liegt_der_Hauptort_der_Gemeinde_Ulvik._04.jpg/1920px-Am_Nordende_des_Ulvikfjords_liegt_der_Hauptort_der_Gemeinde_Ulvik._04.jpg
+  retrieved: 2026-10-20
+author: Holger Uwe Schmitt
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Am Nordende des Ulvikfjords liegt der Hauptort der Gemeinde Ulvik. 04.jpg” by Holger Uwe Schmitt, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The village of Ulvik and its green hillsides reflected in a perfectly calm Ulvikafjorden, mountains behind; summer.

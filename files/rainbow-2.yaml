@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The gull and the rainbow
+description: A gull flying straight through a rainbow over the river at Niagara.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ring-billed_gull_and_a_rainbow_(52910).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Ring-billed_gull_and_a_rainbow_%2852910%29.jpg/1920px-Ring-billed_gull_and_a_rainbow_%2852910%29.jpg
+  retrieved: 2026-10-20
+author: Rhododendrites
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Ring-billed gull and a rainbow (52910).jpg” by Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A ring-billed gull flying across a bright rainbow in mist over the Niagara River, buildings faint behind.

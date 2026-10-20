@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Aurora over Bergen
+description: The rare one, the northern lights over Bergen itself, green above the city lights.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_Bergen,_Norway_(30990582790).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Aurora_borealis_over_Bergen%2C_Norway_%2830990582790%29.jpg/1920px-Aurora_borealis_over_Bergen%2C_Norway_%2830990582790%29.jpg
+  retrieved: 2026-10-20
+author: Sindre Skrede
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Aurora borealis over Bergen, Norway (30990582790).jpg” by Sindre Skrede, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Panorama of green aurora borealis over Bergen at night in March, city lights along the shore and dark hills below.

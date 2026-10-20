@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Pinnekjøtt, properly
+description: Ribs, potatoes and swede mash. Christmas in western Norway doesn't count without it, I'm told.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pinnekjott.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Pinnekjott.jpg/1920px-Pinnekjott.jpg
+  retrieved: 2026-10-20
+author: Jarvin
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Pinnekjott.jpg” by Jarvin, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A plate of pinnekjøtt, cured lamb ribs, with boiled potatoes and mashed swede on a white plate.

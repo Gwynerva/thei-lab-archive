@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The bridge from Dalmeny
+description: The whole length of the bridge from the shore at Dalmeny, on the one hot day of the summer.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Forth_Bridge_2022.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Forth_Bridge_2022.jpg/1920px-Forth_Bridge_2022.jpg
+  retrieved: 2026-10-20
+author: MrMasterKeyboard
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Forth Bridge 2022.jpg” by MrMasterKeyboard, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Forth Bridge from the shore at Dalmeny, its red cantilever spans across the Firth of Forth, choppy blue water, summer sky with cloud.

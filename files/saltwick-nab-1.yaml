@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Saltwick Nab from the north
+description: The Nab from the Cleveland Way, every layer of the cliff showing. Useful for the dissertation, and pretty with it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Saltwick_Nab,_north_side,_from_Cleveland_Way_-_geograph.org.uk_-_3034034.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Saltwick_Nab%2C_north_side%2C_from_Cleveland_Way_-_geograph.org.uk_-_3034034.jpg/1920px-Saltwick_Nab%2C_north_side%2C_from_Cleveland_Way_-_geograph.org.uk_-_3034034.jpg
+  retrieved: 2026-10-20
+author: Chris Morgan
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Saltwick Nab, north side, from Cleveland Way - geograph.org.uk - 3034034.jpg” by Chris Morgan, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Saltwick Nab seen from the cliff path on its north side, a layered grey cliff and rocky point in surf, yellow wild flowers in the grass, overcast.

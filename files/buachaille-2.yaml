@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The two Buachailles from Glen Etive
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Buachaille_Etive_Beag_and_Buachaille_Etive_Mor_as_seen_from_the_Glen_Etive_road_-_geograph.org.uk_-_2871462.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Buachaille_Etive_Beag_and_Buachaille_Etive_Mor_as_seen_from_the_Glen_Etive_road_-_geograph.org.uk_-_2871462.jpg/1920px-Buachaille_Etive_Beag_and_Buachaille_Etive_Mor_as_seen_from_the_Glen_Etive_road_-_geograph.org.uk_-_2871462.jpg
+  retrieved: 2026-10-20
+author: Alan O'Dowd
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Buachaille Etive Beag and Buachaille Etive Mor as seen from the Glen Etive road - geograph.org.uk - 2871462.jpg” by Alan O'Dowd, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Buachaille Etive Beag and Buachaille Etive Mòr seen from the Glen Etive road on a clear sunny day, a green glen and a small lochan below.

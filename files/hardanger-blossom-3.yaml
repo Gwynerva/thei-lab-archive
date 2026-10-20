@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Apple trees in bloom, the painting
+description: A Norwegian painting of a farm in May that could almost be the slope below the house, blossom and yellow flowers everywhere.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nikolai_Astrup_Apple_trees_in_bloom.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Nikolai_Astrup_Apple_trees_in_bloom.jpg/1920px-Nikolai_Astrup_Apple_trees_in_bloom.jpg
+  retrieved: 2026-10-20
+author: Nikolai Astrup
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Nikolai Astrup Apple trees in bloom.jpg” by Nikolai Astrup, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Early 20th-century Norwegian oil painting of a farmstead with apple trees in full bloom, a stream and meadow flowers, two small painted figures in front.

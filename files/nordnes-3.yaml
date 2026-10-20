@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: An old view over Nordnes
+description: An old glass-plate photograph of the city over Nordnes, from the national library. I keep comparing it with the map.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen._Oversikt._Sentrum_Nordnes_-_NB_MS_G4_0266.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bergen._Oversikt._Sentrum_Nordnes_-_NB_MS_G4_0266.jpg/1920px-Bergen._Oversikt._Sentrum_Nordnes_-_NB_MS_G4_0266.jpg
+  retrieved: 2026-10-20
+author: Marthinius Skøien
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Bergen. Oversikt. Sentrum Nordnes - NB MS G4 0266.jpg” by Marthinius Skøien, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Old black and white photograph, late 1800s, looking down over central Bergen and Nordnes, rooftops and fjord, dark plate border.

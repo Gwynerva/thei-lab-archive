@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Looking up through the limes
+description: Lying under the lime trees looking straight up, leaves turning and the sky striped with cloud.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Linden_trees_and_the_sky_in_Planina,_Postojna,_Slovenia.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Linden_trees_and_the_sky_in_Planina%2C_Postojna%2C_Slovenia.jpg/1920px-Linden_trees_and_the_sky_in_Planina%2C_Postojna%2C_Slovenia.jpg
+  retrieved: 2026-10-20
+author: Michal Klajban
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Linden trees and the sky in Planina, Postojna, Slovenia.jpg” by Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Looking straight up between two linden trees with green and yellow leaves to a blue sky with streaky white clouds, Planina, Slovenia.

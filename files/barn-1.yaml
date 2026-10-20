@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A red barn by the road
+description: A big red barn with white trim, nineteenth century and still standing straight. Good luck to ours.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Stange_old_barn_by_E6_IMG_4231.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Stange_old_barn_by_E6_IMG_4231.JPG/1920px-Stange_old_barn_by_E6_IMG_4231.JPG
+  retrieved: 2026-10-20
+author: Bjoertvedt
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Stange old barn by E6 IMG 4231.JPG” by Bjoertvedt, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A large 19th-century red wooden barn with white trim beside the E6 highway in Stange, Norway, a crash barrier in front, overcast.

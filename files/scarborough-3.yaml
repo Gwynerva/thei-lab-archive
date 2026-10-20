@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Scarborough seafront panorama
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Scarborough_MMB_02.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Scarborough_MMB_02.jpg/1920px-Scarborough_MMB_02.jpg
+  retrieved: 2026-10-20
+author: mattbuck (category)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Scarborough MMB 02.jpg” by mattbuck (category), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Long panorama of Scarborough's South Bay, the sandy beach, the town and the castle on its headland, small people on the sand, hazy.

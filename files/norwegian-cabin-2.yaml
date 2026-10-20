@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: A cabin in the snow
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Taagaabu_is_a_cabin_in_Tr%C3%B8ndelag_county_in_Norway.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Taagaabu_is_a_cabin_in_Tr%C3%B8ndelag_county_in_Norway.jpg/1920px-Taagaabu_is_a_cabin_in_Tr%C3%B8ndelag_county_in_Norway.jpg
+  retrieved: 2026-10-20
+author: Havardtl
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Taagaabu is a cabin in Trøndelag county in Norway.jpg” by Havardtl, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A dark wooden cabin with a red door, snow on the roof and deep snow around it, low sun shining through pine trees, Trøndelag, Norway.

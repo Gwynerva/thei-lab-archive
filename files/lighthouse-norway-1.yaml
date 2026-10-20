@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: Kjeungskjær lighthouse
+description: The red lighthouse at Kjeungskjær on its own rock off Ørland, glowing in the low November sun.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:2016-11-13_01_Kjeungskj%C3%A6r_Lighthouse,_S%C3%B8r-Tr%C3%B8ndelag,_Norway.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2016-11-13_01_Kjeungskj%C3%A6r_Lighthouse%2C_S%C3%B8r-Tr%C3%B8ndelag%2C_Norway.jpg/1920px-2016-11-13_01_Kjeungskj%C3%A6r_Lighthouse%2C_S%C3%B8r-Tr%C3%B8ndelag%2C_Norway.jpg
+  retrieved: 2026-10-20
+author: Gordon Leggett
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “2016-11-13 01 Kjeungskjær Lighthouse, Sør-Trøndelag, Norway.jpg” by Gordon Leggett, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, PNG, metadata removed"
+people: none
+truth: Kjeungskjær Lighthouse, a red octagonal tower on a small skerry off Ørland, Trøndelag, Norway, calm sea and low sun, November.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Bosphorus chart, 1871
+description: An Admiralty chart of the Bosphorus from 1871, every depth inked in. I could look at it for hours.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_1198_Nautical_chart_of_the_Bosphorus,_Published_1871.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Admiralty_Chart_No_1198_Nautical_chart_of_the_Bosphorus%2C_Published_1871.jpg/1920px-Admiralty_Chart_No_1198_Nautical_chart_of_the_Bosphorus%2C_Published_1871.jpg
+  retrieved: 2026-10-20
+author: Great Britain. Hydrographic Office
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Admiralty Chart No 1198 Nautical chart of the Bosphorus, Published 1871.jpg” by Great Britain. Hydrographic Office, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An 1871 British Admiralty chart of the Bosphorus, the strait with soundings, hills hatched along both shores and a title cartouche, on aged paper.

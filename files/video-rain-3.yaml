@@ -1,0 +1,15 @@
+kind: video
+ext: mov
+title: Drops in a puddle
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rainfall_in_East_Legon_06.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/7/79/Rainfall_in_East_Legon_06.webm
+  retrieved: 2026-10-20
+author: Ibnali1
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Rainfall in East Legon 06.webm” by Ibnali1, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, H.264 with AAC sound, MOV"
+people: none
+truth: Raindrops falling into a muddy brown puddle, close up, rings spreading, in East Legon, Accra, Ghana.

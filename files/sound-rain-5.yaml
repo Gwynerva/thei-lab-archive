@@ -1,0 +1,15 @@
+kind: audio
+ext: m4a
+title: Raindrops
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rain_drops_(Gravity_Sound).wav
+  download: https://upload.wikimedia.org/wikipedia/commons/6/6b/Rain_drops_%28Gravity_Sound%29.wav
+  retrieved: 2026-10-20
+author: Gravity Sound
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Rain drops (Gravity Sound).wav” by Gravity Sound, CC BY 4.0, via Wikimedia Commons
+transform: from the original, AAC 160 kbit/s in M4A
+people: none
+truth: A close recording of raindrops falling and dripping.

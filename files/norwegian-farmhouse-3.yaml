@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The heart on the shutter
+description: A heart cut into an old weathered shutter. I want one just like it for the barn.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Weathered_heart_from_restored_farmhouse_shutter_on_display_in_Oslo%27s_Folk_Museum.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/6/6d/Weathered_heart_from_restored_farmhouse_shutter_on_display_in_Oslo%27s_Folk_Museum.jpg
+  retrieved: 2026-10-20
+author: Dulciedawn
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Weathered heart from restored farmhouse shutter on display in Oslo's Folk Museum.jpg” by Dulciedawn, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A heart shape cut through a weathered wooden shutter from a restored farmhouse, on display at the Norwegian Folk Museum in Oslo.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Red and white quilt
+description: Red and white circles pieced into a quilt, with a little swatch of the fabric in the corner.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:George_Loughridge,_Patchwork_Quilt,_c._1936,_NGA_12637.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/George_Loughridge%2C_Patchwork_Quilt%2C_c._1936%2C_NGA_12637.jpg/1920px-George_Loughridge%2C_Patchwork_Quilt%2C_c._1936%2C_NGA_12637.jpg
+  retrieved: 2026-10-20
+author: George Loughridge
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “George Loughridge, Patchwork Quilt, c. 1936, NGA 12637.jpg” by George Loughridge, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A watercolour rendering, about 1936, of a red and white patchwork quilt in a pattern of interlocking circles, a small fabric detail drawn below.

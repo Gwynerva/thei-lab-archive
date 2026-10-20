@@ -1,0 +1,16 @@
+kind: video
+ext: mov
+title: The night the sky went purple
+description: Purple and pink and green all at once. I didn't know the sky could do that.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Aurora_Borealis_over_Spruce_Woods,_Manitoba.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/Aurora_Borealis_over_Spruce_Woods%2C_Manitoba.webm/Aurora_Borealis_over_Spruce_Woods%2C_Manitoba.webm.1080p.vp9.webm
+  retrieved: 2026-10-20
+author: HachiBoy
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Aurora Borealis over Spruce Woods, Manitoba.webm” by HachiBoy, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1080p.vp9.webm transcode: long side at most 1280, H.264, no sound, MOV"
+people: incidental
+truth: Time-lapse of a strong purple and green aurora over a line of trees at Spruce Woods Provincial Park, Manitoba, watchers' tents at the bottom, May 2024.

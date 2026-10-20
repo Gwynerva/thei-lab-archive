@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Arthur's Seat over the roofs
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Arthur%27s_Seat_2023.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Arthur%27s_Seat_2023.jpg/1920px-Arthur%27s_Seat_2023.jpg
+  retrieved: 2026-10-20
+author: Kitjank
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Arthur's Seat 2023.jpg” by Kitjank, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Arthur's Seat and Salisbury Crags rising behind Edinburgh rooftops and chimneys, a pale dome and a church spire in front, grey sky.

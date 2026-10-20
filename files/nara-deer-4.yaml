@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A deer cracker
+description: Shika senbei, a pack for 150 yen. The deer bow to you for them, and then they mug you.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Shika_Senbei_1_(6694066527).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Shika_Senbei_1_%286694066527%29.jpg/1920px-Shika_Senbei_1_%286694066527%29.jpg
+  retrieved: 2026-10-20
+author: Travis from Sydney, NSW, Australia
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Shika Senbei 1 (6694066527).jpg” by Travis from Sydney, NSW, Australia, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Hands holding a round brown deer cracker tied with a white and green paper band in Nara, grey pavement behind.

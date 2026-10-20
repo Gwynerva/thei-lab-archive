@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: Tide in shallow water, one
+description: How a tide changes shape in shallow water, two curves added into a lopsided one that comes in slowly and goes out fast.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Harmonics1.png
+  download: https://upload.wikimedia.org/wikipedia/commons/2/2b/Harmonics1.png
+  retrieved: 2026-10-20
+author: Wikiklaas
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Harmonics1.png” by Wikiklaas, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the original: long side 1280 as published, PNG, metadata removed"
+people: none
+truth: A graph of a cosine and a cosine at double speed added over twelve hours, the sum a skewed curve, as when a tidal constituent enters shallow water.

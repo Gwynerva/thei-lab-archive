@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Tugboats at Tollbodkaien
+description: Red tugs waiting at the quay, small as toys from up on the mountain.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Aktiv_Tollbodkai,_Buks%C3%A9r_og_Berging_seen_from_Fl%C3%B8yen,_Bergen.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Aktiv_Tollbodkai%2C_Buks%C3%A9r_og_Berging_seen_from_Fl%C3%B8yen%2C_Bergen.jpg/1920px-Aktiv_Tollbodkai%2C_Buks%C3%A9r_og_Berging_seen_from_Fl%C3%B8yen%2C_Bergen.jpg
+  retrieved: 2026-10-20
+author: Marius Vassnes
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Aktiv Tollbodkai, Buksér og Berging seen from Fløyen, Bergen.jpg” by Marius Vassnes, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The quay at Tollbodkaien in Bergen seen from Fløyen, red and blue tugboats moored by the harbour buildings, calm blue water.

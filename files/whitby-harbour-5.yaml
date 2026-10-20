@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Red roofs and the West Cliff
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_Harbour_-_geograph.org.uk_-_5627634.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Whitby_Harbour_-_geograph.org.uk_-_5627634.jpg/1920px-Whitby_Harbour_-_geograph.org.uk_-_5627634.jpg
+  retrieved: 2026-10-20
+author: norman griffin
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Whitby Harbour - geograph.org.uk - 5627634.jpg” by norman griffin, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Whitby from the East Cliff, red roofs in front, the harbour, quays and piers below, the West Cliff and its hotels behind, in the faded colours of an old print.

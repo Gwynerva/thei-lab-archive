@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: A seal in the lagoon
+description: A seal came up right by the shore and looked at us as if we were the strange ones.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:021_Wild_smiling_harbor_seal_at_J%C3%B6kuls%C3%A1rl%C3%B3n_(Iceland)_Photo_by_Giles_Laurent.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/021_Wild_smiling_harbor_seal_at_J%C3%B6kuls%C3%A1rl%C3%B3n_%28Iceland%29_Photo_by_Giles_Laurent.jpg/1920px-021_Wild_smiling_harbor_seal_at_J%C3%B6kuls%C3%A1rl%C3%B3n_%28Iceland%29_Photo_by_Giles_Laurent.jpg
+  retrieved: 2026-10-20
+author: Giles Laurent
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “021 Wild smiling harbor seal at Jökulsárlón (Iceland) Photo by Giles Laurent.jpg” by Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: A wild harbour seal with only its head above the pale blue water of Jökulsárlón, blurred ice behind.

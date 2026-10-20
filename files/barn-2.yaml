@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Logs for an old barn
+description: Rebuilding a log barn the old way, new logs stacked beside the old. This is what the roofer meant by 'a project'.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Restauration_of_old_timber_logged_building_at_Eiktunet_free_air_museum_in_Norway_A.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Restauration_of_old_timber_logged_building_at_Eiktunet_free_air_museum_in_Norway_A.jpg/1920px-Restauration_of_old_timber_logged_building_at_Eiktunet_free_air_museum_in_Norway_A.jpg
+  retrieved: 2026-10-20
+author: Øyvind Holmstad
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Restauration of old timber logged building at Eiktunet free air museum in Norway A.jpg” by Øyvind Holmstad, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An old log hay barn being restored at an open-air museum near Gjøvik, Norway, new and old logs stacked on a timber base, snow on the ground.

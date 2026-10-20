@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The farm by the water
+description: A red farmhouse and barn on a green slope by the water, the kind of place I used to draw when I was little.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Norway_Langfjorbotn_Bekkarfjord_Farmhouse-20140714-RM-171859.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Norway_Langfjorbotn_Bekkarfjord_Farmhouse-20140714-RM-171859.jpg/1920px-Norway_Langfjorbotn_Bekkarfjord_Farmhouse-20140714-RM-171859.jpg
+  retrieved: 2026-10-20
+author: Reinhold Möller Ermell
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Norway Langfjorbotn Bekkarfjord Farmhouse-20140714-RM-171859.jpg” by Reinhold Möller Ermell, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A red wooden farmhouse and barn on green fields by the water at Langfjordbotn in northern Norway, wooded hills behind; summer, overcast.

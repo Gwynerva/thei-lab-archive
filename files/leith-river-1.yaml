@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Dean Village from the water
+description: The Water of Leith running brown and quick under the old houses of Dean Village. Ten minutes from the West End and it feels like another town.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Water_of_Leith_through_Dean,_Edinburgh_-_geograph.org.uk_-_7380578.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Water_of_Leith_through_Dean%2C_Edinburgh_-_geograph.org.uk_-_7380578.jpg/1920px-Water_of_Leith_through_Dean%2C_Edinburgh_-_geograph.org.uk_-_7380578.jpg
+  retrieved: 2026-10-20
+author: Colin Park
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Water of Leith through Dean, Edinburgh - geograph.org.uk - 7380578.jpg” by Colin Park, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Water of Leith flowing past the yellow and half-timbered houses of Dean Village, Edinburgh, tenements above, a green bank on the right, overcast.

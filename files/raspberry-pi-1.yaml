@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The new Pi
+description: A Raspberry Pi 5, still clean, before I soldered anything to it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Raspberry_Pi_5_Board.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Raspberry_Pi_5_Board.jpg/1920px-Raspberry_Pi_5_Board.jpg
+  retrieved: 2026-10-20
+author: SimonWaldherr
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Raspberry Pi 5 Board.jpg” by SimonWaldherr, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A Raspberry Pi 5 single-board computer seen from above on a black background, green board with USB, Ethernet and HDMI ports.

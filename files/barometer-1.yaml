@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A brass barometer
+description: A brass barometer with a thermometer beside it, the words in Swedish. Mr Haldorsen had one just like it in Sandviken.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Barometer_with_Swedish_texts.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Barometer_with_Swedish_texts.jpg/1920px-Barometer_with_Swedish_texts.jpg
+  retrieved: 2026-10-20
+author: Kotivalo
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Barometer with Swedish texts.jpg” by Kotivalo, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A round brass aneroid barometer with Swedish weather words and a Celsius thermometer, mounted on a cream textured board on a white wall.

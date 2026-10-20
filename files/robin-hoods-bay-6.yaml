@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The Bay at dusk
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Robin_Hood%27s_Bay_-_geograph.org.uk_-_3726868.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Robin_Hood%27s_Bay_-_geograph.org.uk_-_3726868.jpg/1920px-Robin_Hood%27s_Bay_-_geograph.org.uk_-_3726868.jpg
+  retrieved: 2026-10-20
+author: Anthony Foster
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Robin Hood's Bay - geograph.org.uk - 3726868.jpg” by Anthony Foster, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Robin Hood's Bay at dusk under heavy cloud, the curve of the bay and a headland, a lit house on the slope and a person on the path below.

@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: The lighthouse at Eshaness
+description: The lighthouse far along the clifftop and the cliffs falling away in front of it. Grey day, loud sea.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Eshaness_lighthouse_from_north.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Eshaness_lighthouse_from_north.jpg/1920px-Eshaness_lighthouse_from_north.jpg
+  retrieved: 2026-10-20
+author: Kognos
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Eshaness lighthouse from north.jpg” by Kognos, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: Eshaness cliffs, Shetland, a green clifftop with the white lighthouse far off, dark rock and stacks below, rough sea with surf, a seabird, grey-white sky.

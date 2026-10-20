@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Governor's House
+description: The odd little castle on the side of Calton Hill, which is what is left of the old jail.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Governor%27s_House_and_Old_Calton_Burial_Ground_-_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Governor%27s_House_and_Old_Calton_Burial_Ground_-_01.jpg/1920px-Governor%27s_House_and_Old_Calton_Burial_Ground_-_01.jpg
+  retrieved: 2026-10-20
+author: Carlos Delgado
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Governor's House and Old Calton Burial Ground - 01.jpg” by Carlos Delgado, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The castellated Governor's House and a tall obelisk on a rocky wooded slope by the Old Calton burial ground, Edinburgh, grey sky.

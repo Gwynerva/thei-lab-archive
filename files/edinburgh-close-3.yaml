@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Advocate's Close
+description: The way in from the Royal Mile, a dark tunnel and then the whole New Town at the other end.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_(50312368378).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Edinburgh_%2850312368378%29.jpg/1920px-Edinburgh_%2850312368378%29.jpg
+  retrieved: 2026-10-20
+author: Alex Liivet from Chester, United Kingdom
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Edinburgh (50312368378).jpg” by Alex Liivet from Chester, United Kingdom, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: The arched entrance to Advocate's Close in Edinburgh's Old Town, its name sign above, a wet stone passage leading to a lantern and buildings beyond.

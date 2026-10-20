@@ -1,0 +1,15 @@
+kind: image
+ext: svg
+title: North Yorkshire, blank
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:North_Yorkshire_UK_district_map_2010_(blank).svg
+  download: https://upload.wikimedia.org/wikipedia/commons/c/c0/North_Yorkshire_UK_district_map_2010_%28blank%29.svg
+  retrieved: 2026-10-20
+author: Nilfanion, created using Ordnance Survey data
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “North Yorkshire UK district map 2010 (blank).svg” by Nilfanion, created using Ordnance Survey data, CC BY-SA 3.0, via Wikimedia Commons
+transform: the original SVG, unchanged
+people: none
+truth: A blank map of North Yorkshire, England, with district borders in cream, the coast and neighbouring areas, and an inset showing its place in England.

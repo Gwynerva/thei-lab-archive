@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Copperplate flourishes, 1835
+description: An old Dutch sheet of penmanship, every letter showing off. I keep it for the flourishes.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Christelijke_Calligrafie,_RP-T-1979-38.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Christelijke_Calligrafie%2C_RP-T-1979-38.jpg/1920px-Christelijke_Calligrafie%2C_RP-T-1979-38.jpg
+  retrieved: 2026-10-20
+author: Rijksmuseum
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Christelijke Calligrafie, RP-T-1979-38.jpg” by Rijksmuseum, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An 1835 Dutch calligraphy sheet with an Easter text in many decorative scripts and flourishes in brown, grey and black ink, small drawn scenes at top and bottom.

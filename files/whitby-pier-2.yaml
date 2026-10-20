@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Two lights at the harbour mouth
+description: Both pier lights lined up from above, for working out the shapes before cutting the block.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_West_and_East_Pier_Lighthouses_(49497821608).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Whitby_West_and_East_Pier_Lighthouses_%2849497821608%29.jpg/1920px-Whitby_West_and_East_Pier_Lighthouses_%2849497821608%29.jpg
+  retrieved: 2026-10-20
+author: Reading Tom from Reading, UK
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Whitby West and East Pier Lighthouses (49497821608).jpg” by Reading Tom from Reading, UK, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The West and East Pier lighthouses at the mouth of Whitby harbour seen from above, a tall stone tower and a smaller white one, the sea behind.

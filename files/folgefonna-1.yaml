@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Folgefonna from the plane
+description: The glacier from the window seat, the Sørfjord a green-blue crack beside it. I could almost see the house.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Folgefonna_og_S%C3%B8rfjorden_138600_20190805_144721_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Folgefonna_og_S%C3%B8rfjorden_138600_20190805_144721_01.jpg/1920px-Folgefonna_og_S%C3%B8rfjorden_138600_20190805_144721_01.jpg
+  retrieved: 2026-10-20
+author: Karl Brodowsky
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Folgefonna og Sørfjorden 138600 20190805 144721 01.jpg” by Karl Brodowsky, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Aerial view of the Folgefonna ice cap with Sørfjorden beside it and scattered cloud, western Norway; summer.

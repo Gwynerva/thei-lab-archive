@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Biscuit watching the plants
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ginger_cat_smelling_something.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Ginger_cat_smelling_something.jpg/1920px-Ginger_cat_smelling_something.jpg
+  retrieved: 2026-10-20
+author: Keren Dvir
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Ginger cat smelling something.jpg” by Keren Dvir, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A ginger-and-white tabby cat lying on an orange cloth outdoors, looking up at potted plants, the photo framed with a white border.

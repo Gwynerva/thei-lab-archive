@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: On the plateau
+description: The Cairngorm plateau, all stones and moss and sky, hills rolling away in every direction. Felt like the top of the world, or at least of Scotland.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cairngorm_plateau_-_geograph.org.uk_-_7232871.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Cairngorm_plateau_-_geograph.org.uk_-_7232871.jpg/1920px-Cairngorm_plateau_-_geograph.org.uk_-_7232871.jpg
+  retrieved: 2026-10-20
+author: Steven Brown
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Cairngorm plateau - geograph.org.uk - 7232871.jpg” by Steven Brown, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The stony, open Cairngorm plateau near the summit of Cairn Gorm, scattered boulders and low moss, rounded hills on the horizon, overcast.

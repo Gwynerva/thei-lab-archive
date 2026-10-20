@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Bressay Sound, the 1897 chart
+description: The old Admiralty chart of Bressay Sound and Lerwick Harbour. I spent an evening in the cabin comparing its soundings with ours.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Admiralty_Chart_No_2651_Bressay_Sound_or_Lerwick_Harbour,_Published_1897,_Large_Corrections_1928.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Admiralty_Chart_No_2651_Bressay_Sound_or_Lerwick_Harbour%2C_Published_1897%2C_Large_Corrections_1928.jpg/1920px-Admiralty_Chart_No_2651_Bressay_Sound_or_Lerwick_Harbour%2C_Published_1897%2C_Large_Corrections_1928.jpg
+  retrieved: 2026-10-20
+author: United Kingdom Hydrographic Office
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Admiralty Chart No 2651 Bressay Sound or Lerwick Harbour, Published 1897, Large Corrections 1928.jpg” by United Kingdom Hydrographic Office, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Scanned Admiralty nautical chart of Bressay Sound and Lerwick Harbour, Shetland, published 1897 with 1928 corrections, soundings, coastline and hills in black on paper.

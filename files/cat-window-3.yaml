@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Cat among the roses
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:2014.06.21.115317_Cat_window_Herrenstra%C3%9Fe_M%C3%BCnstermaifeld.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/b/bd/2014.06.21.115317_Cat_window_Herrenstra%C3%9Fe_M%C3%BCnstermaifeld.jpg
+  retrieved: 2026-10-20
+author: Hermann Luyken
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “2014.06.21.115317 Cat window Herrenstraße Münstermaifeld.jpg” by Hermann Luyken, CC0, via Wikimedia Commons
+transform: "from the original: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A tabby-and-white cat lying on a window sill among red roses and plants, a wooden bench and a green toy windmill in front, Münstermaifeld, Germany.

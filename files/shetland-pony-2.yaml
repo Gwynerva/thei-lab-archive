@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: All mane
+description: A pony with more fringe than face.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Haare_und_Frisuren_004_2021_10_30.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Haare_und_Frisuren_004_2021_10_30.jpg/1920px-Haare_und_Frisuren_004_2021_10_30.jpg
+  retrieved: 2026-10-20
+author: Friedrich Haag
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Haare und Frisuren 004 2021 10 30.jpg” by Friedrich Haag, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of a chestnut Shetland pony's head and neck with a long, thick blond mane falling over its eye, a wooden fence and a dirt yard behind.

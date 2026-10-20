@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Eshaness in the wind
+description: The cliffs at Eshaness, with the wind trying very hard to take my hat. I stayed well back from the edge.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Eshaness_Cliffs_(7159719829).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Eshaness_Cliffs_%287159719829%29.jpg/1920px-Eshaness_Cliffs_%287159719829%29.jpg
+  retrieved: 2026-10-20
+author: Chris Combe from York, UK
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Eshaness Cliffs (7159719829).jpg” by Chris Combe from York, UK, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Dark sea cliffs and stacks at Eshaness, Shetland, deep blue sea with white surf, green clifftops, blue sky with cloud and a seabird in the air.

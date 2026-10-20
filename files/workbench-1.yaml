@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Saws on the bench
+description: A long maple bench laid out with saws, a marking gauge and practice boards. I wanted to take the whole thing home.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:A_woodworking_bench_at_Roy_Underhill%27s_school_-a.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/A_woodworking_bench_at_Roy_Underhill%27s_school_-a.jpg/1920px-A_woodworking_bench_at_Roy_Underhill%27s_school_-a.jpg
+  retrieved: 2026-10-20
+author: Seth Vidal
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “A woodworking bench at Roy Underhill's school -a.jpg” by Seth Vidal, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, WebP q80, metadata removed"
+people: incidental
+truth: A long pale woodworking bench with handsaws, chisels, a marking gauge, a pencil and practice boards at a hand-tool woodworking school, part of a person at the right.

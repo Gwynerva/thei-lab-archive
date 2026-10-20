@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Braid Avenue tenements
+description: A long sandstone row on the south side, every lintel carved. Not where I lived, but I walked past it wishing.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_Tenement_with_decorative_lintel_1880.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Edinburgh_Tenement_with_decorative_lintel_1880.jpg/1920px-Edinburgh_Tenement_with_decorative_lintel_1880.jpg
+  retrieved: 2026-10-20
+author: Dazigster
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Edinburgh Tenement with decorative lintel 1880.jpg” by Dazigster, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A long row of sandstone tenements on Braid Avenue, Edinburgh, with carved lintels, bay windows, trees and parked cars, blue sky.

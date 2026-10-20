@@ -1,0 +1,16 @@
+kind: video
+ext: webm
+title: Yellow leaves in the botanical garden
+description: Lying on a bench looking up through yellowing walnut leaves in the botanical garden in Tbilisi.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tbilisi_Georgia_-_Mobile_Graphy_-_ambience_sound_-_lifestyle_18.ogv
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c7/Tbilisi_Georgia_-_Mobile_Graphy_-_ambience_sound_-_lifestyle_18.ogv/Tbilisi_Georgia_-_Mobile_Graphy_-_ambience_sound_-_lifestyle_18.ogv.1080p.vp9.webm
+  retrieved: 2026-10-20
+author: Mostafameraji
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Tbilisi Georgia - Mobile Graphy - ambience sound - lifestyle 18.ogv” by Mostafameraji, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1080p.vp9.webm transcode: long side at most 1280, VP9 with Opus sound, WEBM"
+people: none
+truth: Looking up through the branches of a walnut tree with yellowing autumn leaves against a blue sky, Tbilisi Botanical Garden, Georgia, October.

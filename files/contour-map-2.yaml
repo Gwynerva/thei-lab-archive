@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: Ridges and saddles
+description: An old survey map of Pennsylvania ridges with the passes and saddles marked, a lesson in reading contours.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cliffs_Saddles_Traverses_Passes_Ascents_%26_Peaks--_from_Sources_of_Nesquehoning_creek_from_hzlt93sw-Rot90cw,_LargerType.png
+  download: https://upload.wikimedia.org/wikipedia/commons/f/f2/Cliffs_Saddles_Traverses_Passes_Ascents_%26_Peaks--_from_Sources_of_Nesquehoning_creek_from_hzlt93sw-Rot90cw%2C_LargerType.png
+  retrieved: 2026-10-20
+author: FrankB modified the map with (language neutral) letters for labeling features in a legend
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Cliffs Saddles Traverses Passes Ascents & Peaks-- from Sources of Nesquehoning creek from hzlt93sw-Rot90cw, LargerType.png” by FrankB modified the map with (language neutral) letters for labeling features in a legend, public domain, via Wikimedia Commons
+transform: "from the original: long side 1920, PNG, metadata removed"
+people: none
+truth: An extract of an 1890s USGS topographic map of ridges in Pennsylvania, brown contour lines with added yellow labels marking landforms such as saddles and passes.

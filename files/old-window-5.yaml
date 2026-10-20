@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Old window, cracked plaster
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Wooden_window%E2%80%93IMG_7352.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Wooden_window%E2%80%93IMG_7352.jpg/1920px-Wooden_window%E2%80%93IMG_7352.jpg
+  retrieved: 2026-10-20
+author: Kızıl
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Wooden window–IMG 7352.jpg” by Kızıl, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An old wooden window with white frames and net curtains in a cracked, red-plastered wall, Turkey.

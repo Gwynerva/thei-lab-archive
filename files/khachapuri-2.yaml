@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Adjaruli, with the egg
+description: The boat-shaped one with the egg in the middle. You stir it in with the butter and then you don't talk for a while.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:2019-07-17_Khachapuri_(Adjaruli)_served_at_Georgian_Restaurant_in_Kyiv.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2019-07-17_Khachapuri_%28Adjaruli%29_served_at_Georgian_Restaurant_in_Kyiv.jpg/1920px-2019-07-17_Khachapuri_%28Adjaruli%29_served_at_Georgian_Restaurant_in_Kyiv.jpg
+  retrieved: 2026-10-20
+author: Maksym Kozlenko
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “2019-07-17 Khachapuri (Adjaruli) served at Georgian Restaurant in Kyiv.jpg” by Maksym Kozlenko, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Adjaruli khachapuri, a boat-shaped cheese bread with an egg yolk in the centre, on a white plate at a Georgian restaurant in Kyiv.

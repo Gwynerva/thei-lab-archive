@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The stove in the yurt
+description: A tall, fancy cast-iron stove on a brick hearth. I want one with feet like that.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Riverside_Stove.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Riverside_Stove.jpg/1920px-Riverside_Stove.jpg
+  retrieved: 2026-10-20
+author: Nolabob
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Riverside Stove.jpg” by Nolabob, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An ornate cast-iron wood stove on a brick hearth inside a yurt, lattice walls behind and a stovepipe rising, Colorado, December.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The river through Dean Village
+description: The Water of Leith on its way down to us in Leith, under the old houses.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_-_12_Hawthornbank_Lane,_Dean_Village,_Edinburgh_-_20140426192733.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Edinburgh_-_12_Hawthornbank_Lane%2C_Dean_Village%2C_Edinburgh_-_20140426192733.jpg/1920px-Edinburgh_-_12_Hawthornbank_Lane%2C_Dean_Village%2C_Edinburgh_-_20140426192733.jpg
+  retrieved: 2026-10-20
+author: Enric
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Edinburgh - 12 Hawthornbank Lane, Dean Village, Edinburgh - 20140426192733.jpg” by Enric, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: The Water of Leith flowing between green banks below a stone house in Dean Village, taller tenements on the slope above, spring trees.

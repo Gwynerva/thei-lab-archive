@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: One Perseid
+description: One meteor streaking down the middle of the sky during the Perseids. One was enough.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:2016_Meteor.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/2016_Meteor.jpg/1920px-2016_Meteor.jpg
+  retrieved: 2026-10-20
+author: Jacek Halicki
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “2016 Meteor.jpg” by Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A single bright meteor during the Perseid shower in a starry blue night sky with thin clouds, a low horizon below, near Kłodzko, Poland, 2016.

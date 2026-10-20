@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The punt builder's shed
+description: A punt half-built down the middle of a workshop in Oxford, shavings everywhere. Jonas would feel at home.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Punt-building-workshop-in-Oxford.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Punt-building-workshop-in-Oxford.jpg/1920px-Punt-building-workshop-in-Oxford.jpg
+  retrieved: 2026-10-20
+author: Thruston
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Punt-building-workshop-in-Oxford.jpg” by Thruston, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Interior of a punt-builder's workshop in Oxford, a long wooden punt under construction on trestles, tools, timber and clutter all around.

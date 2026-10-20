@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Brunost, sliced
+description: Brown cheese with the slicer marks on top. I was sceptical for exactly one slice.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Brunost_-_Brown_cheese.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Brunost_-_Brown_cheese.jpg/1920px-Brunost_-_Brown_cheese.jpg
+  retrieved: 2026-10-20
+author: color line
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Brunost - Brown cheese.jpg” by color line, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of a block of brunost, Norwegian brown whey cheese, its top marked by a cheese slicer.

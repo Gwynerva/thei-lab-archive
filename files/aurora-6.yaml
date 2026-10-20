@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The sky going green
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Aurora_Borealis_NO.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Aurora_Borealis_NO.JPG/1920px-Aurora_Borealis_NO.JPG
+  retrieved: 2026-10-20
+author: Rafal Konieczny
+licence: CC-BY-2.5
+licenceUrl: https://creativecommons.org/licenses/by/2.5
+attribution: “Aurora Borealis NO.JPG” by Rafal Konieczny, CC BY 2.5, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Bright green aurora borealis filling the night sky over a road, dark trees and a snowy hill in Norway, late October.

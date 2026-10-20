@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: A hull and a ladder
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rescue_Wooden_Boats,_Stiffkey,_boat_building_yard_(2)_-_geograph.org.uk_-_7950391.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Rescue_Wooden_Boats%2C_Stiffkey%2C_boat_building_yard_%282%29_-_geograph.org.uk_-_7950391.jpg/1280px-Rescue_Wooden_Boats%2C_Stiffkey%2C_boat_building_yard_%282%29_-_geograph.org.uk_-_7950391.jpg
+  retrieved: 2026-10-20
+author: Chris
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Rescue Wooden Boats, Stiffkey, boat building yard (2) - geograph.org.uk - 7950391.jpg” by Chris, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A wooden boat hull standing in a boat-building workshop at Stiffkey, Norfolk, with a stepladder, machinery and tools around it.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The old ferry at the quay
+description: The ferry waiting at the quay in the seventies, from the box of postcards and photographs Ragnhild left.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hardangerfjord(1953).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Hardangerfjord%281953%29.jpg/1920px-Hardangerfjord%281953%29.jpg
+  retrieved: 2026-10-20
+author: Harald Sætre
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Hardangerfjord(1953).jpg” by Harald Sætre, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Old colour photograph of the white car ferry Vøringen (built 1953) at a ferry quay in Kvinnherad beside a yellow wooden building; 1970s.

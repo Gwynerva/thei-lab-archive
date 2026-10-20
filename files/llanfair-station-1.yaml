@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The longest station sign
+description: The platform sign at Llanfair PG, the whole name with a guide to saying it underneath. I tried. Twice.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Railway_station_sign,_Llanfairpwllgwyngyll_-_geograph.org.uk_-_2848836.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Railway_station_sign%2C_Llanfairpwllgwyngyll_-_geograph.org.uk_-_2848836.jpg/1920px-Railway_station_sign%2C_Llanfairpwllgwyngyll_-_geograph.org.uk_-_2848836.jpg
+  retrieved: 2026-10-20
+author: Meirion
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Railway station sign, Llanfairpwllgwyngyll - geograph.org.uk - 2848836.jpg” by Meirion, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Platform sign at Llanfairpwllgwyngyll station on Anglesey with the village's full long name and a pronunciation guide, white fence behind, overcast.

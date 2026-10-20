@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Nordnes park from the water
+description: The green tip of Nordnes seen from the boat, the mountains behind the city.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nordnes,_Bergen,_Hodaland,_Norway_-_panoramio.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Nordnes%2C_Bergen%2C_Hodaland%2C_Norway_-_panoramio.jpg/1920px-Nordnes%2C_Bergen%2C_Hodaland%2C_Norway_-_panoramio.jpg
+  retrieved: 2026-10-20
+author: trolvag
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Nordnes, Bergen, Hodaland, Norway - panoramio.jpg” by trolvag, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The wooded tip of the Nordnes peninsula in Bergen seen from the water, mountains behind under a blue sky, deep blue fjord in front.

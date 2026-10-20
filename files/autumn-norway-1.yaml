@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: A boat at Digermulen
+description: A small boat in a still bay with the mountains gone gold. Northern Norway does September better than anywhere.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Boat_with_autumny_mountains_at_Digermulen,_Hinn%C3%B8ya,_Norway,_Norway,_2015_September.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Boat_with_autumny_mountains_at_Digermulen%2C_Hinn%C3%B8ya%2C_Norway%2C_Norway%2C_2015_September.jpg/1920px-Boat_with_autumny_mountains_at_Digermulen%2C_Hinn%C3%B8ya%2C_Norway%2C_Norway%2C_2015_September.jpg
+  retrieved: 2026-10-20
+author: Ximonic (Simo Räsänen)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Boat with autumny mountains at Digermulen, Hinnøya, Norway, Norway, 2015 September.jpg” by Ximonic (Simo Räsänen), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: A small white boat on calm water at Digermulen, Hinnøya, Norway, autumn birches and jagged mountains reflected behind, September.

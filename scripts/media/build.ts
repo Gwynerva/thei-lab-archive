@@ -4,7 +4,7 @@
 // media/<id>.<ext> from it. What was done is recorded in
 // media-work/built/<id>.json, which describe.ts reads.
 import { execFileSync } from 'node:child_process';
-import { copyFileSync, existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from 'node:fs';
+import { copyFileSync, existsSync, mkdirSync, readFileSync, rmSync, statSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import sharp from 'sharp';
 import { download, WORK } from './commons';
@@ -12,6 +12,8 @@ import type { Candidate } from './search';
 
 export const MEDIA = join(import.meta.dir, '..', '..', 'media');
 const LONG_SIDE = 1920;
+/** SVG icons drawn white on transparent, recoloured so they show on a light page. */
+const RECOLOUR = new Set(['icon-6', 'icon-7']);
 const VIDEO_LIMIT = 15_000_000;
 
 export interface Pick {
@@ -106,14 +108,24 @@ async function buildPicture(pick: Pick, raw: string, out: string, note: string):
   return { transform: `from the ${note}: ${sized}, ${encoding}, metadata removed`, width: after.width, height: after.height };
 }
 
+/** Videos cut by hand after looking at their frames: a title card, a face, a logo at the end. */
+const CUTS: Record<string, { start?: number; length?: number; crop?: string; why: string }> = {
+  'video-japan-2': { start: 7, length: 16, why: 'past the title card, before people come close' },
+  'video-river-1': { length: 30, why: 'before the closing logo' },
+  'video-pottery-2': { crop: 'iw:ih*0.5:0:ih*0.5', why: 'cropped to the lower half, the hands and the wheel' },
+};
+
 function buildVideo(pick: Pick, raw: string, out: string, note: string): Partial<Built> {
   const source = probe(raw);
-  const length = Math.min(source.duration ?? 30, 40);
+  const cut = CUTS[pick.id];
+  const startAt = cut?.start ?? 0;
+  const length = Math.min((source.duration ?? 30) - startAt, cut?.length ?? 40);
   const budget = Math.floor(((VIDEO_LIMIT * 0.9 * 8) / length) / 1000); // kbit/s for everything
   const audioRate = source.audio ? 96 : 0;
   const videoRate = Math.min(4500, budget - audioRate);
   const scale = "scale='if(gt(iw,ih),min(1280,iw),-2)':'if(gt(iw,ih),-2,min(1280,ih))'";
-  const common = ['-i', raw, '-t', String(length), '-vf', `${scale},fps=fps=30`, '-map_metadata', '-1'];
+  const filters = [cut?.crop ? `crop=${cut.crop}` : '', scale, 'fps=fps=30'].filter(Boolean).join(',');
+  const common = [...(startAt ? ['-ss', String(startAt)] : []), '-i', raw, '-t', String(length), '-vf', filters, '-map_metadata', '-1'];
   const audio = source.audio ? ['-c:a', pick.as === 'webm' ? 'libopus' : 'aac', '-b:a', `${audioRate}k`] : ['-an'];
   let codec: string;
   if (pick.as === 'webm') {
@@ -125,9 +137,13 @@ function buildVideo(pick: Pick, raw: string, out: string, note: string): Partial
   }
   if (statSync(out).size > VIDEO_LIMIT) throw new Error(`${pick.id}: ${statSync(out).size} bytes, over 15 MB`);
   const after = probe(out);
-  const cut = (source.duration ?? 0) > length + 0.5 ? `first ${length} s, ` : '';
+  const trimmed = cut
+    ? `${startAt ? `${length} s from ${startAt} s in` : `first ${length} s`}${cut.crop ? '' : ''} (${cut.why}), `
+    : (source.duration ?? 0) > length + 0.5
+      ? `first ${length} s, `
+      : '';
   return {
-    transform: `from the ${note}: ${cut}long side at most 1280, ${codec}${source.audio ? ` with ${pick.as === 'webm' ? 'Opus' : 'AAC'} sound` : ', no sound'}, ${pick.as.toUpperCase()}`,
+    transform: `from the ${note}: ${trimmed}long side at most 1280, ${codec}${source.audio ? ` with ${pick.as === 'webm' ? 'Opus' : 'AAC'} sound` : ', no sound'}, ${pick.as.toUpperCase()}`,
     width: after.width,
     height: after.height,
     duration: after.duration,
@@ -163,14 +179,20 @@ export async function buildOne(pick: Pick): Promise<Built> {
   const done = join(WORK, 'built', `${pick.id}.json`);
   const out = join(MEDIA, `${pick.id}.${pick.as}`);
   if (existsSync(done) && existsSync(out)) return JSON.parse(readFileSync(done, 'utf8'));
+  if (existsSync(done)) {
+    // Built before in another format: that file goes.
+    const before: Built = JSON.parse(readFileSync(done, 'utf8'));
+    rmSync(join(MEDIA, `${pick.id}.${before.ext}`), { force: true });
+  }
   const c = pick.candidate;
+  const base = pick.type === 'loop' ? pick.id.replace(/-loop$/, '') : pick.id;
   const source =
     pick.type === 'image' || (pick.type === 'png' && c.bytes > 8_000_000)
       ? pictureSource(c)
-      : pick.type === 'video'
+      : pick.type === 'video' || pick.type === 'loop'
         ? videoSource(c)
         : { url: c.url.split('?')[0]!, note: 'original' };
-  const raw = join(WORK, 'raw', `${pick.id}.${extOf(source.url)}`);
+  const raw = join(WORK, 'raw', `${base}.${extOf(source.url)}`);
   await download(source.url, raw, { minBytes: 200 });
   mkdirSync(MEDIA, { recursive: true });
   let result: Partial<Built>;
@@ -188,9 +210,24 @@ export async function buildOne(pick: Pick): Promise<Built> {
     case 'svg': {
       const text = readFileSync(raw, 'utf8');
       if (/<image[^>]+href=["']https?:/i.test(text)) throw new Error(`${pick.id}: the SVG loads a remote picture`);
-      copyFileSync(raw, out);
-      const meta = await sharp(raw).metadata().catch(() => ({ width: undefined, height: undefined }));
-      result = { transform: 'the original SVG, unchanged', width: meta.width, height: meta.height };
+      let transform = 'the original SVG, unchanged';
+      if (RECOLOUR.has(pick.id)) {
+        // White on transparent shows on nothing: the glyph is drawn in slate grey.
+        writeFileSync(out, text.replace(/fill="(#fff|#ffffff|white)"/gi, 'fill="#3d4a52"').replace(/fill:\s*(#fff|#ffffff|white)\b/gi, 'fill:#3d4a52'));
+        transform = 'the original SVG with its white fill recoloured slate grey (#3d4a52)';
+      } else copyFileSync(raw, out);
+      const meta = await sharp(out).metadata().catch(() => ({ width: undefined, height: undefined }));
+      result = { transform, width: meta.width, height: meta.height };
+      break;
+    }
+    case 'loop': {
+      const palette = join(WORK, 'raw', `${pick.id}.palette.png`);
+      const filters = 'fps=12,scale=480:-2:flags=lanczos';
+      ffmpeg(['-ss', '1', '-t', '3', '-i', raw, '-vf', `${filters},palettegen=max_colors=128`, palette]);
+      ffmpeg(['-ss', '1', '-t', '3', '-i', raw, '-i', palette, '-lavfi', `${filters}[x];[x][1:v]paletteuse=dither=bayer:bayer_scale=4`, '-loop', '0', out]);
+      rmSync(palette, { force: true });
+      const meta = await sharp(out).metadata();
+      result = { transform: `from the ${source.note}: three seconds from 1 s in, 480 px wide, 12 frames a second, a looping GIF of 128 colours`, width: meta.width, height: meta.pageHeight ?? meta.height };
       break;
     }
     case 'gif': {

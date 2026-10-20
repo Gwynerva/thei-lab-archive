@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Bryggen, end to end
+description: The whole row of Bryggen in one sweep, from the red gables to the white ones, on a bright September day.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bryggen,_Bergen,_Noruega,_2019-09-08,_DD_118-121_PAN.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Bryggen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_118-121_PAN.jpg/1920px-Bryggen%2C_Bergen%2C_Noruega%2C_2019-09-08%2C_DD_118-121_PAN.jpg
+  retrieved: 2026-10-20
+author: Diego Delso
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Bryggen, Bergen, Noruega, 2019-09-08, DD 118-121 PAN.jpg” by Diego Delso, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Wide panorama of the Hanseatic wooden buildings of Bryggen along the harbour front in Bergen, colourful gables, people walking, blue sky with clouds.

@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The angel with the cello
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Danzig_Marienkirche_Engel_Cello-20070402-RM-084004.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Danzig_Marienkirche_Engel_Cello-20070402-RM-084004.jpg/1920px-Danzig_Marienkirche_Engel_Cello-20070402-RM-084004.jpg
+  retrieved: 2026-10-20
+author: Ermell
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Danzig Marienkirche Engel Cello-20070402-RM-084004.jpg” by Ermell, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A carved wooden angel with gilded wings playing a cello, one of a group of musician angels in St Mary's Church, Gdańsk, Poland.

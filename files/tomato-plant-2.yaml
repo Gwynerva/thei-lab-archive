@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Tigerella
+description: Striped Tigerella tomatoes, three on the vine. The best thing the balcony ever grew.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Balkoncontent_Tomatensorte_Tigerella.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Balkoncontent_Tomatensorte_Tigerella.jpg/1920px-Balkoncontent_Tomatensorte_Tigerella.jpg
+  retrieved: 2026-10-20
+author: Waithamai
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Balkoncontent Tomatensorte Tigerella.jpg” by Waithamai, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Three orange-red tomatoes with yellow stripes, of the Tigerella variety, on a short vine against a pale grey background. Grown on a balcony.

@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Sandviken from the old battery
+description: Looking down over Sandviken from Sandviksbatteriet, the houses stacked up the slope and the fjord beyond.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Str%C3%B8ket_Sandviken_i_Bergen_sett_fra_Sandviksbatteriet.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Str%C3%B8ket_Sandviken_i_Bergen_sett_fra_Sandviksbatteriet.jpg/1920px-Str%C3%B8ket_Sandviken_i_Bergen_sett_fra_Sandviksbatteriet.jpg
+  retrieved: 2026-10-20
+author: Svein Harkestad
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Strøket Sandviken i Bergen sett fra Sandviksbatteriet.jpg” by Svein Harkestad, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: View over the Sandviken district of Bergen from Sandviksbatteriet, houses on the green hillside above the harbour, mountains and fjord beyond.

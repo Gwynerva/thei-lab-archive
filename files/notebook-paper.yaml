@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Sketch of a box
+description: Graph paper, a pencil sketch of a little box and all its measurements. Every project starts on a page like this.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Notebook_Diagram_4.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Notebook_Diagram_4.jpg/1920px-Notebook_Diagram_4.jpg
+  retrieved: 2026-10-20
+author: Richard Rickert
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Notebook Diagram 4.jpg” by Richard Rickert, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A graph-paper notebook page with a pencil sketch of a small wooden box and handwritten measurements in inches.

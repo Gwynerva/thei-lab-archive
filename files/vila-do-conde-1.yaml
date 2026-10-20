@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Santa Clara over the Ave
+description: The huge convent above the river Ave at Vila do Conde, first thing in the morning on day two.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mosteiro_de_Santa_Clara_-_Vila_do_Conde_-_Portugal_(50835360377).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Mosteiro_de_Santa_Clara_-_Vila_do_Conde_-_Portugal_%2850835360377%29.jpg/1920px-Mosteiro_de_Santa_Clara_-_Vila_do_Conde_-_Portugal_%2850835360377%29.jpg
+  retrieved: 2026-10-20
+author: Vitor Oliveira from Torres Vedras, PORTUGAL
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Mosteiro de Santa Clara - Vila do Conde - Portugal (50835360377).jpg” by Vitor Oliveira from Torres Vedras, PORTUGAL, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The large convent of Santa Clara above the river Ave and its bridge in Vila do Conde, Portugal, lawn in front, bare trees; clear blue sky.

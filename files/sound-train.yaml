@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: A train going by
+description: A train through the middle of nowhere, the horn first and then the rails humming for ages after.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Train_passing_by_in_the_Wirikuta_Desert_(Mexico,_SLP).wav
+  download: https://upload.wikimedia.org/wikipedia/commons/6/67/Train_passing_by_in_the_Wirikuta_Desert_%28Mexico%2C_SLP%29.wav
+  retrieved: 2026-10-20
+author: https://freesound.org/people/felix.blume/
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Train passing by in the Wirikuta Desert (Mexico, SLP).wav” by https://freesound.org/people/felix.blume/, CC0, via Wikimedia Commons
+transform: from the original, MP3 VBR q2
+people: none
+truth: A train passing through a small town in the Wirikuta desert, San Luis Potosí, Mexico, its horn and the rail vibration at the start.

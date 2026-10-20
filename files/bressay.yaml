@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Bressay lighthouse
+description: The white lighthouse on Bressay, seen from the water as we came round into the Sound.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bressay_Lighthouse_a.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bressay_Lighthouse_a.JPG/1920px-Bressay_Lighthouse_a.JPG
+  retrieved: 2026-10-20
+author: Hajotthu at de.wikipedia
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Bressay Lighthouse a.JPG” by Hajotthu at de.wikipedia, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Bressay Lighthouse in Shetland, a white tower and keepers' buildings on a low rocky point above blue water, a green hillside behind.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Two Picos, both sides
+description: Two Raspberry Pi Picos showing top and bottom, small enough to lose in a pocket.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Raspberry_Pi_Pico_top_and_bottom.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Raspberry_Pi_Pico_top_and_bottom.jpg/1920px-Raspberry_Pi_Pico_top_and_bottom.jpg
+  retrieved: 2026-10-20
+author: Ogidya
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Raspberry Pi Pico top and bottom.jpg” by Ogidya, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Two Raspberry Pi Pico microcontroller boards side by side, one showing the top with its chip and one the underside with pin labels, on white.

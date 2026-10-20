@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: An old bike on the beach
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vintage_Retro_Bicycle_on_the_beach._(29115570027).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Vintage_Retro_Bicycle_on_the_beach._%2829115570027%29.jpg/1920px-Vintage_Retro_Bicycle_on_the_beach._%2829115570027%29.jpg
+  retrieved: 2026-10-20
+author: Artem Beliaikin from Moscow, Russia
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Vintage Retro Bicycle on the beach. (29115570027).jpg” by Artem Beliaikin from Moscow, Russia, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An old bicycle leaning against a palm trunk on a beach, boats and the sea behind, warm faded colours. Bali.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Hot dog in a waffle
+description: Pølse i vaffel, which sounds like a joke and is in fact lunch.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:P%C3%B8lse_i_vaffel_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/P%C3%B8lse_i_vaffel_01.jpg/1920px-P%C3%B8lse_i_vaffel_01.jpg
+  retrieved: 2026-10-20
+author: Kjetil Ree
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Pølse i vaffel 01.jpg” by Kjetil Ree, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Hot dogs wrapped in folded waffles on a plate, a Norwegian snack.

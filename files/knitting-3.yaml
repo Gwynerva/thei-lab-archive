@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Needles, wool and a swatch
+description: Pink and cream wool, wooden circular needles and a striped swatch to check the tension.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nadeln_002_2026_08_07.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Nadeln_002_2026_08_07.jpg/1920px-Nadeln_002_2026_08_07.jpg
+  retrieved: 2026-10-20
+author: Friedrich Haag
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Nadeln 002 2026 08 07.jpg” by Friedrich Haag, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Two balls of yarn, pink and cream, with wooden circular knitting needles and a small striped knitted swatch on a black background.

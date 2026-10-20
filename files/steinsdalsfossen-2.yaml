@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The fall from the meadow
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Steinsdalsfossen.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/7/7f/Steinsdalsfossen.jpg
+  retrieved: 2026-10-20
+author: Andreas Sandberg
+licence: CC-BY-SA-3.0
+licenceUrl: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: “Steinsdalsfossen.jpg” by Andreas Sandberg, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the original: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Steinsdalsfossen waterfall seen from the green meadow below, white water against spruce forest, blue sky with clouds; June.

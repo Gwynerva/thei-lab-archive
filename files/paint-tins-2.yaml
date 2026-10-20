@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Three colours
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Open_Soy_Paint_Cans_(10481728754).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Open_Soy_Paint_Cans_%2810481728754%29.jpg/1920px-Open_Soy_Paint_Cans_%2810481728754%29.jpg
+  retrieved: 2026-10-20
+author: United Soybean Board
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Open Soy Paint Cans (10481728754).jpg” by United Soybean Board, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Three open tins of red, blue and green paint, a brush dipped in the blue, on a grey background.

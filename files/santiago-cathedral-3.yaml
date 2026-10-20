@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The towers from a back lane
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:2025_Torres_do_Obradoiro._Ruela_de_Entrecercas._Santiago_de_Compostela._-2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/2025_Torres_do_Obradoiro._Ruela_de_Entrecercas._Santiago_de_Compostela._-2.jpg/1280px-2025_Torres_do_Obradoiro._Ruela_de_Entrecercas._Santiago_de_Compostela._-2.jpg
+  retrieved: 2026-10-20
+author: Lmbuga
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “2025 Torres do Obradoiro. Ruela de Entrecercas. Santiago de Compostela. -2.jpg” by Lmbuga, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The two baroque towers of Santiago de Compostela cathedral rising above roofs, seen from the narrow Ruela de Entrecercas; pale sky.

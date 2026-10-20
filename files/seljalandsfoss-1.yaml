@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Behind Seljalandsfoss at sunset
+description: From the path behind the falls, the light going orange through the water. Soaked, and worth it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Seljalandsfoss,_Su%C3%B0urland,_Islandia,_2014-08-16,_DD_201-203_HDR.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Seljalandsfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_201-203_HDR.JPG/1920px-Seljalandsfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_201-203_HDR.JPG
+  retrieved: 2026-10-20
+author: Diego Delso
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Seljalandsfoss, Suðurland, Islandia, 2014-08-16, DD 201-203 HDR.JPG” by Diego Delso, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Sunset seen from behind Seljalandsfoss, the falling water framed by a dark mossy rock overhang, green slopes and the flat plain beyond.

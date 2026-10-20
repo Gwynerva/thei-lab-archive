@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The tool roll, emptied
+description: Spanner, tyre levers, hex keys, a patch kit and a screwdriver, laid out before the strip-down.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:BicycleRepairTools.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/BicycleRepairTools.JPG/1920px-BicycleRepairTools.JPG
+  retrieved: 2026-10-20
+author: No machine-readable author provided. Gengiskanhg assumed (based on copyright claims).
+licence: CC-BY-SA-3.0
+licenceUrl: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: “BicycleRepairTools.JPG” by No machine-readable author provided. Gengiskanhg assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Bicycle repair tools laid out on grey, an adjustable spanner, tyre levers, sockets, hex keys, a lockring tool, a screwdriver and a puncture repair kit.

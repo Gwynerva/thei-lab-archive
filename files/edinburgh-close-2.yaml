@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: The Scott Monument through the arch
+description: The Scott Monument framed by the arch at the top of the close.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edinburgh_(50313209597).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Edinburgh_%2850313209597%29.jpg/1920px-Edinburgh_%2850313209597%29.jpg
+  retrieved: 2026-10-20
+author: Alex Liivet from Chester, United Kingdom
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Edinburgh (50313209597).jpg” by Alex Liivet from Chester, United Kingdom, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, WebP q80, metadata removed"
+people: none
+truth: The Scott Monument seen through the dark arch of Advocate's Close in Edinburgh, an old lantern in the foreground, blue sky and cloud.

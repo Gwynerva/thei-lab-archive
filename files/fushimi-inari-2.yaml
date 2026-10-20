@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Torii in the woods
+description: Higher up the gates thin out and the forest comes in. Far fewer people up here.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:20181110_Fushimi_Inari_Torii_12.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/20181110_Fushimi_Inari_Torii_12.jpg/1920px-20181110_Fushimi_Inari_Torii_12.jpg
+  retrieved: 2026-10-20
+author: Balon Greyjoy
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “20181110 Fushimi Inari Torii 12.jpg” by Balon Greyjoy, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: A row of orange torii over a stone path climbing through green forest at Fushimi Inari Taisha, an orange wooden railing at the left.

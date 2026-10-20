@@ -1,0 +1,16 @@
+kind: audio
+ext: ogg
+title: Ave Maria on the cello
+description: The Ave Maria over Bach's C major prelude, on the cello. Mum asked me to play it at her retirement do and I wasn't brave enough, so she got this instead.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:JOHN_MICHEL_CELLO-BACH_AVE_MARIA.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/d/d4/JOHN_MICHEL_CELLO-BACH_AVE_MARIA.ogg
+  retrieved: 2026-10-20
+author: "Composer: Charles Gounod (1818–1893) Contemporary Performer: John Michel, a cello professor at Central Washington University"
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: "“JOHN MICHEL CELLO-BACH AVE MARIA.ogg” by Composer: Charles Gounod (1818–1893) Contemporary Performer: John Michel, a cello professor at Central Washington University, public domain, via Wikimedia Commons"
+transform: "from the original: first 180 s with a 2 s fade-out, Ogg Vorbis q5"
+people: none
+truth: Gounod's Ave Maria, built on Bach's Prelude in C major, arranged for and played on the cello.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Two towers in Ushguli
+description: Two towers side by side, leaning very slightly towards each other like old friends.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Svan_towers_ushguli.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Svan_towers_ushguli.jpg/1920px-Svan_towers_ushguli.jpg
+  retrieved: 2026-10-20
+author: GidiD
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Svan towers ushguli.jpg” by GidiD, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Two tall stone Svan towers and an old house with a wooden gallery in Ushguli, Svaneti, under a cloudy sky.

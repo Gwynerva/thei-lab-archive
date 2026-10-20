@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Rowan on black
+description: The berries from my first avatar. Red as a pillar box.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sorbus_aucuparia_2022_G1.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Sorbus_aucuparia_2022_G1.jpg/1920px-Sorbus_aucuparia_2022_G1.jpg
+  retrieved: 2026-10-20
+author: George Chernilevsky
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Sorbus aucuparia 2022 G1.jpg” by George Chernilevsky, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A cluster of bright red rowan berries with green leaves photographed against a black background.

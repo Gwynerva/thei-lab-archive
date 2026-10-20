@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Going up Schiehallion
+description: The long boulder field near the top, pale stones and mist. My ankles complained the whole way.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ascending_Schiehallion_-_geograph.org.uk_-_3714518.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ascending_Schiehallion_-_geograph.org.uk_-_3714518.jpg/1920px-Ascending_Schiehallion_-_geograph.org.uk_-_3714518.jpg
+  retrieved: 2026-10-20
+author: Peter S
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Ascending Schiehallion - geograph.org.uk - 3714518.jpg” by Peter S, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A hillside of pale grey boulders and green grass on the ascent of Schiehallion, the rounded upper slope fading into mist.

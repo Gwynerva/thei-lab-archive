@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A tree heavy with apples
+description: An old tree loaded with small rosy apples, the branches bending under them.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Grytheng-fotografiet_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Grytheng-fotografiet_01.jpg/1920px-Grytheng-fotografiet_01.jpg
+  retrieved: 2026-10-20
+author: Øyvind Holmstad
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Grytheng-fotografiet 01.jpg” by Øyvind Holmstad, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A leafy apple tree hung with many small red-yellow apples under a pale overcast sky; late summer, Norway.

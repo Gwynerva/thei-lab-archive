@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The 199 steps at dusk
+description: Counting them on the way up, as always, with the lamps just coming on over the harbour.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_199_Steps.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Whitby_199_Steps.jpg/1280px-Whitby_199_Steps.jpg
+  retrieved: 2026-10-20
+author: RevDave
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Whitby 199 Steps.jpg” by RevDave, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The 199 steps in Whitby at dusk, a lit lamp post at the top, old houses with red roofs below and the harbour, piers and West Cliff lights beyond.

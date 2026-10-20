@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Runswick from the beach
+description: Runswick's houses piled up the hillside, and the tide coming in fast.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Runswick_Bay_MMB_10.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Runswick_Bay_MMB_10.jpg/1920px-Runswick_Bay_MMB_10.jpg
+  retrieved: 2026-10-20
+author: mattbuck (category)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Runswick Bay MMB 10.jpg” by mattbuck (category), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The village of Runswick Bay on its green hillside above the beach, small waves running up the sand, a headland at right, a few people far off, blue sky.

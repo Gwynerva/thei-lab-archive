@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Kirkjufellsfoss in the evening
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kirkjufell,_Iceland_(Unsplash_LoKG7kKx7Zc).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Kirkjufell%2C_Iceland_%28Unsplash_LoKG7kKx7Zc%29.jpg/1920px-Kirkjufell%2C_Iceland_%28Unsplash_LoKG7kKx7Zc%29.jpg
+  retrieved: 2026-10-20
+author: Steven Diaz stevendiazphoto
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Kirkjufell, Iceland (Unsplash LoKG7kKx7Zc).jpg” by Steven Diaz stevendiazphoto, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Kirkjufell above the stepped Kirkjufellsfoss waterfall in long exposure, golden-brown grass and a cloudy sky.

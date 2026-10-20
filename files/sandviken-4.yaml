@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The city lights from Sandvikspilen
+description: Bergen at dusk from the path above Sandviken, every road traced in orange light and the fjord still blue.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen_sandviken_norway_tunliweb.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Bergen_sandviken_norway_tunliweb.jpg/1920px-Bergen_sandviken_norway_tunliweb.jpg
+  retrieved: 2026-10-20
+author: Svein-Magne Tunli - tunliweb.no
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Bergen sandviken norway tunliweb.jpg” by Svein-Magne Tunli - tunliweb.no, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Bergen at dusk from Sandvikspilen above Sandviken, city lights tracing the streets along the fjord shore, last light on the horizon.

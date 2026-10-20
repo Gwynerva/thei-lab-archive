@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The blue side of the Carmo church
+description: The whole side wall of the Carmo church covered in blue and white tiles. I stood there long enough to catch the sun.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Igreja_do_Carmo_(Porto)_2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Igreja_do_Carmo_%28Porto%29_2.jpg/1920px-Igreja_do_Carmo_%28Porto%29_2.jpg
+  retrieved: 2026-10-20
+author: T meltzer
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Igreja do Carmo (Porto) 2.jpg” by T meltzer, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Blue and white azulejo panels covering the side wall of the baroque Igreja do Carmo in Porto, tall windows and a wooden door.

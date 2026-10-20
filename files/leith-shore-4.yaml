@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Gables by the water
+description: The red-roofed gables on the Shore, and a bus trundling past as usual.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Buildings_by_the_Water_of_Leith_-_geograph.org.uk_-_7592636.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Buildings_by_the_Water_of_Leith_-_geograph.org.uk_-_7592636.jpg/1920px-Buildings_by_the_Water_of_Leith_-_geograph.org.uk_-_7592636.jpg
+  retrieved: 2026-10-20
+author: Ian Hawfinch
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Buildings by the Water of Leith - geograph.org.uk - 7592636.jpg” by Ian Hawfinch, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Gabled red-roofed buildings along the Water of Leith in Leith, a double-decker bus passing on the quay, still water, blue sky with high cloud.

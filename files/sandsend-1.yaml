@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Sandsend in the evening
+description: The groynes at Sandsend in low evening light, the cliffs going gold at the far end.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sandsend_Beach_-_geograph.org.uk_-_2009293.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Sandsend_Beach_-_geograph.org.uk_-_2009293.jpg/1920px-Sandsend_Beach_-_geograph.org.uk_-_2009293.jpg
+  retrieved: 2026-10-20
+author: wfmillar
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Sandsend Beach - geograph.org.uk - 2009293.jpg” by wfmillar, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Evening light on the beach at Sandsend, lines of old wooden groyne posts running into a calm sea, the cliffs of a headland at left, pale sky.

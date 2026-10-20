@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Sumburgh Head lighthouse
+description: Up close to the lighthouse, white and gold under a white sky, while the puffins carried on below.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sumburgh_Head_Lighthouse_2017.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Sumburgh_Head_Lighthouse_2017.jpg/1280px-Sumburgh_Head_Lighthouse_2017.jpg
+  retrieved: 2026-10-20
+author: Unukorno
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Sumburgh Head Lighthouse 2017.jpg” by Unukorno, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Sumburgh Head Lighthouse, Shetland, a white tower with a black lantern and a pale yellow band, low white buildings at its foot, grey overcast sky.

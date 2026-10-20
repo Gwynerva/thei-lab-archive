@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit in his winter coat
+description: Fluffed up for winter on the edge of the flower bed, looking back over his shoulder.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ginger_cat_at_Bar-Ilan_University_(2018;_cropped_2026).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ginger_cat_at_Bar-Ilan_University_%282018%3B_cropped_2026%29.jpg/1920px-Ginger_cat_at_Bar-Ilan_University_%282018%3B_cropped_2026%29.jpg
+  retrieved: 2026-10-20
+author: DGtal
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Ginger cat at Bar-Ilan University (2018; cropped 2026).jpg” by DGtal, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A fluffy, pale ginger cat sitting on a low concrete kerb beside a bare earth bed, looking back over its shoulder, sunny.

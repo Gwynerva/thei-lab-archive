@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A hórreo by the sea
+description: A stone granary up on legs by the shore at Cambados, built to keep the maize away from the rats.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:2013._H%C3%B3rreo_en_Cambados._Galicia_(Spain).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2013._H%C3%B3rreo_en_Cambados._Galicia_%28Spain%29.jpg/1920px-2013._H%C3%B3rreo_en_Cambados._Galicia_%28Spain%29.jpg
+  retrieved: 2026-10-20
+author: Luis Miguel Bugallo Sánchez (Lmbuga)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “2013. Hórreo en Cambados. Galicia (Spain).jpg” by Luis Miguel Bugallo Sánchez (Lmbuga), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A granite hórreo (raised granary) with wooden slatted sides and a tiled roof on a grassy seafront in Cambados, Galicia, sea behind.

@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Bryggen across the harbour
+description: Bryggen across Vågen on a grey January day, the mountain dark behind it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen_Harbour_2009.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Bergen_Harbour_2009.jpg/1920px-Bergen_Harbour_2009.jpg
+  retrieved: 2026-10-20
+author: Sveter
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Bergen Harbour 2009.jpg” by Sveter, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Bryggen's wooden houses seen across the harbour of Vågen in Bergen, the wooded mountain behind under a grey January sky.

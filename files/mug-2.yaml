@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Orange mugs
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:02024_1942_Mid-twentieth_pottery_from_Bielany,_Zasole.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/02024_1942_Mid-twentieth_pottery_from_Bielany%2C_Zasole.jpg/1920px-02024_1942_Mid-twentieth_pottery_from_Bielany%2C_Zasole.jpg
+  retrieved: 2026-10-20
+author: Silar
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “02024 1942 Mid-twentieth pottery from Bielany, Zasole.jpg” by Silar, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Old handmade orange-brown glazed ceramic mugs with olive-green and yellow slip decoration on a shelf, made in Silesia in the 1950s.

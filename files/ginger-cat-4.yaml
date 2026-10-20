@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit on a plank in the sun
+description: On the plank by the blue wall, the brightest orange thing for a mile.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ginger_Cat_(15421086046).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Ginger_Cat_%2815421086046%29.jpg/1920px-Ginger_Cat_%2815421086046%29.jpg
+  retrieved: 2026-10-20
+author: GPS 56 from New Zealand
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Ginger Cat (15421086046).jpg” by GPS 56 from New Zealand, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A bright orange tabby cat with a white chest patch crouching on a wooden plank in front of a blue textured wall, sunny.

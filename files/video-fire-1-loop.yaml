@@ -1,0 +1,15 @@
+kind: image
+ext: gif
+title: A fire in the grate, looping
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:ABOedit2015-Video-Fire.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/c/cf/ABOedit2015-Video-Fire.webm
+  retrieved: 2026-10-20
+author: BrillLyle
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “ABOedit2015-Video-Fire.webm” by BrillLyle, CC0, via Wikimedia Commons
+transform: "from the original: three seconds from 1 s in, 480 px wide, 12 frames a second, a looping GIF of 128 colours"
+people: none
+truth: Logs burning in a hotel fireplace behind an ornate iron grate, stone surround, dim room, Summit, New Jersey, November (a few seconds of it, looping)

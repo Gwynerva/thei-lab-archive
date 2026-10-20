@@ -1,0 +1,16 @@
+kind: audio
+ext: flac
+title: Seven o'clock bell
+description: The village bell on a Sunday morning, the clock and then the wake-up ringing. I was already up, of course.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Church_bell_in_Opatje_selo.flac
+  download: https://upload.wikimedia.org/wikipedia/commons/b/be/Church_bell_in_Opatje_selo.flac
+  retrieved: 2026-10-20
+author: Bojan Marušič
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Church bell in Opatje selo.flac” by Bojan Marušič, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: first 75 s with a 2 s fade-out, FLAC 16-bit 44.1 kHz"
+people: none
+truth: A church bell in Opatje Selo, Slovenia, striking the hour and ringing the Sunday 7 a.m. wake-up call.

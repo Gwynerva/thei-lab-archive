@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: The summit cairn in fog
+description: Thick fog on top, the next cairn only just there. Munro thirty-four, and I could see about fifty metres.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Summit_cairn_on_Ben_Nevis_in_thick_fog.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Summit_cairn_on_Ben_Nevis_in_thick_fog.jpg/1920px-Summit_cairn_on_Ben_Nevis_in_thick_fog.jpg
+  retrieved: 2026-10-20
+author: Andrew Gray
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Summit cairn on Ben Nevis in thick fog.jpg” by Andrew Gray, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: A tall stone navigation cairn on the Ben Nevis summit plateau, faint in thick grey fog, seen from the summit ruins, a dark stone wall at the right.

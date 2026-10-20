@@ -1,0 +1,16 @@
+kind: video
+ext: webm
+title: Hands, clay and a wheel
+description: Two pairs of hands at the wheel, one shaping a pot, one turning. Watching was half the lesson.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Making_of_Terracotta_in_Asharikandi_Village,_Dhubri,_Assam.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/0/01/Making_of_Terracotta_in_Asharikandi_Village%2C_Dhubri%2C_Assam.webm
+  retrieved: 2026-10-20
+author: Nayan j Nath
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Making of Terracotta in Asharikandi Village, Dhubri, Assam.webm” by Nayan j Nath, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: first 40 s (cropped to the lower half, the hands and the wheel), long side at most 1280, VP9 with Opus sound, WEBM"
+people: incidental
+truth: Potters' hands shaping terracotta on a hand-turned wheel at Asharikandi, Dhubri, Assam, India, finished pots behind, filmed upright, no faces.

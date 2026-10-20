@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The old station at Ravenscar
+description: What is left of the railway at the top of the cliff, with the sea between the trees. The line closed in 1965.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Railway_station_platform,_Ravenscar_(geograph_2423332).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Railway_station_platform%2C_Ravenscar_%28geograph_2423332%29.jpg/1920px-Railway_station_platform%2C_Ravenscar_%28geograph_2423332%29.jpg
+  retrieved: 2026-10-20
+author: Pauline E
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Railway station platform, Ravenscar (geograph 2423332).jpg” by Pauline E, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The disused railway platform at Ravenscar, its stone edge in long grass, a path and posts beyond and the sea on the horizon between trees, grey sky.

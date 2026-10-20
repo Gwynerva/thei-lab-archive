@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The funicular climbing
+description: A Fløibanen car halfway up, seen from the top, with the harbour far below.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Fl%C3%B8ibanen.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Fl%C3%B8ibanen.jpg/1920px-Fl%C3%B8ibanen.jpg
+  retrieved: 2026-10-20
+author: JoachimKohlerBremen
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Fløibanen.jpg” by JoachimKohlerBremen, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A red Fløibanen funicular car climbing the green slope of Fløyen in May, with Bergen, a peninsula and the harbour spread out below.

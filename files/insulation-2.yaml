@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Boards on the walls
+description: A whole building wrapped in wood-fibre boards before the render goes on. We're doing ours one wall at a time.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Fassadend%C3%A4mmung_mit_Pavatex-Holzfaserd%C3%A4mmplatten,_Sockelplatten_zur_Befestigung_von_Balkonen,_Am_Bach_23,_Lotschen,_99444_Blankenhain,_Th%C3%BCringen.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Fassadend%C3%A4mmung_mit_Pavatex-Holzfaserd%C3%A4mmplatten%2C_Sockelplatten_zur_Befestigung_von_Balkonen%2C_Am_Bach_23%2C_Lotschen%2C_99444_Blankenhain%2C_Th%C3%BCringen.jpg/1920px-Fassadend%C3%A4mmung_mit_Pavatex-Holzfaserd%C3%A4mmplatten%2C_Sockelplatten_zur_Befestigung_von_Balkonen%2C_Am_Bach_23%2C_Lotschen%2C_99444_Blankenhain%2C_Th%C3%BCringen.jpg
+  retrieved: 2026-10-20
+author: Kai Kemmann
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Fassadendämmung mit Pavatex-Holzfaserdämmplatten, Sockelplatten zur Befestigung von Balkonen, Am Bach 23, Lotschen, 99444 Blankenhain, Thüringen.jpg” by Kai Kemmann, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Façade of a multi-storey building in Thuringia, Germany, clad in ochre wood fibre insulation boards behind scaffolding, new windows fitted.

@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Doctor Yellow
+description: Doctor Yellow, the inspection train. Seeing it is supposed to bring you luck.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Type923-T4.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Type923-T4.jpg/1920px-Type923-T4.jpg
+  retrieved: 2026-10-20
+author: MaedaAkihiko
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Type923-T4.jpg” by MaedaAkihiko, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: The yellow Shinkansen inspection train known as Doctor Yellow on the Tōkaidō line beside a lake, trees and overhead wires.

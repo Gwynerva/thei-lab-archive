@@ -1,0 +1,15 @@
+kind: image
+ext: gif
+title: A pot on the wheel, looping
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:%E0%A6%AE%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF_%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A7%80.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/%E0%A6%AE%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF_%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A7%80.webm/%E0%A6%AE%E0%A6%BE%E0%A6%9F%E0%A6%BF%E0%A6%B0_%E0%A6%B9%E0%A6%BE%E0%A6%A1%E0%A6%BC%E0%A6%BF_%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A7%80.webm.480p.vp9.webm
+  retrieved: 2026-10-20
+author: Tameem Mahmud 007
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “মাটির হাড়ি তৈরী.webm” by Tameem Mahmud 007, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 480p.vp9.webm transcode: three seconds from 1 s in, 480 px wide, 12 frames a second, a looping GIF of 128 colours"
+people: incidental
+truth: A grey clay pot spinning on a potter's wheel, a potter's hand at the edge of the frame, in a village workshop in Bangladesh (a few seconds of it, looping)

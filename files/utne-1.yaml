@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Boathouses at the folk museum
+description: The old red boathouses at the Folkemuseum, grass growing on the roofs and the fjord grey behind. Five minutes' walk from the ferry.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hardanger_Folkemuseum_(61814).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hardanger_Folkemuseum_%2861814%29.jpg/1920px-Hardanger_Folkemuseum_%2861814%29.jpg
+  retrieved: 2026-10-20
+author: Daniel Mietchen
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Hardanger Folkemuseum (61814).jpg” by Daniel Mietchen, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Old wooden boathouses with turf and slate roofs at Hardanger Folkemuseum in Utne, the fjord and mountains behind under a cloudy sky; summer.

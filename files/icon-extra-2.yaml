@@ -1,0 +1,16 @@
+kind: image
+ext: svg
+title: Star
+description: For the favourites.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Font_Awesome_5_regular_star_grey.svg
+  download: https://upload.wikimedia.org/wikipedia/commons/3/39/Font_Awesome_5_regular_star_grey.svg
+  retrieved: 2026-10-20
+author: Antony-22
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Font Awesome 5 regular star grey.svg” by Antony-22, CC BY-SA 4.0, via Wikimedia Commons
+transform: the original SVG, unchanged
+people: none
+truth: A grey outline icon of a five-pointed star.

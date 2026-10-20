@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Steam at Námafjall
+description: Námafjall, all smoking vents and orange ground and the smell of eggs. Priya loved it, I held my nose.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:N%C3%A1mafjall_in_summer_2009_(2).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/N%C3%A1mafjall_in_summer_2009_%282%29.jpg/1920px-N%C3%A1mafjall_in_summer_2009_%282%29.jpg
+  retrieved: 2026-10-20
+author: Chmee2/Valtameri
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Námafjall in summer 2009 (2).jpg” by Chmee2/Valtameri, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The geothermal area of Námafjall near Mývatn, a steaming fumarole on a mound of grey rocks, orange and pale ground, a bare hillside behind.

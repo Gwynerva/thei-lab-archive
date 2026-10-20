@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Wet boats on the quay
+description: An old wooden boat tied up against the tyres on the quay, everything shining with rain.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Regen_%5E_Bergen_._rain_%5E_Bergen_-_Flickr_-_abbilder.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Regen_%5E_Bergen_._rain_%5E_Bergen_-_Flickr_-_abbilder.jpg/1920px-Regen_%5E_Bergen_._rain_%5E_Bergen_-_Flickr_-_abbilder.jpg
+  retrieved: 2026-10-20
+author: abbilder
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Regen ^ Bergen . rain ^ Bergen - Flickr - abbilder.jpg” by abbilder, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An old wooden boat moored against tyre fenders at a Bergen quay in the rain, wet planks and bluish evening light.

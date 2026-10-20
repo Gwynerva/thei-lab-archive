@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: St Abb's Head from the sea
+description: The headland and the lighthouse from the boat, cliffs going straight down into the water.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:St_Abb%27s_Head_-_geograph.org.uk_-_7948548.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/St_Abb%27s_Head_-_geograph.org.uk_-_7948548.jpg/1920px-St_Abb%27s_Head_-_geograph.org.uk_-_7948548.jpg
+  retrieved: 2026-10-20
+author: Jonathan Hutchins
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “St Abb's Head - geograph.org.uk - 7948548.jpg” by Jonathan Hutchins, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: St Abb's Head seen from the sea, dark cliffs and green slopes with the white lighthouse buildings on top, grey cloudy sky and calm water.

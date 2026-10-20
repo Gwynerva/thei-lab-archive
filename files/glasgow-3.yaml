@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Cross against the blue
+description: A stone cross on a church gable in Pollokshields, against a ridiculously blue sky.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cross_on_the_Pollokshields_Church,_Glasgow,_Scotland.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Cross_on_the_Pollokshields_Church%2C_Glasgow%2C_Scotland.jpg/1920px-Cross_on_the_Pollokshields_Church%2C_Glasgow%2C_Scotland.jpg
+  retrieved: 2026-10-20
+author: Michal Klajban
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Cross on the Pollokshields Church, Glasgow, Scotland.jpg” by Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A carved stone cross on the gable top of Pollokshields Church, Glasgow, against a deep blue sky.

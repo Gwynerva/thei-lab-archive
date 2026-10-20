@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Strings caught moving
+description: The strings mid-note, wobbling across the picture because the camera reads them line by line.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rolling_Shutter_Cello_Strings.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Rolling_Shutter_Cello_Strings.jpg/1920px-Rolling_Shutter_Cello_Strings.jpg
+  retrieved: 2026-10-20
+author: Ephramac
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Rolling Shutter Cello Strings.jpg” by Ephramac, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of vibrating cello strings over the bridge and an f-hole, the strings drawn as wavy lines by a camera's rolling shutter.

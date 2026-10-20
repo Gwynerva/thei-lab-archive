@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: South through the Quiraing
+description: Looking south along the Quiraing path, everything green and falling away towards the sea.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Quiraing,_Isle_of_Skye,_Scotland_-_Diliff.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Quiraing%2C_Isle_of_Skye%2C_Scotland_-_Diliff.jpg/1920px-Quiraing%2C_Isle_of_Skye%2C_Scotland_-_Diliff.jpg
+  retrieved: 2026-10-20
+author: Diliff
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Quiraing, Isle of Skye, Scotland - Diliff.jpg” by Diliff, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: View south through the Quiraing on Skye, green slopes, landslip ridges and cliffs, pale fields and the sea beyond under a cloudy sky.

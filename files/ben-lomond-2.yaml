@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: Ben Lomond from the Arrochar Alps
+description: Looking back east to Ben Lomond from the Arrochar side, the grass gone gold. Funny how small it looks from here.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:View_towards_Ben_Lomond_from_the_Arrochar_Alps,_Scotland_11.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/View_towards_Ben_Lomond_from_the_Arrochar_Alps%2C_Scotland_11.jpg/1920px-View_towards_Ben_Lomond_from_the_Arrochar_Alps%2C_Scotland_11.jpg
+  retrieved: 2026-10-20
+author: Michal Klajban
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “View towards Ben Lomond from the Arrochar Alps, Scotland 11.jpg” by Michal Klajban, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: View from a rocky ridge of brown grass in the Arrochar Alps east towards the distant cone of Ben Lomond, hills and a glimpse of loch, clear day.

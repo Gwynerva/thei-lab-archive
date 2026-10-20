@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Vivassvatnet
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vivassvatnet_panorama.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Vivassvatnet_panorama.jpg/1920px-Vivassvatnet_panorama.jpg
+  retrieved: 2026-10-20
+author: Annabel
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Vivassvatnet panorama.jpg” by Annabel, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Panoramic view of Vivassvatnet, a lake in Hardangervidda national park, between snow-patched mountains, shrubs in front, clear sky; early summer.

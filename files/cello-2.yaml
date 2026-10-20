@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A cello alone on the stage
+description: A cello and a chair left waiting on an empty stage under purple lights, before anyone walked on.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Hermann-Leeser-Schule,_%22Spin!%22_(Absolventen_der_staatlichen_Artistenschule)_--_2019_--_5475.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/D%C3%BClmen%2C_Hermann-Leeser-Schule%2C_%22Spin%21%22_%28Absolventen_der_staatlichen_Artistenschule%29_--_2019_--_5475.jpg/1920px-D%C3%BClmen%2C_Hermann-Leeser-Schule%2C_%22Spin%21%22_%28Absolventen_der_staatlichen_Artistenschule%29_--_2019_--_5475.jpg
+  retrieved: 2026-10-20
+author: Dietmar Rabich
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Dülmen, Hermann-Leeser-Schule, "Spin!" (Absolventen der staatlichen Artistenschule) -- 2019 -- 5475.jpg” by Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A cello and bow resting on a wheeled platform beside a wooden chair on a dark theatre stage lit purple and blue, at a street-theatre show in Dülmen, Germany.

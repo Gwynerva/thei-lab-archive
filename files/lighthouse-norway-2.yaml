@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: The beacon by Bodø harbour
+description: A little white beacon on the point by Bodø harbour, where the boats for Lofoten go out.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:The_lighthouse_on_the_promontory_of_Nyholmen_by_Bod%C3%B8_harbor.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/The_lighthouse_on_the_promontory_of_Nyholmen_by_Bod%C3%B8_harbor.jpg/1920px-The_lighthouse_on_the_promontory_of_Nyholmen_by_Bod%C3%B8_harbor.jpg
+  retrieved: 2026-10-20
+author: Frankemann
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “The lighthouse on the promontory of Nyholmen by Bodø harbor.jpg” by Frankemann, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: A small white and red beacon light on a grassy promontory by Bodø harbour, Norway, the town and mountains across the water, cloudy evening.

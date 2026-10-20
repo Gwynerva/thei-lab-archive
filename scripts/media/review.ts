@@ -18,6 +18,7 @@ export const GROUPS: { name: string; first: string }[] = [
   { name: 'music-maps-sky', first: 'cello' },
   { name: 'videos', first: 'video-waves' },
   { name: 'recordings-documents', first: 'sound-rain' },
+  { name: 'top-up', first: 'leith-river' },
 ];
 
 export function readCandidates(): SlotCandidates[] {
@@ -100,7 +101,7 @@ export async function makeSheets(all: SlotCandidates[]) {
             : `${c.width}×${c.height}`;
       lines.push(
         `${i + 1}. ${c.title.replace(/^File:/, '')} · ${size} · ${c.licence.short}${c.qi ? ' · QI' : ''}\n` +
-          `   desc: ${c.description.slice(0, 260) || '—'}\n   cats: ${c.categories.slice(0, 8).join('; ')}`,
+          `   desc: ${c.description.split('.mw-parser-output')[0]!.replace(/\s+/g, ' ').trim().slice(0, 260) || '—'}\n   cats: ${c.categories.slice(0, 8).join('; ')}`,
       );
       if (c.thumb) {
         const tiles = byGroup.get(group) ?? [];

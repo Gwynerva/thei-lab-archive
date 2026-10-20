@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: In among the arches
+description: Inside the abbey walls, where the stone stops and the sky starts.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_Abbey_ruins_15.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Whitby_Abbey_ruins_15.jpg/1920px-Whitby_Abbey_ruins_15.jpg
+  retrieved: 2026-10-20
+author: Photograph by Mike Peel (www.mikepeel.net).
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Whitby Abbey ruins 15.jpg” by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Inside the ruins of Whitby Abbey, pointed arches and a tall clustered column against blue sky with cloud, a grass floor, a red roof of the town in a gap.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Old floorboards
+description: Worn hardwood boards meeting at an angle, scuffed grey by a hundred and forty years of feet. Ours look like this under the lino.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Aledo_Opera_House_hardwood_flooring.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Aledo_Opera_House_hardwood_flooring.jpg/1920px-Aledo_Opera_House_hardwood_flooring.jpg
+  retrieved: 2026-10-20
+author: Dentree2
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Aledo Opera House hardwood flooring.jpg” by Dentree2, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Worn, narrow hardwood boards laid on edge and meeting at an angle, the roller-skating floor of about 1885 in the Aledo Opera House, Illinois.

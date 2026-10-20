@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Little stove by the river
+description: A tiny stove made from a cutlery drainer, burning twigs by the water at sunset. It boiled the kettle, eventually.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:IKEA_hobo_stove_at_sunset_2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/IKEA_hobo_stove_at_sunset_2.jpg/1920px-IKEA_hobo_stove_at_sunset_2.jpg
+  retrieved: 2026-10-20
+author: Gżdacz
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “IKEA hobo stove at sunset 2.jpg” by Gżdacz, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small homemade wood-burning hobo stove glowing on a sandy bank of the Vistula at sunset, reeds and calm water behind.

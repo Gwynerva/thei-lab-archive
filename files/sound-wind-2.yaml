@@ -1,0 +1,16 @@
+kind: audio
+ext: m4a
+title: Wind in the forest
+description: Wind moving through the forest on the way up, the whole hillside breathing in and out.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Wind_in_forest_(Gravity_Sound).wav
+  download: https://upload.wikimedia.org/wikipedia/commons/4/47/Wind_in_forest_%28Gravity_Sound%29.wav
+  retrieved: 2026-10-20
+author: Gravity Sound
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Wind in forest (Gravity Sound).wav” by Gravity Sound, CC BY 4.0, via Wikimedia Commons
+transform: from the original, AAC 160 kbit/s in M4A
+people: none
+truth: Wind blowing through the trees of a forest, a steady rush with stronger gusts.

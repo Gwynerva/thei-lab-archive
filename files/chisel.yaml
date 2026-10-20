@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The chisel drawer
+description: Nine chisels in a drawer and no two handles alike. Jonas swears he knows which is which by feel.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Selection_of_woodworking_chisels.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Selection_of_woodworking_chisels.jpg/1920px-Selection_of_woodworking_chisels.jpg
+  retrieved: 2026-10-20
+author: Aiko, Thomas & Juliette+Isaac
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Selection of woodworking chisels.jpg” by Aiko, Thomas & Juliette+Isaac, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Nine woodworking chisels with assorted wooden and plastic handles laid side by side in a wooden drawer.

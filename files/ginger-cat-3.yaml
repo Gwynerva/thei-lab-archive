@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit sits for his portrait
+description: He sat in the middle of the path and stared until I took it. Then he left.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ginger_cat_on_the_street05.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Ginger_cat_on_the_street05.jpg/1920px-Ginger_cat_on_the_street05.jpg
+  retrieved: 2026-10-20
+author: Panpanchik
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Ginger cat on the street05.jpg” by Panpanchik, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: An orange tabby cat with a pale chest sitting upright on an asphalt park path, looking at the camera, lamps and bare trees behind.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Dom Luís bridge from above
+description: The iron bridge from the top of the hill on the Gaia side, its shadow lying across the river.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Puente_Don_Luis_I,_Oporto,_Portugal,_2012-05-09,_DD_13.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG/1920px-Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG
+  retrieved: 2026-10-20
+author: Diego Delso
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Puente Don Luis I, Oporto, Portugal, 2012-05-09, DD 13.JPG” by Diego Delso, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The Dom Luís I iron arch bridge over the Douro between Vila Nova de Gaia and Porto seen from above, its shadow on the water, tiny walkers on the deck.

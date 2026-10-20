@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The West Pier lighthouse
+description: The lighthouse I cut in lino for the 2018 cards. A simple shape, and very forgiving.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lighthouse,_Whitby_Pier_-_geograph.org.uk_-_2346083.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Lighthouse%2C_Whitby_Pier_-_geograph.org.uk_-_2346083.jpg/1920px-Lighthouse%2C_Whitby_Pier_-_geograph.org.uk_-_2346083.jpg
+  retrieved: 2026-10-20
+author: JThomas
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Lighthouse, Whitby Pier - geograph.org.uk - 2346083.jpg” by JThomas, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: incidental
+truth: The tall fluted stone West Pier lighthouse in Whitby against a deep blue sky, white benches round its base and two people walking past.

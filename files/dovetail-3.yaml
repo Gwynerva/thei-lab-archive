@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Old cabin corner
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Dovetail_joint_P9070478.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Dovetail_joint_P9070478.jpg/1920px-Dovetail_joint_P9070478.jpg
+  retrieved: 2026-10-20
+author: Chris Light
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Dovetail joint P9070478.jpg” by Chris Light, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Dovetailed corner of an old log cabin, grey weathered log ends with growth rings and pale chinking between the logs. Cades Cove, Great Smoky Mountains, USA.

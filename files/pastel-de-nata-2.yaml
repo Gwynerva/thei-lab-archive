@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: One custard tart in the sun
+description: One tart, one napkin, the cinnamon within reach. Breakfast in Portugal, more or less.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pastel_de_nata_-_Nazare_2021.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Pastel_de_nata_-_Nazare_2021.jpg/1920px-Pastel_de_nata_-_Nazare_2021.jpg
+  retrieved: 2026-10-20
+author: Addshore
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Pastel de nata - Nazare 2021.jpg” by Addshore, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A single pastel de nata on a napkin on a white plate on a wooden café table with a printed logo, a cinnamon shaker behind, sunny, Nazaré, Portugal.

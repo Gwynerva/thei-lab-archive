@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Masts
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:K%C3%BChlungsborn,_Marina_--_2024_--_4650.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/K%C3%BChlungsborn%2C_Marina_--_2024_--_4650.jpg/1920px-K%C3%BChlungsborn%2C_Marina_--_2024_--_4650.jpg
+  retrieved: 2026-10-20
+author: Dietmar Rabich
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Kühlungsborn, Marina -- 2024 -- 4650.jpg” by Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Tall masts of moored sailing yachts against a deep blue sky with a little white cloud, a pontoon at the foot. The marina at Kühlungsborn, Germany.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Kirkjufell and a rainbow
+description: Rain and sun at once over Kirkjufell, a rainbow out over the sea and the waterfall roaring in front.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kirkjufell,_Iceland,_20240714_1631_0713.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Kirkjufell%2C_Iceland%2C_20240714_1631_0713.jpg/1920px-Kirkjufell%2C_Iceland%2C_20240714_1631_0713.jpg
+  retrieved: 2026-10-20
+author: Jakub Hałun
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Kirkjufell, Iceland, 20240714 1631 0713.jpg” by Jakub Hałun, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Kirkjufell mountain with Kirkjufellsfoss waterfall rushing in the foreground and a faint rainbow in the sky, showers and sun together.

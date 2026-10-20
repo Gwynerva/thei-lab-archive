@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A bone folder
+description: A bookbinder's bone folder, long and curved and worn smooth by somebody's hands. Fergus has one just like it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bookbinders_bone_paper_folder.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Bookbinders_bone_paper_folder.jpg/1920px-Bookbinders_bone_paper_folder.jpg
+  retrieved: 2026-10-20
+author: Edinburgh City of Print
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Bookbinders bone paper folder.jpg” by Edinburgh City of Print, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A long, curved bookbinder's paper folder made of bone, pale and worn, photographed against white. An object from an Edinburgh print-history collection.

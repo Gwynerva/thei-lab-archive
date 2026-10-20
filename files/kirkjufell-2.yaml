@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Kirkjufell with sheep
+description: Kirkjufell over the grass, with a few sheep who were not interested in it at all.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kirkjufell,_Vesturland,_Islandia,_2014-08-14,_DD_091.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Kirkjufell%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_091.JPG/1920px-Kirkjufell%2C_Vesturland%2C_Islandia%2C_2014-08-14%2C_DD_091.JPG
+  retrieved: 2026-10-20
+author: Diego Delso
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Kirkjufell, Vesturland, Islandia, 2014-08-14, DD 091.JPG” by Diego Delso, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The steep cone of Kirkjufell above grassland with a winding stream and a few dark sheep grazing, cloudy summer sky.

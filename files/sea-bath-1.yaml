@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The sea pool
+description: A swimming area walled off in the sea with a concrete pier, the water clear right to the bottom.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nafplio_Banieres_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Nafplio_Banieres_01.jpg/1920px-Nafplio_Banieres_01.jpg
+  retrieved: 2026-10-20
+author: Elgaard
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Nafplio Banieres 01.jpg” by Elgaard, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A protected swimming area in the sea at Nafplio, Greece, a rectangle of clear turquoise water enclosed by a rock breakwater and a concrete walkway.

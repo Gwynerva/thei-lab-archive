@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Leaves on the pavement
+description: Fallen leaves on the Ringstraße in Vienna, brown and yellow and crunchy.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Autumn_leaves_in_Vienna.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Autumn_leaves_in_Vienna.jpg/1920px-Autumn_leaves_in_Vienna.jpg
+  retrieved: 2026-10-20
+author: Florian Prischl
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Autumn leaves in Vienna.jpg” by Florian Prischl, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Dried fallen leaves in browns, yellows and greens covering the ground on the Ringstraße, Vienna, Austria, in autumn 2007.

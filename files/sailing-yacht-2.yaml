@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Sail at sunset
+description: A yacht at anchor as the sun went into the sea. Nobody said a word for ten minutes.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sailing_boat_at_sunset,_Ionian_Sea,_Albania.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Sailing_boat_at_sunset%2C_Ionian_Sea%2C_Albania.jpg/1920px-Sailing_boat_at_sunset%2C_Ionian_Sea%2C_Albania.jpg
+  retrieved: 2026-10-20
+author: Liridon
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Sailing boat at sunset, Ionian Sea, Albania.jpg” by Liridon, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A sailing yacht silhouetted on dark sea against an orange-red sky, the sun just above the horizon. Ionian Sea off Albania.

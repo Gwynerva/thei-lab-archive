@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: Clear water over stones
+description: Snowmelt river, so clear you can count the stones on the bottom.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mountain_Moment-_Ohanapecosh_River.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b5/Mountain_Moment-_Ohanapecosh_River.webm/Mountain_Moment-_Ohanapecosh_River.webm.480p.vp9.webm
+  retrieved: 2026-10-20
+author: Mount Rainier National Park
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Mountain Moment- Ohanapecosh River.webm” by Mount Rainier National Park, CC BY 3.0, via Wikimedia Commons
+transform: "from the 480p.vp9.webm transcode: first 30 s (before the closing logo), long side at most 1280, H.264 with AAC sound, MP4"
+people: none
+truth: The Ohanapecosh River running clear over mossy boulders through forest in Mount Rainier National Park, Washington.

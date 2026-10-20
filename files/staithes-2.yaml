@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Waves on the breakwater
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Staithes_MMB_36.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Staithes_MMB_36.jpg/1920px-Staithes_MMB_36.jpg
+  retrieved: 2026-10-20
+author: mattbuck (category)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Staithes MMB 36.jpg” by mattbuck (category), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Grey waves breaking over concrete breakwater blocks and dark rocks at the west end of Staithes.

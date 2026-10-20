@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Tetnuldi in white
+description: The white pyramid of Tetnuldi, so clean it looks drawn.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tetnuldi_02052016.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tetnuldi_02052016.jpg/1920px-Tetnuldi_02052016.jpg
+  retrieved: 2026-10-20
+author: VillaK
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Tetnuldi 02052016.jpg” by VillaK, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The snow-covered summit of Mount Tetnuldi in the Caucasus with cloud, a bare branch at the edge, blue sky; May.

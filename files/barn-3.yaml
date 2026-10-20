@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The barn bridge at Oppdal
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Oppdalsmuseet_Bygdemuseum_Halsethfj%C3%B8set_Hallset_Laft_t%C3%B8mmer_Log_cow_house_bridge_barn_ca_1800_L%C3%A5vebru_Slipestein_Grinding_stone_V%C3%A5r_Spring_Treverk_Old_timber_Skifer_Slate_etc_Oppdal_Norway_2019-04-25_5211.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Oppdalsmuseet_Bygdemuseum_Halsethfj%C3%B8set_Hallset_Laft_t%C3%B8mmer_Log_cow_house_bridge_barn_ca_1800_L%C3%A5vebru_Slipestein_Grinding_stone_V%C3%A5r_Spring_Treverk_Old_timber_Skifer_Slate_etc_Oppdal_Norway_2019-04-25_5211.jpg/1920px-thumbnail.jpg
+  retrieved: 2026-10-20
+author: Wolfmann
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Oppdalsmuseet Bygdemuseum Halsethfjøset Hallset Laft tømmer Log cow house bridge barn ca 1800 Låvebru Slipestein Grinding stone Vår Spring Treverk Old timber Skifer Slate etc Oppdal Norway 2019-04-25 5211.jpg” by Wolfmann, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A log barn of about 1800 at the Oppdal museum, Norway, with its stone-built ramp and wooden bridge up to the loft, early spring.

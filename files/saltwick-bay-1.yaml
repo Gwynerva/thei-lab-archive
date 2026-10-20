@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Saltwick Bay from the top
+description: The cliff I spent a year measuring, from the path above. It is further back every time I come.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Saltwick_Bay_-_geograph.org.uk_-_2345646.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Saltwick_Bay_-_geograph.org.uk_-_2345646.jpg/1920px-Saltwick_Bay_-_geograph.org.uk_-_2345646.jpg
+  retrieved: 2026-10-20
+author: JThomas
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Saltwick Bay - geograph.org.uk - 2345646.jpg” by JThomas, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Saltwick Bay from the cliff top, a steep eroding cliff of rock and clay above a pale sandy beach and rock ledges, caravans on the top, sunny.

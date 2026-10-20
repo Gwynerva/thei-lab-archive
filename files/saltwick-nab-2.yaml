@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Nab at low tide
+description: The same headland with the tide right out and the scar laid bare.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Saltwick_Nab_-_geograph.org.uk_-_2345668.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Saltwick_Nab_-_geograph.org.uk_-_2345668.jpg/1920px-Saltwick_Nab_-_geograph.org.uk_-_2345668.jpg
+  retrieved: 2026-10-20
+author: JThomas
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Saltwick Nab - geograph.org.uk - 2345668.jpg” by JThomas, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Saltwick Nab at low tide from the cliff above, the wave-cut rock platform and wet sand exposed below a layered cliff face, hazy sun.

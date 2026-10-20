@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Howdale Moor in flower
+description: Heather in full bloom on Howdale Moor, just above Ravenscar.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Howdale_Moor_-_heather_(2978729361).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Howdale_Moor_-_heather_%282978729361%29.jpg/1920px-Howdale_Moor_-_heather_%282978729361%29.jpg
+  retrieved: 2026-10-20
+author: Paul Stephenson from London
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Howdale Moor - heather (2978729361).jpg” by Paul Stephenson from London, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Heather in full bloom on Howdale Moor above Ravenscar, North York Moors, pale purple stretching to the horizon, overcast.

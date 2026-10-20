@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: South Stack from above
+description: Looking down on the islet, the white lighthouse and the path winding up to it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:South_Stack_and_South_Stack_Lighthouse_-_geograph.org.uk_-_5482247.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/South_Stack_and_South_Stack_Lighthouse_-_geograph.org.uk_-_5482247.jpg/1920px-South_Stack_and_South_Stack_Lighthouse_-_geograph.org.uk_-_5482247.jpg
+  retrieved: 2026-10-20
+author: Jeff Buck
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “South Stack and South Stack Lighthouse - geograph.org.uk - 5482247.jpg” by Jeff Buck, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: South Stack islet and its white lighthouse seen from above, a path winding over the green top to the buildings, steep cliffs and deep blue sea around.

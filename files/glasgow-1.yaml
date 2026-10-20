@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Glasgow Cathedral, upstairs
+description: The upper chapter house in Glasgow Cathedral, a quiet hour before Callum's café opened.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Glasgow_Cathedral_-_Upper_Chapter_House-4.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Glasgow_Cathedral_-_Upper_Chapter_House-4.jpg/1280px-Glasgow_Cathedral_-_Upper_Chapter_House-4.jpg
+  retrieved: 2026-10-20
+author: Colin
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Glasgow Cathedral - Upper Chapter House-4.jpg” by Colin, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Upper Chapter House in Glasgow Cathedral, two stained-glass windows, a stone fireplace, a wooden chair and table and a patterned tiled floor.

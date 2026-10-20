@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The kayak rack
+description: A sturdy wooden rack in a back garden with a plastic kayak on top. Everyone who paddles builds one of these sooner or later.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:2009-365-186_Alan%27s_Kayak_Rack_(3691762657).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/2009-365-186_Alan%27s_Kayak_Rack_%283691762657%29.jpg/1920px-2009-365-186_Alan%27s_Kayak_Rack_%283691762657%29.jpg
+  retrieved: 2026-10-20
+author: cogdogblog
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “2009-365-186 Alan's Kayak Rack (3691762657).jpg” by cogdogblog, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A home-built wooden rack of redwood timber holding a red and yellow plastic kayak, in a garden with a gravel bed and a small shed, sunny.

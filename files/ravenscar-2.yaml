@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: St Hilda's, Ravenscar
+description: The little church at Ravenscar, where we sat on the wall to eat our sandwiches.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:St_Hildas_Church_Ravenscar_1_(Nigel_Coates).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/St_Hildas_Church_Ravenscar_1_%28Nigel_Coates%29.jpg/1920px-St_Hildas_Church_Ravenscar_1_%28Nigel_Coates%29.jpg
+  retrieved: 2026-10-20
+author: Nigel Coates (talk)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “St Hildas Church Ravenscar 1 (Nigel Coates).jpg” by Nigel Coates (talk), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: St Hilda's Church in Ravenscar, a small stone church with a bellcote behind a low stone wall and a road, trees around, grey sky.

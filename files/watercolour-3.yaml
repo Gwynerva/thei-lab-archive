@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Open box and flat brush
+description: A big box of pans with a flat brush resting across it, the lid doing duty as a palette.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Aquarellkasten_Pinsel.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Aquarellkasten_Pinsel.jpg/1920px-Aquarellkasten_Pinsel.jpg
+  retrieved: 2026-10-20
+author: 100wass
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Aquarellkasten Pinsel.jpg” by 100wass, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An open watercolour box with two rows of colour pans, a flat brush with a green handle lying across, the mixing lid smeared with colour.

@@ -1,0 +1,15 @@
+kind: video
+ext: mov
+title: A river in the canyon
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Merced_River_4240.ogv
+  download: https://upload.wikimedia.org/wikipedia/commons/e/e6/Merced_River_4240.ogv
+  retrieved: 2026-10-20
+author: deror_avi
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Merced River 4240.ogv” by deror_avi, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, H.264 with AAC sound, MOV"
+people: none
+truth: The Merced River running over pale boulders in a steep forested canyon in California, low resolution.

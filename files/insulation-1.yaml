@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Wood fibre, loose
+description: Loose wood-fibre insulation. It looks like something you could eat and smells like a sawmill.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Trefiberisolasjon_-_1.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Trefiberisolasjon_-_1.JPG/1920px-Trefiberisolasjon_-_1.JPG
+  retrieved: 2026-10-20
+author: Øyvind Holmstad
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Trefiberisolasjon - 1.JPG” by Øyvind Holmstad, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of loose, fluffy brown wood fibre insulation filling the frame.

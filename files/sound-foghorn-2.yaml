@@ -1,0 +1,16 @@
+kind: audio
+ext: wav
+title: The old foghorn
+description: An old harbour foghorn, the one that brought the fishing boats home. Deep enough to feel in your chest.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:WWS_Foghorn.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/c/c3/WWS_Foghorn.ogg
+  retrieved: 2026-10-20
+author: Work With Sounds / Torsten Nilsson
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “WWS Foghorn.ogg” by Work With Sounds / Torsten Nilsson, CC BY 4.0, via Wikimedia Commons
+transform: "from the original: first 40 s with a 2 s fade-out, WAV 16-bit 44.1 kHz"
+people: none
+truth: A preserved harbour foghorn once used to guide fishing boats back to port, sounding several times; a recording of historic machinery.

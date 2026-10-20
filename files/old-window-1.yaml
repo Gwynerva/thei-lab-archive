@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Window in the red barn
+description: A white-framed window in old red boards. Ours look just like this, only more tired.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Window_on_a_barn_in_F%C3%A4rlev.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Window_on_a_barn_in_F%C3%A4rlev.jpg/1920px-Window_on_a_barn_in_F%C3%A4rlev.jpg
+  retrieved: 2026-10-20
+author: W.carter
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Window on a barn in Färlev.jpg” by W.carter, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A small white-framed window in the weathered red board wall of an old wooden barn in Färlev, Sweden.

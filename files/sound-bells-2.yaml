@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: Noon bells
+description: The church bells at twelve, rolling across the valley. Everything stops for a minute.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Church_bells_Fahrafeld_church.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/b/b5/Church_bells_Fahrafeld_church.ogg
+  retrieved: 2026-10-20
+author: Braveheart
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Church bells Fahrafeld church.ogg” by Braveheart, CC BY-SA 4.0, via Wikimedia Commons
+transform: from the original, MP3 VBR q2
+people: none
+truth: The bells of the small church at Fahrafeld, Lower Austria, ringing at noon.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The long hórreo at Lira
+description: A granary so long it looked like a railway carriage on stilts.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:H%C3%B3rreo_de_Lira._Carnota._Galiza.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/H%C3%B3rreo_de_Lira._Carnota._Galiza.jpg/1920px-H%C3%B3rreo_de_Lira._Carnota._Galiza.jpg
+  retrieved: 2026-10-20
+author: Luis Miguel Bugallo Sánchez (Lmbuga)
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Hórreo de Lira. Carnota. Galiza.jpg” by Luis Miguel Bugallo Sánchez (Lmbuga), CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: The long stone hórreo of Lira in Carnota, Galicia, raised on pillars with a cross and a pinnacle at the end, blue sky.

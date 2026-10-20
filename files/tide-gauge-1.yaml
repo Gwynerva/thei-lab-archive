@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The tide gauge at Kronstadt
+description: The little yellow pavilion at Kronstadt, where the gauge sits that every height in Russia is measured from.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kronstadt_tide-gauge.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Kronstadt_tide-gauge.jpg/1280px-Kronstadt_tide-gauge.jpg
+  retrieved: 2026-10-20
+author: User:Panther
+licence: CC-BY-SA-2.5
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.5
+attribution: “Kronstadt tide-gauge.jpg” by User:Panther, CC BY-SA 2.5, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The yellow and white pavilion of the Kronstadt tide gauge, Russia, a small building with a red roof and spire by a canal, autumn trees and blue sky.

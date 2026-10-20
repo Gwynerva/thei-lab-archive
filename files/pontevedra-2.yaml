@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Santa Mariña Dozo
+description: The roofless church at Cambados, nothing left but the arches and the sky. A detour worth the extra kilometres.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ruinas_de_Santa_Mari%C3%B1a_Dozo,_Cambados,_Pontevedra,_Espa%C3%B1a,_2015-09-23,_DD_34.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Ruinas_de_Santa_Mari%C3%B1a_Dozo%2C_Cambados%2C_Pontevedra%2C_Espa%C3%B1a%2C_2015-09-23%2C_DD_34.jpg/1920px-Ruinas_de_Santa_Mari%C3%B1a_Dozo%2C_Cambados%2C_Pontevedra%2C_Espa%C3%B1a%2C_2015-09-23%2C_DD_34.jpg
+  retrieved: 2026-10-20
+author: Diego Delso
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Ruinas de Santa Mariña Dozo, Cambados, Pontevedra, España, 2015-09-23, DD 34.jpg” by Diego Delso, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The roofless ruins of the Gothic church of Santa Mariña Dozo in Cambados, Pontevedra province, pointed arches open to a blue sky, graves within.

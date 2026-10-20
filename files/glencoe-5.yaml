@@ -1,0 +1,15 @@
+kind: image
+ext: avif
+title: The pass from above
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pass_of_Glen_Coe,_Scottish_Highlands.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Pass_of_Glen_Coe%2C_Scottish_Highlands.jpg/1920px-Pass_of_Glen_Coe%2C_Scottish_Highlands.jpg
+  retrieved: 2026-10-20
+author: Matthew Prior
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Pass of Glen Coe, Scottish Highlands.jpg” by Matthew Prior, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: Aerial view of the Pass of Glen Coe, dark green slopes on both sides, the A82 running through the valley, small pools in the bog, heavy cloud.

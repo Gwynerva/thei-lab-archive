@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The bench at sunrise
+description: A frosty bench by the water as the sun came up, far too cold to sit on.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Zon_komt_op_boven_een_winters_landschap._Locatie,_Langweerderwielen_(Langwarder_Wielen)_en_omgeving.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Zon_komt_op_boven_een_winters_landschap._Locatie%2C_Langweerderwielen_%28Langwarder_Wielen%29_en_omgeving.jpg/1920px-Zon_komt_op_boven_een_winters_landschap._Locatie%2C_Langweerderwielen_%28Langwarder_Wielen%29_en_omgeving.jpg
+  retrieved: 2026-10-20
+author: Dominicus Johannes Bergsma
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Zon komt op boven een winters landschap. Locatie, Langweerderwielen (Langwarder Wielen) en omgeving.jpg” by Dominicus Johannes Bergsma, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A wooden bench on frosted grass by a lake at sunrise, a peach and blue sky, a low island on the water, Langweerderwielen, the Netherlands, December.

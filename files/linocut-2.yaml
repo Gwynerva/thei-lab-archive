@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Lifting the first print
+description: Peeling the paper off the inked block, which is the best moment of the whole thing.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Printing_Using_a_Linocut_Design.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Printing_Using_a_Linocut_Design.jpg/1920px-Printing_Using_a_Linocut_Design.jpg
+  retrieved: 2026-10-20
+author: Zephyris
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Printing Using a Linocut Design.jpg” by Zephyris, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Two people's hands and arms lifting a black linocut print of a tree off an inked block on a glass slab, ink tins behind, no faces.

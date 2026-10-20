@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The swing bridge
+description: The swing bridge from the quay on a breezy morning. Dad still times his walks so he never gets caught by it opening.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_Swing_Bridge_-_geograph.org.uk_-_7258277.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Whitby_Swing_Bridge_-_geograph.org.uk_-_7258277.jpg/1920px-Whitby_Swing_Bridge_-_geograph.org.uk_-_7258277.jpg
+  retrieved: 2026-10-20
+author: Jeff Buck
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Whitby Swing Bridge - geograph.org.uk - 7258277.jpg” by Jeff Buck, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Whitby's red and white swing bridge over the River Esk, seen from a curving quayside with railings, houses on the far bank, blue sky with white cloud.

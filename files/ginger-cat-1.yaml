@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit on the kitchen floor
+description: Looking up at me from the floor with the face that means food. It always means food.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Picture_of_a_ginger_cat_from_Hanford.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Picture_of_a_ginger_cat_from_Hanford.jpg/1920px-Picture_of_a_ginger_cat_from_Hanford.jpg
+  retrieved: 2026-10-20
+author: Goodbyeme
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Picture of a ginger cat from Hanford.jpg” by Goodbyeme, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An orange tabby cat crouching on a wooden floor beside floor tiles, looking up at the camera with green eyes, indoors.

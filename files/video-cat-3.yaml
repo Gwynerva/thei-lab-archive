@@ -1,0 +1,15 @@
+kind: video
+ext: mov
+title: Kneading the blanket
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cat_kneading_and_sucking_blanket.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d0/Cat_kneading_and_sucking_blanket.webm/Cat_kneading_and_sucking_blanket.webm.480p.vp9.webm
+  retrieved: 2026-10-20
+author: Watchduck You can name the author as "T. Piesk", "Tilman Piesk" or "Watchduck".
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Cat kneading and sucking blanket.webm” by Watchduck You can name the author as "T. Piesk", "Tilman Piesk" or "Watchduck"., CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 480p.vp9.webm transcode: first 40 s, long side at most 1280, H.264 with AAC sound, MOV"
+people: none
+truth: A grey, white and cream female cat kneading and sucking on a red wool blanket, indoors, Germany.

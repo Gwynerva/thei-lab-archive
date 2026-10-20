@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Ben Nevis from Corpach in the evening
+description: Fort William and the Ben across Loch Linnhe, just before sunset. I saved it for last.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ben_Nevis_Abendstimmung.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Ben_Nevis_Abendstimmung.JPG/1920px-Ben_Nevis_Abendstimmung.JPG
+  retrieved: 2026-10-20
+author: Julian Nyča
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Ben Nevis Abendstimmung.JPG” by Julian Nyča, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Ben Nevis and Fort William seen across Loch Linnhe from Corpach shortly before sunset, hazy warm light, stony shore in front.

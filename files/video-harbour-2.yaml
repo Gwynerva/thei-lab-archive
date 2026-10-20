@@ -1,0 +1,16 @@
+kind: video
+ext: webm
+title: Boats on Lake Burullus
+description: Fishing boats with long sloping masts moored in the reeds, a small boat going by.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Row_the_boat.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/6/6d/Row_the_boat.webm
+  retrieved: 2026-10-20
+author: Myousry6666
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Row the boat.webm” by Myousry6666, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, VP9 with Opus sound, WEBM"
+people: incidental
+truth: Short video of moored sailing boats with long slanting masts at the reedy shore of Lake Burullus, Egypt, a small boat on calm water.

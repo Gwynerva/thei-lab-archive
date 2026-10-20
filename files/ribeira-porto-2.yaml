@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Ribeira from Gaia
+description: Porto stacked up along the river, seen from the Gaia side with something cold to drink.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:View_of_Ribeira_from_Cais_de_Gaia,_20250605_1628_9890.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/View_of_Ribeira_from_Cais_de_Gaia%2C_20250605_1628_9890.jpg/1920px-View_of_Ribeira_from_Cais_de_Gaia%2C_20250605_1628_9890.jpg
+  retrieved: 2026-10-20
+author: Jakub Hałun
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “View of Ribeira from Cais de Gaia, 20250605 1628 9890.jpg” by Jakub Hałun, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The historic riverside Ribeira district of Porto seen across the Douro from Cais de Gaia, houses climbing the hill, white clouds; June.

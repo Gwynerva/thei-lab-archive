@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Warehouses on the river
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tenement_Buildings_by_Water_of_Leith_-_geograph.org.uk_-_6505534.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Tenement_Buildings_by_Water_of_Leith_-_geograph.org.uk_-_6505534.jpg/1920px-Tenement_Buildings_by_Water_of_Leith_-_geograph.org.uk_-_6505534.jpg
+  retrieved: 2026-10-20
+author: James Howe
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Tenement Buildings by Water of Leith - geograph.org.uk - 6505534.jpg” by James Howe, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Old stone warehouse buildings beside the Water of Leith in Leith, trees at left and still water in front, grey sky.

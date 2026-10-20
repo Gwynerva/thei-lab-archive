@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Knøsesmauet
+description: A cobbled lane in the old town, narrow enough to touch both walls, painted houses all the way down.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lane_in_the_old_town_of_Bergen_with_wooden_houses,_Norway,_Knosesmauet_street_(2022).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Lane_in_the_old_town_of_Bergen_with_wooden_houses%2C_Norway%2C_Knosesmauet_street_%282022%29.jpg/1920px-Lane_in_the_old_town_of_Bergen_with_wooden_houses%2C_Norway%2C_Knosesmauet_street_%282022%29.jpg
+  retrieved: 2026-10-20
+author: Premeditated
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Lane in the old town of Bergen with wooden houses, Norway, Knosesmauet street (2022).jpg” by Premeditated, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: The narrow cobbled lane Knøsesmauet in old Bergen, lined with white, ochre and red wooden houses, overcast.

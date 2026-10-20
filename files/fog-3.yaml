@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Fog on a polar sea
+description: Fog lifting off a dead calm polar sea, the sun and its reflection with a scrap of ice in between.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Black_sea,_black_fog,_sun%26ice,_polar_sea.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Black_sea%2C_black_fog%2C_sun%26ice%2C_polar_sea.jpg/1280px-Black_sea%2C_black_fog%2C_sun%26ice%2C_polar_sea.jpg
+  retrieved: 2026-10-20
+author: AWeith
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Black sea, black fog, sun&ice, polar sea.jpg” by AWeith, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Fog lifting over a completely calm Arctic sea in Hinlopen Strait, Svalbard, the sun and its reflection, a small floe of ice between them.

@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Rooftops from the steps
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Whitby_MMB_30.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Whitby_MMB_30.jpg/1920px-Whitby_MMB_30.jpg
+  retrieved: 2026-10-20
+author: mattbuck (category)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Whitby MMB 30.jpg” by mattbuck (category), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: View from the 199 steps over the roofs, chimneys and old houses of Whitby's east side under a pink evening sky, iron railings, a few people on the steps.

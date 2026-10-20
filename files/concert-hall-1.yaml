@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Albert Hall at the interval
+description: The Royal Albert Hall from a stalls door during the interval of Messiah from Scratch, a few thousand singers stretching their legs.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Royal_Albert_Hall_-_Messiah_from_Scratch_2015.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Royal_Albert_Hall_-_Messiah_from_Scratch_2015.JPG/1920px-Royal_Albert_Hall_-_Messiah_from_Scratch_2015.JPG
+  retrieved: 2026-10-20
+author: Martinvl
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Royal Albert Hall - Messiah from Scratch 2015.JPG” by Martinvl, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Interior of the Royal Albert Hall, London, seen from a stalls door during a concert interval, the round hall full of people, the organ and stage lit at the far side.

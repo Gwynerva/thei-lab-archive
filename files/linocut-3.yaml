@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: Design, tracing and block
+description: Drawing, tracing and the cut block laid out together. A knot this time, not a robin.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Celtic_Knot_2024_Print_Materials_by_Attendee_of_Aoife_Cawley_Linocut_Workshop.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/b/b1/Celtic_Knot_2024_Print_Materials_by_Attendee_of_Aoife_Cawley_Linocut_Workshop.jpg
+  retrieved: 2026-10-20
+author: RealityBites
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Celtic Knot 2024 Print Materials by Attendee of Aoife Cawley Linocut Workshop.jpg” by RealityBites, CC0, via Wikimedia Commons
+transform: "from the original: long side 1920, AVIF q50, metadata removed"
+people: none
+truth: A linocut workshop table with a Celtic knot design on paper, a tracing and the cut lino block, paint-spattered paper underneath.

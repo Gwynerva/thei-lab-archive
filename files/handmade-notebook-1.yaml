@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Notebook with a tree
+description: A brown notebook with a tree on the cover and a pencil made from a twig.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Handmade_notebook_and_wooden_pencil.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Handmade_notebook_and_wooden_pencil.jpg/1920px-Handmade_notebook_and_wooden_pencil.jpg
+  retrieved: 2026-10-20
+author: Panpanchik
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Handmade notebook and wooden pencil.jpg” by Panpanchik, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A spiral-bound notebook with a kraft-paper cover printed with a tree, a pencil made from a twig tied to it with string, on a white shelf.

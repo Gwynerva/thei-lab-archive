@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Orange trail shoes
+description: A bright orange trail shoe on a stand. I went in for socks.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:OutDoor_2018,_Friedrichshafen_(1X7A0305).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/OutDoor_2018%2C_Friedrichshafen_%281X7A0305%29.jpg/1920px-OutDoor_2018%2C_Friedrichshafen_%281X7A0305%29.jpg
+  retrieved: 2026-10-20
+author: Matti Blume
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “OutDoor 2018, Friedrichshafen (1X7A0305).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: A bright orange On Cloudventure trail running shoe on a black metal display stand outdoors, gravel and grass behind, at a trade fair in Friedrichshafen.

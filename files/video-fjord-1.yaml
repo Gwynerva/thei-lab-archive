@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: Snow, river and fjord from above
+description: A white valley with the river still open, winding down towards the fjord. Up north the snow stays until May.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Aerial_imagery_of_fjords_and_rivers_in_Arctic_Norway.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/Aerial_imagery_of_fjords_and_rivers_in_Arctic_Norway.webm/Aerial_imagery_of_fjords_and_rivers_in_Arctic_Norway.webm.480p.vp9.webm
+  retrieved: 2026-10-20
+author: anotherview
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Aerial imagery of fjords and rivers in Arctic Norway.webm” by anotherview, CC BY 3.0, via Wikimedia Commons
+transform: "from the 480p.vp9.webm transcode: first 40 s, long side at most 1280, H.264, no sound, MP4"
+people: none
+truth: Aerial view of a snowy valley in Arctic Norway, a partly frozen river winding between snow-covered scrub and low hills, overcast winter light.

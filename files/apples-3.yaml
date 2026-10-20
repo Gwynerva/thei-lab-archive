@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: An old apple tree
+description: One of the old trees in the long grass, round as a cloud.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Apple_orchard_near_Sebastopol,_California.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/5/52/Apple_orchard_near_Sebastopol%2C_California.jpg
+  retrieved: 2026-10-20
+author: Frank Schulenburg
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Apple orchard near Sebastopol, California.jpg” by Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A broad old apple tree in full leaf standing in long grass in an orchard near Sebastopol, California, spring.

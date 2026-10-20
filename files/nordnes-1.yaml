@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Nordnes from the air
+description: The whole Nordnes peninsula from the plane, pointing out into the fjord like a finger. Better than any map I've drawn of it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen_Nordnes_IMG_3747.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Bergen_Nordnes_IMG_3747.JPG/1920px-Bergen_Nordnes_IMG_3747.JPG
+  retrieved: 2026-10-20
+author: Bjoertvedt
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Bergen Nordnes IMG 3747.JPG” by Bjoertvedt, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Aerial view of the Nordnes peninsula in central Bergen jutting into the fjord, harbour and city behind, autumn colours on the trees.

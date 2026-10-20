@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Shore, Leith
+description: The old towers on the Shore, five minutes from the flat.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:The_Water_of_Leith_-_geograph.org.uk_-_5054797.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/The_Water_of_Leith_-_geograph.org.uk_-_5054797.jpg/1920px-The_Water_of_Leith_-_geograph.org.uk_-_5054797.jpg
+  retrieved: 2026-10-20
+author: M J Richardson
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “The Water of Leith - geograph.org.uk - 5054797.jpg” by M J Richardson, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The Shore in Leith, old stone buildings with a clock tower and a battlemented tower beside the Water of Leith, a small white tower, a modern block at left, cloudy.

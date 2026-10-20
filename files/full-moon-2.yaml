@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Moon rising over the ridge
+description: The full moon coming up behind a long ridge at sunset, fog in the valley below.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:042_Full_Moon_rising_behind_Chasseral_during_sunset_Photo_by_Giles_Laurent.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/042_Full_Moon_rising_behind_Chasseral_during_sunset_Photo_by_Giles_Laurent.jpg/1920px-042_Full_Moon_rising_behind_Chasseral_during_sunset_Photo_by_Giles_Laurent.jpg
+  retrieved: 2026-10-20
+author: Giles Laurent
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “042 Full Moon rising behind Chasseral during sunset Photo by Giles Laurent.jpg” by Giles Laurent, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A full moon rising orange behind the Chasseral ridge, Switzerland, at sunset, a pink sky, darker ridges and fog in the valleys below.

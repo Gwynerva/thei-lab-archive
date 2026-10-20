@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: Houston income map in QGIS
+description: A map of median income in Houston laid out in QGIS, green by tract on a grey basemap.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:QGIS_Interface_Screenshot_with_Map_of_Median_Income_in_Houston_(2010).png
+  download: https://upload.wikimedia.org/wikipedia/commons/5/5a/QGIS_Interface_Screenshot_with_Map_of_Median_Income_in_Houston_%282010%29.png
+  retrieved: 2026-10-20
+author: QGIS Development Team
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “QGIS Interface Screenshot with Map of Median Income in Houston (2010).png” by QGIS Development Team, CC0, via Wikimedia Commons
+transform: "from the original: long side 1920, PNG, metadata removed"
+people: none
+truth: A screenshot of the QGIS interface with a print layout of median household income in Houston, 2010, shaded green on an OpenStreetMap basemap.

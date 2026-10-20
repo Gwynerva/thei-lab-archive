@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Cables
+description: Cables in raspberry wool. I learned these on the sleeves, twice.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lavoro_a_nodi_su_maglione,_fatto_ai_ferri.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Lavoro_a_nodi_su_maglione%2C_fatto_ai_ferri.jpg/1920px-Lavoro_a_nodi_su_maglione%2C_fatto_ai_ferri.jpg
+  retrieved: 2026-10-20
+author: PROPOLI87
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Lavoro a nodi su maglione, fatto ai ferri.jpg” by PROPOLI87, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Close-up of a hand-knitted sweater in raspberry-red wool with vertical cable patterns.

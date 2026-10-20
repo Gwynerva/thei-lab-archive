@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Mestia towers at evening
+description: The towers of Mestia going blue in the evening while the big peaks still caught the last of the light.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mestia,_evening.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Mestia%2C_evening.jpg/1920px-Mestia%2C_evening.jpg
+  retrieved: 2026-10-20
+author: Dmytro Balkhovitin
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Mestia, evening.jpg” by Dmytro Balkhovitin, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Svan defensive towers among trees in Mestia, Svaneti, at dusk, a high mountain ridge and pink-lit clouds behind.

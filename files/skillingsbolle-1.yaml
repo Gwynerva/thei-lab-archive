@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A knot with pearl sugar
+description: A cinnamon knot in Stockholm, pearl sugar on top. The Bergen ones are bigger, and say so.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cinnamon_roll_in_Stockholm.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Cinnamon_roll_in_Stockholm.jpg/1920px-Cinnamon_roll_in_Stockholm.jpg
+  retrieved: 2026-10-20
+author: Kritzolina
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Cinnamon roll in Stockholm.jpg” by Kritzolina, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A twisted cinnamon bun topped with pearl sugar on a white plate, Stockholm.

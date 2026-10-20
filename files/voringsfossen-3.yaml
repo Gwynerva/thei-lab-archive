@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: Vøringsfossen across the gorge
+description: From the old viewpoint, the river pouring off the plateau into the gorge.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Voringsfossen-viewingbridge-2020.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Voringsfossen-viewingbridge-2020.jpg/1280px-Voringsfossen-viewingbridge-2020.jpg
+  retrieved: 2026-10-20
+author: Other guy
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Voringsfossen-viewingbridge-2020.jpg” by Other guy, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, PNG, metadata removed"
+people: none
+truth: Vøringsfossen seen across the gorge, the river falling from the green edge of the Hardangervidda into a narrow canyon; summer.

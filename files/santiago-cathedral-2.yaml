@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The cathedral from the Alameda
+description: The towers over the roofs from the Alameda park, in the warm evening light.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Santiago_Compostela_Cathedral_2023_-_View_from_Alameda_Park.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Santiago_Compostela_Cathedral_2023_-_View_from_Alameda_Park.jpg/1920px-Santiago_Compostela_Cathedral_2023_-_View_from_Alameda_Park.jpg
+  retrieved: 2026-10-20
+author: Fernando Pascullo
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Santiago Compostela Cathedral 2023 - View from Alameda Park.jpg” by Fernando Pascullo, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The towers of Santiago de Compostela cathedral and the roofs of the old town seen from Alameda Park in warm evening light.

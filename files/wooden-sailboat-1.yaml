@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: An old gaff cutter
+description: A wooden gaff cutter from 1886, still sailing, one person aboard and the sails just full. Jonas went quiet and then said "one day".
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Edda_gaff_cutter_1886_08.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Edda_gaff_cutter_1886_08.jpg/1920px-Edda_gaff_cutter_1886_08.jpg
+  retrieved: 2026-10-20
+author: Sinikka Halme
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Edda gaff cutter 1886 08.jpg” by Sinikka Halme, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: The wooden gaff cutter Edda, built 1886, sailing on Riddarfjärden in Stockholm with white sails, one person at the helm, wooded shore and a bridge behind.

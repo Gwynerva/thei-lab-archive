@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Across Vidden
+description: The open plateau of Vidden, Storfjellet on the left and Ulriken's mast on the right. Four hours of this and my knee had opinions.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Vidden.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Vidden.JPG/1920px-Vidden.JPG
+  retrieved: 2026-10-20
+author: No machine-readable author provided. Shark assumed (based on copyright claims).
+licence: CC-BY-SA-3.0
+licenceUrl: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: “Vidden.JPG” by No machine-readable author provided. Shark assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Wide view across the open mountain plateau of Vidden in Bergen, Storfjellet to the left and Ulriken with its mast to the right, clear sky.

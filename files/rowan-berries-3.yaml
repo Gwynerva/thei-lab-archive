@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Rowan against the sky
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Sorbus_aucuparia_Tauerntal_20220824.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Sorbus_aucuparia_Tauerntal_20220824.jpg/1920px-Sorbus_aucuparia_Tauerntal_20220824.jpg
+  retrieved: 2026-10-20
+author: Uoaei1
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Sorbus aucuparia Tauerntal 20220824.jpg” by Uoaei1, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The top of a rowan tree with clusters of red berries against a blue sky with white clouds, Tauern valley, Austria, August.

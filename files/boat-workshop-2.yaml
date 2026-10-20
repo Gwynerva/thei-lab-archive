@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A hull on the frame
+description: A new wooden boat taking shape upside down in a small workshop, the planks still pale.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Heemstede_Boatsman_workshop_-_new_boat_for_Het_Spaarne,_Fall_2018_08.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Heemstede_Boatsman_workshop_-_new_boat_for_Het_Spaarne%2C_Fall_2018_08.jpg/1920px-Heemstede_Boatsman_workshop_-_new_boat_for_Het_Spaarne%2C_Fall_2018_08.jpg
+  retrieved: 2026-10-20
+author: Jane023
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Heemstede Boatsman workshop - new boat for Het Spaarne, Fall 2018 08.jpg” by Jane023, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: A new wooden boat hull under construction in a boatbuilder's workshop in Heemstede, Netherlands, pale planks curving over the frame, autumn.

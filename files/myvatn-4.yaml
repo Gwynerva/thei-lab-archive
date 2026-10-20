@@ -1,0 +1,15 @@
+kind: image
+ext: avif
+title: Angelica by the lake road
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kvan_p%C3%A5_island.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Kvan_p%C3%A5_island.jpg/1920px-Kvan_p%C3%A5_island.jpg
+  retrieved: 2026-10-20
+author: Villy Fink Isaksen
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Kvan på island.jpg” by Villy Fink Isaksen, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: Angelica and low green bushes at the roadside by Mývatn, grassy pseudo-crater hills and the lake behind under a grey sky, summer.

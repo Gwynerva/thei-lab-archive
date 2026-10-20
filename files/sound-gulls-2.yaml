@@ -1,0 +1,15 @@
+kind: audio
+ext: ogg
+title: A herring gull going over
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:XC707075_-_European_Herring_Gull_-_Larus_argentatus.mp3
+  download: https://upload.wikimedia.org/wikipedia/commons/5/5c/XC707075_-_European_Herring_Gull_-_Larus_argentatus.mp3
+  retrieved: 2026-10-20
+author: Sonothèque ADVL
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “XC707075 - European Herring Gull - Larus argentatus.mp3” by Sonothèque ADVL, CC0, via Wikimedia Commons
+transform: from the original, Ogg Vorbis q5
+people: none
+truth: The flight call of a European herring gull over the coast at Carolles, Normandy, France, near the bay of Mont-Saint-Michel.

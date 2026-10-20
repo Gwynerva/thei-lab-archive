@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The funicular through the trees
+description: The line cutting straight up through the forest to the top station.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Floibanen_Tele.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Floibanen_Tele.jpg/1920px-Floibanen_Tele.jpg
+  retrieved: 2026-10-20
+author: Gerd Fahrenhorst
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Floibanen Tele.jpg” by Gerd Fahrenhorst, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Upper half of the Fløibanen funicular route in Bergen through dense green forest, the top station, restaurant and viewing platform above.

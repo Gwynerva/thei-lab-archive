@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Spiral bun
+description: A big spiral bun with raisins, sticky on top. Close enough to a skillingsbolle that I didn't complain.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rollo_de_canela_(Cinnamon_roll).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Rollo_de_canela_%28Cinnamon_roll%29.jpg/1920px-Rollo_de_canela_%28Cinnamon_roll%29.jpg
+  retrieved: 2026-10-20
+author: Horacio Cambeiro
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Rollo de canela (Cinnamon roll).jpg” by Horacio Cambeiro, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close-up of a glazed spiral pastry with raisins and custard on a white plate, from a bakery in Misiones, Argentina.

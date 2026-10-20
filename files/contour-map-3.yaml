@@ -1,0 +1,15 @@
+kind: image
+ext: png
+title: The Jack Hills
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Jack_hills_physical_map_DE.png
+  download: https://upload.wikimedia.org/wikipedia/commons/d/dd/Jack_hills_physical_map_DE.png
+  retrieved: 2026-10-20
+author: Gretarsson
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Jack hills physical map DE.png” by Gretarsson, CC BY 4.0, via Wikimedia Commons
+transform: "from the original: long side 1772 as published, PNG, metadata removed"
+people: none
+truth: A physical map of the Jack Hills, Western Australia, a long ridge in shaded height colours from green to brown, with roads, a scale and a German legend.

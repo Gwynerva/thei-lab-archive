@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A bow maker's bench
+description: A bow maker's workshop in Cremona, sticks leaning on the bench among the knives and chisels.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bow_maker_workshop.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bow_maker_workshop.jpg/1920px-Bow_maker_workshop.jpg
+  retrieved: 2026-10-20
+author: Brian Johnson from Pleasanton, California, USA
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Bow maker workshop.jpg” by Brian Johnson from Pleasanton, California, USA, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A bow maker's workbench in Cremona, Italy, with unfinished bow sticks on a green cloth, a bowl, a spool and rows of knives and tools on the wall.

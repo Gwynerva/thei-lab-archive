@@ -1,0 +1,16 @@
+kind: video
+ext: mov
+title: The loom in motion
+description: Bright threads and a weaver's hands working a narrow strip loom. I want to understand every part of it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kente_weaving.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/d/d6/Kente_weaving.webm
+  retrieved: 2026-10-20
+author: MohammedT10
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Kente weaving.webm” by MohammedT10, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side at most 1280, H.264 with AAC sound, MOV"
+people: incidental
+truth: Hands working a traditional narrow-strip kente loom in Bonwire, Ghana, bright warp threads in green, red, yellow and blue.

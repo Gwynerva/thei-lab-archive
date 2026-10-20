@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Shore on a still evening
+description: The Water of Leith at the Shore on a January evening, so still the buildings were standing on their heads.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Leith_Water,_Edinburgh_-_geograph.org.uk_-_6019445.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Leith_Water%2C_Edinburgh_-_geograph.org.uk_-_6019445.jpg/1920px-Leith_Water%2C_Edinburgh_-_geograph.org.uk_-_6019445.jpg
+  retrieved: 2026-10-20
+author: Andrew Tryon
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Leith Water, Edinburgh - geograph.org.uk - 6019445.jpg” by Andrew Tryon, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Water of Leith at the Shore in Leith on a still winter evening, old buildings and moored boats reflected in the water, bare trees, low sun.

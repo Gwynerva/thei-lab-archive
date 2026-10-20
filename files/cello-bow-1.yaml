@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Three bow frogs
+description: Violin, viola and cello bows side by side, the cello's the stoutest at the bottom.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Three_bow_frogs.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Three_bow_frogs.jpg/1920px-Three_bow_frogs.jpg
+  retrieved: 2026-10-20
+author: No machine-readable author provided. Just plain Bill assumed (based on copyright claims).
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Three bow frogs.jpg” by No machine-readable author provided. Just plain Bill assumed (based on copyright claims)., public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Scan of the frog ends of three bows, violin, viola and cello from top to bottom, ebony frogs with pearl eyes and silver windings, on white.

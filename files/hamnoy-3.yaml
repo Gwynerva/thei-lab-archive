@@ -1,0 +1,15 @@
+kind: image
+ext: webp
+title: The red cabin under Olstinden
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Hamn%C3%B8ya,_Olstinden_and_Reinefjorden.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Hamn%C3%B8ya%2C_Olstinden_and_Reinefjorden.jpg/1920px-Hamn%C3%B8ya%2C_Olstinden_and_Reinefjorden.jpg
+  retrieved: 2026-10-20
+author: Tom Bech from Oslo, Norway
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Hamnøya, Olstinden and Reinefjorden.jpg” by Tom Bech from Oslo, Norway, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: A red cabin on rocks at Hamnøy beside Reinefjorden in Lofoten, the sharp peak of Olstinden across the water under a clear blue sky.

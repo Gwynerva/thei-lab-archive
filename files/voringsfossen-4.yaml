@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Snow at Vøringsfossen
+description: Back in October, and the first snow had beaten us to it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Snowy_V%C3%B8ringsfossen.jpg
+  download: https://upload.wikimedia.org/wikipedia/commons/a/ae/Snowy_V%C3%B8ringsfossen.jpg
+  retrieved: 2026-10-20
+author: Фалкон
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Snowy Vøringsfossen.jpg” by Фалкон, CC BY 4.0, via Wikimedia Commons
+transform: "from the original: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: The Vøringsfossen gorge in October with fresh snow on the rocks and slopes, the waterfall in the distance, grey sky.

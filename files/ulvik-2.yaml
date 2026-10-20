@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Above Ulvik
+description: The houses on the slope above the village, the fjord curling round the point.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ulvik_med_tilliggande_herligheiter_II.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Ulvik_med_tilliggande_herligheiter_II.jpg/1920px-Ulvik_med_tilliggande_herligheiter_II.jpg
+  retrieved: 2026-10-20
+author: Paul Skeie from Vossavangen, Norway
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Ulvik med tilliggande herligheiter II.jpg” by Paul Skeie from Vossavangen, Norway, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: View from a hillside over houses in Ulvik down to the blue Ulvikafjorden and wooded slopes, snow on the mountains; early summer.

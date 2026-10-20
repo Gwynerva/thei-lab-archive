@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: The bridge to Sakrisøy
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:0688_Norway_Lofoten_bridge_between_Sakrisoya_and_Andoya.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/0688_Norway_Lofoten_bridge_between_Sakrisoya_and_Andoya.jpg/1920px-0688_Norway_Lofoten_bridge_between_Sakrisoya_and_Andoya.jpg
+  retrieved: 2026-10-20
+author: Virtual-Pano
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “0688 Norway Lofoten bridge between Sakrisoya and Andoya.jpg” by Virtual-Pano, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A concrete road bridge between Sakrisøy and Andøya near Reine in Lofoten, jagged peaks behind and blue water below, sunny.

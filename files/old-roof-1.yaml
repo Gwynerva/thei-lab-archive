@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Old tiles, moss and lichen
+description: Clay pantiles gone every shade of red and grey. The roofer said ours are younger. He didn't say better.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Haa_gamle_prestegard_tak_id_121293.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Haa_gamle_prestegard_tak_id_121293.jpg/1920px-Haa_gamle_prestegard_tak_id_121293.jpg
+  retrieved: 2026-10-20
+author: GAD
+licence: CC-BY-SA-3.0-NO
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0/no/deed.en
+attribution: “Haa gamle prestegard tak id 121293.jpg” by GAD, CC BY-SA 3.0 no, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Close view of the old pantile roof of Hå old parsonage at Jæren, Norway, red and grey clay tiles patched with lichen.

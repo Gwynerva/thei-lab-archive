@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: A blue boat on a grey day
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ships_Bergen_Harbour_1.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ships_Bergen_Harbour_1.jpg/1920px-Ships_Bergen_Harbour_1.jpg
+  retrieved: 2026-10-20
+author: Sveter
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Ships Bergen Harbour 1.jpg” by Sveter, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small blue and white motorboat moored at a cobbled quay in Bergen harbour, a flagpole and waterfront buildings beyond, grey January light.

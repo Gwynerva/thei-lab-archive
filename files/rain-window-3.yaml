@@ -1,0 +1,16 @@
+kind: image
+ext: avif
+title: Rain on the car window
+description: Rain on the car window with the evening sun breaking through behind it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Raindrops_on_car_window_in_evening_sun.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Raindrops_on_car_window_in_evening_sun.jpg/1920px-Raindrops_on_car_window_in_evening_sun.jpg
+  retrieved: 2026-10-20
+author: Kevin Kandlbinder
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Raindrops on car window in evening sun.jpg” by Kevin Kandlbinder, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, AVIF q50, metadata removed"
+people: none
+truth: Raindrops on a car window with low evening sun glowing through the glass, a blurred green landscape behind.

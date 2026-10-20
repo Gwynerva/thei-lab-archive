@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Peaks above Mestia
+description: The first proper view of the Caucasus, ragged and grey above the yellow grass.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mestia_mountain_peaks_(Unsplash).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Mestia_mountain_peaks_%28Unsplash%29.jpg/1920px-Mestia_mountain_peaks_%28Unsplash%29.jpg
+  retrieved: 2026-10-20
+author: Igor Peftiev igorpeftiev
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Mestia mountain peaks (Unsplash).jpg” by Igor Peftiev igorpeftiev, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Jagged grey Caucasus peaks in cloud above golden-green grassy slopes near Mestia, Svaneti, Georgia.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The wallet, closed
+description: The same wallet shut, the leather gone soft and dark from years in a pocket.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Wallet_(AM_2015.34.21-1).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Wallet_%28AM_2015.34.21-1%29.jpg/1920px-Wallet_%28AM_2015.34.21-1%29.jpg
+  retrieved: 2026-10-20
+author: not researched
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Wallet (AM 2015.34.21-1).jpg” by not researched, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An old brown embossed leather wallet, closed, with a button clasp and laced edges, photographed on white. A museum object from Auckland.

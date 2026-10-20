@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Mountains from the Kohechi
+description: From a pass on the trail, ridge after ridge going blue.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kumano_Kodo_Mountains.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Kumano_Kodo_Mountains.jpg/1920px-Kumano_Kodo_Mountains.jpg
+  retrieved: 2026-10-20
+author: VKaeru
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Kumano Kodo Mountains.jpg” by VKaeru, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: none
+truth: Panorama from the Kohechi route of the Kumano Kodo, forested mountain ridges fading into the distance, tall trees framing both sides, cloudy sky.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The path to Chalaadi
+description: The path in through the pines, cool after the sun on the road.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:On_the_trail_to_Chalaadi_Glacier,_Samegrelo-Zemo_Svaneti,_Georgia.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/On_the_trail_to_Chalaadi_Glacier%2C_Samegrelo-Zemo_Svaneti%2C_Georgia.jpg/1920px-On_the_trail_to_Chalaadi_Glacier%2C_Samegrelo-Zemo_Svaneti%2C_Georgia.jpg
+  retrieved: 2026-10-20
+author: Boris Kuznetsov
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “On the trail to Chalaadi Glacier, Samegrelo-Zemo Svaneti, Georgia.jpg” by Boris Kuznetsov, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A forest trail through tall conifers with sunlight and boulders, on the way to Chalaadi glacier, Svaneti, Georgia.

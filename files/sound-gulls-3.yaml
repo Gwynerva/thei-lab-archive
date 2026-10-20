@@ -1,0 +1,16 @@
+kind: audio
+ext: wav
+title: Gulls in the night
+description: Gulls calling over the roofs in the dark, a young one begging. They never stop, not even at two in the morning.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Larus_argentatus_-_European_Herring_Gull_XC436943.mp3
+  download: https://upload.wikimedia.org/wikipedia/commons/a/a3/Larus_argentatus_-_European_Herring_Gull_XC436943.mp3
+  retrieved: 2026-10-20
+author: Joost van Bruggen
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Larus argentatus - European Herring Gull XC436943.mp3” by Joost van Bruggen, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: first 40 s with a 2 s fade-out, WAV 16-bit 44.1 kHz"
+people: none
+truth: Herring gulls at night over Arnhem, Netherlands, flight calls and the begging call of a juvenile.

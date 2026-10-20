@@ -1,0 +1,16 @@
+kind: audio
+ext: m4a
+title: Shakuhachi
+description: A shakuhachi tune I bought after the Japan trip, breathy and slow, like wind in bamboo.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Do_you_Shakuhachi_(Antti_Luode).mp3
+  download: https://upload.wikimedia.org/wikipedia/commons/8/8e/Do_you_Shakuhachi_%28Antti_Luode%29.mp3
+  retrieved: 2026-10-20
+author: Antti Luode
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Do you Shakuhachi (Antti Luode).mp3” by Antti Luode, CC BY 3.0, via Wikimedia Commons
+transform: "from the original: first 180 s with a 2 s fade-out, AAC 160 kbit/s in M4A"
+people: none
+truth: An instrumental piece titled Do you Shakuhachi, by an independent musician, built around the sound of the shakuhachi bamboo flute.

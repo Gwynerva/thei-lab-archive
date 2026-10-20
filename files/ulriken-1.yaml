@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The city from Ulriken
+description: Bergen from the highest of the seven, the lake in the middle of town and Askøy out at the back.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen_city_centre_and_surroundings_Panorama_edited.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bergen_city_centre_and_surroundings_Panorama_edited.jpg/1920px-Bergen_city_centre_and_surroundings_Panorama_edited.jpg
+  retrieved: 2026-10-20
+author: Aqwis
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Bergen city centre and surroundings Panorama edited.jpg” by Aqwis, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Panorama of central Bergen from Ulriken, the city, Store Lungegårdsvannet and Puddefjorden below, the island of Askøy in the distance.

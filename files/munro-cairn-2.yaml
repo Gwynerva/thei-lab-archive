@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Cairn on Beinn nan Aighenan
+description: The summit cairn of Beinn nan Aighenan, the mountain of the hinds. Not a hind in sight.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Summit_cairn_of_Beinn_nan_Aighenan_(%27mountain_of_the_hinds%27)_-_geograph.org.uk_-_3192101.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Summit_cairn_of_Beinn_nan_Aighenan_%28%27mountain_of_the_hinds%27%29_-_geograph.org.uk_-_3192101.jpg/1920px-Summit_cairn_of_Beinn_nan_Aighenan_%28%27mountain_of_the_hinds%27%29_-_geograph.org.uk_-_3192101.jpg
+  retrieved: 2026-10-20
+author: Alan O'Dowd
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Summit cairn of Beinn nan Aighenan ('mountain of the hinds') - geograph.org.uk - 3192101.jpg” by Alan O'Dowd, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small stone summit cairn on rocky ground on Beinn nan Aighenan, hills and ridges beyond under a blue sky with a band of white cloud.

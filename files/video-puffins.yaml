@@ -1,0 +1,16 @@
+kind: video
+ext: mp4
+title: A puffin on the cliff edge
+description: A puffin sitting on the very edge of the cliff, the sea far below in the mist. It let me get quite close.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Atlantic_puffins_(Fratercula_arctica)_in_Iceland.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/5/51/Atlantic_puffins_%28Fratercula_arctica%29_in_Iceland.webm
+  retrieved: 2026-10-20
+author: buffy goodman
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Atlantic puffins (Fratercula arctica) in Iceland.webm” by buffy goodman, CC BY 3.0, via Wikimedia Commons
+transform: "from the original: first 40 s, long side at most 1280, H.264 with AAC sound, MP4"
+people: none
+truth: An Atlantic puffin standing on a grassy cliff edge at Látrabjarg, Iceland, misty grey sea far below, soft overcast light.

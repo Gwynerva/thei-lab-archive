@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The hall before anyone came
+description: A huge empty concert hall in Tianjin, all curved terraces of seats. I would get lost looking for my row.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Tianjin_Grand_Theater_Concert_Hall.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Tianjin_Grand_Theater_Concert_Hall.jpg/1920px-Tianjin_Grand_Theater_Concert_Hall.jpg
+  retrieved: 2026-10-20
+author: 北京驱动文化传媒有限公司
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Tianjin Grand Theater Concert Hall.jpg” by 北京驱动文化传媒有限公司, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The empty concert hall of the Tianjin Grand Theatre, China, curved terraces of seats around the stage under a rippled ceiling with lights.

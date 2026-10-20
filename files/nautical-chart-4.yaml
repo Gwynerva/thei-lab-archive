@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The oldest chart
+description: A fourteenth-century chart of the Mediterranean, rhumb lines crossing like a web over faded coasts.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Mediterranean_chart_fourteenth_century2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Mediterranean_chart_fourteenth_century2.jpg/1920px-Mediterranean_chart_fourteenth_century2.jpg
+  retrieved: 2026-10-20
+author: anonymous, probably Genoan
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Mediterranean chart fourteenth century2.jpg” by anonymous, probably Genoan, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: An anonymous 14th-century portolan chart of the Mediterranean and part of the Black Sea, faint coastlines under a web of rhumb lines on worn vellum.

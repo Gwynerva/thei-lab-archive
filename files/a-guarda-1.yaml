@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A Guarda from Santa Trega
+description: The view from the top of Santa Trega over A Guarda, its harbour and the Atlantic. First day in Spain.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:A_Guarda,_Galicia,_View_from_Monte_Trega.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/A_Guarda%2C_Galicia%2C_View_from_Monte_Trega.jpg/1920px-A_Guarda%2C_Galicia%2C_View_from_Monte_Trega.jpg
+  retrieved: 2026-10-20
+author: Bikerhiker75
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “A Guarda, Galicia, View from Monte Trega.jpg” by Bikerhiker75, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: View from Monte Santa Trega over the town and harbour of A Guarda, Galicia, the Atlantic coast and wooded slopes; clear day.

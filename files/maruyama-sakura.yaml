@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The weeping cherry in Maruyama Park
+description: Looking straight up into the big weeping cherry in Maruyama Park. Nothing but pink, in every direction.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Maruyama_Park_%E5%9C%93%E5%B1%B1%E5%85%AC%E5%9C%92_-_panoramio.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Maruyama_Park_%E5%9C%93%E5%B1%B1%E5%85%AC%E5%9C%92_-_panoramio.jpg/1920px-Maruyama_Park_%E5%9C%93%E5%B1%B1%E5%85%AC%E5%9C%92_-_panoramio.jpg
+  retrieved: 2026-10-20
+author: lienyuan lee
+licence: CC-BY-3.0
+licenceUrl: https://creativecommons.org/licenses/by/3.0
+attribution: “Maruyama Park 圓山公園 - panoramio.jpg” by lienyuan lee, CC BY 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Looking up into the branches of a large weeping cherry tree in full pink blossom in Maruyama Park, Kyoto, pale sky behind, late March.

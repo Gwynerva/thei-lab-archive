@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Paws over the eyes
+description: A grey cat asleep on an orange chair with both paws over its face. Too bright, apparently.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Schlafende_Katze_20201024_DSC4881.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Schlafende_Katze_20201024_DSC4881.jpg/1920px-Schlafende_Katze_20201024_DSC4881.jpg
+  retrieved: 2026-10-20
+author: PantheraLeo1359531
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Schlafende Katze 20201024 DSC4881.jpg” by PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A grey cat curled asleep on an orange-and-white striped couch cushion, holding both front paws over its face.

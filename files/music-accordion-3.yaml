@@ -1,0 +1,15 @@
+kind: audio
+ext: m4a
+title: Accordion registers
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Accordion_registers.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/9/91/Accordion_registers.ogg
+  retrieved: 2026-10-20
+author: Necz0r
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Accordion registers.ogg” by Necz0r, public domain, via Wikimedia Commons
+transform: from the original, AAC 160 kbit/s in M4A
+people: none
+truth: The same octave played on a piano accordion five times, once in each of five register tones.

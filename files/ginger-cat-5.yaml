@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Biscuit on the wall
+description: Tucked up on top of the wall, sun on his back, eyes half shut.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Ginger_cat_(14358857469).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Ginger_cat_%2814358857469%29.jpg/1920px-Ginger_cat_%2814358857469%29.jpg
+  retrieved: 2026-10-20
+author: YuJeen from Riga, Latvia
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Ginger cat (14358857469).jpg” by YuJeen from Riga, Latvia, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A red tabby cat lying tucked up on top of a garden wall in sunshine, dark trees behind.

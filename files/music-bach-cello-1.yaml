@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: The prelude, first suite
+description: The prelude from the first suite. I have listened to this so many times trying to get the bowing right that I can hear it in my sleep.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:JOHN_MICHEL_CELLO-J_S_BACH_CELLO_SUITE_1_in_G_Prelude.ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/4/43/JOHN_MICHEL_CELLO-J_S_BACH_CELLO_SUITE_1_in_G_Prelude.ogg
+  retrieved: 2026-10-20
+author: Johann Sebastian Bach
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “JOHN MICHEL CELLO-J S BACH CELLO SUITE 1 in G Prelude.ogg” by Johann Sebastian Bach, CC BY-SA 3.0, via Wikimedia Commons
+transform: from the original, MP3 VBR q2
+people: none
+truth: The prelude of Bach's Cello Suite No. 1 in G major, BWV 1007, played on solo cello.

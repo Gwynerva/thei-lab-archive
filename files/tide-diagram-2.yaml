@@ -1,0 +1,16 @@
+kind: image
+ext: png
+title: Tide in shallow water, two
+description: The same sum the other way round, so the tide comes in fast and goes out slowly.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Harmonics2.png
+  download: https://upload.wikimedia.org/wikipedia/commons/e/e2/Harmonics2.png
+  retrieved: 2026-10-20
+author: Wikiklaas
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Harmonics2.png” by Wikiklaas, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the original: long side 1280 as published, PNG, metadata removed"
+people: none
+truth: A graph of a cosine and a double-speed cosine in the opposite phase added over twelve hours, giving a skewed tide curve that rises faster than it falls.

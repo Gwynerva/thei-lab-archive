@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A Welsh lovespoon
+description: A Welsh lovespoon behind glass, all scrolls and hearts. Jonas said he would stick to a ring.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Birmingham_Lovespoon_2.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Birmingham_Lovespoon_2.jpg/1920px-Birmingham_Lovespoon_2.jpg
+  retrieved: 2026-10-20
+author: Catlemur
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Birmingham Lovespoon 2.jpg” by Catlemur, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A carved 19th-century Welsh lovespoon in sycamore with pierced scroll and heart shapes, in a museum display case in Birmingham, England.

@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Seljalandsfoss, a slow shutter
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Seljalandsfoss_July_2014_-1.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Seljalandsfoss_July_2014_-1.JPG/1280px-Seljalandsfoss_July_2014_-1.JPG
+  retrieved: 2026-10-20
+author: Martin Falbisoner
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Seljalandsfoss July 2014 -1.JPG” by Martin Falbisoner, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: none
+truth: Long-exposure side view of Seljalandsfoss, the water a soft white veil down a mossy cliff into a dark pool, blue sky with cloud, summer.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A bench under a boat
+description: An old joiner's bench set out under the hull of a boat at a boat show. Jonas liked the vices more than the boats.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Workbench,_Interboot_2020,_Friedrichshafen_(IB200322).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Workbench%2C_Interboot_2020%2C_Friedrichshafen_%28IB200322%29.jpg/1920px-Workbench%2C_Interboot_2020%2C_Friedrichshafen_%28IB200322%29.jpg
+  retrieved: 2026-10-20
+author: Matti Blume
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0/deed.en
+attribution: “Workbench, Interboot 2020, Friedrichshafen (IB200322).jpg” by Matti Blume, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: An old wooden joiner's workbench with vices and a tool tray on a red carpet at a boat show, under a boat hull, a few people far behind. Friedrichshafen, Germany.

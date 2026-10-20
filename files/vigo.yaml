@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Across the ría to Vigo
+description: Looking over the ría from Cangas to Vigo, a bronze figure on the rocks in between.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cangas._Galiza-5.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Cangas._Galiza-5.jpg/1920px-Cangas._Galiza-5.jpg
+  retrieved: 2026-10-20
+author: Luis Miguel Bugallo Sánchez (Lmbuga)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Cangas. Galiza-5.jpg” by Luis Miguel Bugallo Sánchez (Lmbuga), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A bronze sculpture on rocks in the ría de Vigo at Cangas, the city of Vigo spread along the far shore; cloudy.

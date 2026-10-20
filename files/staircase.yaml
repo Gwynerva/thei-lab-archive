@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The old stairs from the top
+description: Worn treads going down into the dark. These are the stairs the roof leaked onto.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Old_Wooden_Staircases_(32344618037).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Old_Wooden_Staircases_%2832344618037%29.jpg/1280px-Old_Wooden_Staircases_%2832344618037%29.jpg
+  retrieved: 2026-10-20
+author: Dejan Krsmanovic
+licence: CC-BY-2.0
+licenceUrl: https://creativecommons.org/licenses/by/2.0
+attribution: “Old Wooden Staircases (32344618037).jpg” by Dejan Krsmanovic, CC BY 2.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Old worn wooden stairs seen from above, steep and narrow, the focus on the first step, warm light, Serbia.

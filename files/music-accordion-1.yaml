@@ -1,0 +1,16 @@
+kind: audio
+ext: mp3
+title: Spring, on accordions
+description: Vivaldi's Spring played by a whole orchestra of accordions. It shouldn't work and it absolutely does.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Paul_De_Bra_-_Vivaldi%27s_Spring,_RV_269_-_I._Allegro_(Accordion_Orchestra).ogg
+  download: https://upload.wikimedia.org/wikipedia/commons/e/e0/Paul_De_Bra_-_Vivaldi%27s_Spring%2C_RV_269_-_I._Allegro_%28Accordion_Orchestra%29.ogg
+  retrieved: 2026-10-20
+author: Paul De Bra
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Paul De Bra - Vivaldi's Spring, RV 269 - I. Allegro (Accordion Orchestra).ogg” by Paul De Bra, CC BY 4.0, via Wikimedia Commons
+transform: "from the original: first 180 s with a 2 s fade-out, MP3 VBR q2"
+people: none
+truth: The first movement (Allegro) of Spring from Vivaldi's Four Seasons, played by an accordion orchestra.

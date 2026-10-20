@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Schiehallion summit rocks
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Schiehallion_summit_rocks_-_geograph.org.uk_-_3714527.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Schiehallion_summit_rocks_-_geograph.org.uk_-_3714527.jpg/1920px-Schiehallion_summit_rocks_-_geograph.org.uk_-_3714527.jpg
+  retrieved: 2026-10-20
+author: Peter S
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Schiehallion summit rocks - geograph.org.uk - 3714527.jpg” by Peter S, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A heap of grey and pinkish broken rocks forming the summit cairn of Schiehallion, overcast sky.

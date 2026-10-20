@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Egrets at the weir
+description: Two little egrets fishing at the weir, very patient, much more patient than me.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Kamo-gawa_in_Kyoto_hdsr_S5_08.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kamo-gawa_in_Kyoto_hdsr_S5_08.jpg/1920px-Kamo-gawa_in_Kyoto_hdsr_S5_08.jpg
+  retrieved: 2026-10-20
+author: Hyppolyte de Saint-Rambert
+licence: CC-BY-4.0
+licenceUrl: https://creativecommons.org/licenses/by/4.0
+attribution: “Kamo-gawa in Kyoto hdsr S5 08.jpg” by Hyppolyte de Saint-Rambert, CC BY 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Two little egrets standing in shallow water below a small weir on the Kamo River in Kyoto, water spilling over the step.

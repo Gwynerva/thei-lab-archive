@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Pentlands from Allermuir
+description: From the top of Allermuir looking south-west along the Pentlands, with the city at my back.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pentland_Hills_from_Allermuir.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Pentland_Hills_from_Allermuir.jpg/1920px-Pentland_Hills_from_Allermuir.jpg
+  retrieved: 2026-10-20
+author: User:Mtcv
+licence: CC-BY-SA-3.0
+licenceUrl: http://creativecommons.org/licenses/by-sa/3.0/
+attribution: “Pentland Hills from Allermuir.jpg” by User:Mtcv, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Pentland Hills seen south-west from the top of Allermuir Hill, rolling green and brown hills and a valley under grey cloud.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Cragaig bothy on Ulva
+description: The bothy at Cragaig on Ulva, its red roof doubled in the water.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Cragaig_Bothy_-_geograph.org.uk_-_6901357.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Cragaig_Bothy_-_geograph.org.uk_-_6901357.jpg/1920px-Cragaig_Bothy_-_geograph.org.uk_-_6901357.jpg
+  retrieved: 2026-10-20
+author: John Ferguson
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Cragaig Bothy - geograph.org.uk - 6901357.jpg” by John Ferguson, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A small stone cottage with a red roof at Cragaig on the Isle of Ulva, green slopes and low cliffs behind, reflected in still water with rocks in front.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Pepperkakebyen in the dark
+description: The gingerbread town again, glowing in the dark hall with a tiny Ferris wheel in the middle.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Pepperkakebyen_2026.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Pepperkakebyen_2026.jpg/1920px-Pepperkakebyen_2026.jpg
+  retrieved: 2026-10-20
+author: Berghest
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Pepperkakebyen 2026.jpg” by Berghest, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920, JPEG q85, metadata removed"
+people: incidental
+truth: Gingerbread houses of Pepperkakebyen in a dark exhibition hall under blue light, a small Ferris wheel among them, visitors in shadow.

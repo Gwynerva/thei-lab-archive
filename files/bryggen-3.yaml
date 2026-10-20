@@ -1,0 +1,16 @@
+kind: image
+ext: webp
+title: Bryggen under cloud
+description: The proper Bergen version of Bryggen, a heavy grey sky and the old SILD FISK lettering on the end house.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Bergen_Bryggen_2986.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Bergen_Bryggen_2986.jpg/1920px-Bergen_Bryggen_2986.jpg
+  retrieved: 2026-10-20
+author: Anna Anichkova
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Bergen Bryggen 2986.jpg” by Anna Anichkova, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, WebP q80, metadata removed"
+people: incidental
+truth: Wooden houses of Bryggen in Bergen under a heavy grey sky, the end house painted with old shop lettering, people strolling in the square in front.

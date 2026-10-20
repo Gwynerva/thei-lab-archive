@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Gravensteins on the bench
+description: Gravensteins on the old bench, striped red and green and smelling of September.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Gravensteiner_apple.JPG
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Gravensteiner_apple.JPG/1920px-Gravensteiner_apple.JPG
+  retrieved: 2026-10-20
+author: Ingo Wölbern
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Gravensteiner apple.JPG” by Ingo Wölbern, public domain, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A pile of red-and-green striped Gravenstein apples on a weathered grey wooden surface.

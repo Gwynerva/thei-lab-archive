@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: South Bay at night
+description: Scarborough lit up from the cliff gardens at the end of a long day's walking. Feet in pieces.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Scarborough_South_Bay.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Scarborough_South_Bay.jpg/1920px-Scarborough_South_Bay.jpg
+  retrieved: 2026-10-20
+author: Mainlymazza
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Scarborough South Bay.jpg” by Mainlymazza, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Scarborough's South Bay at night from above, a curve of lights along the seafront to the castle headland, lit gardens and a railing in front.

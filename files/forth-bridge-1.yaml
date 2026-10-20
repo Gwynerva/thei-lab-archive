@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The Forth Bridge from Hawes Pier
+description: The bridge from South Queensferry with the tide out, red against a grey sky. It never stops being huge.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Forth_Bridge_(geograph_6549767).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Forth_Bridge_%28geograph_6549767%29.jpg/1920px-Forth_Bridge_%28geograph_6549767%29.jpg
+  retrieved: 2026-10-20
+author: Graeme Yuill
+licence: CC-BY-SA-2.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/2.0
+attribution: “Forth Bridge (geograph 6549767).jpg” by Graeme Yuill, CC BY-SA 2.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Forth Bridge seen from Hawes Pier at South Queensferry, red cantilevers over the water, a small tour boat at the pier, wet sand at low tide, grey sky.

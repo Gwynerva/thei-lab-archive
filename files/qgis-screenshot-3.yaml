@@ -1,0 +1,15 @@
+kind: image
+ext: png
+title: Coloured districts in QGIS
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:QGIS_2.8_screenshot.png
+  download: https://upload.wikimedia.org/wikipedia/commons/a/af/QGIS_2.8_screenshot.png
+  retrieved: 2026-10-20
+author: Path slopu
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “QGIS 2.8 screenshot.png” by Path slopu, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: long side 1356 as published, PNG, metadata removed"
+people: none
+truth: A screenshot of QGIS 2.8 with a map of coloured district polygons and point symbols, the layers panel at left listing roads, rivers and boundaries.

@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Two kayaks on a mirror
+description: Two kayaks crossing a fjord so still the mountains were upside down in it.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Lyngenfjorden,_North_Norway.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Lyngenfjorden%2C_North_Norway.jpg/1920px-Lyngenfjorden%2C_North_Norway.jpg
+  retrieved: 2026-10-20
+author: JavierOlivares
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Lyngenfjorden, North Norway.jpg” by JavierOlivares, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Two kayakers small on a mirror-calm fjord with snowy peaks reflected, northern Norway, soft evening light; a small photographer's signature in the corner.

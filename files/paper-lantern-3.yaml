@@ -1,0 +1,15 @@
+kind: image
+ext: jpg
+title: Rows of lanterns
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Paper_lanterns_at_Tongdosa_Temple_01.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Paper_lanterns_at_Tongdosa_Temple_01.jpg/1920px-Paper_lanterns_at_Tongdosa_Temple_01.jpg
+  retrieved: 2026-10-20
+author: Bernard Gagnon
+licence: CC0-1.0
+licenceUrl: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+attribution: “Paper lanterns at Tongdosa Temple 01.jpg” by Bernard Gagnon, CC0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Rows of pale paper lanterns with coloured tops hung over a paved temple path, trees at the right. Tongdosa temple, South Korea.

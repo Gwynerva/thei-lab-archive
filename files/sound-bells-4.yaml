@@ -1,0 +1,15 @@
+kind: audio
+ext: m4a
+title: Bells in the town centre
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Church_bells_-_Leverkusen,_2007.oga
+  download: https://upload.wikimedia.org/wikipedia/commons/3/36/Church_bells_-_Leverkusen%2C_2007.oga
+  retrieved: 2026-10-20
+author: natalie
+licence: PD
+licenceUrl: https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Public_domain
+attribution: “Church bells - Leverkusen, 2007.oga” by natalie, public domain, via Wikimedia Commons
+transform: from the original, AAC 160 kbit/s in M4A
+people: incidental
+truth: Church bells ringing over a pedestrian zone in the town centre of Leverkusen, Germany, 2007.

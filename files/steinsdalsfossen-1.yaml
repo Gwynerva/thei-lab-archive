@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Steinsdalsfossen
+description: The waterfall at Norheimsund. The path goes right behind it and you come out soaked.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Steinsdalsfossen,_Kvam_kommune.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Steinsdalsfossen%2C_Kvam_kommune.jpg/1920px-Steinsdalsfossen%2C_Kvam_kommune.jpg
+  retrieved: 2026-10-20
+author: Ssu
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Steinsdalsfossen, Kvam kommune.jpg” by Ssu, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: incidental
+truth: Steinsdalsfossen in Kvam falling over a rock ledge into a stony river, spruce forest above, the path behind the fall with tiny figures; overcast.

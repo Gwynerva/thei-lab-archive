@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Yellow houses at Nusfjord
+description: The yellow warehouses of Nusfjord on their pier, looking out over the bay.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Nusfjord_view_towards_Bottelvika_from_Sn%C3%B8sen,_Lofoten,_Norway,_2015_September.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Nusfjord_view_towards_Bottelvika_from_Sn%C3%B8sen%2C_Lofoten%2C_Norway%2C_2015_September.jpg/1920px-Nusfjord_view_towards_Bottelvika_from_Sn%C3%B8sen%2C_Lofoten%2C_Norway%2C_2015_September.jpg
+  retrieved: 2026-10-20
+author: Ximonic (Simo Räsänen)
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Nusfjord view towards Bottelvika from Snøsen, Lofoten, Norway, 2015 September.jpg” by Ximonic (Simo Räsänen), CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Yellow wooden buildings on a pier in Nusfjord village, Lofoten, a white house behind, the bay and steep rocky cliffs beyond, grey sky.

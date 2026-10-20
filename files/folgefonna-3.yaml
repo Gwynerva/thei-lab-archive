@@ -1,0 +1,15 @@
+kind: image
+ext: png
+title: The ice cap from high up
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Folgefonna.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Folgefonna.jpg/1920px-Folgefonna.jpg
+  retrieved: 2026-10-20
+author: Aqwis
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Folgefonna.jpg” by Aqwis, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, PNG, metadata removed"
+people: none
+truth: High aerial view of the Folgefonna glaciers in Hordaland, the white ice cap among clouds and blue haze.

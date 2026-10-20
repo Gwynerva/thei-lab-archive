@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: A sea eagle over Svolvær
+description: A white-tailed eagle sweeping past just below us. I forgot to breathe.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Haliaeetus_albicilla_(Svolv%C3%A6r,_2012).jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Haliaeetus_albicilla_%28Svolv%C3%A6r%2C_2012%29.jpg/1920px-Haliaeetus_albicilla_%28Svolv%C3%A6r%2C_2012%29.jpg
+  retrieved: 2026-10-20
+author: Yathin S Krishnappa
+licence: CC-BY-SA-3.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/3.0
+attribution: “Haliaeetus albicilla (Svolvær, 2012).jpg” by Yathin S Krishnappa, CC BY-SA 3.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A white-tailed eagle in flight with its wings spread over dark green and purple heath near Svolvær, Lofoten, August.

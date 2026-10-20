@@ -1,0 +1,15 @@
+kind: image
+ext: gif
+title: Rain on the road, looping
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Rain_falling_on_road_-_gnangarra.webm
+  download: https://upload.wikimedia.org/wikipedia/commons/e/eb/Rain_falling_on_road_-_gnangarra.webm
+  retrieved: 2026-10-20
+author: Gnangarra
+licence: CC-BY-2.5-AU
+licenceUrl: https://creativecommons.org/licenses/by/2.5/au/deed.en
+attribution: “Rain falling on road - gnangarra.webm” by Gnangarra, CC BY 2.5 au, via Wikimedia Commons
+transform: "from the original: three seconds from 1 s in, 480 px wide, 12 frames a second, a looping GIF of 128 colours"
+people: none
+truth: Close view of heavy rain falling on dark wet asphalt, drops splashing on the road surface (a few seconds of it, looping)

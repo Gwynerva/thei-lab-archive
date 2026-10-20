@@ -1,0 +1,16 @@
+kind: audio
+ext: ogg
+title: A blustery afternoon at the edge of the wood
+description: A northerly wind all afternoon, pushing at the trees over the gardens. Lockdown, and the wind was the most interesting thing that happened all day.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Wind_sounds_2020-05-10_1625.mp3
+  download: https://upload.wikimedia.org/wikipedia/commons/d/d0/Wind_sounds_2020-05-10_1625.mp3
+  retrieved: 2026-10-20
+author: Robert EA Harvey
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Wind sounds 2020-05-10 1625.mp3” by Robert EA Harvey, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the original: first 180 s with a 2 s fade-out, Ogg Vorbis q5"
+people: none
+truth: A long recording of gusty northerly wind in the trees at a woodland edge overhanging gardens, Bourne, Lincolnshire, England, May 2020.

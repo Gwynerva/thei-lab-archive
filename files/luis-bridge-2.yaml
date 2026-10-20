@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The bridge at blue hour
+description: Ines insisted we wait for the lights to come on. She was right.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Puente_de_Don_Luis_I,_Oporto,_Portugal,_2019-06-02,_DD_29-31_HDR.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Puente_de_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2019-06-02%2C_DD_29-31_HDR.jpg/1920px-Puente_de_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2019-06-02%2C_DD_29-31_HDR.jpg
+  retrieved: 2026-10-20
+author: Diego Delso
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Puente de Don Luis I, Oporto, Portugal, 2019-06-02, DD 29-31 HDR.jpg” by Diego Delso, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: The Dom Luís I bridge and Porto's riverside lit up at blue hour, rabelo boats moored on the Douro, a stone embankment in front.

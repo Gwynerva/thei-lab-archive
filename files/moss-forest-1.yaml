@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: Moss on everything
+description: Rocks so thick with moss you can't tell where the stone stops, in Kvinnherad, not far from us.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Moss_Covered_Rocks_-_Kvinnherad,_Norway_2021-07-27.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Moss_Covered_Rocks_-_Kvinnherad%2C_Norway_2021-07-27.jpg/1920px-Moss_Covered_Rocks_-_Kvinnherad%2C_Norway_2021-07-27.jpg
+  retrieved: 2026-10-20
+author: Ryan Hodnett
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Moss Covered Rocks - Kvinnherad, Norway 2021-07-27.jpg” by Ryan Hodnett, CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1920px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: Moss-covered boulders on the forest floor among thin trees in Kvinnherad, Norway, summer.

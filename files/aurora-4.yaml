@@ -1,0 +1,16 @@
+kind: image
+ext: jpg
+title: The red barn and the lights
+description: A violet and green curtain coming straight down over a little red barn.
+origin: commons
+source:
+  page: https://commons.wikimedia.org/wiki/File:Northern_lights_curtain_over_Nordmo_in_Bjerkvik,_Narvik,_Nordland,_Norway,_2023_September.jpg
+  download: https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Northern_lights_curtain_over_Nordmo_in_Bjerkvik%2C_Narvik%2C_Nordland%2C_Norway%2C_2023_September.jpg/1280px-Northern_lights_curtain_over_Nordmo_in_Bjerkvik%2C_Narvik%2C_Nordland%2C_Norway%2C_2023_September.jpg
+  retrieved: 2026-10-20
+author: Ximonic (Simo Räsänen)
+licence: CC-BY-SA-4.0
+licenceUrl: https://creativecommons.org/licenses/by-sa/4.0
+attribution: “Northern lights curtain over Nordmo in Bjerkvik, Narvik, Nordland, Norway, 2023 September.jpg” by Ximonic (Simo Räsänen), CC BY-SA 4.0, via Wikimedia Commons
+transform: "from the 1280px thumbnail: long side 1920 as published, JPEG q85, metadata removed"
+people: none
+truth: A curtain of violet and green northern lights above a red barn on stilts at Nordmo, Bjerkvik, northern Norway, grass and trees, September.
