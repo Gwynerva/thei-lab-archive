@@ -1,0 +1,10 @@
+kind: other
+ext: csv
+title: Sandviken weather, October 2022
+description: The month of the twenty-one wet days, from the station on the kitchen window.
+origin: generated
+licence: CC0-1.0
+licenceUrl: https://creativecommons.org/publicdomain/zero/1.0/
+transform: made by scripts/media/gen.ts
+people: none
+truth: a generated CSV of fictional hourly weather readings (744 rows from 2022-10-01), made for the archive

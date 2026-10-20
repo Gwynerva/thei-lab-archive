@@ -1,0 +1,9 @@
+kind: other
+ext: json
+title: "Track: Takijiri to Takahara"
+origin: generated
+licence: CC0-1.0
+licenceUrl: https://creativecommons.org/publicdomain/zero/1.0/
+transform: made by scripts/media/gen.ts
+people: none
+truth: a generated GeoJSON line roughly along the Kumano Kodo from Takijiri to Takahara, Japan

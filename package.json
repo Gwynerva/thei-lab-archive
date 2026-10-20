@@ -1,0 +1,15 @@
+{
+  "name": "thei-lab-archive",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "media": "bun scripts/media/cli.ts",
+    "release": "bun scripts/release.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.3",
+    "sharp": "0.34.4",
+    "yaml": "2.8.1"
+  }
+}

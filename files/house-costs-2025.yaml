@@ -1,0 +1,9 @@
+kind: other
+ext: csv
+title: What the house cost in 2025
+origin: generated
+licence: CC0-1.0
+licenceUrl: https://creativecommons.org/publicdomain/zero/1.0/
+transform: made by scripts/media/gen.ts
+people: none
+truth: a generated CSV of fictional renovation costs in Norwegian kroner

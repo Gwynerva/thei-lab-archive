@@ -1,0 +1,9 @@
+kind: other
+ext: txt
+title: tideline README
+origin: generated
+licence: CC0-1.0
+licenceUrl: https://creativecommons.org/publicdomain/zero/1.0/
+transform: made by scripts/media/gen.ts
+people: none
+truth: a generated plain-text README of a fictional tide-prediction library

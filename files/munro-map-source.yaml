@@ -1,0 +1,9 @@
+kind: other
+ext: zip
+title: Munro map source
+origin: generated
+licence: CC0-1.0
+licenceUrl: https://creativecommons.org/publicdomain/zero/1.0/
+transform: made by scripts/media/gen.ts
+people: none
+truth: "a generated zip of a tiny fictional web map: an HTML page and a GeoJSON file"

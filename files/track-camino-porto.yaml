@@ -1,0 +1,10 @@
+kind: other
+ext: json
+title: "Track: Porto to Vila do Conde"
+description: The first day of the Camino, along the coast.
+origin: generated
+licence: CC0-1.0
+licenceUrl: https://creativecommons.org/publicdomain/zero/1.0/
+transform: made by scripts/media/gen.ts
+people: none
+truth: a generated GeoJSON line roughly following the Portuguese coast from Porto to Vila do Conde, with fictional elevations

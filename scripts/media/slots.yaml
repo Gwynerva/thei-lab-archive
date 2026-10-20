@@ -1,0 +1,469 @@
+# What to look for on Wikimedia Commons, subject by subject (BIBLE.md, "Media").
+#
+#   id    the file ids' stem: <id> for one file, <id>-1 … <id>-n for several
+#   q     the search words
+#   n     how many files (default 1)
+#   type  image (default) | video | audio | pdf | svg | png | gif
+#   as    what to publish them as, one per file or one for all: jpg webp avif png
+#         for pictures, mp4 webm mov for videos, mp3 ogg wav flac m4a for recordings
+#   qi    pictures only: look among Commons' Quality images first (default true)
+#   x     more search terms, as Commons' search takes them
+#   for   what in the archive they are for (a hint for the authors)
+
+# ---------------------------------------------------------------- Whitby and the coast
+- { id: whitby-abbey, q: "Whitby Abbey", n: 5, as: [jpg, jpg, webp, jpg, jpg], for: "home, Christmas, avatars" }
+- { id: whitby-harbour, q: "Whitby harbour", n: 5, as: [jpg, webp, jpg, jpg, jpg], for: "Dad's shop, home" }
+- { id: whitby-bridge, q: "Whitby swing bridge", n: 2 }
+- { id: whitby-steps, q: "Whitby 199 steps Church Stairs", n: 2 }
+- { id: whitby-pier, q: "Whitby pier lighthouse", n: 3, for: "linocut 2018" }
+- { id: whitby-west-cliff, q: "Whitby West Cliff", n: 2 }
+- { id: whitby-whalebone, q: "Whitby whalebone arch", n: 1 }
+- { id: saltwick-bay, q: "Saltwick Bay", n: 4, for: "dissertation" }
+- { id: saltwick-nab, q: "Saltwick Nab", n: 2, for: "dissertation" }
+- { id: sandsend, q: "Sandsend beach", n: 3 }
+- { id: robin-hoods-bay, q: "Robin Hood's Bay", n: 6, as: [jpg, jpg, webp, jpg, jpg, jpg], for: "Nana June" }
+- { id: staithes, q: "Staithes", n: 3 }
+- { id: ravenscar, q: "Ravenscar", n: 2, for: "Cleveland Way" }
+- { id: runswick-bay, q: "Runswick Bay", n: 2 }
+- { id: saltburn-pier, q: "Saltburn pier", n: 2, for: "Cleveland Way" }
+- { id: scarborough, q: "Scarborough South Bay", n: 3, for: "Cleveland Way" }
+- { id: filey-brigg, q: "Filey Brigg", n: 2, for: "Cleveland Way" }
+- { id: moors-heather, q: "North York Moors heather", n: 4 }
+- { id: yorkshire-cliffs, q: "cliff Whitby", n: 3, for: "erosion" }
+- { id: cliff-erosion, q: "coastal erosion cliff collapse", n: 3, qi: false, for: "erosion" }
+
+# ---------------------------------------------------------------- Edinburgh and Leith
+- { id: leith-shore, q: "Leith Shore Water of Leith", n: 5, as: [jpg, jpg, webp, jpg, jpg] }
+- { id: water-of-leith, q: "Water of Leith", n: 4 }
+- { id: dean-village, q: "Dean Village Edinburgh", n: 3 }
+- { id: arthurs-seat, q: "Arthur's Seat Edinburgh", n: 5 }
+- { id: calton-hill, q: "Calton Hill Edinburgh", n: 4 }
+- { id: portobello-beach, q: "Portobello beach Edinburgh", n: 3, qi: false }
+- { id: pentland-hills, q: "Pentland Hills", n: 5 }
+- { id: edinburgh-close, q: "Edinburgh Old Town close", n: 4 }
+- { id: edinburgh-castle, q: "Edinburgh Castle", n: 3 }
+- { id: forth-bridge, q: "Forth Bridge", n: 3 }
+- { id: botanic-garden, q: "Royal Botanic Garden Edinburgh", n: 2 }
+- { id: edinburgh-snow, q: "Edinburgh snow", n: 3, qi: false }
+- { id: edinburgh-tenement, q: "Edinburgh tenement", n: 3, qi: false }
+- { id: old-college, q: "Old College University of Edinburgh", n: 2 }
+- { id: stockbridge, q: "Stockbridge Edinburgh", n: 2, qi: false, for: "Lowe Bindery" }
+- { id: princes-street-gardens, q: "Princes Street Gardens", n: 2 }
+- { id: glasgow, q: "Glasgow", n: 3 }
+
+# ---------------------------------------------------------------- Scottish hills
+- { id: ben-lomond, q: "Ben Lomond", n: 3, as: [jpg, avif, jpg] }
+- { id: schiehallion, q: "Schiehallion", n: 3 }
+- { id: ben-lawers, q: "Ben Lawers", n: 2 }
+- { id: ben-nevis, q: "Ben Nevis", n: 4, as: [jpg, jpg, avif, jpg] }
+- { id: glencoe, q: "Glen Coe", n: 5, as: [jpg, avif, jpg, jpg, avif] }
+- { id: buachaille, q: "Buachaille Etive Mor", n: 2 }
+- { id: old-man-of-storr, q: "Old Man of Storr", n: 3 }
+- { id: quiraing, q: "Quiraing", n: 2, as: avif }
+- { id: cairngorms, q: "Cairngorms", n: 4, as: [jpg, jpg, avif, jpg] }
+- { id: glenmore, q: "Glenmore Loch Morlich", n: 2 }
+- { id: st-abbs-head, q: "St Abb's Head", n: 3 }
+- { id: loch-lomond, q: "Loch Lomond", n: 2 }
+- { id: munro-cairn, q: "summit cairn Scotland mountain", n: 2, qi: false }
+- { id: bothy, q: "bothy Scotland", n: 2, qi: false }
+- { id: highland-cow, q: "Highland cattle", n: 2 }
+- { id: red-deer, q: "red deer stag Scotland", n: 1 }
+
+# ---------------------------------------------------------------- Iceland
+- { id: reykjavik, q: "Reykjavik", n: 3 }
+- { id: seljalandsfoss, q: "Seljalandsfoss", n: 4 }
+- { id: skogafoss, q: "Skogafoss", n: 3 }
+- { id: reynisfjara, q: "Reynisfjara", n: 3 }
+- { id: vik-iceland, q: "Vik i Myrdal church", n: 2 }
+- { id: jokulsarlon, q: "Jokulsarlon", n: 5, as: [jpg, jpg, webp, jpg, jpg] }
+- { id: seydisfjordur, q: "Seydisfjordur", n: 3 }
+- { id: myvatn, q: "Myvatn", n: 4 }
+- { id: akureyri, q: "Akureyri", n: 2 }
+- { id: kirkjufell, q: "Kirkjufell", n: 3 }
+- { id: svortuloft, q: "Svortuloft lighthouse", n: 1, qi: false }
+- { id: icelandic-horse, q: "Icelandic horse", n: 1 }
+
+# ---------------------------------------------------------------- Japan
+- { id: maruyama-park, q: "Maruyama Park cherry blossom Kyoto", n: 3, qi: false }
+- { id: fushimi-inari, q: "Fushimi Inari torii", n: 4, as: [jpg, webp, jpg, jpg] }
+- { id: kiyomizu-dera, q: "Kiyomizu-dera", n: 2 }
+- { id: kamo-river, q: "Kamo River Kyoto", n: 2 }
+- { id: kyoto-temple-garden, q: "Kyoto temple garden", n: 2, as: webp }
+- { id: nara-deer, q: "Nara deer park", n: 4 }
+- { id: todai-ji, q: "Todai-ji", n: 2 }
+- { id: kumano-kodo, q: "Kumano Kodo", n: 6, as: [jpg, jpg, webp, jpg, jpg, jpg], qi: false }
+- { id: kumano-hongu, q: "Kumano Hongu Taisha", n: 2, qi: false }
+- { id: nachi-falls, q: "Nachi Falls", n: 2 }
+- { id: tokyo-skyline, q: "Tokyo skyline night", n: 3 }
+- { id: shinkansen, q: "Shinkansen", n: 2 }
+- { id: japanese-garden, q: "Japanese garden moss", n: 2 }
+
+# ---------------------------------------------------------------- Copenhagen, Amsterdam, Anglesey
+- { id: nyhavn, q: "Nyhavn Copenhagen", n: 3 }
+- { id: copenhagen-bikes, q: "bicycles Copenhagen", n: 1, qi: false }
+- { id: amsterdam-canal, q: "Amsterdam canal houses", n: 3 }
+- { id: llanfair-station, q: "Llanfairpwllgwyngyll railway station", n: 2, qi: false, for: "the long word" }
+- { id: south-stack, q: "South Stack lighthouse Anglesey", n: 2 }
+
+# ---------------------------------------------------------------- Bergen
+- { id: bryggen, q: "Bryggen Bergen", n: 6, as: [jpg, jpg, webp, jpg, jpg, webp] }
+- { id: sandviken, q: "Sandviken Bergen", n: 4, qi: false }
+- { id: floyen, q: "Floyen Bergen", n: 4 }
+- { id: ulriken, q: "Ulriken Bergen", n: 3 }
+- { id: vidden, q: "Vidden Bergen mountain", n: 3, qi: false }
+- { id: lovstakken, q: "Lovstakken", n: 2, qi: false }
+- { id: lyderhorn, q: "Lyderhorn", n: 2, qi: false }
+- { id: damsgardsfjellet, q: "Damsgardsfjellet", n: 1, qi: false }
+- { id: rundemanen, q: "Rundemanen", n: 2, qi: false }
+- { id: sandviksfjellet, q: "Sandviksfjellet", n: 1, qi: false }
+- { id: bergen-fish-market, q: "Bergen fish market", n: 3, qi: false }
+- { id: bergen-rain, q: "Bergen rain", n: 3, qi: false }
+- { id: vagen, q: "Vagen Bergen harbour", n: 4, as: [jpg, webp, jpg, jpg] }
+- { id: nordnes, q: "Nordnes Bergen", n: 3, qi: false }
+- { id: nordnes-sjobad, q: "Nordnes sjøbad", n: 1, qi: false }
+- { id: bergen-houses, q: "Bergen wooden houses", n: 4, as: [jpg, webp, jpg, jpg] }
+- { id: byfjorden, q: "Byfjorden Bergen", n: 3, qi: false }
+- { id: bergen-snow, q: "Bergen snow", n: 2, qi: false }
+- { id: bergen-night, q: "Bergen night", n: 2 }
+- { id: pepperkakebyen, q: "Pepperkakebyen", n: 2, qi: false }
+- { id: floibanen, q: "Floibanen", n: 2 }
+- { id: grieghallen, q: "Grieghallen", n: 1, qi: false }
+- { id: herdla, q: "Herdla", n: 2, qi: false }
+
+# ---------------------------------------------------------------- Lofoten and the lights
+- { id: reine, q: "Reine Lofoten", n: 4, as: [jpg, jpg, avif, jpg] }
+- { id: hamnoy, q: "Hamnoy", n: 3 }
+- { id: henningsvaer, q: "Henningsvaer", n: 3 }
+- { id: svolvaer, q: "Svolvaer", n: 2 }
+- { id: nusfjord, q: "Nusfjord", n: 2 }
+- { id: uttakleiv, q: "Uttakleiv beach", n: 2, qi: false }
+- { id: lofoten-winter, q: "Lofoten winter snow", n: 3, qi: false }
+- { id: aurora, q: "aurora borealis Norway", n: 6, as: [jpg, jpg, webp, jpg, avif, jpg] }
+
+# ---------------------------------------------------------------- Hardanger
+- { id: hardangerfjord, q: "Hardangerfjord", n: 6, as: [jpg, jpg, avif, jpg, jpg, webp], for: "banner, the house" }
+- { id: utne, q: "Utne Hardanger", n: 3, qi: false }
+- { id: hardanger-blossom, q: "apple blossom Norway", n: 6, qi: false, for: "orchard, avatar" }
+- { id: apple-tree, q: "apple tree orchard Norway", n: 3, qi: false }
+- { id: folgefonna, q: "Folgefonna", n: 3 }
+- { id: voringsfossen, q: "Voringsfossen", n: 4 }
+- { id: hardangervidda, q: "Hardangervidda", n: 4, as: [jpg, avif, jpg, jpg] }
+- { id: odda, q: "Odda Norway", n: 2, qi: false }
+- { id: ulvik, q: "Ulvik", n: 2 }
+- { id: norwegian-farmhouse, q: "farmhouse Norway", n: 4, qi: false, for: "Øvre Lid" }
+- { id: hardanger-bridge, q: "Hardanger Bridge", n: 2 }
+- { id: eidfjord, q: "Eidfjord", n: 2 }
+- { id: kinsarvik, q: "Kinsarvik", n: 2, qi: false }
+- { id: steinsdalsfossen, q: "Steinsdalsfossen", n: 2 }
+- { id: hardanger-snow, q: "Hardangerfjord winter", n: 3, qi: false }
+- { id: fjord-ferry, q: "ferry Hardangerfjord", n: 2, qi: false }
+
+# ---------------------------------------------------------------- Porto and the Camino
+- { id: ribeira-porto, q: "Ribeira Porto", n: 4, as: [jpg, jpg, webp, jpg] }
+- { id: luis-bridge, q: "Dom Luis I Bridge", n: 3 }
+- { id: azulejos, q: "azulejos Porto", n: 3 }
+- { id: porto-tram, q: "Porto tram", n: 2 }
+- { id: vila-do-conde, q: "Vila do Conde", n: 2 }
+- { id: viana-do-castelo, q: "Viana do Castelo", n: 3, qi: false }
+- { id: caminha, q: "Caminha Portugal", n: 1, qi: false }
+- { id: a-guarda, q: "Monte Santa Trega A Guarda", n: 2, qi: false }
+- { id: baiona, q: "Baiona Galicia", n: 2 }
+- { id: vigo, q: "Vigo ria", n: 1 }
+- { id: pontevedra, q: "Pontevedra", n: 2 }
+- { id: padron, q: "Padron Galicia", n: 1, qi: false }
+- { id: santiago-cathedral, q: "Cathedral of Santiago de Compostela", n: 4 }
+- { id: camino-marker, q: "Camino de Santiago marker", n: 3, qi: false }
+- { id: horreo, q: "horreo Galicia", n: 2 }
+
+# ---------------------------------------------------------------- Georgia
+- { id: tbilisi, q: "Tbilisi", n: 5, as: [jpg, jpg, webp, jpg, jpg] }
+- { id: abanotubani, q: "Abanotubani Tbilisi", n: 2 }
+- { id: mestia, q: "Mestia", n: 4 }
+- { id: svan-tower, q: "Svan towers", n: 3 }
+- { id: ushguli, q: "Ushguli", n: 5 }
+- { id: adishi, q: "Adishi", n: 3, qi: false }
+- { id: chalaadi, q: "Chalaadi glacier", n: 2, qi: false }
+- { id: svaneti-peaks, q: "Tetnuldi", n: 2, qi: false }
+- { id: shkhara, q: "Shkhara", n: 2, qi: false }
+
+# ---------------------------------------------------------------- Shetland and the sea
+- { id: lerwick, q: "Lerwick harbour", n: 3 }
+- { id: bressay, q: "Bressay", n: 1, qi: false }
+- { id: sumburgh-head, q: "Sumburgh Head", n: 2 }
+- { id: puffin, q: "Atlantic puffin", n: 3 }
+- { id: eshaness, q: "Eshaness cliffs", n: 2, qi: false }
+- { id: mousa-broch, q: "Mousa Broch", n: 2 }
+- { id: shetland-pony, q: "Shetland pony", n: 2 }
+- { id: sailing-yacht, q: "sailing yacht at sea", n: 4 }
+- { id: wooden-sailboat, q: "gaff cutter sailing", n: 3 }
+- { id: north-sea-waves, q: "North Sea waves", n: 3 }
+
+# ---------------------------------------------------------------- Crafts
+- { id: coptic-binding, q: "coptic binding book", n: 3, qi: false }
+- { id: bookbinding-tools, q: "bone folder", n: 3, qi: false }
+- { id: book-press, q: "bookbinding press", n: 2, qi: false }
+- { id: sewing-frame, q: "bookbinding sewing frame", n: 1, qi: false }
+- { id: handmade-notebook, q: "handmade notebook", n: 3, qi: false }
+- { id: marbled-paper, q: "marbled paper", n: 5, qi: false }
+- { id: linocut, q: "linocut", n: 4, qi: false }
+- { id: workbench, q: "woodworking workbench", n: 3, qi: false }
+- { id: hand-plane, q: "hand plane wood shavings", n: 3, qi: false }
+- { id: dovetail, q: "dovetail joint", n: 3, qi: false }
+- { id: chisels, q: "wood chisels", n: 2 }
+- { id: oak-boards, q: "oak boards timber", n: 2, qi: false }
+- { id: cutting-board, q: "wooden cutting board", n: 2 }
+- { id: potters-wheel, q: "pottery wheel", n: 3, qi: false }
+- { id: kiln, q: "pottery kiln", n: 2, qi: false }
+- { id: glaze, q: "ceramic glaze", n: 2, qi: false }
+- { id: mug, q: "handmade ceramic mug", n: 2, qi: false }
+- { id: knitting, q: "knitting needles wool", n: 4, qi: false }
+- { id: sweater, q: "knitted sweater", n: 2, qi: false }
+- { id: quilt, q: "patchwork quilt", n: 4, qi: false }
+- { id: sewing-box, q: "sewing box thread", n: 2, qi: false }
+- { id: thimble, q: "thimble", n: 1 }
+- { id: sewing-machine, q: "vintage sewing machine", n: 1 }
+- { id: leather-tools, q: "leather craft tools", n: 2, qi: false }
+- { id: leather-wallet, q: "leather wallet stitched", n: 2, qi: false }
+- { id: wooden-spoon, q: "carved wooden spoon", n: 3, qi: false }
+- { id: carving-knife, q: "carving knife", n: 1, qi: false }
+- { id: tapestry-loom, q: "tapestry loom weaving", n: 3, qi: false }
+- { id: yarn, q: "yarn wool skeins", n: 2 }
+- { id: calligraphy, q: "calligraphy pen ink", n: 2, qi: false }
+- { id: sign-painting, q: "hand painted sign lettering", n: 2, qi: false }
+- { id: paper-lantern, q: "paper lantern", n: 3 }
+- { id: watercolour, q: "watercolor paint box", n: 3, qi: false }
+- { id: pen-and-ink, q: "dip pen ink drawing", n: 2, qi: false }
+- { id: printing-press, q: "printing press letterpress", n: 2 }
+- { id: vintage-bicycle, q: "vintage bicycle", n: 3 }
+- { id: bike-tools, q: "bicycle repair tools", n: 2, qi: false }
+- { id: tomato-plant, q: "tomato plants balcony", n: 2, qi: false }
+- { id: basil, q: "basil plant", n: 1 }
+- { id: seedlings, q: "seedlings pots", n: 2, qi: false }
+
+# ---------------------------------------------------------------- The kayak
+- { id: sea-kayak, q: "sea kayak", n: 5 }
+- { id: kayak-building, q: "kayak construction", n: 4, qi: false }
+- { id: plywood, q: "marine plywood", n: 2, qi: false }
+- { id: fibreglass, q: "fiberglass cloth", n: 3, qi: false }
+- { id: varnish, q: "varnished wooden boat", n: 2 }
+- { id: boat-workshop, q: "boat building workshop", n: 3, qi: false }
+- { id: kayak-paddle, q: "kayak paddle", n: 2, qi: false }
+- { id: kayak-shore, q: "kayak on the shore", n: 2, qi: false }
+- { id: copper-wire, q: "copper wire coil", n: 1 }
+- { id: wooden-boat, q: "wooden boat building", n: 3, qi: false }
+- { id: kayak-fjord, q: "kayak fjord Norway", n: 3, qi: false }
+
+# ---------------------------------------------------------------- The house
+- { id: old-window, q: "old wooden window", n: 5, qi: false }
+- { id: wood-stove, q: "wood stove", n: 4, qi: false }
+- { id: old-roof, q: "old roof tiles Norway", n: 3, qi: false }
+- { id: insulation, q: "wood fibre insulation", n: 2, qi: false }
+- { id: hand-tools, q: "hand tools wall", n: 3, qi: false }
+- { id: kitchen-renovation, q: "kitchen renovation", n: 2, qi: false }
+- { id: barn, q: "old barn Norway", n: 4, qi: false }
+- { id: wooden-floor, q: "old wooden floorboards", n: 2, qi: false }
+- { id: old-door, q: "old wooden door", n: 2 }
+- { id: well, q: "old stone well", n: 2, qi: false }
+- { id: staircase, q: "old wooden staircase", n: 1, qi: false }
+- { id: paint-tins, q: "paint cans brushes", n: 2, qi: false }
+- { id: firewood, q: "firewood stack", n: 3 }
+
+# ---------------------------------------------------------------- Cider and food
+- { id: apple-press, q: "cider press apples", n: 3, qi: false }
+- { id: cider-bottles, q: "cider bottles", n: 2, qi: false }
+- { id: apples, q: "apples Gravenstein", n: 4, qi: false }
+- { id: sourdough, q: "sourdough bread", n: 4, qi: false }
+- { id: haggis, q: "haggis", n: 2, qi: false }
+- { id: pinnekjott, q: "pinnekjott", n: 2, qi: false }
+- { id: waffles, q: "Norwegian waffles", n: 2, qi: false }
+- { id: skillingsbolle, q: "skillingsbolle cinnamon bun", n: 2, qi: false }
+- { id: khachapuri, q: "khachapuri", n: 2, qi: false }
+- { id: pastel-de-nata, q: "pastel de nata", n: 2 }
+- { id: ramen, q: "ramen", n: 1 }
+- { id: rowan-berries, q: "Sorbus aucuparia berries", n: 3, for: "the first avatar, rowan jelly" }
+- { id: jam-jars, q: "jam jars", n: 2, qi: false }
+- { id: brunost, q: "brunost", n: 2, qi: false }
+- { id: fish-soup, q: "fish soup", n: 1, qi: false }
+
+# ---------------------------------------------------------------- Biscuit
+- { id: ginger-cat, q: "ginger cat", n: 18, for: "Biscuit" }
+- { id: cat-window, q: "cat sitting window", n: 3, qi: false }
+- { id: cat-paws, q: "cat paws", n: 2 }
+- { id: cat-carrier, q: "cat carrier", n: 1, qi: false }
+
+# ---------------------------------------------------------------- Music
+- { id: cello, q: "cello", n: 6 }
+- { id: cello-bow, q: "cello bow", n: 2, qi: false }
+- { id: cello-scroll, q: "cello scroll pegbox", n: 2, qi: false }
+- { id: rosin, q: "rosin violin", n: 1, qi: false }
+- { id: bach-manuscript, q: "BWV 1007 manuscript", n: 3, qi: false }
+- { id: concert-hall, q: "concert hall interior", n: 3, qi: false }
+- { id: church-interior, q: "church interior Norway wooden", n: 2 }
+- { id: accordion, q: "accordion", n: 3 }
+- { id: music-stand, q: "music stand sheet music", n: 1, qi: false }
+- { id: empty-stage, q: "orchestra chairs stage", n: 2, qi: false }
+- { id: robin-bird, q: "European robin", n: 2, for: "the linocut robin, an avatar" }
+
+# ---------------------------------------------------------------- Maps, code, instruments
+- { id: theodolite, q: "theodolite", n: 2 }
+- { id: barometer, q: "brass barometer", n: 2, qi: false, for: "Mr Haldorsen" }
+- { id: raspberry-pi, q: "Raspberry Pi board", n: 3, qi: false }
+- { id: weather-sensors, q: "weather station sensors", n: 2, qi: false }
+- { id: pen-plotter, q: "pen plotter", n: 3, qi: false }
+- { id: stepper-motor, q: "stepper motor", n: 1, qi: false }
+- { id: server-rack, q: "home server computer", n: 1, qi: false }
+- { id: quadcopter, q: "quadcopter drone", n: 2, qi: false }
+- { id: nautical-chart, q: "nautical chart", n: 4, qi: false }
+- { id: tide-gauge, q: "tide gauge", n: 2, qi: false }
+- { id: compass, q: "magnetic compass map", n: 2, qi: false }
+- { id: contour-map, q: "topographic map contour lines", n: 3, type: png }
+- { id: tide-diagram, q: "tide tidal constituents diagram", n: 2, type: png }
+- { id: qgis-screenshot, q: "QGIS screenshot", n: 3, type: png }
+- { id: lidar, q: "lidar point cloud", n: 2, type: png }
+- { id: flood-map, q: "flood map", n: 2, type: png }
+- { id: old-map-whitby, q: "Whitby map", n: 3, qi: false }
+- { id: old-map-yorkshire, q: "Yorkshire coast old map", n: 3, qi: false }
+- { id: old-map-scotland, q: "old map Edinburgh Leith", n: 2, qi: false }
+- { id: old-map-norway, q: "old map Bergen", n: 2, qi: false }
+- { id: map-norway, q: "Norway location map", n: 2, type: svg }
+- { id: map-scotland, q: "Scotland location map", n: 2, type: svg }
+- { id: map-hardanger, q: "Hordaland map", n: 1, type: svg }
+- { id: map-bergen, q: "Bergen map", n: 1, type: svg }
+- { id: map-yorkshire, q: "North Yorkshire map", n: 1, type: svg }
+- { id: map-iceland, q: "Iceland map", n: 1, type: svg }
+- { id: map-kumano, q: "Wakayama Prefecture map", n: 1, type: svg }
+- { id: map-camino, q: "Camino Portugues map", n: 1, type: svg }
+- { id: map-georgia, q: "Georgia location map", n: 1, type: svg }
+- { id: map-shetland, q: "Shetland map", n: 1, type: svg }
+- { id: contour-svg, q: "contour lines", n: 2, type: svg }
+- { id: tide-svg, q: "tide diagram", n: 3, type: svg }
+- { id: knot-svg, q: "knot diagram bowline", n: 2, type: svg }
+- { id: knee-diagram, q: "knee joint anatomy", n: 2, type: svg }
+- { id: map-symbol, q: "map symbol", n: 4, type: svg }
+- { id: icon, q: "Font Awesome 5 solid", n: 14, type: svg, for: "icons of tags, pages and projects" }
+
+# ---------------------------------------------------------------- Sky, weather, seasons
+- { id: frost, q: "frost leaves", n: 3 }
+- { id: hoarfrost, q: "hoarfrost", n: 2 }
+- { id: storm-waves, q: "storm waves pier", n: 3 }
+- { id: rain-window, q: "raindrops window", n: 3, qi: false }
+- { id: rainbow, q: "rainbow", n: 2 }
+- { id: perseids, q: "Perseid meteor", n: 2, qi: false }
+- { id: milky-way, q: "Milky Way night sky", n: 2 }
+- { id: snowfall, q: "snowfall", n: 2 }
+- { id: fog, q: "fog sea", n: 3 }
+- { id: clouds, q: "clouds sky", n: 3 }
+- { id: sunrise-winter, q: "winter sunrise", n: 2 }
+- { id: full-moon, q: "full moon", n: 2, for: "tides" }
+- { id: icicles, q: "icicles", n: 2 }
+- { id: autumn-leaves, q: "autumn leaves", n: 2 }
+
+# ---------------------------------------------------------------- Health and odds
+- { id: running-shoes, q: "running shoes", n: 2, qi: false }
+- { id: running-track, q: "running path park", n: 1, qi: false }
+- { id: sea-bath, q: "sea bath", n: 2, qi: false }
+- { id: first-aid-kit, q: "first aid kit", n: 1, qi: false }
+
+# ---------------------------------------------------------------- Animated pictures
+- { id: tide-animation, q: "tide animation", n: 2, type: gif }
+- { id: knot-animation, q: "knot animation", n: 2, type: gif }
+- { id: moon-animation, q: "moon phases animation", n: 1, type: gif }
+- { id: weather-animation, q: "weather radar animation", n: 1, type: gif }
+- { id: anim-misc, q: "wave animation", n: 1, type: gif }
+
+# ---------------------------------------------------------------- Videos
+- { id: video-waves, q: "waves beach", n: 3, type: video, as: [mp4, webm, mp4] }
+- { id: video-waterfall, q: "waterfall Iceland", n: 3, type: video, as: [mp4, mp4, mov] }
+- { id: video-icebergs, q: "icebergs", n: 2, type: video, as: [mp4, webm] }
+- { id: video-japan, q: "Kyoto", n: 3, type: video, as: [mp4, webm, mp4] }
+- { id: video-deer, q: "Nara deer", n: 1, type: video, as: mp4 }
+- { id: video-rain, q: "rain", n: 3, type: video, as: [mp4, webm, mov] }
+- { id: video-bergen, q: "Bergen", n: 3, type: video, as: [mp4, mp4, webm] }
+- { id: video-aurora, q: "aurora borealis time-lapse", n: 3, type: video, as: [mp4, webm, mov] }
+- { id: video-fjord, q: "fjord Norway", n: 3, type: video, as: [mp4, mov, mp4] }
+- { id: video-blossom, q: "blossom wind", n: 1, type: video, as: webm }
+- { id: video-porto, q: "Porto", n: 2, type: video, as: [mp4, mov] }
+- { id: video-galicia, q: "Galicia coast", n: 1, type: video, as: mp4 }
+- { id: video-georgia, q: "Georgia mountains", n: 2, type: video, as: [mp4, webm] }
+- { id: video-sailing, q: "sailing boat", n: 3, type: video, as: [mp4, mov, mp4] }
+- { id: video-puffins, q: "puffins", n: 1, type: video, as: mp4 }
+- { id: video-pottery, q: "pottery wheel", n: 2, type: video, as: [mp4, webm] }
+- { id: video-knitting, q: "knitting", n: 1, type: video, as: mp4 }
+- { id: video-weaving, q: "weaving loom", n: 1, type: video, as: mov }
+- { id: video-cat, q: "cat", n: 3, type: video, as: [mp4, webm, mov] }
+- { id: video-fire, q: "fireplace fire", n: 2, type: video, as: [mp4, webm] }
+- { id: video-snow, q: "snowfall", n: 2, type: video, as: [mp4, mov] }
+- { id: video-storm, q: "storm sea waves", n: 2, type: video, as: [mp4, webm] }
+- { id: video-gulls, q: "seagulls", n: 1, type: video, as: mp4 }
+- { id: video-kayak, q: "kayak", n: 2, type: video, as: [mp4, mov] }
+- { id: video-bells, q: "church bells ringing", n: 1, type: video, as: webm }
+- { id: video-train, q: "train snow Norway", n: 1, type: video, as: mp4 }
+- { id: video-stars, q: "night sky time-lapse", n: 1, type: video, as: webm }
+- { id: video-river, q: "mountain river", n: 2, type: video, as: [mp4, mov] }
+- { id: video-edinburgh, q: "Edinburgh", n: 2, type: video, as: [mp4, webm] }
+- { id: video-whitby, q: "Whitby", n: 1, type: video, as: mp4 }
+- { id: video-lofoten, q: "Lofoten", n: 1, type: video, as: mp4 }
+- { id: video-tbilisi, q: "Tbilisi", n: 1, type: video, as: webm }
+
+# ---------------------------------------------------------------- Recordings
+- { id: sound-rain, q: "rain sound", n: 5, type: audio, as: [ogg, wav, flac, mp3, m4a] }
+- { id: sound-thunder, q: "thunder", n: 2, type: audio, as: [mp3, ogg] }
+- { id: sound-waves, q: "sea waves sound", n: 4, type: audio, as: [flac, mp3, ogg, wav] }
+- { id: sound-wind, q: "wind sound", n: 2, type: audio, as: [ogg, m4a] }
+- { id: sound-gulls, q: "Larus argentatus call", n: 3, type: audio, as: [mp3, ogg, wav] }
+- { id: sound-oystercatcher, q: "Haematopus ostralegus", n: 1, type: audio, as: mp3 }
+- { id: sound-curlew, q: "Numenius arquata", n: 1, type: audio, as: ogg }
+- { id: sound-kittiwake, q: "kittiwake", n: 1, type: audio, as: flac }
+- { id: sound-puffin, q: "Fratercula arctica", n: 1, type: audio, as: m4a }
+- { id: sound-robin, q: "Erithacus rubecula song", n: 2, type: audio, as: [mp3, ogg] }
+- { id: sound-blackbird, q: "Turdus merula song", n: 1, type: audio, as: wav }
+- { id: sound-bells, q: "church bells", n: 4, type: audio, as: [ogg, mp3, flac, m4a] }
+- { id: sound-foghorn, q: "foghorn", n: 2, type: audio, as: [mp3, wav] }
+- { id: sound-ship-horn, q: "ship horn", n: 1, type: audio, as: ogg }
+- { id: sound-harbour, q: "harbor ambience", n: 2, type: audio, as: [mp3, flac] }
+- { id: sound-stream, q: "stream water sound", n: 2, type: audio, as: [ogg, m4a] }
+- { id: sound-waterfall, q: "waterfall sound", n: 1, type: audio, as: wav }
+- { id: sound-fire, q: "fire crackling", n: 2, type: audio, as: [mp3, ogg] }
+- { id: sound-purr, q: "cat purring", n: 2, type: audio, as: [mp3, wav] }
+- { id: sound-footsteps-snow, q: "walking on snow", n: 1, type: audio, as: flac }
+- { id: sound-train, q: "train passing sound", n: 1, type: audio, as: mp3 }
+- { id: sound-tram, q: "tram sound", n: 1, type: audio, as: ogg }
+- { id: sound-city, q: "city ambience", n: 1, type: audio, as: m4a }
+- { id: sound-ice, q: "lake ice sound", n: 1, type: audio, as: wav }
+- { id: sound-chimes, q: "wind chimes", n: 1, type: audio, as: flac }
+- { id: music-bach-cello, q: "Bach cello suite", n: 4, type: audio, as: [mp3, ogg, flac, m4a] }
+- { id: music-cello, q: "cello", n: 4, type: audio, as: [ogg, mp3, wav, flac] }
+- { id: music-accordion, q: "accordion", n: 3, type: audio, as: [mp3, ogg, m4a] }
+- { id: music-hardanger-fiddle, q: "Hardingfele", n: 3, type: audio, as: [ogg, mp3, flac] }
+- { id: music-strings, q: "string orchestra", n: 3, type: audio, as: [mp3, ogg, m4a] }
+- { id: music-bagpipes, q: "bagpipes", n: 2, type: audio, as: [ogg, mp3] }
+- { id: music-organ, q: "church organ", n: 1, type: audio, as: flac }
+- { id: music-shakuhachi, q: "shakuhachi", n: 1, type: audio, as: m4a }
+- { id: music-georgian, q: "Georgian polyphony", n: 1, type: audio, as: mp3 }
+
+# ---------------------------------------------------------------- Documents
+- { id: doc-tides-manual, q: "Manual of harmonic analysis and prediction of tides", n: 1, type: pdf, for: "tideline" }
+- { id: doc-tide-tables, q: "tide tables", n: 2, type: pdf, for: "tideline" }
+- { id: doc-bookbinding, q: "bookbinding", n: 3, type: pdf, for: "coptic notebooks" }
+- { id: doc-marbling, q: "marbling paper", n: 1, type: pdf }
+- { id: doc-cartography, q: "topographical drawing", n: 2, type: pdf, for: "illustrated maps, lettering" }
+- { id: doc-lettering, q: "lettering alphabets", n: 1, type: pdf }
+- { id: doc-coastal-erosion, q: "coastal erosion", n: 2, type: pdf, for: "dissertation" }
+- { id: doc-cello, q: "cello method", n: 1, type: pdf }
+- { id: doc-bach-suites, q: "Bach cello suites", n: 1, type: pdf }
+- { id: doc-cider, q: "cider making", n: 1, type: pdf }
+- { id: doc-apples, q: "apple varieties", n: 1, type: pdf }
+- { id: doc-bread, q: "bread making", n: 1, type: pdf }
+- { id: doc-knitting, q: "knitting", n: 1, type: pdf }
+- { id: doc-quilt, q: "quilts", n: 1, type: pdf }
+- { id: doc-first-aid, q: "first aid", n: 1, type: pdf }
+- { id: doc-sailing, q: "seamanship sailing", n: 1, type: pdf }
+- { id: doc-boatbuilding, q: "boat building", n: 1, type: pdf }
+- { id: doc-pottery, q: "pottery", n: 1, type: pdf }
+- { id: doc-woodworking, q: "woodworking", n: 1, type: pdf }
+- { id: doc-weather, q: "meteorology", n: 1, type: pdf }
+- { id: doc-geology, q: "geology", n: 1, type: pdf }
+- { id: doc-norway, q: "Norway", n: 1, type: pdf }
+- { id: doc-whitby, q: "Whitby", n: 1, type: pdf }
+- { id: doc-map-symbols, q: "map symbols", n: 1, type: pdf }
+- { id: doc-camino, q: "Camino de Santiago", n: 1, type: pdf }

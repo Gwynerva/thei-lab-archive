@@ -1,0 +1,10 @@
+kind: other
+ext: csv
+title: Balcony weather, June 2020
+description: The first seventeen days of the balcony station, hour by hour.
+origin: generated
+licence: CC0-1.0
+licenceUrl: https://creativecommons.org/publicdomain/zero/1.0/
+transform: made by scripts/media/gen.ts
+people: none
+truth: a generated CSV of fictional hourly weather readings (408 rows from 2020-06-14), made for the archive

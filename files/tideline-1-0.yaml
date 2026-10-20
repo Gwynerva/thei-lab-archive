@@ -1,0 +1,10 @@
+kind: other
+ext: zip
+title: tideline 1.0 source
+description: The source of the 1.0 release, as it was tagged.
+origin: generated
+licence: CC0-1.0
+licenceUrl: https://creativecommons.org/publicdomain/zero/1.0/
+transform: made by scripts/media/gen.ts
+people: none
+truth: a generated zip of a small fictional Python library, a few short text files

@@ -1,0 +1,10 @@
+kind: other
+ext: csv
+title: Munros climbed
+description: The thirty-four, in order, with heights in metres.
+origin: generated
+licence: CC0-1.0
+licenceUrl: https://creativecommons.org/publicdomain/zero/1.0/
+transform: made by scripts/media/gen.ts
+people: none
+truth: a generated CSV listing real Scottish mountains with their heights and fictional dates of ascent

@@ -1,0 +1,9 @@
+kind: other
+ext: json
+title: Plotter settings
+origin: generated
+licence: CC0-1.0
+licenceUrl: https://creativecommons.org/publicdomain/zero/1.0/
+transform: made by scripts/media/gen.ts
+people: none
+truth: a generated JSON of fictional pen-plotter settings

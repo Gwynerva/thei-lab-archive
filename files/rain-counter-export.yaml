@@ -1,0 +1,10 @@
+kind: other
+ext: csv
+title: Rain counter export
+description: "Every day from October 2022 to March 2023: millimetres, and whether it counts as wet."
+origin: generated
+licence: CC0-1.0
+licenceUrl: https://creativecommons.org/publicdomain/zero/1.0/
+transform: made by scripts/media/gen.ts
+people: none
+truth: a generated CSV of fictional daily rainfall for six months, made for the archive
