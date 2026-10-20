@@ -75,7 +75,7 @@ format: 1            # the format's major version
 revision: 0          # the constructs this archive may use (see "Versions")
 version: 1.0.0       # this archive's release
 title: …             # what the life is, in a few words
-language: ru         # the site language the texts are written for
+language: en         # the site language the texts are written for (Thei has en and ru)
 span:
   start: 2016-10-01  # the first day the archive writes about
   end: 2026-10-15    # the last absolute day it writes about
@@ -222,8 +222,8 @@ periods:
   - start: 2019-09-01
     end: today+90                    # still running: its end has not come
     precision: month                 # exact (default) | day | month | year
-    doubt: "начала не помню точно"   # what is unsure; only when precision is not exact
-    label: "Учёба"                   # names the stretch; a heading, at most 100 characters
+    doubt: "not sure when it began"  # what is unsure; only when precision is not exact
+    label: "University"              # names the stretch; a heading, at most 100 characters
 ```
 
 `end` defaults to `start`. A start after its end is an error.
@@ -233,7 +233,7 @@ periods:
 ```yaml
 statuses:
   - date: 2021-03-02
-    text: "Ищу дерево для рамы"
+    text: "Looking for wood for the frame"
     file: workbench-photo            # a picture beside the status; optional
   - date: 2021-04-10
     empty: true                      # "nothing to say": a status with no words
@@ -252,12 +252,12 @@ end, never on both:
 relations:
   - to: event:first-fair
     kind: related                    # related | depends-on | affects, read from this side
-    note: "там впервые показала лампу"
+    note: "where I first showed the lamp"
   - to: diary:2020-02-14
     kind: affects
     notes:
-      this: "что эта сторона говорит"
-      other: "что говорит другая"
+      this: "what this side says"
+      other: "what the other side says"
 ```
 
 A relation joins two of projects, events and diary entries. A relation to a
@@ -268,7 +268,7 @@ text is a link, not a relation.
 
 ```yaml
 action:
-  text: "Скачать"                    # required, at most 30 characters
+  text: "Download"                   # required, at most 30 characters
   link: https://…                    # either link …
   file: assembly-guide               # … or file
   color: "#3a7bd5"                   # accent colour
@@ -333,7 +333,9 @@ run together. In an entity ref `<kind>` is `project`, `section`, `event`,
 
 A fragment is optional and kept as written: `#:~:text=…` points at a passage.
 `#h:<heading words>` names a heading of the target by its words; the adapter
-turns it into the anchor Thei gives that heading.
+turns it into the anchor Thei gives that heading. A link's address holds no
+spaces, so one whose fragment has them is written in angle brackets:
+`[words](<ref:section:lamp/idea#h:Where the idea came from> "note")`.
 
 ## Relative days
 
@@ -383,8 +385,8 @@ What was planted on purpose, so that a test can find "an untagged event" or
   ref: event:autumn-fair             # or file: <id>
   traits: [typos]
   where: body                        # body | notes | caption | hint | status | period-label | fact | description | link-note | relation-note | title
-  word: "пррект"                     # the planted word, when there is one
-  detail: "«пррект» → «проект»"
+  word: "prjoect"                    # the planted word, when there is one
+  detail: 'prjoect → project'
 ```
 
 Traits are an open vocabulary. Common ones: `typos`, `unique-word`,
