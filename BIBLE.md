@@ -1,20 +1,23 @@
-# The bible: Rowan Ellery, 2016–2026
+# The bible: Mira Testwell, 2016–2026
 
 The life this archive writes down. For authors only: no reader parses it. Ids
 named here (projects, sections, events, pages, tags) are the ones the archive
 uses; a change of an id here is a change there.
 
-Everything is invented. Rowan, her family, her friends, her employers, her
+Everything is invented. Mira, her family, her friends, her employers, her
 teachers, the farm and every business named here are fictional. Places are
 real and public (towns, mountains, streets, festivals, storms with public
 names); nothing private of anyone real is written. No famous person appears.
 
 ---
 
-## 1. Rowan
+## 1. Mira
 
-**Rowan Ellery** (she/her), born **1992-03-14** in Whitby, North Yorkshire.
-Named after the rowan tree in her grandmother's garden at Robin Hood's Bay.
+**Mira Testwell** (she/her), born **1992-03-14** in Whitby, North Yorkshire.
+Named after Mira, the star in the Whale that her grandfather Arthur showed
+Nana June from the deck of a ship ("the wonderful one: it comes and goes, but
+it always comes back"). The rowan tree in Nana's garden at Robin Hood's Bay is
+the family's other emblem: rowan jelly, rowan berries on her first avatar.
 Pi Day birthday, which she brings up more often than anyone wants.
 
 Cartographer and GIS developer; maker of small things by hand. Curious,
@@ -22,7 +25,7 @@ stubborn, funny in a dry way, prone to taking on one project too many. Not a
 natural athlete but walks everywhere. Keeps lists. Draws maps in the margins
 of everything. Writes British English (colour, metres, organise, mum).
 
-Online handle: `rowan`. Slogan (from 2024): *Maps, small boats and things made
+Online handle: `mira`. Slogan (from 2024): *Maps, small boats and things made
 by hand.* Earlier slogan (2016–2023, only in the diary's memory): *Mostly
 maps.*
 
@@ -46,9 +49,9 @@ None of them is real. Ages are as of October 2016.
 
 | Who | Born | What | Notes |
 | --- | --- | --- | --- |
-| **Helen Ellery** (Mum) | 1963-02-20 | primary school teacher in Whitby; retires 2023-07-21 | quiet, gardener, makes jam, Sunday phone calls |
-| **Martin Ellery** (Dad) | 1963-07-08 | runs *Ellery's Chandlery*, a small boat-repair and rope shop on Whitby harbour | practical, terse, loves tides; heart scare (stent) 2022-09; 60th birthday 2023-07-08 |
-| **Clare Ellery** (sister) | 1989-10-02 | A&E nurse in Leeds | marries **Dev Mistry** (physiotherapist) 2018-09-08 in York; daughter **Isla Mistry** born 2024-03-02 |
+| **Helen Testwell** (Mum) | 1963-02-20 | primary school teacher in Whitby; retires 2023-07-21 | quiet, gardener, makes jam, Sunday phone calls |
+| **Martin Testwell** (Dad) | 1963-07-08 | runs *Testwell's Chandlery*, a small boat-repair and rope shop on Whitby harbour | practical, terse, loves tides; heart scare (stent) 2022-09; 60th birthday 2023-07-08 |
+| **Clare Testwell** (sister) | 1989-10-02 | A&E nurse in Leeds | marries **Dev Mistry** (physiotherapist) 2018-09-08 in York; daughter **Isla Mistry** born 2024-03-02 |
 | **June Dunn** (Nana June, Mum's mother) | 1929-06-15 | retired seamstress, Robin Hood's Bay | letters, quilts, rowan jelly; falls 2018-11; 90 in 2019; dies **2020-11-21** |
 | **Arthur Dunn** | 1926–1998 | Nana's husband, merchant seaman | only in Nana's letters (1950s) |
 
@@ -58,13 +61,13 @@ None of them is real. Ages are as of October 2016.
 | --- | --- |
 | **Priya Nair** | best friend and flatmate in Leith; PhD in marine biology (viva 2019-03-22); moves to Plymouth for a postdoc 2019-09; Iceland 2018, Lofoten 2022, the wedding 2026 |
 | **Callum Reid** | flatmate, chef; haggis on Burns Night; leaves for Glasgow 2018-08-31, opens a café, *The Wee Oven*, 2018-11-24 |
-| **Marta Kowalczyk** | flatmate from 2018-09-02; violinist in the same orchestra; data analyst; helps Rowan pack in 2021 |
+| **Marta Kowalczyk** | flatmate from 2018-09-02; violinist in the same orchestra; data analyst; helps Mira pack in 2021 |
 | **Dr Alison Grieve** | dissertation supervisor at the University of Edinburgh |
 | **Sam Okafor** | the university's drone technician; flies the survey at Whitby in 2017 |
 | **Fergus Lowe** | bookbinder, runs *Lowe Bindery* in Stockbridge; teaches the Tuesday course 2017; closes the bindery 2022 |
-| **Dougie Mair** | founder of *Forthline Mapping*, Leith; Rowan's first boss |
-| **Ines Carvalho** | colleague at Forthline 2017–2020, from Porto; back to Porto 2020; walks the first days of the Camino with Rowan 2024 |
-| **Eilidh Ogilvie** | cello teacher, retired orchestral cellist, Mrs Ogilvie to Rowan forever |
+| **Dougie Mair** | founder of *Forthline Mapping*, Leith; Mira's first boss |
+| **Ines Carvalho** | colleague at Forthline 2017–2020, from Porto; back to Porto 2020; walks the first days of the Camino with Mira 2024 |
+| **Eilidh Ogilvie** | cello teacher, retired orchestral cellist, Mrs Ogilvie to Mira forever |
 | **Agnes Muir** | conductor of the *Leith Scratch Orchestra* |
 | **Morag Fleming** | physiotherapist, 2020–2021 |
 
@@ -72,11 +75,11 @@ None of them is real. Ages are as of October 2016.
 
 | Who | What |
 | --- | --- |
-| **Anna Solheim** | Rowan's team lead at *Nordvåg Kart AS*, Bergen; becomes a friend; Christmas 2021 at her family's |
-| **Jonas Brekke** | b. 1988-11-04; boatbuilder and sea-kayak instructor; teaches at a boat workshop in Bergen. Meets Rowan at a kayak course 2022-01-15; lends his workshop for the kayak; moves in 2023-08-01; asks her to marry him 2025-12-24; wedding 2026-08-22 |
+| **Anna Solheim** | Mira's team lead at *Nordvåg Kart AS*, Bergen; becomes a friend; Christmas 2021 at her family's |
+| **Jonas Brekke** | b. 1988-11-04; boatbuilder and sea-kayak instructor; teaches at a boat workshop in Bergen. Meets Mira at a kayak course 2022-01-15; lends his workshop for the kayak; moves in 2023-08-01; asks her to marry him 2025-12-24; wedding 2026-08-22 |
 | **Sigrid Brekke** | Jonas's mother, fruit farmer near Utne, Hardanger; apples, cider, firm opinions |
 | **Ragnhild Brekke** | b. 1934; Jonas's great-aunt; lived at Øvre Lid until 2024, then a care home in Odda; offers the house |
-| **Sverre Haldorsen** | old neighbour in Sandviken, retired ship's mate; teaches Rowan Bergen weather; gives her his brass barometer when he moves to his daughter's (2023) |
+| **Sverre Haldorsen** | old neighbour in Sandviken, retired ship's mate; teaches Mira Bergen weather; gives her his brass barometer when he moves to his daughter's (2023) |
 | **Leif** | luthier in Bergen who fixes the cello's seam (2022) |
 | **Eirik and Kari Nesheim** | neighbours at Utne with the cider press |
 | **Tove** | therapist, 2023–2024 (private things only) |
@@ -106,7 +109,7 @@ None of them is real. Ages are as of October 2016.
 
 Fictional businesses: *The Spoke Room* (bike co-op, Leith), *Lowe Bindery*
 (Stockbridge), *Forthline Mapping* (Leith), *Nordvåg Kart AS* (Bergen), *The
-Wee Oven* (Callum's café, Glasgow), *Ellery's Chandlery* (Whitby), *Forlaget
+Wee Oven* (Callum's café, Glasgow), *Testwell's Chandlery* (Whitby), *Forlaget
 Fjellstue* (the small Bergen publisher of the atlas).
 
 ## 4. The writing voice
@@ -188,7 +191,7 @@ Diary density is how many days of the year carry an entry (≈ 2,000 in all).
 - Glencoe camping 2018-07-06/08. The hall bookshelf finished 2018-07-21.
 - Munro ten, Schiehallion, 2018-08-11.
 - Callum leaves 2018-08-31; Marta moves in 2018-09-02.
-- **Clare and Dev's wedding** in York 2018-09-08; Rowan made the paper things.
+- **Clare and Dev's wedding** in York 2018-09-08; Mira made the paper things.
 - Storm Ali 2018-09-19. First talk (tideline) at a mapping meetup 2018-10-04.
   Marbling workshop 2018-10-20.
 - Nana falls and breaks her hip 2018-11-03; recovers by Christmas.
@@ -286,7 +289,7 @@ Diary density is how many days of the year carry an entry (≈ 2,000 in all).
 ### 2024 — 32 · ~170 entries · turning
 
 - Back to work, half time, 2024-01-15. Lettering course (Feb–May).
-- **Isla** is born 2024-03-02; Rowan meets her 2024-03-28 → 04-02.
+- **Isla** is born 2024-03-02; Mira meets her 2024-03-28 → 04-02.
 - Notice handed in 2024-04-12; last day at Nordvåg 2024-05-31.
 - All seven mountains in one day 2024-06-02.
 - **Camino Portugués** 2024-06-07 → 22, the coastal way from Porto to Santiago,
@@ -1421,7 +1424,7 @@ Tag icons: about thirty tags carry an icon (a picture).
 
 ## 11. The profile (`person.md`)
 
-- name **Rowan Ellery**, nickname **rowan**, birthDate 1992-03-14,
+- name **Mira Testwell**, nickname **mira**, birthDate 1992-03-14,
   slogan *Maps, small boats and things made by hand*.
 - avatars, oldest first: rowan berries (2016) → a linocut robin (2017) →
   a ginger cat's ear (2019) → a kayak bow (2023) → apple blossom (2025, current).
