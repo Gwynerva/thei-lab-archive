@@ -10,7 +10,7 @@ relations:
     kind: related
 ---
 
-I opened the skylight in the hall to let the paint smell out, turned round for one minute, and Biscuit was gone.
+I opened the skylight to let the paint smell out, turned round for one minute, and Biscuit was gone.
 
 He was on the roof. Four floors up, on the slates, strolling along the ridge between the chimney pots like a tightrope walker in no hurry at all, looking down into the street with great interest. I stood on the stepladder with my head out of the skylight, saying his name in a voice I was trying to keep calm. He looked at me as if I were the one in the wrong place.
 

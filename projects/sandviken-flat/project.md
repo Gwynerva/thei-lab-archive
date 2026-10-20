@@ -25,7 +25,7 @@ relations:
 
 ## The first flat
 
-The first floor of a white house built in the 1870s, two rooms and a kitchen under a roof that ticked as it warmed, a window on the harbour, and a neighbour downstairs, Sverre, a retired ship's mate who taught me Bergen weather and Bergen Norwegian and gave Biscuit sardines on Sundays. I lived there alone with the cat for two years, which is [its own section](ref:section:sandviken-flat/alone).
+The top floor of a white house built in the 1870s, two rooms and a kitchen under a roof that ticked as it warmed, a window on the harbour, and a neighbour downstairs, Sverre, a retired ship's mate who taught me Bergen weather and Bergen Norwegian and gave Biscuit sardines on Sundays. I lived there alone with the cat for two years, which is [its own section](ref:section:sandviken-flat/alone).
 
 ## The second
 

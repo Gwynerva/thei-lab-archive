@@ -22,11 +22,11 @@ files:
     title: Corrections so far
 showcase:
   - file: voringsfossen-1
-    caption: Walk 21, to the top of the falls
+    caption: Walk 17, to the top of the falls
   - file: hardangervidda-3
-    caption: Walk 24, a lake on the plateau
+    caption: Walk 17 again, a lake on the plateau
   - file: steinsdalsfossen-2
-    caption: Walk 3, the waterfall you can walk behind
+    caption: Walk 22, the waterfall you can walk behind
   - file: hardanger-orchard-2
     caption: Walk 9, through the orchards in September
   - file: folgefonna-1
@@ -54,13 +54,13 @@ action:
   background: accent
 ---
 
-*Thirty Walks Around the Fjord* is a walking atlas of Hardanger: thirty walks within a day of our house, each with a map drawn by hand, a page of directions and a few lines about what you'll see. It is published by *Forlaget Fjellstue*, a small publisher in Bergen with four people and a cat, in Norwegian and English in one volume. It is at the printer as I write this.
+*Thirty Walks Around the Fjord* is a walking atlas of Hardanger: thirty walks within a day of our house, each with a map drawn by hand, a page of directions and a few lines about what you'll see. It is published by *Forlaget Fjellstue*, a small publisher in Bergen, four people and a dog above a bike shop, in Norwegian and English in one volume. It is at the printer as I write this.
 
 ## How it began
 
-At the Christmas market in 2024 a woman bought a print of [my Sandviken map](ref:section:illustrated-maps/sandviken) and asked whether I'd ever thought of drawing walks for a book. She turned out to be its publisher. We met in January in a café by the fish market; by the spring we had a plan; on [10 June 2025](ref:event:atlas-contract) I signed.
+At the Christmas market in 2024 a quiet man with a grey beard bought a print of [my seven mountains map](ref:project:illustrated-maps) and asked for my card, twice. He turned out to be a publisher. We met in January in a café by the fish market, and he asked whether I'd ever thought of drawing walks for a book; by the spring we had a plan; on [10 June 2025](ref:event:atlas-contract) I signed.
 
-:::quote[From her first letter, January 2025]{align="center"}
+:::quote[From his first letter, January 2025]{align="center"}
 We don't need another guidebook with photographs. We need one that looks like somebody walked it and drew it, because somebody did.
 :::
 

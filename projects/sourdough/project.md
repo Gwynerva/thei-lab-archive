@@ -48,6 +48,6 @@ Lockdown was very small. A flat, a balcony, one walk a day. Bread made time into
 
 ## Hamish now
 
-He didn't come to Norway. You can't take a starter on a plane without a lot of explaining, and I'd already done a lot of explaining about a cat. He went to Glasgow instead, to [Callum's café](https://example.org/wee-oven), where he works for a living and is fed more regularly than I ever managed. Callum sends a photo every March on his birthday. In Bergen I started again, with a new starter called Sverre, after my neighbour, who was pleased in a way he tried hard to hide.
+He didn't come to Norway. You can't take a starter on a plane without a lot of explaining, and I'd already done a lot of explaining about a cat. He stayed in Leith instead, with Marta, who bakes with him every Saturday and feeds him more regularly than I ever managed; once she took a loaf through to [Callum's café](https://example.org/wee-oven) for a professional opinion. Marta sends a photo every March on his birthday. In Bergen I started again, with a new starter called Sverre, after my neighbour, who was pleased in a way he tried hard to hide.
 
 The notes I kept are on [the bread page](ref:page:bread-notes "hydration, timings, Hamish's diet"), and everything else about bread is somewhere under [tags](/tags/).

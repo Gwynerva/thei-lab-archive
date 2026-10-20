@@ -5,13 +5,13 @@ periods:
 banner: kayak-fjord-2
 ---
 
-nine in the morning, sun, which never happens.
+nine in the morning, flat calm, which never happens.
 
-a slipway near the workshop. jonas, sigrid, anna from work, sverre from downstairs in his good jacket. mum and dad on a video call, the phone in a freezer bag, dad saying "is that the bow? turn it round" every few seconds.
+the slipway below the workshop. jonas, anna from work, two people from the workshop in their good jackets. mum and dad on a video call, the phone in a freezer bag, dad saying "is that the bow? turn it round" every few seconds.
 
-the gold letters on the bow, uncovered: *Nana June*. mum went very quiet on the phone, and then said "oh, love."
+the white letters on the bow, uncovered: *Nana June*. mum went very quiet on the phone, and then said "oh, love."
 
-a spoonful of rowan jelly, from Nana's recipe, stirred into a jug of fjord water and poured over the bow. sigrid asked what it was. I said it's what we have instead of champagne in our family. that isn't true, but it is now.
+a spoonful of rowan jelly, Mum's, from Nana's recipe, on the bow. anna asked what it was. I said it's what we have instead of champagne in our family. that isn't true, but it is now.
 
 then in. push off. she floated level, first time. paddled out past the moored boats into the harbour with everybody shouting behind me, and it was quiet out there, and the water went past the hull with a sound I've kept:
 

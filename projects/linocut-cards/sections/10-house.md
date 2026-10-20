@@ -6,7 +6,7 @@ periods:
 
 ## Fourteen windows in lino
 
-I was warned. Jonas said, "Cut the barn, it's got one door," and I cut the house, with every one of its [fourteen windows](<ref:section:farmhouse/the-house#h:Fourteen windows> "all of them, in lino"), each with four panes, each pane a tiny rectangle of lino to clear without slipping into the next. Fifty-six panes. Two evenings and most of a Sunday by the stove.
+I was warned. Jonas said, "Cut the barn, it's got one door," and I cut the house, with every one of its [fourteen windows](<ref:section:farmhouse/the-house#h:Fourteen windows> "all of them, in lino"), each with its six panes, or near enough, each pane a tiny rectangle of lino to clear without slipping into the next. Eighty-odd panes. Three evenings by the stove to cut, and one to print.
 
 It's the first block cut in a house that is nearly our own, at a trestle in the middle of a kitchen that is currently a hole in the floor, with the fjord going dark outside at half past three.
 

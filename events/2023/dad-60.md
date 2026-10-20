@@ -12,7 +12,7 @@ relations:
 
 Dad is sixty. A party in the shop on the harbour, among the rope and the tins of antifouling. Twenty people, Clare and Dev, Mum's sausage rolls, a cake shaped (badly) like a boat.
 
-The sign went up at four. The old one had hung over the door since before I was born, the letters gone grey, the gold on the T long gone. I painted the new board in Jonas's workshop, five weeks of evenings, and brought it over on the plane in a ski bag wrapped in two duvets.
+The sign went up at four. It had hung over the door since before I was born, the letters gone grey, the gold on the T long gone, until Mum sent it to me in Bergen. I repainted it in Jonas's workshop, five weeks of evenings, and brought it over on the plane in a ski bag wrapped in two duvets.
 
 It says what it always said:
 

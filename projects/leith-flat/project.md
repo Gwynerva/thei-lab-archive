@@ -1,6 +1,6 @@
 ---
 title: The flat in Leith
-summary: Five years at the top of seventy-two steps off Leith Walk, 2016–2021 — Priya and Callum, then Marta, then Biscuit, a skylight, a strip of the Forth and a sofa that never made it up the stair.
+summary: Five years at the top of seventy-two steps off Leith Walk, 2016–2021 — Priya and Callum, then Marta, then Biscuit, a skylight, a strip of the Forth and a sofa that took three months to get up the stair.
 icon: edinburgh-tenement-3
 banner: leith-shore-1
 tags: [leith, home, friends]
@@ -20,7 +20,7 @@ showcase:
   - file: video-edinburgh-1
     caption: The Shore from the top of the bus
   - file: old-map-scotland-1
-    caption: Edinburgh and Leith in 1935, a map that hung in the hall
+    caption: Edinburgh and Leith in 1935, a map that hung beside my desk
 relations:
   - to: project:moving-to-bergen
     kind: related
@@ -50,7 +50,7 @@ The flat had laws, voted on, binding:
 3. Nothing in the fridge labelled SAMPLES is to be eaten, or even looked at.
 4. The sofa lives on the second-floor landing, where it got stuck on the day we moved in, and the neighbours are thanked at Christmas.
 
-The sofa lived on the landing for five years. When I left, it was still there. For all I know it is there now.
+The sofa lived on the landing until New Year, when Callum and the neighbour got it in with a saw, and in 2018 it went down the stair again with Callum. Law four stayed on the fridge for five years anyway.
 
 ::media[Gables by the water at the Shore, on a Sunday walk]{file="leith-shore-4" layout="centered"}
 

@@ -60,8 +60,8 @@ Fifteen days, as I wrote them in the notebook, each with a little map in the mar
 2. **8 June.** Porto: the first stamp at the cathedral, and a day by the river.
 3. **9 June.** Porto to Vila do Conde, the sea on our left, with Ines.
 4. **10 June.** Vila do Conde to Esposende, with Ines.
-5. **11 June.** Esposende to Viana do Castelo, in the rain.
-6. **12 June.** Viana do Castelo to Caminha, at the mouth of the Minho.
+5. **11 June.** Esposende to Viana do Castelo, in the rain, with Ines.
+6. **12 June.** Viana do Castelo to Caminha, at the mouth of the Minho, the last day with Ines.
 
 ### Galicia
 

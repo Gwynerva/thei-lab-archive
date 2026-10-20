@@ -4,7 +4,7 @@ periods:
   - 2018-02-05..2018-04-05
 ---
 
-Day one, the fifth of February: fifty minutes on a rented cello, all bowing, *sore fingers*. My own was at the luthier's having its insides put right, and for a month I practised on an instrument that was better than mine in every way and that I never once liked.
+Day one, the fifth of February: fifty minutes on a rented cello, all bowing, *sore fingers*. My own was at the luthier's having its insides put right, and for a fortnight I practised on an instrument that was better than mine in every way and that I never once liked.
 
 Day sixty, the fifth of April: forty-four minutes of open strings, *tired*, which felt right, because you end where you began.
 

@@ -18,6 +18,6 @@ She gave Jonas the key in August 2024, in an envelope, and asked for rent, not a
 
 > "Is the north end still leaking?" "Yes." "Good. Then it's still the same house."
 
-She told us which trees are the oldest (the row of Gravensteins by the road, which her father planted the year she was confirmed), that the barn lost its roof one winter and was given a new one in 1931, that the well never once ran dry, not even in 1947, and that the house has a ghost who is only a draught from the cellar. She does not want to come back to visit. She said it would be like visiting a man who has married again. But she wants pictures, printed, on paper, and she gets them.
+She told us which trees are the oldest (the row of Gravensteins by the road, which her father planted the year she was confirmed), that the barn lost its roof one winter and was given a new one in 1931, that the well never once ran dry, not even in 1947, and that the house has a ghost who is only a draught from the cellar. She did not want to come back to visit, she said then: it would be like visiting a man who has married again. She came for Christmas all the same, and for the wedding. And she wants pictures, printed, on paper, and she gets them.
 
 [That afternoon in Odda](ref:event:visiting-ragnhild "April 2025") is the best one I have had in this whole project.

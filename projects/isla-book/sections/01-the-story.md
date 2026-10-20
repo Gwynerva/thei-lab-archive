@@ -1,33 +1,37 @@
 ---
 title: The story
-summary: A cat, a stack of maps, and a girl who asks where he's been
+summary: A cat, a kayak, the North Sea, and a baby on the other side of it
 ---
 
 ### How it starts
 
 :::quote[The first page]{align="center"}
-Every night, Biscuit finds a map.\
-Every night, he falls asleep on it.\
-And every morning, he wakes up somewhere else.
+Biscuit lives in Bergen, where it rains.\
+Over the sea, in Whitby, there is a new baby.\
+So Biscuit gets out his kayak.
 :::
 
 ### Where he goes
 
-Eight nights, eight maps, eight places, each on a double page:
+Twelve pictures, twelve pages, each with a map in the corner so a small person can follow him across the North Sea:
 
-1. the harbour at Whitby, where he steals a chip from a gull
-2. the top of Arthur's Seat, in the wind
-3. the fish market in Bergen, where everyone is very kind to him
-4. a ship on the North Sea at night, under a great many stars
-5. a forest path in Japan, in the rain, with a deer
-6. a mountain hut in the snow
-7. the coast road to Santiago, where he walks with his tail up
-8. an orchard above a fjord, in blossom
+1. the flat in Sandviken, in the rain, where he packs a very small bag
+2. the fish market in Bergen, where everyone is very kind to him
+3. the slipway, and the kayak, and the fjord going out to sea
+4. the last lighthouse, where a gull tells him he's mad
+5. the open sea, with nothing in it but him
+6. a storm, in which he is brave and very wet
+7. an oil platform at night, lit up like a town
+8. a whale, who shows him the way
+9. the North Sea at night, under a great many stars
+10. the first sight of the abbey on the cliff
+11. the beach below the abbey, where he steps off the boat and shakes himself
+12. the baby
 
-Every morning Isla asks him where he's been, and he says what cats say, which is nothing, and she knows anyway, because there's sand in his fur, or snow, or a petal.
+When he gets there he says what cats say, which is nothing, and the baby knows anyway, because there's salt in his fur.
 
 ### How it ends
 
 :::spoiler
-On the last night he falls asleep on a map of Leeds, and wakes up at the foot of Isla's bed, and stays.
+He curls up at the foot of her cot, and stays.
 :::

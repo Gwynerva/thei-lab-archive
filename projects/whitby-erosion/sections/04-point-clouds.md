@@ -11,7 +11,7 @@ Three months of turning photographs into a cliff. The recipe, as I finally got i
 1. Throw away the blurred photos (about a fifth of them, mostly from the windy Tuesday).
 2. Match features between overlapping pictures until the software knows where each camera was.
 3. Tie the whole thing to the thirty-eight control points so it sits in real coordinates.
-4. Build a dense point cloud: about forty million points, each with a colour and a height.
+4. Build a dense point cloud: thirty-one million points, each with a colour and a height.
 5. Clean it. Remove seagulls, one dog and a man in a red jacket who walked through four flights.
 6. Cut a cliff-top line out of it that can be compared with the 1853 pen line.
 

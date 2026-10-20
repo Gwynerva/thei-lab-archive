@@ -6,7 +6,7 @@ periods:
     label: Lessons with Mrs Ogilvie
 ---
 
-Eilidh Ogilvie played in an orchestra for thirty-one years and has taught for longer, and I have never once called her anything but Mrs Ogilvie, and never will. She is small and very straight and listens without moving. At [the first lesson](ref:diary:2018-01-16 "twelve years, and then forty minutes of open strings") she heard an open D, a scale and half a minuet, rebuilt my bow hold finger by finger, and said:
+Eilidh Ogilvie played in an orchestra for thirty-five years and has taught for longer, and I have never once called her anything but Mrs Ogilvie, and never will. She is small and very straight and listens without moving. At [the first lesson](ref:diary:2018-01-16 "twelve years, and then forty minutes of open strings") she heard an open D, a scale and half a minuet, rebuilt my bow hold finger by finger, and said:
 
 > You've been talking for twelve years without breathing.
 

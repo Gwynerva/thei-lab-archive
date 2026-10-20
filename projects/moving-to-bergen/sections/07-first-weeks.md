@@ -17,10 +17,10 @@ The first weeks, in order:
 - **The eighteenth of September.** Vidden, in a cloud.
 - **The twenty-fifth.** Norwegian in a real room, with eleven people from nine countries.
 
-On the last Saturday of September the whole house had its :hint[*dugnad*]{note="a day of shared work: everybody in the house turns out to clean, mend and tidy the common parts, and then there are waffles"}. I swept the stairs, Mr Haldorsen oiled the front door, and the family from the ground floor made waffles. Nobody told me the rules. I watched and copied, which is how I learn most things here.
+In October the whole house had its :hint[*dugnad*]{note="a day of shared work: everybody in the house turns out to clean, mend and tidy the common parts, and then there are waffles"}. I cleared the gutters, the family from the middle floor swept the stairs, and Mr Haldorsen made waffles. Nobody told me the rules. I watched and copied, which is how I learn most things here.
 
 ::file[My list of words from the first year, as I wrote them down]{file="norwegian-words" title="Words, first year"}
 
 The ones about rain have [their own page](<ref:page:norwegian-words#h:Weather> "rain, mostly, in a great many kinds") now.
 
-Rain: day 31 of 46.
+Rain: day 31 of 52.

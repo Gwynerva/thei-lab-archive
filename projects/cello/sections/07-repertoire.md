@@ -3,7 +3,7 @@ title: Repertoire
 summary: What I have played since 2018, more or less badly
 ---
 
-Everything I have played in an orchestra or in front of anyone since the cello came down from the loft, by where I played it. Not a boast: a list. Some of these I could barely play.
+Everything I have played in an orchestra or in front of anyone since the cello came out from under the bed, by where I played it. Not a boast: a list. Some of these I could barely play.
 
 :::list{counter="upper-roman"}
 1. Leith, 2018–2021

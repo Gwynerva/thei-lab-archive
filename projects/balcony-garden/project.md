@@ -1,6 +1,6 @@
 ---
 title: The balcony garden
-summary: Tomatoes, basil and far too many radishes on a Leith balcony in lockdown, and a second, wetter try on a windowsill in Sandviken.
+summary: Tomatoes, basil and far too many radishes on a Leith balcony in lockdown, and a second, wetter try on a balcony in Sandviken.
 icon: basil
 banner: tomato-plant-1
 tags: [garden, lockdown, home]
@@ -34,4 +34,4 @@ In 2020 the balcony was shared with [the weather station](ref:project:weather-st
 
 ## Then Bergen
 
-In Sandviken I had no balcony, just a deep kitchen windowsill and a front step. I tried again in 2022 with herbs and a single tomato plant that was an act of faith. Bergen's rain did what Bergen's rain does. I got three tomatoes and a great deal of very healthy mint.
+In Sandviken I had a balcony again, smaller and wetter. I tried again in 2022 with herbs, sugar snaps and twelve tomato plants that were an act of faith. Bergen's rain did what Bergen's rain does. I got a handful of ripe tomatoes, twenty-two green ones and a great deal of very healthy mint.

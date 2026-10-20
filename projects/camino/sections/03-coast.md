@@ -13,7 +13,7 @@ North along the sea, out from the river mouth at Foz and right, on boardwalks ov
 
 Then twenty-five kilometres to [Viana do Castelo](https://en.wikipedia.org/wiki/Viana_do_Castelo "the town at the mouth of the Lima") in warm Atlantic rain, the sea somewhere off to the left, invisible and loud, and into Viana over the long iron bridge across the river with water running out of my sleeves, and the cathedral door, which I will not forget. *Rain: day 1 of the Camino*, I wrote that night, out of habit.
 
-When Ines went home to Porto and work, we hugged and she said "Go on, peregrina", and I went on: to Caminha, at the mouth of the Minho, with Spain across the water.
+Then one more day together, to Caminha, at the mouth of the Minho, with Spain across the water. There Ines went home to Porto and work. We hugged and she said "Go on, peregrina", and I went on alone.
 
 ::media[The fort and the bell at Vila do Conde]{file="vila-do-conde-2" layout="centered"}
 

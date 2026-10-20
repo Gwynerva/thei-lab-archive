@@ -5,7 +5,7 @@ icon: sourdough-1
 synonyms: [sourdough, baking notes, Hamish]
 ---
 
-These notes started in the spring of 2020, when everyone in the world began a sourdough starter at once and I was no exception. Mine was called [Hamish](ref:event:hamish-born "born on 29 March 2020, in a jam jar"). He stayed behind in Scotland when I moved, which was right for both of us, and in Bergen I started again with rye from the corner shop and never gave the new one a name. These notes are for both of them.
+These notes started in the spring of 2020, when everyone in the world began a sourdough starter at once and I was no exception. Mine was called [Hamish](ref:event:hamish-born "born on 29 March 2020, in a jam jar"). He stayed behind in Scotland when I moved, which was right for both of us, and in Bergen I started again with rye from the corner shop. These notes are for both of them.
 
 ## Hamish's diet
 

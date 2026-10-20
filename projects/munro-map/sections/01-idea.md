@@ -2,7 +2,7 @@
 title: The idea
 ---
 
-November 2018. Ten Munros done, Schiehallion the tenth, and a spreadsheet with ten rows in it. Priya said "you should make it a map, you make everything a map", and she was right, and it was raining for a week, so I did.
+November 2018. Thirteen Munros done, Ben Vane the thirteenth, and a spreadsheet with thirteen rows in it. Priya said "you should make it a map, you make everything a map", and she was right, and it was raining for a week, so I did.
 
 What I wanted:
 

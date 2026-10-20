@@ -32,7 +32,7 @@ relations:
 
 All 282 Munros on one web map of Scotland, as small grey triangles. When I climbed one, it turned rowan red, and clicking it showed the date, the weather and one line about the day. That is the whole idea, and it took me two months of evenings to build.
 
-I started it in November 2018, when I had ten Munros and a list of them in a spreadsheet that I never looked at. A spreadsheet doesn't make you want to go anywhere. A map with 272 grey triangles on it does.
+I started it in November 2018, when I had thirteen Munros and a list of them in a spreadsheet that I never looked at. A spreadsheet doesn't make you want to go anywhere. A map with 269 grey triangles on it does.
 
 ## How it looks
 
@@ -43,7 +43,7 @@ I started it in November 2018, when I had ten Munros and a list of them in a spr
 
 ## How it went
 
-It went online on [20 January 2019](ref:event:munro-map-online), served at first from an old laptop on the windowsill and, from March, from [the box under my desk](ref:project:home-server). I updated it after every hill until July 2021: twenty-four updates in all, each one a small ceremony with a cup of tea.
+It went online on [20 January 2019](ref:event:munro-map-online), served at first from an old laptop on the windowsill and, from March, from [the box under my desk](ref:project:home-server). I updated it after every hill until July 2021: twenty-three updates in all, each one a small ceremony with a cup of tea.
 
 :::spoiler
 Number thirty-four was Ben Nevis. I saved the highest for last on purpose, so that I'd leave Scotland from the top of it, and it was in fog the whole way, so I saw nothing at all.

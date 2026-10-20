@@ -23,4 +23,4 @@ We left the car at Fossli at eight, before the coaches, and took the path along 
 
 Then up and away from all of it, onto the plateau, and in twenty minutes there was nobody: heather, a tarn, a reindeer track, the sky three times the size it is at home. The vidda is a different country from the fjord. Flat, brown, enormous, snow still lying in the hollows in July.
 
-For the map I need the car park, the bridge, the safe edge and the unsafe one, the turn at the cairn, the tarn where we ate. Eleven kilometres, four hours with stops. I drew it that evening while it was still in my legs.
+For the map I need the car park, the bridge, the safe edge and the unsafe one, the turn at the cairn, the tarn where we ate. Twelve kilometres, four hours with stops. I drew it that evening while it was still in my legs.

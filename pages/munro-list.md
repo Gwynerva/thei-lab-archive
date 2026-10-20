@@ -31,7 +31,7 @@ The dates are the days I stood on top, except in 2020, when I lost count and too
 ### 2019
 
 14. Beinn Ghlas, 11 May
-15. Ben Ledi, 25 May
+15. Cruach Ardrain, 25 May
 16. Stuc a' Chroin, 8 June
 17. Beinn Dorain, 27 July
 18. Beinn an Dothaidh, 3 August
@@ -42,7 +42,7 @@ The dates are the days I stood on top, except in 2020, when I lost count and too
 
 ### 2020
 
-23. Ben Oss, 27 June, the first hill after lockdown
+23. Ben Oss, 4 July, the first hill after lockdown
 24. Ben Vorlich (Loch Lomond), 11 July
 25. Beinn Ime, 8 August
 26. Ben Narnain, 29 August

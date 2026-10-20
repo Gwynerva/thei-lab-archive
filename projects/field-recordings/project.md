@@ -45,7 +45,7 @@ relations:
 
 Bergen is a city you hear before you see. You come out of the station in the dark and it is already there: rain on the glass roof, gulls, a bell somewhere up the hill, the hiss of a bus on wet cobbles, and under all of it the harbour, a slow knocking of boats against the quay. I lived there for three and a half years, and for two of them I walked about with a small recorder in my coat pocket and tried to keep some of it.
 
-It began in October 2022, in [the twenty-one days of rain](ref:event:rain-streak "October 2022, the rain that would not stop"). On the sixth day I bought a recorder, a small grey thing with two microphones crossed on top, and on the eighth I stood it on the windowsill under the roof and pressed the red button. That was [the first recording](ref:event:rain-recorded), and the rest followed the seasons: the rain all autumn, the church bells in the winter, the harbour in the spring, and after a long silence, the birds.
+It began in October 2022, in [the twenty-one days of rain](ref:event:rain-streak "October 2022, the rain that would not stop"). The week before it began I had bought a recorder, a small grey thing with two microphones crossed on top, and on the sixth day I stood it on the windowsill under the roof and pressed the red button. That was [the first recording](ref:event:rain-recorded), and the rest followed the seasons: the rain all autumn, the church bells in the winter, the harbour in the spring, and after a long silence, the birds.
 
 ::audio[A proper downpour, the first week, on the skylight]{file="sound-rain-3" title="Rain, October 2022"}
 

@@ -52,4 +52,4 @@ Coming down was the hard part, as it always is. We came out of the cloud at abou
 
 We had chips in Fort William and drove home through Glen Coe, and I fell asleep against the window before Rannoch Moor.
 
-I'm not ticking off any more for a while. [The Munro map](ref:project:munro-map) has gone a satisfying shade of green, and the next hills I climb will have Norwegian names. There are only seven of them, to start with.
+I'm not ticking off any more for a while. [The Munro map](ref:project:munro-map) is coloured in as far as it is going to go, and the next hills I climb will have Norwegian names. There are only seven of them, to start with.

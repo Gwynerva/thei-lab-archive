@@ -16,7 +16,7 @@ For each window:
 
 1. Lift the casements off their hinges and carry them to the trestles in the barn.
 2. Soften the old putty with a heat gun, gently, and dig it out. Lose your patience. Find it again.
-3. Take out the panes and stack them in the order they came out. The glass is older than any of us and none of it can be replaced.
+3. Take out the panes and stack them in the order they came out. The glass is older than any of us, and there is no more like it but a few old panes in a box in the barn.
 4. Scrape and sand the frames back to wood, cut out the rot, scarf in new wood where it must be, and feed everything with raw linseed oil.
 5. Prime, set the glass back on a bed of putty, pin it, and putty again.
 6. Three coats of linseed paint, white, a week apart.

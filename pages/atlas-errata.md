@@ -11,7 +11,7 @@ reminder: Send the whole list to Forlaget Fjellstue before there's any talk of a
 ## Found after the proofs
 
 1. **Page 14, walk 3**: the gate at the top of the track is green now, not red. Somebody painted it in August.
-2. **Page 22, walk 5**: the stretch from the ferry quay to the boathouses is ~~4.6 km~~ 6.4 km. I swapped two digits. The total is right.
+2. **Page 22, walk 5**: the fjord path is ~~4.6 km~~ 6.4 km. I swapped two digits.
 3. **Page 31, walk 8**: the church was built in the 1870s, not the 1890s, as the parish has kindly pointed out.
 4. **Page 40**: the scale bar on map 11 is upside down. It still measures correctly, if you turn the book over.
 5. **Page 57**: Lofthus is spelt with two *f*s, once, which it never has been.

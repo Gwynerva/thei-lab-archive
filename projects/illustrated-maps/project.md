@@ -63,6 +63,6 @@ In the summer of 2024, a few weeks after leaving Nordvåg, I walked every street
 
 Most go to people who live in the place, or used to. Some go to people who are leaving, which I understand best. The [prices](ref:page:prints) are on their own page, and the story of the first market is in [The Christmas market](ref:section:illustrated-maps/christmas-market).
 
-The prints are also why there is [an atlas](ref:project:walk-atlas): its publisher bought the Sandviken map at the market in December 2024, and we met the following January. The maps that came out of that are bigger, slower and more careful, but they started here, with one street and a box of paints.
+The prints are also why there is [an atlas](ref:project:walk-atlas): its publisher bought the seven mountains map at the market in December 2024, and we met the following January. The maps that came out of that are bigger, slower and more careful, but they started here, with one street and a box of paints.
 
 Everything else of mine is under [tags](/tags/), if you'd rather browse.

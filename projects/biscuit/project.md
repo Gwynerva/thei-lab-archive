@@ -49,7 +49,7 @@ relations:
     kind: related
 ---
 
-Biscuit is a ginger tom with a white bib, green eyes, a torn left ear he came with and an opinion about everything. He was about three when I adopted him from a rescue centre in Edinburgh in February 2019, handed in when his old person went into a home. He came with his name. I would not dare change it.
+Biscuit is a ginger tom with a white bib, green eyes, a torn left ear he came with and an opinion about everything. He was about three when I adopted him from a rescue centre in Edinburgh in February 2019, found in a bin store in Gorgie the November before. He came with his name, more or less: the card on his pen said *Mr Biscuits*, and I only dared take off the Mr and the s.
 
 Since then he has lived in four homes in two countries: the top flat in Leith, two flats in Sandviken, and now the farmhouse at Øvre Lid, where he has a barn. He has slept on most of the Ordnance Survey maps of Scotland, flown across the North Sea in a crate, met snow, met swallows, met a hare, and left a sourdough starter behind in Leith without a backward glance. He is about ten now and has begun, this year, to be an old cat.
 

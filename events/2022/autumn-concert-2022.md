@@ -17,7 +17,7 @@ relations:
 
 The autumn concert, in the church in Sandviken, my first with the *Strykeorkester*. Three months of Tuesdays in the school hall, learning the music and the words for the music: *opptakt*, upbeat; *nedstrøk*, down-bow; *fra begynnelsen*, from the top, said by the conductor about a hundred times a night.
 
-The programme: a suite by Grieg, because this is Bergen and it's the law, and Elgar's Serenade for Strings, which I've wanted to play since I first heard it at sixteen.
+The programme: a suite by Grieg, because this is Bergen and it's the law, and Elgar's Serenade for Strings, which I've loved since I first heard it at sixteen.
 
 The church was full. Mr Haldorsen in the front pew in his suit. Anna and half the office. Jonas in the second row, too tall, with his knees against the pew in front.
 

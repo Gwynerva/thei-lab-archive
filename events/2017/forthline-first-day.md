@@ -14,7 +14,7 @@ relations:
 
 First day at a real job! I was there at quarter to nine. Dougie arrived at twenty past, with croissants, and said nobody comes in before nine "except the new ones".
 
-Forthline is two floors of an old grain warehouse on the Water of Leith, with big windows, bad heating and twelve desks. I sit next to Ines Carvalho, who is from Porto, has been here a year, talks very fast and very kindly, and showed me where everything is, including the good mugs and which radiator works.
+Forthline is two rooms above a marine electronics shop on the Shore, with big windows, bad heating and twelve desks. I sit next to Ines Carvalho, who is from Porto, has been here a year, talks very fast and very kindly, and showed me where everything is, including the good mugs and which radiator works.
 
 My first task: digitising culverts. A culvert is where a stream goes under a road in a pipe, and if you get them wrong the water on your map goes the wrong way. I did forty-three. Ines checked them and found two wrong, which she said was "very good, for a first day".
 

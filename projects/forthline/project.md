@@ -51,4 +51,4 @@ Dougie, who wore the same blue jumper every Friday and remembered everyone's bir
 
 ## Looking back
 
-It was a good first job: small enough that everything I did mattered, kind enough that my mistakes didn't. I had my evenings, and I spent them on [tideline](ref:project:tideline), which grew straight out of the work. When I left, the whole office walked down to the Shore with a cake iced as a contour map of Arthur's Seat. Dougie cut it at the summit.
+It was a good first job: small enough that everything I did mattered, kind enough that my mistakes didn't. I had my evenings, and I spent them on [tideline](ref:project:tideline), which grew straight out of the work. When I left, the whole office came out into the yard behind it for a cake iced as a very bad map of Norway. Dougie cut it at Bergen.

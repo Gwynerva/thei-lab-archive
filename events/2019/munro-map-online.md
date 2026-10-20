@@ -1,6 +1,6 @@
 ---
 title: The Munro map goes online
-summary: Twelve green dots and two hundred and seventy grey ones, on a map anyone can open
+summary: Thirteen dots coloured in and two hundred and sixty-nine grey ones, on a map anyone can open
 periods:
   - 2019-01-20
 banner: munro-cairn-2
@@ -25,12 +25,12 @@ relations:
 
 Pressed the button at twenty to midnight, which is not when sensible people launch things, but it was Sunday and I'd promised myself January.
 
-The map shows all 282 :hint[Munros]{note="Scottish mountains over 3,000 feet, 282 of them on the current list"}, a dot for each. The ones I've climbed are green, the rest a patient grey. Twelve green. Two hundred and seventy grey. Seen like that it's less a map than a to-do list with contour lines.
+The map shows all 282 :hint[Munros]{note="Scottish mountains over 3,000 feet, 282 of them on the current list"}, a dot for each. The ones I've climbed are coloured in, the rest a patient grey. Thirteen coloured. Two hundred and sixty-nine grey. Seen like that it's less a map than a to-do list with contour lines.
 
 ## How it works
 
-Nothing clever. The hill list is a spreadsheet I've kept since [Ben Lomond](ref:event:ben-lomond); a script turns it into GeoJSON, and a small page draws it over an open basemap. Click a dot and you get the height, the date, and one line about the day ("rain", mostly). When I climb another, I change one cell and it goes green.
+Nothing clever. The hill list is a spreadsheet I've kept since [Ben Lomond](ref:event:ben-lomond); a script turns it into GeoJSON, and a small page draws it over an open basemap. Click a dot and you get the height, the date, and one line about the day ("rain", mostly). When I climb another, I change one cell and it fills in.
 
 Eleven weeks of evenings, most of them spent arguing with myself about the exact shade of the grey.
 
-Dougie asked why I'd spend my free time making maps when I spend all day making maps. Fair question. But nobody at work lets me colour a mountain green.
+Dougie asked why I'd spend my free time making maps when I spend all day making maps. Fair question. But nobody at work lets me colour a mountain in.

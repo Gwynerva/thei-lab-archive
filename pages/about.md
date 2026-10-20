@@ -5,7 +5,7 @@ icon: icon-5
 synonyms: [about me, start here, about the archive]
 ---
 
-I'm Mira Testwell. I make maps for a living, mostly by hand these days, and I make most other things by hand too: notebooks, a kayak, a quilt that was mostly my grandmother's, cider, a kitchen (with help). I grew up in Whitby, on the Yorkshire coast, spent five years in Edinburgh and Leith and four in Bergen, and since the spring of 2025 I've lived in an old farmhouse above the Hardangerfjord with Jonas, a ginger cat called Biscuit and forty apple trees.
+I'm Mira Testwell. I make maps for a living, mostly by hand these days, and I make most other things by hand too: notebooks, a kayak, a quilt that was mostly my grandmother's, cider, a kitchen (with help). I grew up in Whitby, on the Yorkshire coast, spent five years in Edinburgh and Leith and three and a half in Bergen, and since the spring of 2025 I've lived in an old farmhouse above the Hardangerfjord with Jonas, a ginger cat called Biscuit and forty apple trees.
 
 This site is where all of it is kept. On the first of October 2016 I decided to keep a diary "properly, in one place, for once", and for once I did. It was paper for the first few years; in 2021 I typed the lot in here, starting in the second lockdown in Leith and finishing on winter evenings in Bergen, with the rain going sideways past the window. There are about two thousand diary entries now, seventy-odd projects, a couple of hundred events, and these pages.
 

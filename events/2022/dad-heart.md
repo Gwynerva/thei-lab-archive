@@ -14,13 +14,13 @@ notes: |
 
 ## Monday
 
-Mum rang at ten to six in the morning, my time. I knew before I picked up. Mum never rings before Sunday evening.
+Mum rang at ten past seven in the morning. I knew before I picked up. Mum never rings before Sunday evening.
 
-Dad had pains in his chest in the shop on Sunday afternoon, said it was indigestion and went home, and had them again in the night, worse, and Mum called an ambulance against his wishes. He was in the big hospital in Middlesbrough. They were "doing tests". She said it twice: they're doing tests.
+Dad had pains in his chest in the shop at half six, opening up, sat down on the coil of rope by the door and couldn't get up, and somebody called an ambulance against his wishes. He was in the big hospital in Middlesbrough. They were "doing tests". She said it twice: they're doing tests.
 
-I booked the first flights I could find, via Amsterdam, before I'd got dressed. Told Anna by text. Jonas drove me to the airport at eight and held my hand at the drop-off without saying anything, which was exactly right.
+I booked the first flights I could find, via Amsterdam, before I'd got dressed. Told Anna by text. Jonas drove me to the airport for the last seat on the last plane and held my hand at the drop-off without saying anything, which was exactly right.
 
-By evening I was at Dad's bedside, in a bay of six men and their monitors, and he looked at me and said:
+By midnight I was in Newcastle, and at eight the next morning at Dad's bedside, in a bay of six men and their monitors, and he looked at me and said:
 
 > What are you doing here? Who's minding the cat?
 
@@ -28,7 +28,7 @@ By evening I was at Dad's bedside, in a bay of six men and their monitors, and h
 
 ## Tuesday
 
-They did the angiogram this morning: a fine tube up through his wrist into his heart, and a picture of the arteries, and one of them narrowed almost shut. They put a stent in there and then, a little mesh tube to hold it open. He was awake for all of it. He said it felt like someone rummaging in a drawer.
+They did the angiogram that morning: a fine tube up through his wrist into his heart, and a picture of the arteries, and one of them narrowed almost shut. They put a stent in there and then, a little mesh tube to hold it open. He was awake for all of it. He said it felt like someone rummaging in a drawer.
 
 By the afternoon his colour had come back. He was asking the nurses about tide times.
 
@@ -36,7 +36,7 @@ By the afternoon his colour had come back. He was asking the nurses about tide t
 
 ## Wednesday and Thursday
 
-Home to Whitby. He's not allowed to drive, to lift anything or to go into the shop for a week, and he hates all three. Mum put a sign on the chandlery door, *CLOSED FOR REPAIRS*, which made him laugh for the first time.
+On Wednesday I minded the shop for him. On Thursday, home to Whitby. He's not allowed to drive, to lift anything or to go into the shop for a week, and he hates all three. Mum put a sign on the chandlery door, *CLOSED FOR REPAIRS*, which made him laugh for the first time.
 
 I sat with him in the front room while he slept. I walked down to the harbour and stood on the steps where I used to wait for him to finish work, and looked at the boats, and let myself shake for a while where nobody could see.
 

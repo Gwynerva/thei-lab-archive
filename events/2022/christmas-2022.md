@@ -34,7 +34,7 @@ Dad is well. Three months after the stent he's back in the shop every day, and w
 
 ## The letters
 
-On Christmas Eve, after dinner, I gave Mum the book. All year I've been typing out Nana's letters from the tin: the 1950s ones, from when Grandad was at sea, and the ones she sent me at university. I printed them and bound them by hand in blue cloth, with Fergus's marbled sheet for the endpapers. [The book](ref:section:nana-letters/for-mum "a year of evenings, again") is the best thing I've ever made.
+On Christmas Eve, after dinner, I gave Mum the book. All year I've been typing out Nana's letters from the tin: the 1950s ones, from when Grandad was at sea. I printed them and bound them by hand in dark green cloth, with Fergus's marbled sheet for the endpapers. [The book](ref:section:nana-letters/for-mum "a year of evenings, again") is the best thing I've ever made.
 
 Mum read the first page, and closed it, and held it on her lap and didn't say anything for a long time. Then she said, "She'd have told you the stitching's crooked." It isn't. Then she went to bed early, with the book.
 

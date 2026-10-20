@@ -1,6 +1,6 @@
 ---
 title: Back to the cello
-summary: The school cello from Whitby, taken out of its case at twenty-five after years in a loft, with lessons in Edinburgh, two orchestras, one prelude and a recital in a church in Sandviken.
+summary: The school cello from Whitby, taken out of its case at twenty-five after years under a bed, with lessons in Edinburgh, two orchestras, one prelude and a recital in a church in Sandviken.
 featured: true
 icon: cello-scroll-1
 banner: cello-3
@@ -61,7 +61,7 @@ relations:
     kind: related
 ---
 
-This is the cello I learned on at school in Whitby, a factory instrument from the seventies with a scratch on its lower bout shaped like Norway. I stopped lessons at fourteen and stopped pretending at sixteen, and for nine years it lived in its case in Mum and Dad's loft. At Christmas 2017 I carried it down the loft ladder, took it back to Edinburgh on the train, and in January 2018, at twenty-five, I had my first lesson in twelve years.
+This is the cello I learned on at school in Whitby, a factory instrument from the seventies with a scratch on its lower bout shaped like Norway. I stopped lessons at fourteen and stopped pretending at sixteen, and for nine years it lived in its case under my bed in Whitby. In October 2017 Dad brought it up to Edinburgh in the back of his van, and in January 2018, at twenty-five, I had my first lesson in twelve years.
 
 Since then: three years of lessons with Mrs Ogilvie, the Leith Scratch Orchestra, a lockdown spent alone with Bach, a move across the North Sea, an audition at thirty, the Sandviken Strykeorkester, and in April 2026 a recital in a church, in which I played the prelude and the two minuets of the first suite in front of about eighty people and survived.
 

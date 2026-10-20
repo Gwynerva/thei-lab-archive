@@ -41,4 +41,4 @@ I kept the paint. I thought about respraying her and decided I liked the fade, a
 
 ## Riding
 
-[The first ride](ref:event:raleigh-first-ride#:~:text=ride) was on the 18th of July, along the Water of Leith path, out to Balerno and back. I rode her every week after that until I left Scotland, and then I sold her for twenty pounds to a student at the Spoke Room, who promised to keep the sticker. Somebody in Leith is riding a forty-year-old Raleigh, and it's partly mine.
+[The first ride](ref:event:raleigh-first-ride#:~:text=ride) was on the 18th of July, along the Water of Leith path, out to Balerno and back. I rode her every week after that until I left Scotland, and then she went to Bergen in the removal van with the boxes and the cello, sticker and all. Somebody in Bergen is riding a forty-year-old Raleigh up streets far too steep for her, and it's me.

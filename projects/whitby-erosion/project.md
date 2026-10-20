@@ -36,7 +36,7 @@ So this became my dissertation: **how fast is the cliff at Saltwick retreating, 
 
 Three kinds of evidence, each a different century's way of looking at the same edge:
 
-1. **Old maps.** Seven editions of the large-scale survey, from 1853 to 1990, each with a cliff line I could trace and compare. More in [the old maps](ref:section:whitby-erosion/old-maps).
+1. **Old maps.** Six editions of the large-scale survey, from 1853 to 1990, each with a cliff line I could trace and compare. More in [the old maps](ref:section:whitby-erosion/old-maps).
 2. **Aerial photographs.** Eleven flights between 1946 and 2014, rectified one by one, very slowly.
 3. **A drone survey.** Four days in April 2017 with the department's technician, Sam, and his drone, turning about fourteen hundred photographs into a model of the cliff today.
 

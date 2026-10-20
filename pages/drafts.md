@@ -21,7 +21,7 @@ Things I started and haven't finished. Nobody sees these but me.
 
 ### The cello at sixteen
 
-I stopped because <s>I was bad at it</s> I thought I was bad at it, and because a boy in the second violins said something about my bow arm. I've forgotten his name. I've never forgotten the bow arm. Mrs Ogilvie, twelve years later, said my bow arm was fine and my *ears* were the problem, which was somehow much better.
+I stopped because <s>I was bad at it</s> I thought I was bad at it, and because a boy in the second violins said something about my bow arm. I've forgotten his name. I've never forgotten the bow arm. Mrs Ogilvie, ten years later, said my bow arm was fine and my *ears* were the problem, which was somehow much better.
 
 ---
 

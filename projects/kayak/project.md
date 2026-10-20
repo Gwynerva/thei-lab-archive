@@ -99,7 +99,7 @@ The full cut list is in the files, and every stage is a section below.
 
 ## The launch
 
-We put her in the water on [the 20th of May 2023](ref:event:kayak-launch#:~:text=water) at a slipway near the workshop, at nine in the morning, in sunshine, which in Bergen counts as a miracle all by itself. Jonas, his mother Sigrid, Anna from work, Sverre from downstairs, and Mum and Dad on a video call on my phone in a freezer bag. I poured a spoonful of rowan jelly, made from Nana's recipe and stirred into a jug of fjord water, over the bow, because champagne seemed wrong and rowan seemed right. Then I got in and pushed off, and she floated level and true, and I paddled out into the harbour and didn't want to come back.
+We put her in the water on [the 20th of May 2023](ref:event:kayak-launch#:~:text=water) from the slipway below the workshop, at nine in the morning, in a flat calm, which in Bergen counts as a miracle all by itself. Jonas, Anna from work, two people from the workshop, and Mum and Dad on a video call on my phone in a freezer bag. I put a spoonful of rowan jelly, Mum's, made from Nana's recipe, on the bow, because champagne seemed wrong and rowan seemed right. Then I got in and pushed off, and she floated level and true, and I paddled out into the harbour and didn't want to come back.
 
 That spring was already going wrong at work, and by the autumn I'd stopped altogether. I didn't paddle much that year after the launch. But she was there, in the boathouse, finished. Something was finished.
 

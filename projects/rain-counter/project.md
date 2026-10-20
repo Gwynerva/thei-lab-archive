@@ -14,16 +14,16 @@ files:
     caption: Every day from October 2022 to March 2023, with the counter's number beside it
 showcase:
   - file: bergen-rain-1
-    caption: Wet boats on the quay, day nine
+    caption: Wet boats on the quay, day four
   - file: bergen-rain-3
   - file: rain-window-1
-    caption: The kitchen window, day seventeen
+    caption: The kitchen window, day twenty
 relations:
   - to: project:weather-station
     kind: related
 ---
 
-On 5 October 2022 it had rained in Bergen for three days, and a colleague said it would stop on Friday. I said I'd write something to count. By lunch there was a little web page with one enormous number on it: the days in a row on which it had rained in Bergen, read from the open weather data every morning at six.
+On 5 October 2022 it had rained in Bergen for three days, and a colleague said it would stop on Friday. I said I'd write something to count. By the evening there was a little web page with one enormous number on it: the days in a row on which it had rained in Bergen, read from the gauge on my balcony and the open weather data.
 
 It said **3**.
 
@@ -31,7 +31,7 @@ It said **3**.
 
 It went up on the screen in the office kitchen. People started checking it with their coffee. Somebody put a sign under it: *Do not feed the counter.* Anna said "wait until November". On day twelve the local paper ran a small piece about the rain, and someone in the office printed it and stuck it beside the screen.
 
-It rained for [twenty-one days](ref:event:rain-streak), from 3 to 23 October. On the morning of the 24th the counter said **0** and the whole office cheered, and by lunchtime it was raining again.
+It rained for [twenty-one days](ref:event:rain-streak), from 3 to 23 October. On the 24th the sun came out, and the counter, faced with 0.4 mm of fog off my gutter, quietly fell over and went on saying **21 days & counting (!)** for eleven days, until [somebody noticed](ref:event:rain-and-counting).
 
 ## The app
 

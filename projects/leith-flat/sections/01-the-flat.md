@@ -8,7 +8,7 @@ The top floor of a sandstone tenement built in the 1880s, on a side street off L
 The rooms, as they were on the day I left:
 
 - **the kitchen**, the heart of it: a table that seated four, a window with the strip of the Forth, a magnetic strip on the wall where Callum's knives had been, and the fridge, with its history
-- **the living room**, which got the sun after four, with the second-hand sofa that did fit up the stair, bought in the second week, and Marta's music stand in the corner
+- **the living room**, which got the sun after four, with the second-hand sofa that did fit up the stair, bought when Callum's went to Glasgow, and Marta's music stand in the corner
 - **the big room**, Priya's, then mine from 2019, with two windows over the street
 - **the middle room**, Callum's, then Marta's, next to the kitchen
 - **the little room** with the skylight, mine for three years and then the map room, the cello room and Biscuit's room

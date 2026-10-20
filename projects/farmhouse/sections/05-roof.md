@@ -15,7 +15,7 @@ The house roof is clay tiles, the old red-brown kind, green with moss on the nor
 4. Over the stairs: something he did not like the look of, and would not say more about.
 5. The moss: leave it, it holds the roof down. (I think this was a joke.)
 
-He came back in May and did the north side, new battens and the old tiles back on, with Jonas on the roof beside him and me on the ground sending tiles up in a bucket on a rope, which is a job that sounds easy. Ragnhild's father had left a stack of spare tiles in the barn, wrapped in sacking, and every cracked one we found was replaced from it. The flashing came next. The stairs, he said, would hold one more winter. *Kanskje*.
+He came back in May and did the north side, new battens and the old tiles back on, with Jonas on the roof beside him and me on the ground sending tiles up in a bucket on a rope, which is a job that sounds easy. Every cracked one we found was replaced with an old tile the roofer had taken off a barn in Kinsarvik that was being pulled down, and you cannot tell which are which. The flashing came next. The stairs, he said, would hold one more winter. *Kanskje*.
 
 It did not hold one more autumn. At the end of September it rained for three days and the turn of the stairs became a waterfall at two in the morning. The roofer came back. We paid him twice. ~~Never again.~~ Probably again.
 

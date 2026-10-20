@@ -7,12 +7,12 @@ periods:
 The pages, the stitch, the covers, the post. A list, as always:
 
 - [x] scan every page, just in case
-- [x] fold the pages into eight sections of four sheets
+- [x] fold the twelve pictures into sections
 - [x] cut the boards, 20.5 cm square
-- [x] cover them in blue cloth, with paste, under the press (still two bricks)
+- [x] cover them in blue cloth, a scrap of cotton from Nana's sewing box, with paste, under the press (still two bricks)
 - [x] letter the title on the front in white, in the course's alphabet
 - [x] punch the stations, six of them
-- [x] sew, in red waxed linen, coptic, the way Fergus taught me
+- [x] sew, coptic, the way Fergus taught me
 - [ ] make a second copy (one day)
 
 Sewing took one evening at the kitchen table, and it was the quietest, happiest evening of the year. My hands remembered the stitch before I did.

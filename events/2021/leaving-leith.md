@@ -38,10 +38,10 @@ Last night, late, I walked the old route: down Leith Walk, along the Shore, over
 ::media[Looking up at a tenement like ours, one last time]{file="edinburgh-tenement-3"}
 :::
 
-## This morning
+## Tomorrow morning
 
-The taxi came at half five. I locked the door, posted the keys through the letterbox and carried the suitcases down for the last time. Marta, who moves across town this afternoon, stood at the stair door in her dressing gown and waved until we turned the corner.
+The taxi comes at half five. I'll lock the door, post the keys through the letterbox and carry the suitcases down for the last time. Marta, who moves across town in the afternoon, has promised to stand at the stair door in her dressing gown and wave until we turn the corner.
 
 ::card[The flat on its last day, for the record]{to="ref:section:leith-flat/empty"}
 
-I'm on the plane now, typing this on my knees. Below me the Forth, the three bridges, the whole of Fife, and then cloud. Four years and ten months in one flat. I don't know what I am if I'm not someone from Leith. I suppose I'm about to find out.
+This time tomorrow I'll be on the plane, and below me the Forth, the three bridges, the whole of Fife, and then cloud. Four years and ten months in one flat. I don't know what I am if I'm not someone from Leith. I suppose I'm about to find out.

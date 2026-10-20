@@ -12,6 +12,6 @@ In my first year I'd counted rain days in the diary out of habit ("Rain: day 12.
 There is no bad weather, only bad clothes.
 :::
 
-My Norwegian teacher taught us that sentence in week two, as grammar. Bergen teaches it as a threat. I had good clothes. I also had an afternoon, a free weather data service and an argument to win.
+My Norwegian teacher taught us that sentence in week two, as grammar. Bergen teaches it as a threat. I had good clothes. I also had an evening, a rain gauge on the balcony and an argument to win.
 
 It didn't stop on Friday.

@@ -16,7 +16,7 @@ showcase:
     caption: Rows of pale lanterns, which is closer
 statuses:
   - date: 2022-12-21
-    text: Lanterns lit, at a quarter past three
+    text: Lanterns lit, at five
     file: paper-lantern-2
 ---
 
@@ -26,7 +26,7 @@ At home the shortest day was always Nana's. She put a candle in the window at Ro
 
 ## Twelve lanterns
 
-I made twelve paper lanterns at the kitchen table over ten evenings, folded from heavy tracing paper and red mulberry paper, each with a battery tea light inside, because Jonas, a man who builds wooden boats, has a professional fear of open flames. On the solstice we carried them up the hill behind the house with six friends, hung them in the birches at the viewpoint above Sandviken, and stood there in the dark at four in the afternoon looking down at the city lights and the black water.
+I made twelve paper lanterns at the kitchen table over ten evenings, folded from heavy tracing paper and red mulberry paper, each with a battery tea light inside, because Jonas, a man who builds wooden boats, has a professional fear of open flames. On the solstice we carried them up the hill behind the house with the neighbours, hung them in the birches at the viewpoint above Sandviken, and stood there in the dark at five in the afternoon looking down at the city lights and the black water.
 
 Somebody brought *gløgg* in a flask. Somebody else brought a speaker and played something with bells in it. It was cold and wet, and one of the lanterns blew away down the hill and was found the next morning by a dog walker, who hung it on a fence.
 

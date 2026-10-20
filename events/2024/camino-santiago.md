@@ -15,9 +15,9 @@ relations:
 
 ## The last morning
 
-Padrón to Santiago is twenty-five kilometres, and I walked the last of them as slowly as I could. Out at six, in fog, past the stone poet under his great tree, through eucalyptus woods that smelled of cough sweets, along lanes where the yellow arrows came so often they stopped being directions and became company.
+Teo to Santiago is twelve kilometres, and I walked them as slowly as I could. Out at half past five, in the dark and then the fog, with a head torch, through eucalyptus woods that smelled of cough sweets, along lanes where the yellow arrows came so often they stopped being directions and became company.
 
-I'd walked most of it alone since Viana. Not lonely. Alone the way a kayak is alone on a flat sea: everything around you and nothing asking.
+I'd walked most of it alone since Caminha. Not lonely. Alone the way a kayak is alone on a flat sea: everything around you and nothing asking.
 
 The days since the Minho had a shape I'll miss. Up at six, coffee standing at a bar, walk till two, wash the socks, find the stamp, eat whatever the menu of the day was, sleep in a room full of strangers breathing. Baiona and its harbour full of yachts. The long grey edge of Vigo. Pines, and vines on granite posts, and a *hórreo* in every garden like a small stone chapel for maize. Every evening a little map in the notebook of where I'd been, and nothing in it about where I was going.
 

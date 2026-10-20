@@ -18,7 +18,7 @@ I counted them on the day of the viewing and I count them still, the way a child
 4. The north wall: one, a little one in the pantry, which is cold on purpose.
 5. The gables: two, one at each end of the loft, the eastern one looking straight at Folgefonna.
 
-Six and three and two and one and two. Each has two casements of three panes, except the pantry window, which has one pane and opinions. The glass is old enough to be wavy: the fjord through it moves when you move your head.
+Six and three and two and one and two. Each has two casements of three panes, except the pantry window, which is smaller and has opinions. The glass is old enough to be wavy: the fjord through it moves when you move your head.
 
 ::media[Two of the fourteen, in their first spring with us]{file="norwegian-farmhouse-1" layout="centered"}
 

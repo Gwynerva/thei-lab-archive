@@ -5,7 +5,7 @@ periods:
   - 2022-10-08..2022-12-31
 ---
 
-Rain: day six, the day I bought the recorder. Rain: day eight, the day I first used it, the recorder on the windowsill under the skylight and me lying on the floor listening through the headphones, which is a thing I can recommend to anyone.
+The week before it started, I bought the recorder. Rain: day six, the day I first used it, the recorder on the windowsill under the skylight and me lying on the floor listening through the headphones, which is a thing I can recommend to anyone.
 
 Bergen has more words for rain than I have umbrellas. :hint[*Yr*]{note="the fine drizzle that hangs in the air and gets in everywhere"}, the fine one that hangs in the air. *Pøsregn*, the bucketing kind. *Sludd*, sleet. And just *regn*, which here is less a weather than a state of being.
 

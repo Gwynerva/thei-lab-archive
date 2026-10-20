@@ -18,4 +18,4 @@ On 17 March 2020 we carried our screens home on the bus. The pipeline ran on in 
 
 ### Leaving
 
-The offer from Bergen came in March 2021. Telling Dougie was the worst conversation of that year apart from the ones about Nana. My [farewell](ref:event:forthline-farewell) was on 16 July, outdoors, on the Shore, with a cake.
+The offer from Bergen came in March 2021. Telling Dougie was the worst conversation of that year apart from the ones about Nana. My [farewell](ref:event:forthline-farewell) was on 16 July, outdoors, in the yard behind the office, with a cake.

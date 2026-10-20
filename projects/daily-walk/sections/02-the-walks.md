@@ -23,7 +23,7 @@ Day 152. Portobello, into the sea for the first time, at last. Cold. Wonderful. 
 
 Day 173. The knee, on the steps by the weir, on a run. Three kilometres home holding on to railings. The hardest walk yet.
 
-Day 174. Down three flights on my bottom, to the corner shop on Marta's arm, and back. Forty minutes for two hundred metres. Counts, by rule five.
+Day 174. Down four flights on my bottom, to the corner shop on Marta's arm, and back. Forty minutes for two hundred metres. Counts, by rule five.
 
 Day 208. Round the block, slowly, to look for Biscuit, who was on the roof. He was on the roof.
 

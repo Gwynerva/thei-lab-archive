@@ -16,7 +16,7 @@ relations:
     note: nine months from bar twelve to the last bar
 ---
 
-My first concert in twelve years. The last one I played in, I was sixteen, in the school hall in Whitby, and I made a mess of the Elgar and swore never again.
+My first concert in twelve years. The last one I played in, I was fourteen, in the school hall in Whitby, and I made a mess of the Elgar and swore never again.
 
 Tonight, the Leith Scratch Orchestra's winter concert in a church on the Kirkgate, two hundred people or so, and Elgar's Serenade for Strings: the very piece I was lost in at bar twelve in March.
 

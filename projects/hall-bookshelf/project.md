@@ -38,6 +38,6 @@ A tall, narrow shelf, 180 centimetres by 60 by 22, five shelves, in oak. The car
 
 On the back green, mostly, on a folding workbench, in the longest dry spell Edinburgh had had in years. When it rained I worked on the landing with the door open and the neighbours stepping over the sawhorse. The shavings went into the stair's compost bin, and the dust got into everything I owned.
 
-It stood in the hall for three years, holding about four hundred books and, from 2019, a cat. When I left Leith in 2021 it stayed with Marta, who still has it and sends a photo now and then with the books changed round.
+It stood in the hall for three years, holding about four hundred books and, from 2019, a cat. When I left Leith in 2021 it went to Bergen in pieces with the boxes, and it has been put back together in every hall since, never quite fitting and always full.
 
 There's a page for [the evening it stood up](ref:event:bookshelf-stands "21 July 2018"), and every stage of it is below.

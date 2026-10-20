@@ -15,4 +15,4 @@ Mrs Ogilvie on the laptop, every Tuesday, half a second behind. Biscuit leaving 
 
 ::audio[The allemande as I was learning it that July, more or less]{file="music-bach-cello-2" title="Allemande, first suite"}
 
-In July we went into Mrs Ogilvie's garden for the first lesson in person since March, and in August the orchestra met again, outdoors, in a car park, forty chairs two metres apart. The cello sounded thin in the open air. It was the best thing I had heard in months.
+In July we went down to the back green behind Mrs Ogilvie's flat for the first lesson in person since March, and in August the orchestra met again, outdoors, in a car park, forty chairs two metres apart. The cello sounded thin in the open air. It was the best thing I had heard in months.

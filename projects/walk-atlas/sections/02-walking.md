@@ -12,10 +12,10 @@ Seven months, thirty walks, most of them twice, from the first snow-free path in
 A few of them, as the notebook has them:
 
 - **Walk 1**, the shore below Utne: an hour, the boathouses, the folk museum, eiders
-- **Walk 3**, Steinsdalsfossen: you can walk behind the waterfall, and come out wet
+- **Walk 22**, Steinsdalsfossen: you can walk behind the waterfall, and come out wet
 - **Walk 9**, the orchards above Lofthus in September, apples close enough to touch and not to take
-- **Walk 21**, [Vøringsfossen and the plateau](ref:event:voringsfossen), 26 July, with Jonas: the longest walk of the summer, and the best
-- **Walk 30**, the longest, up towards the glacier: eleven hours, done twice, the second time to check one junction
+- **Walk 17**, [Vøringsfossen and the plateau](ref:event:voringsfossen), 26 July, with Jonas: the longest day of the summer, and the best
+- **Walk 30**, behind the house, the last in the book: up through our own orchard and the birches, done twice, the second time to check one junction
 
 What walking them taught me:
 

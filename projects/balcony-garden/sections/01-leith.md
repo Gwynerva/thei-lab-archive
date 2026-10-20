@@ -14,6 +14,6 @@ A rainy Sunday in May: no gardening, so I watched a short film about a girl and 
 
 ::embed{url="https://www.youtube.com/watch?v=WhWc3b3KhnY"}
 
-Kept it going a second summer, in 2021, smaller, with the packing already in my head. The last tomatoes came in the week before I left. I gave the plants to the woman on the ground floor, canes and all.
+Kept it going a second summer, in 2021, smaller, with the packing already in my head. The last tomatoes came in the week before I left. I gave the plants to the family across the landing, canes and all, and two small boys swore to water them.
 
 ::media[The first seedlings, in a borrowed pot]{file="seedlings-2" layout="natural"}

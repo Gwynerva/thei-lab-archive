@@ -18,4 +18,4 @@ We went up into cloud from the start, thick and wet, and I was already composing
 
 We sat by the summit cairn for an hour eating squashed sandwiches. Marta, who does not get excited about mountains, took eighty photos.
 
-Tonight I changed one cell in a spreadsheet and [the Munro map](ref:project:munro-map "coloured in as I go") turned dot number twenty green. Twenty of 282. At this rate I'll finish at about Nana's age.
+Tonight I changed one cell in a spreadsheet and [the Munro map](ref:project:munro-map "coloured in as I go") coloured in dot number twenty. Twenty of 282. At this rate I'll finish at about Nana's age.

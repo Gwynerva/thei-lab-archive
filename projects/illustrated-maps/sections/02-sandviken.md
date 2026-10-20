@@ -15,4 +15,4 @@ The routine: walk in the morning, two or three streets, drawing doors and corner
 ::media[The whole of it from the old battery, the view I drew the map's corner from]{file="sandviken-2"}
 :::
 
-I printed twenty copies at a print shop by the university. On 14 September somebody I'd never met bought one from the shop page and wrote in the order notes: *I grew up in the house with the cat on the wall.* I cried at my desk, which was by then my own.
+I printed twenty copies at a print shop by the university. On 14 September somebody I'd never met bought one from the shop page and wrote in the order notes: *I grew up on the hill, in the yellow house by the steps.* I cried at my desk, which was by then my own.

@@ -12,7 +12,7 @@ relations:
 
 Callum left today. He's going to Glasgow to open a place of his own, which he's been planning on the backs of envelopes for two years, and he's found a little shop in the West End with an oven he describes the way other people describe their children.
 
-We loaded the van in the morning: his knives in their roll, eleven pans, a sourdough starter in a jar with a seatbelt round it, the mixer, two boxes of cookbooks, and a frankly embarrassing number of hot sauces. Priya and I carried the sofa down five flights. It was his sofa. I hadn't realised.
+We loaded the van in the morning: his knives in their roll, eleven pans, a sourdough starter in a jar with a seatbelt round it, the mixer, two boxes of cookbooks, and a frankly embarrassing number of hot sauces. Priya and I carried the sofa down four flights. It was his sofa. I hadn't realised.
 
 A last fry-up at the kitchen table, made by him, obviously. Then hugs on the pavement, and the van going off down Leith Walk with the window down and his playlist blaring.
 

@@ -12,4 +12,4 @@ Two months later I stopped working, and for three months that flat was most of m
 
 Then the better things: the spring of 2024 and the walk to Santiago; my desk in the corner of the living room when I went freelance; the first map I sold, drawn at the kitchen table; Mum and Dad for Christmas 2024, Dad in his good coat on the steps of the sea bath.
 
-And then the house. In March 2025 we [packed it](ref:event:packing) into sixty-one boxes, each with a little map of where it was going on the lid, and on the twenty-ninth we drove out of Sandviken for the last time with Biscuit complaining on the passenger seat and the barometer, wrapped in a tea towel, on my lap.
+And then the house. In March 2025 we [packed it](ref:event:packing) into sixty-one boxes, each with a little map of where it was going on the lid, and on the twenty-ninth we drove out of Sandviken for the last time with Biscuit complaining in his carrier between my feet, the cello upright between my knees and the barometer, wrapped in a tea towel, in the last box.

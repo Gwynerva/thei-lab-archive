@@ -12,7 +12,7 @@ relations:
 
 I got the job!!
 
-Dougie Mair rang at ten past eleven while I was in the bath, so I answered dripping, and he said, in that voice of his, "well, Mira, we'd like you to come and make flood maps with us". Junior GIS analyst at Forthline Mapping. Twelve people in an old warehouse on the Water of Leith. The same Forthline I wrote down on GIS Day last November and underlined twice.
+Dougie Mair rang at ten past eleven while I was in the bath, so I answered dripping, and he said, in that voice of his, "well, Mira, we'd like you to come and make flood maps with us". Junior GIS analyst at Forthline Mapping. Twelve people in two rooms above a marine electronics shop on the Shore. The same Forthline I wrote down on GIS Day last November and underlined twice.
 
 I'm to recieve the contract by post on Friday and start on the 11th of September. Two weeks to buy shoes that aren't walking boots.
 
