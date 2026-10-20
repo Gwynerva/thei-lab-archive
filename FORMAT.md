@@ -415,6 +415,7 @@ something to show:
 - every precision of a period, labelled and unlabelled periods, a period
   with a doubt, a period still running;
 - general, dated and private sections;
+- tags with an icon and tags without one;
 - statuses with and without a picture, and an empty one;
 - relations of every kind, with a shared note and with one per side;
 - files with the extensions jpg, png, gif, webp, avif, svg, mp4, webm, mov,
