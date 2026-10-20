@@ -15,6 +15,7 @@ import { execFileSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import { closeSync, existsSync, mkdirSync, openSync, readdirSync, readFileSync, rmSync, statSync, writeFileSync, writeSync } from 'node:fs';
 import { join } from 'node:path';
+import { inflateSync } from 'node:zlib';
 import { parse } from 'yaml';
 
 const ROOT = join(import.meta.dir, '..');
@@ -113,8 +114,23 @@ async function facts(path: string, ext: string): Promise<{ width: number | null;
   }
   if (['mp3', 'ogg', 'wav', 'flac', 'm4a'].includes(ext)) return { ...none, durationSec: probe(path).duration ?? null };
   if (ext === 'pdf') {
-    const text = readFileSync(path).toString('latin1');
-    const counts = [...text.matchAll(/\/Type\s*\/Pages\b[^>]*?\/Count\s+(\d+)/g)].map((m) => Number(m[1]));
+    // The page tree's /Count, read from the file and from its compressed object streams.
+    const bytes = readFileSync(path);
+    const text = bytes.toString('latin1');
+    const parts = [text];
+    for (const m of text.matchAll(/stream\r?\n/g)) {
+      const start = m.index! + m[0].length;
+      const end = text.indexOf('endstream', start);
+      if (end < 0) continue;
+      try {
+        parts.push(inflateSync(bytes.subarray(start, end)).toString('latin1'));
+      } catch {
+        // Not a deflated stream (an image, say).
+      }
+    }
+    const counts = parts.flatMap((part) =>
+      [...part.matchAll(/\/Type\s*\/Pages\b[^>]*?\/Count\s+(\d+)|\/Count\s+(\d+)[^>]*?\/Type\s*\/Pages\b/g)].map((m) => Number(m[1] ?? m[2])),
+    );
     return { ...none, pages: counts.length ? Math.max(...counts) : null };
   }
   return none;
