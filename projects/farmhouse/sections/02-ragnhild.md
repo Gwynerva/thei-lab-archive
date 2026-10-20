@@ -7,7 +7,7 @@ The beam over the cellar door says *L. B. 1891*. Lars Brekke built the house and
 
 What she left in the house:
 
-- the pantry door frame, with the day of the first snow pencilled on it for every winter from 1961 to 2023
+- the pantry door, with a calendar from 1987 on the back and, on the front, the day of the first snow pencilled for every winter from 1952 to 2023
 - the clock in the *stova*, which started the moment I wound it
 - her father's tools in the loft, oiled and wrapped in newspaper from 1972
 - a drawer of string, sorted by thickness, and forty years of seed packets labelled in pencil

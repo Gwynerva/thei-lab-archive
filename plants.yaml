@@ -1,0 +1,367 @@
+# What was planted on purpose (FORMAT.md, "plants.yaml"). A test finds "an
+# untagged event" or "a word only in a private part" here without knowing ids.
+
+# ------------------------------------------------------------------ typos
+- id: typo-definately
+  ref: diary:2017-04-27
+  traits: [typos]
+  where: body
+  word: definately
+  detail: 'definately → definitely'
+- id: typo-recieve
+  ref: event:forthline-offer
+  traits: [typos]
+  where: body
+  word: recieve
+  detail: 'recieve → receive'
+- id: typo-teh
+  ref: diary:2020-04-20
+  traits: [typos]
+  where: body
+  word: teh
+  detail: 'teh → the'
+- id: typo-wierd
+  ref: diary:2022-01-21
+  traits: [typos]
+  where: body
+  word: wierd
+  detail: 'wierd → weird'
+- id: typo-seperate
+  ref: diary:2024-04-20
+  traits: [typos]
+  where: body
+  word: seperate
+  detail: 'seperate → separate'
+- id: typo-accomodation
+  ref: section:japan/planning
+  traits: [typos]
+  where: body
+  word: accomodation
+  detail: 'accomodation → accommodation'
+
+# ------------------------------------------------- one word, one place each
+- id: unique-body
+  ref: diary:2019-08-31
+  traits: [unique-word]
+  where: body
+  word: quillwort
+- id: unique-hint
+  ref: project:lofoten
+  traits: [unique-word]
+  where: hint
+  word: spindrift
+  detail: in the note of a hint
+- id: unique-caption
+  ref: project:kayak
+  traits: [unique-word]
+  where: caption
+  word: verdigris
+  detail: the caption of a picture of copper wire
+- id: unique-description
+  file: doc-bookbinding-2
+  traits: [unique-word]
+  where: description
+  word: foxing
+- id: unique-status
+  ref: project:loom
+  traits: [unique-word]
+  where: status
+  word: lanolin
+  detail: the status of 2026-03-08
+- id: unique-period-label
+  ref: section:lofoten/the-lights
+  traits: [unique-word]
+  where: period-label
+  word: Gloaming
+  detail: 'the label "Gloaming to midnight"'
+- id: unique-fact
+  ref: profile
+  traits: [unique-word]
+  where: fact
+  word: Cetus
+- id: unique-link-note
+  ref: project:tideline
+  traits: [unique-word]
+  where: link-note
+  word: almanac
+- id: unique-relation-note
+  ref: diary:2023-08-26
+  traits: [unique-word]
+  where: relation-note
+  word: barnacle
+  detail: the note of its relation to project:kayak
+
+# ------------------------------------------------------- untagged events
+- id: untagged-first-frost
+  ref: event:first-frost-arthurs-seat
+  traits: [untagged]
+- id: untagged-storm-ali
+  ref: event:storm-ali
+  traits: [untagged]
+- id: untagged-biscuit-teeth
+  ref: event:biscuit-teeth
+  traits: [untagged]
+- id: untagged-bergen-storm
+  ref: event:first-bergen-storm
+  traits: [untagged]
+- id: untagged-storm-hans
+  ref: event:storm-hans
+  traits: [untagged]
+- id: untagged-ponies
+  ref: event:shetland-ponies
+  traits: [untagged]
+
+# ----------------------------------------------- files without description
+- id: no-description-a-guarda
+  file: a-guarda-2
+  traits: [no-description]
+- id: no-description-bryggen
+  file: bryggen-5
+  traits: [no-description]
+- id: no-description-rain-sound
+  file: sound-rain-5
+  traits: [no-description]
+- id: no-description-rain-video
+  file: video-rain-3
+  traits: [no-description]
+- id: no-description-letter
+  file: letter-1953
+  traits: [no-description]
+
+# ------------------------------------------- mentions without a relation
+- id: mention-graduation
+  ref: diary:2017-11-30
+  traits: [mention-without-relation]
+  where: body
+  detail: links event:graduation-2017, relates to nothing
+- id: mention-jokulsarlon
+  ref: diary:2018-05-30
+  traits: [mention-without-relation]
+  where: body
+  detail: links event:jokulsarlon, relates to nothing
+- id: mention-floyen
+  ref: diary:2021-08-30
+  traits: [mention-without-relation]
+  where: body
+  detail: links event:floyen, relates to nothing
+- id: mention-santiago
+  ref: diary:2024-06-25
+  traits: [mention-without-relation]
+  where: body
+  detail: links event:camino-santiago, relates to project:freelance only
+- id: mention-recital
+  ref: diary:2026-04-27
+  traits: [mention-without-relation]
+  where: body
+  detail: links event:cello-recital, relates to nothing
+
+# ------------------------------------------------- near-duplicate tags
+- id: near-duplicate-hill-walking
+  ref: tag:hill-walking
+  traits: [near-duplicate-tag]
+  detail: 'Hill walking, beside Hillwalking (tag:hillwalking)'
+- id: near-duplicate-woodwork
+  ref: tag:woodwork
+  traits: [near-duplicate-tag]
+  detail: 'Woodwork, beside Woodworking (tag:woodworking)'
+- id: near-duplicate-color
+  ref: tag:color
+  traits: [near-duplicate-tag]
+  detail: 'Color, beside Colour (tag:colour)'
+
+# ----------------------------------------------------------- broken links
+- id: broken-profile-link
+  ref: profile
+  traits: [broken-link]
+  where: link-note
+  word: http://127.0.0.1:9/old-blog
+  detail: the profile link "Old blog"
+- id: broken-link-card
+  ref: section:tideline/users
+  traits: [broken-link]
+  where: body
+  word: http://127.0.0.1:9/tideline-docs
+  detail: a ::link card
+- id: broken-project-link
+  ref: project:munro-map
+  traits: [broken-link]
+  word: http://127.0.0.1:9/munros
+  detail: a link of the project
+- id: broken-inline-link
+  ref: diary:2018-05-31
+  traits: [broken-link]
+  where: body
+  word: http://127.0.0.1:9/photos/iceland-2018
+  detail: an external link in the text
+
+# ------------------------------------------ long things, emoji, signs
+- id: long-title
+  ref: event:the-long-day
+  traits: [long-title, long-summary]
+  where: title
+  detail: a title of about 200 characters and a summary of about 550
+- id: long-word-title
+  ref: event:llanfair
+  traits: [long-word]
+  where: title
+  word: Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
+- id: long-word-body
+  ref: diary:2021-09-08
+  traits: [long-word]
+  where: body
+  word: sjøkartproduksjonsavdelingen
+- id: emoji-title
+  ref: event:biscuit-snow
+  traits: [emoji]
+  where: title
+  word: ❄️
+- id: emoji-status
+  ref: project:farmhouse
+  traits: [emoji]
+  where: status
+  word: 🔥
+  detail: the status of 2025-10-18
+- id: emoji-profile-status
+  ref: profile
+  traits: [emoji]
+  where: status
+  word: 📦
+  detail: the profile status of 2025-03-29
+- id: emoji-body
+  ref: diary:2017-11-29
+  traits: [emoji]
+  where: body
+  word: 🎓
+- id: signs-event-title
+  ref: event:rain-and-counting
+  traits: [signs-in-title]
+  where: title
+  detail: 'Rain: 21 days & counting (!) — the "dry" spell?'
+- id: signs-page-title
+  ref: page:prints
+  traits: [signs-in-title]
+  where: title
+  detail: 'Prints & prices'
+- id: long-text-page
+  ref: page:how-tides-work
+  traits: [long-text]
+- id: long-text-diary
+  ref: diary:2019-04-12
+  traits: [long-text]
+- id: long-text-project
+  ref: project:farmhouse
+  traits: [long-text]
+- id: many-relations
+  ref: diary:2026-10-01
+  traits: [many-relations]
+  detail: relates to the ten-years event, the first entry and fourteen projects
+
+# ------------------------------------------------- search traps, English
+- id: search-plural-only
+  ref: event:st-abbs-head
+  traits: [search-plural]
+  where: body
+  word: guillemots
+  detail: the singular "guillemot" is nowhere in the archive
+- id: search-ing-only
+  ref: project:spoon-carving
+  traits: [search-ing]
+  where: body
+  word: whittling
+  detail: no other form of the word anywhere
+- id: search-ed-only
+  ref: section:farmhouse/windows
+  traits: [search-ed]
+  where: body
+  word: caulked
+  detail: no other form of the word anywhere
+- id: search-diacritics-cafe
+  ref: event:wee-oven-opens
+  traits: [search-diacritics]
+  where: body
+  word: café
+- id: search-diacritics-naive
+  ref: diary:2017-10-15
+  traits: [search-diacritics]
+  where: body
+  word: naïve
+  detail: the only "naive" in the archive, with its diaeresis
+- id: search-diacritics-myvatn
+  ref: event:myvatn-midges
+  traits: [search-diacritics]
+  where: title
+  word: Mývatn
+- id: search-apostrophes
+  ref: section:shetland/crossing
+  traits: [search-apostrophes]
+  where: body
+  word: fo'c'sle
+- id: search-hyphenated
+  ref: project:kayak
+  traits: [search-hyphenated]
+  where: body
+  word: stitch-and-glue
+- id: search-number-time
+  ref: event:half-marathon-race
+  traits: [search-numbers]
+  where: title
+  word: '1:58:41'
+- id: search-number-year
+  ref: project:raleigh
+  traits: [search-numbers]
+  where: title
+  word: '1984'
+- id: search-date-norwegian
+  ref: diary:2024-06-21
+  traits: [search-dates]
+  where: body
+  word: '21.06.2024'
+
+# ---------------------------------------------------------- privacy traps
+- id: private-part-word
+  ref: diary:2017-09-28
+  traits: [private-part, private-word]
+  where: body
+  word: overdraft
+  detail: inside a :::private part of a public entry; nowhere else
+- id: private-section-word
+  ref: section:forthline/salary
+  traits: [private-section, private-word]
+  where: body
+  word: payslip
+- id: private-entry-word
+  ref: diary:2023-10-09
+  traits: [private-entry, private-word]
+  where: body
+  word: listlessness
+- id: private-link-note
+  ref: diary:2026-01-01
+  traits: [link-to-private, unique-word]
+  where: link-note
+  word: snowglobe
+  detail: the note of a link to the private event:jonas-asks
+- id: link-only-event-word
+  ref: event:wedding-day
+  traits: [link-only, link-only-word]
+  where: body
+  word: bunting
+
+# ---------------------------------------------- words a reader must reveal
+- id: hidden-spoiler
+  ref: project:munros
+  traits: [hidden-word]
+  where: body
+  word: kelpie
+  detail: under a spoiler
+- id: hidden-third-slide
+  ref: project:cleveland-way
+  traits: [hidden-word]
+  where: caption
+  word: marram
+  detail: the caption of the third slide of a gallery
+- id: hidden-second-file
+  ref: project:tideline
+  traits: [hidden-word]
+  where: caption
+  word: tidewrack
+  detail: the caption of the second file of a group

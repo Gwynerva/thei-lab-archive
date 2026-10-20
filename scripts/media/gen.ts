@@ -221,7 +221,7 @@ add({
     [12, '2018-09-16', 'Ben Macdui', 1309],
     [13, '2018-10-13', 'Ben Vane', 915],
     [14, '2019-05-11', 'Beinn Ghlas', 1103],
-    [15, '2019-05-25', 'Ben Ledi', 879],
+    [15, '2019-05-25', 'Cruach Ardrain', 1046],
     [16, '2019-06-08', 'Stuc a\' Chroin', 975],
     [17, '2019-07-27', 'Beinn Dorain', 1076],
     [18, '2019-08-03', 'Beinn an Dothaidh', 1004],
@@ -229,10 +229,10 @@ add({
     [20, '2019-08-31', 'Ben Lawers', 1214],
     [21, '2019-09-14', 'Lochnagar', 1155],
     [22, '2019-09-28', 'Mount Keen', 939],
-    [23, '2020-06-27', 'Ben Oss', 1029],
+    [23, '2020-07-04', 'Ben Oss', 1029],
     [24, '2020-07-11', 'Ben Vorlich (Loch Lomond)', 943],
     [25, '2020-08-08', 'Beinn Ime', 1011],
-    [26, '2020-08-29', 'Ben Narnain', 1006],
+    [26, '2020-08-29', 'Ben Narnain', 926],
     [27, '2020-09-05', 'Carn Liath', 975],
     [28, '2021-04-24', 'Driesh', 947],
     [29, '2021-04-25', 'Mayar', 928],
@@ -245,7 +245,7 @@ add({
 });
 {
   const rows: (string | number)[][] = [['variety', 'kg', 'litres', 'sg_start']];
-  for (const [variety, kg] of [['Gravenstein', 96], ['Aroma', 120], ['Summerred', 58], ['Discovery', 44], ['unknown, the tree by the barn', 71]] as const)
+  for (const [variety, kg] of [['Gravenstein', 96], ['Aroma', 120], ['Summerred', 58], ['Discovery (three crates from Sigrid)', 44], ['unknown, the tree by the barn', 71]] as const)
     rows.push([variety, kg, round(kg * 0.55, 0), round(1.045 + random() * 0.012, 3)]);
   add({ id: 'cider-2025', ext: 'csv', title: 'Pressing log, 2025', description: 'Apples by variety, juice, and the gravity before fermenting.', truth: 'a generated CSV of a fictional cider pressing log', bytes: csv(rows) });
 }
@@ -302,12 +302,22 @@ add({
     ['Wind on Fløyen', 5.3445, 60.3948, '2024-05-18'],
   ].map(([name, x, y, day]) => ({ type: 'Feature', properties: { name, day }, geometry: { type: 'Point', coordinates: [x, y] } })) }, null, 1)}\n`,
 });
+/** The thirty walks of the atlas; the texts name walk 17 and walk 30. */
+const ATLAS_WALKS = [
+  'Utne shore', 'Above the orchards', 'To the old summer farm', 'The church road', 'The fjord path',
+  'Folgefonna view', 'Kinsarvik falls', 'Along the river', "Lofthus monks' steps", 'The ferry walk',
+  'Herand rock paintings', 'The apple road', 'Nosi ridge', 'Grimo shore', 'Aga old farm',
+  'The upper pastures', 'Vøringsfossen rim', 'Eidfjord lake', 'Ulvik terraces', 'Osa valley',
+  'Odda viewpoint', 'Steinsdalsfossen', 'Norheimsund harbour', 'Øystese shore', 'Kvam church path',
+  'The tunnel road', 'Jondal ferry', 'Bondhus valley', 'The glacier lake', 'Behind the house',
+];
 add({
   id: 'atlas-walks',
   ext: 'json',
   title: 'The thirty walks',
   truth: 'a generated JSON listing thirty fictional walks around the Hardangerfjord with lengths and climbs',
-  bytes: `${JSON.stringify(Array.from({ length: 30 }, (_, i) => ({ n: i + 1, name: ['Utne shore', 'Above the orchards', 'To the old summer farm', 'Vøringsfossen rim', 'The fjord path', 'Folgefonna view', 'Kinsarvik falls', 'The church road', 'Lofthus monks\' steps', 'Along the river'][i % 10] + (i >= 10 ? ` ${i >= 20 ? 'III' : 'II'}` : ''), km: round(3 + random() * 14, 1), climb_m: Math.round(50 + random() * 900), grade: ['easy', 'moderate', 'hard'][Math.floor(random() * 3)] })), null, 1)}\n`,
+  bytes: `${JSON.stringify(ATLAS_WALKS.map((name, i) => ({ n: i + 1, name, km: i === 4 ? 6.4 : round(3 + random() * 14, 1), climb_m: Math.round(50 + random() * 900), grade: ['easy', 'moderate', 'hard'][Math.floor(random() * 3)] })), null, 1)}
+`,
 });
 
 // Notes.

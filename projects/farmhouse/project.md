@@ -137,7 +137,7 @@ When we came there was a kitchen in the sense that there was a room with a sink 
 
 ### Biscuit
 
-Biscuit is about ten now, and slower, and has decided that the barn is his office. He sits in the doorway of the byre in the afternoons and supervises the orchard. He went missing for a night in our first June and came back in the morning with a burr in his ear and no explanation. I did not sleep. He did.
+Biscuit is about ten now, and slower, and has decided that the barn is his office. He sits in the doorway of the byre in the afternoons and supervises the orchard. He went missing for a night in our first June and came back at ten past five in the morning with hay in his ruff and no explanation. I did not sleep. He did.
 
 ### Everybody else
 
@@ -149,7 +149,7 @@ Nana used to say:
 
 > Make do and mend.
 
-I always heard it as a saying about being poor. Living here, I hear it differently: it is a saying about attention. You cannot mend a thing you have not looked at properly, and this house wants looking at. The way the floor of the *stova* slopes towards the fjord. The beam with Lars's initials. The calendar from 1987 still on the back of the pantry door, with the days the ferry did not run crossed out, and on the door frame beside it, in pencil, the day of the first snow for every winter Ragnhild kept count. I copied them all into a notebook before we touched that frame. 1961, the third of November. 2023, the twenty-eighth of October. Sixty-three winters in pencil.
+I always heard it as a saying about being poor. Living here, I hear it differently: it is a saying about attention. You cannot mend a thing you have not looked at properly, and this house wants looking at. The way the floor of the *stova* slopes towards the fjord. The beam with Lars's initials. The calendar from 1987 still on the back of the pantry door, with the days the ferry did not run crossed out, and on the front of the same door, in pencil, the day of the first snow for every winter Ragnhild kept count. I copied them all into a notebook before anyone touched that door. 1952, the ninth of November. 2023, the twenty-eighth of October. Seventy-two winters in pencil.
 
 Ragnhild, when I rang her in Odda to ask whether we were allowed to take the old putty out, said this, and I wrote it on the inside of a cupboard door in the new kitchen where only we will see it:
 

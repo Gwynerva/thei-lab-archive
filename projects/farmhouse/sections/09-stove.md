@@ -10,6 +10,6 @@ On the eighteenth of October the man had been, the sweep had signed the paper, a
 
 ::audio[The first fire, recorded on my phone on the floor in front of it]{file="sound-fire-1" title="First fire"}
 
-We sat up until midnight feeding it. The *stova* went from eight degrees to twenty-one, by the thermometer on Sverre's old barometer. I wrote the date on the pantry door frame, under Ragnhild's snow dates, in pencil: *stove lit*.
+We sat up until midnight feeding it. The *stova* went from eight degrees to twenty-one, by the thermometer on Sverre's old barometer. I wrote the date on the pantry door, under Ragnhild's snow dates, in pencil: *stove lit*.
 
 [The evening, as it happened](ref:event:stove-lit "18 October 2025") is in the events.
