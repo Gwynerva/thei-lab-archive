@@ -337,6 +337,11 @@ turns it into the anchor Thei gives that heading. A link's address holds no
 spaces, so one whose fragment has them is written in angle brackets:
 `[words](<ref:section:lamp/idea#h:Where the idea came from> "note")`.
 
+A colon before a letter or a digit with nothing in brackets or braces after
+it is only words: `10:30`, `3:2`, `Note:this` need no escape. A colon that
+opens what looks like markup — `:name[words]` or `:name{…}` other than a
+hint — is an error; write it `\:` when it is meant as words.
+
 ## Relative days
 
 Some things only make sense relative to the day a site is made: a diary
@@ -382,7 +387,7 @@ What was planted on purpose, so that a test can find "an untagged event" or
 
 ```yaml
 - id: typo-autumn-fair
-  ref: event:autumn-fair             # or file: <id>
+  ref: event:autumn-fair             # or file: <id>, or profile
   traits: [typos]
   where: body                        # body | notes | caption | hint | status | period-label | fact | description | link-note | relation-note | title
   word: "prjoect"                    # the planted word, when there is one
