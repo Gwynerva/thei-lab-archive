@@ -67,7 +67,7 @@ function pictureSource(c: Candidate): { url: string; note: string } {
 function videoSource(c: Candidate): { url: string; note: string } {
   const fits = (d: Candidate['derivatives'][number]) => (d.bandwidth * c.duration) / 8 < 60_000_000;
   const order = ['1080p.vp9.webm', '720p.vp9.webm', '1080p.webm', '720p.webm', '480p.vp9.webm', '480p.webm'];
-  if (c.bytes < 40_000_000) return { url: c.url.split('?')[0]!, note: 'original' };
+  if (c.bytes < 100_000_000) return { url: c.url.split('?')[0]!, note: 'original' };
   for (const key of order) {
     const d = c.derivatives.find((x) => x.key === key);
     if (d && fits(d)) return { url: d.url.split('?')[0]!, note: `${key} transcode` };
