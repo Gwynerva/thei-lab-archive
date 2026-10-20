@@ -3,7 +3,7 @@ title: Northern lights
 synonyms:
   - aurora borealis
   - nordlys
-icon: aurora-1
+icon: video-aurora-2
 ---
 
 The northern lights.

@@ -4,7 +4,7 @@ synonyms:
   - ceramics
   - clay
   - throwing
-icon: mug-1
+icon: video-pottery-1
 ---
 
 Clay on the wheel.

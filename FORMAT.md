@@ -72,8 +72,8 @@ whose kind has no body field leaves the body empty.
 
 ```yaml
 format: 1            # the format's major version
-revision: 0          # the constructs this archive may use (see "Versions")
-version: 1.0.0       # this archive's release
+revision: 1          # the constructs this archive may use (see "Versions")
+version: 1.1.0       # this archive's release
 title: …             # what the life is, in a few words
 language: en         # the site language the texts are written for (Thei has en and ru)
 span:
@@ -96,9 +96,9 @@ line of at most 500 characters.
 | `nickname`  | string                                       |                                                         |
 | `birthDate` | date                                         |                                                         |
 | `slogan`    | string                                       |                                                         |
-| `avatars`   | file ids, oldest first                       | the last is the current avatar; the rest are its history |
-| `banner`    | file id                                      |                                                         |
-| `favicon`   | file id                                      |                                                         |
+| `avatars`   | file ids, oldest first                       | pictures or videos; the last is the current avatar, the rest its history |
+| `banner`    | file id                                      | a picture or a video                                    |
+| `favicon`   | file id                                      | a picture                                               |
 | `facts`     | list of `{ name, value }`                    | short facts, in order                                   |
 | `links`     | list of `{ url, name, note?, private? }`     | the profile's chips                                     |
 | `pinned`    | list of `page:<id>`                          | pages pinned to the profile                             |
@@ -108,12 +108,12 @@ Body: the "about me" text.
 
 ### `tags/<id>.md`
 
-| Field      | Type                 |
-| ---------- | -------------------- |
-| `title`    | string, **required** |
-| `slug`     | string               |
-| `synonyms` | strings              |
-| `icon`     | file id              |
+| Field      | Type                 | Notes                |
+| ---------- | -------------------- | -------------------- |
+| `title`    | string, **required** |                      |
+| `slug`     | string               |                      |
+| `synonyms` | strings              |                      |
+| `icon`     | file id              | a picture or a video |
 
 Body: the tag's description, plain text (no markup).
 
@@ -125,7 +125,7 @@ Body: the tag's description, plain text (no markup).
 | `summary`  | string, **required** |                           |
 | `slug`     | string               | defaults to the id        |
 | `access`   | access               |                           |
-| `icon`     | file id              |                           |
+| `icon`     | file id              | a picture or a video      |
 | `synonyms` | strings              | other names it is found by |
 | `reminder` | string               |                           |
 | `notes`    | Lab Markdown         |                           |
@@ -142,7 +142,7 @@ Body, **required**: the page.
 | `access`    | access                                      |                                                              |
 | `featured`  | boolean                                     | among the chosen projects of the home page                   |
 | `cv`        | boolean                                     | in the résumé                                                |
-| `icon`      | file id                                     | a picture                                                    |
+| `icon`      | file id                                     | a picture or a video                                         |
 | `banner`    | file id                                     | a picture or a video                                         |
 | `tags`      | tag ids                                     |                                                              |
 | `synonyms`  | strings                                     |                                                              |
@@ -415,7 +415,8 @@ something to show:
 - every precision of a period, labelled and unlabelled periods, a period
   with a doubt, a period still running;
 - general, dated and private sections;
-- tags with an icon and tags without one;
+- tags with an icon and tags without one, and icons that are pictures and
+  icons that are videos;
 - statuses with and without a picture, and an empty one;
 - relations of every kind, with a shared note and with one per side;
 - files with the extensions jpg, png, gif, webp, avif, svg, mp4, webm, mov,
@@ -436,8 +437,8 @@ A release is a tag `vX.Y.Z` with these assets:
 ```json
 {
   "format": 1,
-  "revision": 0,
-  "version": "1.0.0",
+  "revision": 1,
+  "version": "1.1.0",
   "commit": "<sha of the tagged commit>",
   "text": { "asset": "text.tar", "sha256": "…", "bytes": 0 },
   "packs": [{ "asset": "media-01.tar", "sha256": "…", "bytes": 0, "files": 0 }],
@@ -464,17 +465,22 @@ A release is a tag `vX.Y.Z` with these assets:
 - **PATCH** — words corrected.
 
 `revision` grows when the format gains an optional construct (a new block,
-a new field). A reader declares the highest revision it reads, and refuses a
-newer archive by saying so; it never drops what it does not know.
+a new field) or lets a field hold what it did not. A reader declares the
+highest revision it reads, and refuses a newer archive by saying so; it
+never drops what it does not know.
+
+- **1** — an icon of a tag, a page or a project, and an avatar, may be a
+  video as well as a picture.
 
 ## Validation
 
 A reader refuses an archive, listing every reason, when:
 
 - a ref, a tag id or a file id names nothing;
-- a file stands where its kind cannot: an icon, a banner, a showcase item, a
-  status picture or a `::media` that is not a picture or a video (an icon a
-  picture only), an `::audio` that is not a recording;
+- a file stands where its kind cannot: an icon, an avatar, a banner, a
+  showcase item, a status picture or a `::media` that is not a picture or a
+  video (a favicon and an action's icon and background a picture only), an
+  `::audio` that is not a recording;
 - a date is not a day, or a period starts after it ends;
 - two diary entries share a day, or a relative day breaks the rules above;
 - a diary entry has a title, a summary or tags; a section has relations;
